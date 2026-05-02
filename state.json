@@ -1,4 +1,565 @@
 {
-  "seen": {},
-  "digest_queue": []
+  "seen": {
+    "4701d447bf309ef72a779613": {
+      "ts": 1777734141,
+      "source": "ESA",
+      "title": "εpsilon",
+      "link": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon",
+      "score": 0.0
+    },
+    "25386047bdff7eb14203e22d": {
+      "ts": 1777734141,
+      "source": "ESA",
+      "title": "Week in images: 27 April - 01 May 2026",
+      "link": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_27_April_-_01_May_2026",
+      "score": 0.0
+    },
+    "7b7a62cfab56dacb3ca7d758": {
+      "ts": 1777734141,
+      "source": "ESA",
+      "title": "Sentinel-1D goes live: a milestone for Europe’s radar mission",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_goes_live_a_milestone_for_Europe_s_radar_mission",
+      "score": 4.95
+    },
+    "db49dd2b48f416cda22cb970": {
+      "ts": 1777734141,
+      "source": "ESA",
+      "title": "Earth from Space: Netherlands in bloom",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Netherlands_in_bloom",
+      "score": 0.0
+    },
+    "4ab24243fc07da641fca2f2e": {
+      "ts": 1777734141,
+      "source": "ESA",
+      "title": "This Month at ESA: April 2026",
+      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/04/This_Month_at_ESA_April_2026",
+      "score": 1.35
+    },
+    "a6b616eef2ccefc66490125d": {
+      "ts": 1777734141,
+      "source": "ESA",
+      "title": "Another one: Ariane 6 flies with four boosters once more",
+      "link": "https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Another_one_Ariane_6_flies_with_four_boosters_once_more",
+      "score": 4.95
+    },
+    "fcbcab0e8da5bfadf385d07e": {
+      "ts": 1777734141,
+      "source": "ESA",
+      "title": "The great parachute bake-out",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/04/The_great_parachute_bake-out",
+      "score": 0.0
+    },
+    "c5ee89dce50936b05dc872a5": {
+      "ts": 1777734141,
+      "source": "ESA",
+      "title": "Baking a parachute for Mars",
+      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/04/Baking_a_parachute_for_Mars",
+      "score": 3.6
+    },
+    "0dde6b2ea1fe62b6470d77ed": {
+      "ts": 1777734141,
+      "source": "ESA",
+      "title": "Plasma-hot Space Rider tests for belly and flaps",
+      "link": "https://www.esa.int/Enabling_Support/Space_Transportation/Space_Rider/Plasma-hot_Space_Rider_tests_for_belly_and_flaps",
+      "score": 0.0
+    },
+    "16e3f7b87a52ab0ecbfa3ade": {
+      "ts": 1777734141,
+      "source": "Spaceflight Now",
+      "title": "SpaceX marks May Day, National Space Day with Starlink mission on a Falcon 9 rocket from Cape Canaveral",
+      "link": "https://spaceflightnow.com/2026/05/01/live-coverage-spacex-marks-may-day-with-starlink-mission-on-a-falcon-9-rocket-from-cape-canaveral/",
+      "score": 4.95
+    },
+    "813a1e37aae9c2eeac63b480": {
+      "ts": 1777734141,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/04/29/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-6/",
+      "score": 4.95
+    },
+    "04b9a70272a9197d91dfb55e": {
+      "ts": 1777734141,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches 6-ton ViaSat-3 F3 satellite on Falcon Heavy rocket",
+      "link": "https://spaceflightnow.com/2026/04/29/spacex-launches-6-ton-viasat-3-f3-satellite-on-falcon-heavy-rocket/",
+      "score": 4.95
+    },
+    "f914a7178189419ac9e3fd4a": {
+      "ts": 1777734141,
+      "source": "Spaceflight Now",
+      "title": "Launch preview: SpaceX seeks second attempt at Falcon Heavy launch following weather scrub on Monday",
+      "link": "https://spaceflightnow.com/2026/04/28/live-coverage-spacex-seeks-second-attempt-at-falcon-heavy-launch-following-weather-scrub-on-monday/",
+      "score": 7.65
+    },
+    "a07aa77fa8dbe2866fc2f8fb": {
+      "ts": 1777734141,
+      "source": "Spaceflight Now",
+      "title": "ULA launches 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral",
+      "link": "https://spaceflightnow.com/2026/04/27/live-coverage-ula-to-launch-29-amazon-leo-satellites-on-atlas-5-rocket-from-cape-canaveral/",
+      "score": 4.95
+    },
+    "4c2989a94d5680b977394372": {
+      "ts": 1777734141,
+      "source": "Spaceflight Now",
+      "title": "SpaceX scrubs Falcon Heavy launch of final ViaSat-3 satellite due to poor weather",
+      "link": "https://spaceflightnow.com/2026/04/27/live-coverage-spacex-to-launch-final-viasat-3-satellite-on-falcon-heavy-rocket/",
+      "score": 7.65
+    },
+    "27ae059dab11affb12552600": {
+      "ts": 1777734141,
+      "source": "Spaceflight Now",
+      "title": "SpaceX flies 25 Starlink satellites to orbit on its 50th Falcon 9 launch of the year",
+      "link": "https://spaceflightnow.com/2026/04/26/live-coverage-spacex-to-fly-25-starlink-satellites-on-its-50th-falcon-9-launch-of-the-year/",
+      "score": 4.95
+    },
+    "ad296b31f7f3f76809f5dcd5": {
+      "ts": 1777734141,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/04/23/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/",
+      "score": 4.95
+    },
+    "a0e1e9070e4b361191a8b698": {
+      "ts": 1777734141,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches final GPS III satellite for the U.S. Space Force",
+      "link": "https://spaceflightnow.com/2026/04/21/live-coverage-spacex-to-launch-final-gps-iii-satellite-for-the-u-s-space-force/",
+      "score": 4.95
+    },
+    "f33d95f314e9f72d643e4171": {
+      "ts": 1777734141,
+      "source": "Spaceflight Now",
+      "title": "Blue Origin launches third New Glenn rocket, but payload ends up in wrong orbit",
+      "link": "https://spaceflightnow.com/2026/04/20/blue-origin-launches-third-new-glenn-rocket-but-payload-ends-up-in-wrong-orbit/",
+      "score": 4.95
+    },
+    "902cd2fd1638a14444f47d0b": {
+      "ts": 1777734142,
+      "source": "NASASpaceflight",
+      "title": "SpaceX aims for mid-May Starship Flight 12 launch with revised trajectory",
+      "link": "https://www.nasaspaceflight.com/2026/05/spacex-mid-may-starship-flight-12-revised-trajectory/",
+      "score": 3.6
+    },
+    "bc4edeefe965ba32d2aa2e4a": {
+      "ts": 1777734142,
+      "source": "NASASpaceflight",
+      "title": "Russia debuts new rocket with maiden Soyuz-5 launch",
+      "link": "https://www.nasaspaceflight.com/2026/04/russia-maiden-soyuz-5-launch/",
+      "score": 3.6
+    },
+    "578dd841be1a7b7cddf0e727": {
+      "ts": 1777734142,
+      "source": "NASASpaceflight",
+      "title": "Next NASA ISS astronaut, doctor discusses upcoming mission",
+      "link": "https://www.nasaspaceflight.com/2026/04/next-nasa-iss-astronaut-mission/",
+      "score": 0.0
+    },
+    "c85ed58819c993985c7a122d": {
+      "ts": 1777734142,
+      "source": "NASASpaceflight",
+      "title": "SpaceX launches Falcon Heavy on Wednesday after 18 month hiatus",
+      "link": "https://www.nasaspaceflight.com/2026/04/viasat-3-f3-falcon-heavy/",
+      "score": 3.6
+    },
+    "6ec971b4ad0fef4d323b098f": {
+      "ts": 1777734142,
+      "source": "NASASpaceflight",
+      "title": "Artemis III core stage assembly arrives at the Kennedy Space Center",
+      "link": "https://www.nasaspaceflight.com/2026/04/artemis-iii-cs-assembly-arrives-ksc/",
+      "score": 3.6
+    },
+    "2783dae79c88978ab9b8ab4c": {
+      "ts": 1777734142,
+      "source": "NASASpaceflight",
+      "title": "Launch Preview: Falcon Heavy returns, Atlas V and Ariane 6 to launch Amazon Leo satellites",
+      "link": "https://www.nasaspaceflight.com/2026/04/launch-preview-042726/",
+      "score": 3.6
+    },
+    "462b305adac4970742f3f65e": {
+      "ts": 1777734142,
+      "source": "NASASpaceflight",
+      "title": "Curiosity Rover uncovers fresh organic clues on Ancient Mars",
+      "link": "https://www.nasaspaceflight.com/2026/04/nasas-curiosity-rover-organic-clues-mars/",
+      "score": 0.0
+    },
+    "7faa8b08f35fde972b8a7c2c": {
+      "ts": 1777734142,
+      "source": "NASASpaceflight",
+      "title": "Progress MS-34 to launch from Baikonur for ISS cargo delivery",
+      "link": "https://www.nasaspaceflight.com/2026/04/progress-ms34/",
+      "score": 4.95
+    },
+    "4fc7109478b107bbd0a65157": {
+      "ts": 1777734142,
+      "source": "NASASpaceflight",
+      "title": "Starship Progress at the Cape with Hoping to Launch this year",
+      "link": "https://www.nasaspaceflight.com/2026/04/starship-progress-cape-launch-this-year/",
+      "score": 3.6
+    },
+    "729aebd3ec61478cc701fb8d": {
+      "ts": 1777734142,
+      "source": "NASASpaceflight",
+      "title": "NASA and Axiom react to OIG Report on delays in Next-Generation Spacesuit Program",
+      "link": "https://www.nasaspaceflight.com/2026/04/nasa-axiom-react-oig-report-spacesuit/",
+      "score": 0.0
+    },
+    "0d3a48e8790c13a615660dfa": {
+      "ts": 1777734142,
+      "source": "Space.com",
+      "title": "Best sci-fi thriller movies of all time, ranked",
+      "link": "https://www.space.com/entertainment/space-movies-shows/best-sci-fi-thriller-movies-of-all-time-ranked",
+      "score": 1.0499999999999998
+    },
+    "5f95ebe1a2aee03cb1291e20": {
+      "ts": 1777734142,
+      "source": "Space.com",
+      "title": "From new releases to classic models, feel the force this Star Wars Day with the best Lego sets from the saga",
+      "link": "https://www.space.com/entertainment/space-toys-lego/from-new-releases-to-classic-models-feel-the-force-this-star-wars-day-with-the-best-lego-sets-from-the-saga",
+      "score": 2.8
+    },
+    "4f8175f52e2addb03cf8b5d8": {
+      "ts": 1777734142,
+      "source": "Space.com",
+      "title": "Galaxies, Artemis 2, space telescopes and stormtroopers: Here are the best photos from our staff",
+      "link": "https://www.space.com/stargazing/astrophotography/galaxies-artemis-2-space-telescopes-and-stormtroopers-here-are-the-best-photos-from-our-staff",
+      "score": 0.0
+    },
+    "2f55e0501a3c999fa23034ab": {
+      "ts": 1777734142,
+      "source": "Space.com",
+      "title": "See May's full 'Flower Moon' bloom in gorgeous photos from around the world",
+      "link": "https://www.space.com/stargazing/see-mays-full-flower-moon-bloom-in-gorgeous-photos-from-around-the-world",
+      "score": 0.0
+    },
+    "6581070d4c24f2910d9582ee": {
+      "ts": 1777734142,
+      "source": "Space.com",
+      "title": "3 planets will put on a sky show in May — when and how to see them",
+      "link": "https://www.space.com/stargazing/3-planets-will-put-on-a-sky-show-in-may-when-and-how-to-see-them",
+      "score": 0.0
+    },
+    "12f50041c9e750f353613484": {
+      "ts": 1777734142,
+      "source": "Space.com",
+      "title": "The Eta Aquarid meteor shower peaks next week: Here's what you need to know",
+      "link": "https://www.space.com/stargazing/meteor-showers/the-eta-aquarid-meteor-shower-peaks-next-week-heres-what-you-need-to-know",
+      "score": 1.0499999999999998
+    },
+    "a5c8659c91a51ced3a800ba0": {
+      "ts": 1777734142,
+      "source": "Space.com",
+      "title": "Artemis 2 astronauts get the star treatment after historic moon trip",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-get-the-star-treatment-after-historic-moon-trip",
+      "score": 0.0
+    },
+    "657429c8367c94d93fb38bd3": {
+      "ts": 1777734142,
+      "source": "Space.com",
+      "title": "Drone radar could help spacecraft pinpoint where to drill for water on Mars, scientists say",
+      "link": "https://www.space.com/astronomy/mars/drone-radar-could-help-spacecraft-pinpoint-where-to-drill-for-water-on-mars-scientists-say",
+      "score": 0.0
+    },
+    "aba2c684488637b30f004323": {
+      "ts": 1777734142,
+      "source": "Space.com",
+      "title": "'Slither' at 20: The alien worm comedy-horror that heralded James Gunn's arrival",
+      "link": "https://www.space.com/entertainment/space-movies-shows/slither-at-20-the-alien-worm-comedy-horror-that-heralded-james-gunns-arrival",
+      "score": 0.0
+    },
+    "74866d79d9dd7a6ec05d97d9": {
+      "ts": 1777734142,
+      "source": "Space.com",
+      "title": "How 'For All Mankind' evolved from 'The Right Stuff' into 'The Expanse'",
+      "link": "https://www.space.com/entertainment/space-movies-shows/how-for-all-mankind-evolved-from-the-right-stuff-into-the-expanse",
+      "score": 1.0499999999999998
+    },
+    "e45b62e82eb85b88d12df895": {
+      "ts": 1777734142,
+      "source": "Space.com",
+      "title": "£115 off for Star Wars Day, I think this Lego Star Wars UCS set is the most mind-blowing Lego starship you'll ever own",
+      "link": "https://www.space.com/stargazing/skywatching-kit/gbp115-off-for-star-wars-day-i-think-this-lego-star-wars-ucs-set-is-the-most-mind-blowing-lego-starship-youll-ever-own",
+      "score": 2.8
+    },
+    "fc51dbbf85343f7fc33a2c0b": {
+      "ts": 1777734142,
+      "source": "Space.com",
+      "title": "Thinner than a hair and stretchy like rubber: New material could shield against radiation in next-gen space tech",
+      "link": "https://www.space.com/technology/thinner-than-a-hair-and-stretchy-like-rubber-new-material-could-shield-against-radiation-in-next-gen-space-tech",
+      "score": 0.0
+    },
+    "16c1cdf868cda9a34d80097f": {
+      "ts": 1777734142,
+      "source": "Space.com",
+      "title": "Is it cake? No, it's a parachute! | Space photo of the day for May 1, 2026",
+      "link": "https://www.space.com/astronomy/mars/is-it-cake-no-its-a-parachute-space-photo-of-the-day-for-may-1-2026",
+      "score": 0.0
+    },
+    "6df9874f9e7ed35c907b29f9": {
+      "ts": 1777734142,
+      "source": "Space.com",
+      "title": "The Claypool Lennon Delirium's cosmic new album is not just an AI warning, but a reflection on a global loss of empathy (video)",
+      "link": "https://www.space.com/entertainment/the-claypool-lennon-deliriums-cosmic-new-album-is-not-just-an-ai-warning-but-a-reflection-on-a-global-loss-of-empathy",
+      "score": 0.0
+    },
+    "572239cf921bec38a4576d06": {
+      "ts": 1777734142,
+      "source": "Space.com",
+      "title": "June full moon 2026: When, where and how to see the Strawberry Moon",
+      "link": "https://www.space.com/stargazing/june-full-moon-2026-when-where-and-how-to-see-the-strawberry-moon",
+      "score": 0.0
+    },
+    "7faebdd15ea117700ec76ef3": {
+      "ts": 1777734142,
+      "source": "Space.com",
+      "title": "NASA's Curiosity and Perseverance rovers capture sweeping Mars panoramas (video)",
+      "link": "https://www.space.com/astronomy/mars/nasas-curiosity-and-perseverance-rovers-capture-sweeping-mars-panoramas-video",
+      "score": 0.0
+    },
+    "835a8a5f4fec14ed123881b2": {
+      "ts": 1777734142,
+      "source": "Space.com",
+      "title": "May's full 'Flower Moon' rises tonight: Here's what to expect from the 'micromoon'",
+      "link": "https://www.space.com/stargazing/mays-full-flower-moon-rises-tonight-heres-what-to-expect-from-the-micromoon",
+      "score": 0.0
+    },
+    "4d8bfcc4d1d6accb574e0bea": {
+      "ts": 1777734142,
+      "source": "Space.com",
+      "title": "Russia's new homegrown Soyuz 5 rocket aces debut launch",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/russias-new-homegrown-soyuz-5-rocket-aces-debut-launch",
+      "score": 2.8
+    },
+    "78e8be48f68e43f0d44eb474": {
+      "ts": 1777734142,
+      "source": "Space.com",
+      "title": "Artemis 3 has been pushed to late 2027. Can NASA still land astronauts on the moon in 2028?",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-3-has-been-pushed-to-late-2027-can-nasa-still-land-astronauts-on-the-moon-in-2028",
+      "score": 2.8
+    },
+    "18ef6db4f0ddc3f08b078746": {
+      "ts": 1777734142,
+      "source": "Space.com",
+      "title": "US Space Force wants space-based missile interceptors for Golden Dome ready by 2028",
+      "link": "https://www.space.com/space-exploration/satellites/us-space-force-wants-space-based-missile-interceptors-for-golden-dome-ready-by-2028",
+      "score": 0.0
+    }
+  },
+  "digest_queue": [
+    {
+      "title": "Launch preview: SpaceX seeks second attempt at Falcon Heavy launch following weather scrub on Monday",
+      "link": "https://spaceflightnow.com/2026/04/28/live-coverage-spacex-seeks-second-attempt-at-falcon-heavy-launch-following-weather-scrub-on-monday/",
+      "source": "Spaceflight Now",
+      "score": 7.65,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734143
+    },
+    {
+      "title": "SpaceX scrubs Falcon Heavy launch of final ViaSat-3 satellite due to poor weather",
+      "link": "https://spaceflightnow.com/2026/04/27/live-coverage-spacex-to-launch-final-viasat-3-satellite-on-falcon-heavy-rocket/",
+      "source": "Spaceflight Now",
+      "score": 7.65,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734143
+    },
+    {
+      "title": "Sentinel-1D goes live: a milestone for Europe’s radar mission",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_goes_live_a_milestone_for_Europe_s_radar_mission",
+      "source": "ESA",
+      "score": 4.95,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734143
+    },
+    {
+      "title": "Another one: Ariane 6 flies with four boosters once more",
+      "link": "https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Another_one_Ariane_6_flies_with_four_boosters_once_more",
+      "source": "ESA",
+      "score": 4.95,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734143
+    },
+    {
+      "title": "SpaceX marks May Day, National Space Day with Starlink mission on a Falcon 9 rocket from Cape Canaveral",
+      "link": "https://spaceflightnow.com/2026/05/01/live-coverage-spacex-marks-may-day-with-starlink-mission-on-a-falcon-9-rocket-from-cape-canaveral/",
+      "source": "Spaceflight Now",
+      "score": 4.95,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734143
+    },
+    {
+      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/04/29/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-6/",
+      "source": "Spaceflight Now",
+      "score": 4.95,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734143
+    },
+    {
+      "title": "SpaceX launches 6-ton ViaSat-3 F3 satellite on Falcon Heavy rocket",
+      "link": "https://spaceflightnow.com/2026/04/29/spacex-launches-6-ton-viasat-3-f3-satellite-on-falcon-heavy-rocket/",
+      "source": "Spaceflight Now",
+      "score": 4.95,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734143
+    },
+    {
+      "title": "ULA launches 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral",
+      "link": "https://spaceflightnow.com/2026/04/27/live-coverage-ula-to-launch-29-amazon-leo-satellites-on-atlas-5-rocket-from-cape-canaveral/",
+      "source": "Spaceflight Now",
+      "score": 4.95,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734143
+    },
+    {
+      "title": "SpaceX flies 25 Starlink satellites to orbit on its 50th Falcon 9 launch of the year",
+      "link": "https://spaceflightnow.com/2026/04/26/live-coverage-spacex-to-fly-25-starlink-satellites-on-its-50th-falcon-9-launch-of-the-year/",
+      "source": "Spaceflight Now",
+      "score": 4.95,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734143
+    },
+    {
+      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/04/23/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/",
+      "source": "Spaceflight Now",
+      "score": 4.95,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734143
+    },
+    {
+      "title": "SpaceX launches final GPS III satellite for the U.S. Space Force",
+      "link": "https://spaceflightnow.com/2026/04/21/live-coverage-spacex-to-launch-final-gps-iii-satellite-for-the-u-s-space-force/",
+      "source": "Spaceflight Now",
+      "score": 4.95,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734143
+    },
+    {
+      "title": "Blue Origin launches third New Glenn rocket, but payload ends up in wrong orbit",
+      "link": "https://spaceflightnow.com/2026/04/20/blue-origin-launches-third-new-glenn-rocket-but-payload-ends-up-in-wrong-orbit/",
+      "source": "Spaceflight Now",
+      "score": 4.95,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734143
+    },
+    {
+      "title": "Progress MS-34 to launch from Baikonur for ISS cargo delivery",
+      "link": "https://www.nasaspaceflight.com/2026/04/progress-ms34/",
+      "source": "NASASpaceflight",
+      "score": 4.95,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734143
+    },
+    {
+      "title": "Baking a parachute for Mars",
+      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/04/Baking_a_parachute_for_Mars",
+      "source": "ESA",
+      "score": 3.6,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734143
+    },
+    {
+      "title": "SpaceX aims for mid-May Starship Flight 12 launch with revised trajectory",
+      "link": "https://www.nasaspaceflight.com/2026/05/spacex-mid-may-starship-flight-12-revised-trajectory/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734143
+    },
+    {
+      "title": "Russia debuts new rocket with maiden Soyuz-5 launch",
+      "link": "https://www.nasaspaceflight.com/2026/04/russia-maiden-soyuz-5-launch/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734143
+    },
+    {
+      "title": "SpaceX launches Falcon Heavy on Wednesday after 18 month hiatus",
+      "link": "https://www.nasaspaceflight.com/2026/04/viasat-3-f3-falcon-heavy/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734143
+    },
+    {
+      "title": "Artemis III core stage assembly arrives at the Kennedy Space Center",
+      "link": "https://www.nasaspaceflight.com/2026/04/artemis-iii-cs-assembly-arrives-ksc/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734143
+    },
+    {
+      "title": "Launch Preview: Falcon Heavy returns, Atlas V and Ariane 6 to launch Amazon Leo satellites",
+      "link": "https://www.nasaspaceflight.com/2026/04/launch-preview-042726/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734143
+    },
+    {
+      "title": "Starship Progress at the Cape with Hoping to Launch this year",
+      "link": "https://www.nasaspaceflight.com/2026/04/starship-progress-cape-launch-this-year/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734143
+    },
+    {
+      "title": "From new releases to classic models, feel the force this Star Wars Day with the best Lego sets from the saga",
+      "link": "https://www.space.com/entertainment/space-toys-lego/from-new-releases-to-classic-models-feel-the-force-this-star-wars-day-with-the-best-lego-sets-from-the-saga",
+      "source": "Space.com",
+      "score": 2.8,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734143
+    },
+    {
+      "title": "£115 off for Star Wars Day, I think this Lego Star Wars UCS set is the most mind-blowing Lego starship you'll ever own",
+      "link": "https://www.space.com/stargazing/skywatching-kit/gbp115-off-for-star-wars-day-i-think-this-lego-star-wars-ucs-set-is-the-most-mind-blowing-lego-starship-youll-ever-own",
+      "source": "Space.com",
+      "score": 2.8,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734143
+    },
+    {
+      "title": "Russia's new homegrown Soyuz 5 rocket aces debut launch",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/russias-new-homegrown-soyuz-5-rocket-aces-debut-launch",
+      "source": "Space.com",
+      "score": 2.8,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734143
+    },
+    {
+      "title": "Artemis 3 has been pushed to late 2027. Can NASA still land astronauts on the moon in 2028?",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-3-has-been-pushed-to-late-2027-can-nasa-still-land-astronauts-on-the-moon-in-2028",
+      "source": "Space.com",
+      "score": 2.8,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734143
+    }
+  ]
 }
