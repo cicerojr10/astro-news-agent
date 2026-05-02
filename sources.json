@@ -1,0 +1,10 @@
+{
+  "feeds": [
+    { "name": "NASA Breaking News", "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss", "weight": 1.0 },
+    { "name": "NASA Blogs", "url": "https://blogs.nasa.gov/rss", "weight": 0.8 },
+    { "name": "ESA", "url": "https://www.esa.int/rssfeed/Our_Activities", "weight": 0.9 },
+    { "name": "Spaceflight Now", "url": "https://spaceflightnow.com/feed/", "weight": 0.9 },
+    { "name": "NASASpaceflight", "url": "https://www.nasaspaceflight.com/feed/", "weight": 0.9 },
+    { "name": "Space.com", "url": "https://www.space.com/feeds/all", "weight": 0.7 }
+  ]
+}
