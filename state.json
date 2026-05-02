@@ -412,6 +412,27 @@
       "title": "What’s Up: May 2026 Skywatching Tips from NASA",
       "link": "https://science.nasa.gov/solar-system/whats-up-may-2026-skywatching-tips-from-nasa/",
       "score": 0.0
+    },
+    "c60b223a8c92b0e43012d701": {
+      "ts": 1777739918,
+      "source": "Space.com",
+      "title": "SpaceX launching 45 satellites to orbit early May 3: Watch it live",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-cas500-2-mission-45-satellites",
+      "score": 3.8499999999999996
+    },
+    "e40abf94bdfdeb6c9837db14": {
+      "ts": 1777739918,
+      "source": "Space.com",
+      "title": "New for Star Wars Day, grab this Lego Star Wars model of The Mandalorian's coolest ship and get the Darksaber for free",
+      "link": "https://www.space.com/stargazing/skywatching-kit/new-for-star-wars-day-grab-this-lego-star-wars-model-of-the-mandalorians-coolest-ship-and-get-the-darksaber-for-free",
+      "score": 0.0
+    },
+    "2df9d0d846c4b524898043a1": {
+      "ts": 1777739918,
+      "source": "Space.com",
+      "title": "This Week In Space podcast: Episode 208 — Lander, Lander, Who's Got a Lander",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-208-lander-lander-whos-got-a-lander",
+      "score": 0.0
     }
   },
   "digest_queue": [
@@ -666,6 +687,15 @@
       "is_launch": false,
       "is_anomaly": false,
       "ts": 1777734332
+    },
+    {
+      "title": "SpaceX launching 45 satellites to orbit early May 3: Watch it live",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-cas500-2-mission-45-satellites",
+      "source": "Space.com",
+      "score": 3.8499999999999996,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777739918
     }
   ]
 }
