@@ -433,6 +433,13 @@
       "title": "This Week In Space podcast: Episode 208 — Lander, Lander, Who's Got a Lander",
       "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-208-lander-lander-whos-got-a-lander",
       "score": 0.0
+    },
+    "b760930dfe59ec42329f6346": {
+      "ts": 1777754337,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch South Korean Earth observation satellite, plus 44 more payloads on overnight Falcon 9 rideshare mission",
+      "link": "https://spaceflightnow.com/2026/05/02/live-coverage-spacex-to-launch-south-korean-earth-observation-satellite-44-more-payloads-on-overnight-falcon-9-rideshare-mission/",
+      "score": 4.95
     }
   },
   "digest_queue": [
@@ -696,6 +703,15 @@
       "is_launch": true,
       "is_anomaly": false,
       "ts": 1777739918
+    },
+    {
+      "title": "Live coverage: SpaceX to launch South Korean Earth observation satellite, plus 44 more payloads on overnight Falcon 9 rideshare mission",
+      "link": "https://spaceflightnow.com/2026/05/02/live-coverage-spacex-to-launch-south-korean-earth-observation-satellite-44-more-payloads-on-overnight-falcon-9-rideshare-mission/",
+      "source": "Spaceflight Now",
+      "score": 4.95,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777754338
     }
   ]
 }
