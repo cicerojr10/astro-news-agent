@@ -342,6 +342,76 @@
       "title": "US Space Force wants space-based missile interceptors for Golden Dome ready by 2028",
       "link": "https://www.space.com/space-exploration/satellites/us-space-force-wants-space-based-missile-interceptors-for-golden-dome-ready-by-2028",
       "score": 0.0
+    },
+    "7c4ca90ccc014fe869d1c648": {
+      "ts": 1777734330,
+      "source": "NASA Breaking News",
+      "title": "NASA Kennedy Center Director Announces Plans to Retire",
+      "link": "https://www.nasa.gov/news-release/nasa-kennedy-center-director-announces-plans-to-retire/",
+      "score": 0.0
+    },
+    "4da3f7ea2e3fcfbec4d174b6": {
+      "ts": 1777734330,
+      "source": "NASA Breaking News",
+      "title": "NASA Artemis II Crew Rings Nasdaq Closing Bell",
+      "link": "https://www.nasa.gov/image-article/nasa-artemis-ii-crew-rings-nasdaq-closing-bell/",
+      "score": 0.0
+    },
+    "e94ddf59d776d05c03312d01": {
+      "ts": 1777734330,
+      "source": "NASA Breaking News",
+      "title": "Key Support Equipment Arrives at Kennedy for Roman Space Telescope",
+      "link": "https://www.nasa.gov/image-article/key-support-equipment-arrives-at-kennedy-for-roman-space-telescope/",
+      "score": 4.0
+    },
+    "90137348e8f944b391821643": {
+      "ts": 1777734330,
+      "source": "NASA Breaking News",
+      "title": "NASA’s STORIE Mission to Tell Tale of Earth’s Ring Current",
+      "link": "https://science.nasa.gov/science-research/heliophysics/nasas-storie-mission-to-tell-tale-of-earths-ring-current/",
+      "score": 1.5
+    },
+    "fe5b30dc2d425c6d3e570449": {
+      "ts": 1777734330,
+      "source": "NASA Breaking News",
+      "title": "Space Out This Summer with Variety of NASA STEM Activities",
+      "link": "https://www.nasa.gov/learning-resources/space-out-this-summer-with-variety-of-nasa-stem-activities/",
+      "score": 4.0
+    },
+    "aef6573e581ced78d1ee6bd1": {
+      "ts": 1777734330,
+      "source": "NASA Breaking News",
+      "title": "Hubble Spots a Starry Spiral",
+      "link": "https://science.nasa.gov/missions/hubble/hubble-spots-a-starry-spiral/",
+      "score": 2.0
+    },
+    "3937afc00813b547fd981783": {
+      "ts": 1777734330,
+      "source": "NASA Breaking News",
+      "title": "Cyclone Rains Spur Papua New Guinea Landslides",
+      "link": "https://science.nasa.gov/earth/earth-observatory/cyclone-rains-spur-papua-new-guinea-landslides/",
+      "score": 0.0
+    },
+    "f5471446b9a1c9026d84c03c": {
+      "ts": 1777734330,
+      "source": "NASA Breaking News",
+      "title": "NASA Invites Media to Ireland Artemis Accords Signing",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-ireland-artemis-accords-signing/",
+      "score": 0.0
+    },
+    "3bf1fdae438ef49581da8f3c": {
+      "ts": 1777734330,
+      "source": "NASA Breaking News",
+      "title": "Odyssey Team Celebrates on a Global Map of Mars",
+      "link": "https://science.nasa.gov/photojournal/odyssey-team-celebrates-on-a-global-map-of-mars/",
+      "score": 4.0
+    },
+    "ec998ce126ad0ac7521e8b4e": {
+      "ts": 1777734330,
+      "source": "NASA Breaking News",
+      "title": "What’s Up: May 2026 Skywatching Tips from NASA",
+      "link": "https://science.nasa.gov/solar-system/whats-up-may-2026-skywatching-tips-from-nasa/",
+      "score": 0.0
     }
   },
   "digest_queue": [
@@ -560,6 +630,42 @@
       "is_launch": true,
       "is_anomaly": false,
       "ts": 1777734143
+    },
+    {
+      "title": "Key Support Equipment Arrives at Kennedy for Roman Space Telescope",
+      "link": "https://www.nasa.gov/image-article/key-support-equipment-arrives-at-kennedy-for-roman-space-telescope/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734332
+    },
+    {
+      "title": "Space Out This Summer with Variety of NASA STEM Activities",
+      "link": "https://www.nasa.gov/learning-resources/space-out-this-summer-with-variety-of-nasa-stem-activities/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734332
+    },
+    {
+      "title": "Odyssey Team Celebrates on a Global Map of Mars",
+      "link": "https://science.nasa.gov/photojournal/odyssey-team-celebrates-on-a-global-map-of-mars/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_launch": true,
+      "is_anomaly": false,
+      "ts": 1777734332
+    },
+    {
+      "title": "Hubble Spots a Starry Spiral",
+      "link": "https://science.nasa.gov/missions/hubble/hubble-spots-a-starry-spiral/",
+      "source": "NASA Breaking News",
+      "score": 2.0,
+      "is_launch": false,
+      "is_anomaly": false,
+      "ts": 1777734332
     }
   ]
 }
