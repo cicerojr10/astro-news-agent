@@ -1,0 +1,43 @@
+name: Astro News Agent
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # a cada 10 min
+    - cron: "0 11 * * *"     # 08:00 BRT (11:00 UTC)
+    - cron: "0 23 * * *"     # 20:00 BRT (23:00 UTC)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run agent
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          IS_DIGEST_RUN: ${{ github.event.schedule == '0 11 * * *' || github.event.schedule == '0 23 * * *' }}
+        run: python agent.py
+
+      - name: Commit state changes
+        run: |
+          git config user.name "astro-news-agent"
+          git config user.email "astro-news-agent@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet || git commit -m "Update state"
+          git push
