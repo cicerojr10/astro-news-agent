@@ -105,6 +105,28 @@ def telegram_send(text, silent=False):
 def now_brt():
     return datetime.now(timezone.utc).astimezone(BRT)
 
+def entry_published_dt(entry):
+    """
+    Tenta obter datetime com timezone a partir do RSS/Atom.
+    Retorna datetime em UTC (tz-aware) ou None se não der.
+    """
+    st = entry.get("published_parsed") or entry.get("updated_parsed")
+    if not st:
+        return None
+    # struct_time -> timestamp -> datetime UTC
+    return datetime.fromtimestamp(time.mktime(st), tz=timezone.utc)
+
+def is_today_brt(dt_utc):
+    """
+    dt_utc: datetime tz-aware em UTC
+    """
+    if dt_utc is None:
+        return False
+    dt_brt = dt_utc.astimezone(BRT)
+    today = now_brt().date()
+    return dt_brt.date() == today
+
+
 def main():
     state = load_json(STATE_PATH, {"seen": {}, "digest_queue": []})
     sources = load_json(SOURCES_PATH, {"feeds": []})["feeds"]
