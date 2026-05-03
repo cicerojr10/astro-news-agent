@@ -47,6 +47,312 @@
       "link": "https://www.nasaspaceflight.com/2026/05/spacex-launch-cas500-2-45-payloads-orbit/",
       "score": 3.6,
       "published_utc": "2026-05-03T18:00:27+00:00"
+    },
+    "7c4ca90ccc014fe869d1c648": {
+      "ts": 1777842925,
+      "source": "NASA Breaking News",
+      "title": "NASA Kennedy Center Director Announces Plans to Retire",
+      "link": "https://www.nasa.gov/news-release/nasa-kennedy-center-director-announces-plans-to-retire/",
+      "score": 0.0,
+      "published_utc": "2026-05-01T17:01:48+00:00",
+      "note": "not_today"
+    },
+    "4da3f7ea2e3fcfbec4d174b6": {
+      "ts": 1777842925,
+      "source": "NASA Breaking News",
+      "title": "NASA Artemis II Crew Rings Nasdaq Closing Bell",
+      "link": "https://www.nasa.gov/image-article/nasa-artemis-ii-crew-rings-nasdaq-closing-bell/",
+      "score": 0.0,
+      "published_utc": "2026-05-01T16:08:05+00:00",
+      "note": "not_today"
+    },
+    "e94ddf59d776d05c03312d01": {
+      "ts": 1777842925,
+      "source": "NASA Breaking News",
+      "title": "Key Support Equipment Arrives at Kennedy for Roman Space Telescope",
+      "link": "https://www.nasa.gov/image-article/key-support-equipment-arrives-at-kennedy-for-roman-space-telescope/",
+      "score": 0.0,
+      "published_utc": "2026-05-01T15:44:03+00:00",
+      "note": "not_today"
+    },
+    "90137348e8f944b391821643": {
+      "ts": 1777842925,
+      "source": "NASA Breaking News",
+      "title": "NASA’s STORIE Mission to Tell Tale of Earth’s Ring Current",
+      "link": "https://science.nasa.gov/science-research/heliophysics/nasas-storie-mission-to-tell-tale-of-earths-ring-current/",
+      "score": 0.0,
+      "published_utc": "2026-05-01T15:31:08+00:00",
+      "note": "not_today"
+    },
+    "fe5b30dc2d425c6d3e570449": {
+      "ts": 1777842925,
+      "source": "NASA Breaking News",
+      "title": "Space Out This Summer with Variety of NASA STEM Activities",
+      "link": "https://www.nasa.gov/learning-resources/space-out-this-summer-with-variety-of-nasa-stem-activities/",
+      "score": 0.0,
+      "published_utc": "2026-05-01T14:03:30+00:00",
+      "note": "not_today"
+    },
+    "aef6573e581ced78d1ee6bd1": {
+      "ts": 1777842925,
+      "source": "NASA Breaking News",
+      "title": "Hubble Spots a Starry Spiral",
+      "link": "https://science.nasa.gov/missions/hubble/hubble-spots-a-starry-spiral/",
+      "score": 0.0,
+      "published_utc": "2026-05-01T11:48:55+00:00",
+      "note": "not_today"
+    },
+    "f5471446b9a1c9026d84c03c": {
+      "ts": 1777842925,
+      "source": "NASA Breaking News",
+      "title": "NASA Invites Media to Ireland Artemis Accords Signing",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-ireland-artemis-accords-signing/",
+      "score": 0.0,
+      "published_utc": "2026-04-30T20:45:59+00:00",
+      "note": "not_today"
+    },
+    "3bf1fdae438ef49581da8f3c": {
+      "ts": 1777842925,
+      "source": "NASA Breaking News",
+      "title": "Odyssey Team Celebrates on a Global Map of Mars",
+      "link": "https://science.nasa.gov/photojournal/odyssey-team-celebrates-on-a-global-map-of-mars/",
+      "score": 0.0,
+      "published_utc": "2026-04-30T18:19:29+00:00",
+      "note": "not_today"
+    },
+    "7805b4cd280faca1474ffbc7": {
+      "ts": 1777842926,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches South Korean Earth observation satellite, plus 44 more payloads on midnight Falcon 9 rideshare mission",
+      "link": "https://spaceflightnow.com/2026/05/02/live-coverage-spacex-to-launch-south-korean-earth-observation-satellite-44-more-payloads-on-overnight-falcon-9-rideshare-mission/",
+      "score": 0.0,
+      "published_utc": "2026-05-02T19:59:11+00:00",
+      "note": "not_today"
+    },
+    "16e3f7b87a52ab0ecbfa3ade": {
+      "ts": 1777842926,
+      "source": "Spaceflight Now",
+      "title": "SpaceX marks May Day, National Space Day with Starlink mission on a Falcon 9 rocket from Cape Canaveral",
+      "link": "https://spaceflightnow.com/2026/05/01/live-coverage-spacex-marks-may-day-with-starlink-mission-on-a-falcon-9-rocket-from-cape-canaveral/",
+      "score": 0.0,
+      "published_utc": "2026-05-01T11:57:18+00:00",
+      "note": "not_today"
+    },
+    "813a1e37aae9c2eeac63b480": {
+      "ts": 1777842926,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/04/29/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-6/",
+      "score": 0.0,
+      "published_utc": "2026-04-29T23:28:46+00:00",
+      "note": "not_today"
+    },
+    "04b9a70272a9197d91dfb55e": {
+      "ts": 1777842926,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches 6-ton ViaSat-3 F3 satellite on Falcon Heavy rocket",
+      "link": "https://spaceflightnow.com/2026/04/29/spacex-launches-6-ton-viasat-3-f3-satellite-on-falcon-heavy-rocket/",
+      "score": 0.0,
+      "published_utc": "2026-04-29T17:27:22+00:00",
+      "note": "not_today"
+    },
+    "a07aa77fa8dbe2866fc2f8fb": {
+      "ts": 1777842926,
+      "source": "Spaceflight Now",
+      "title": "ULA launches 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral",
+      "link": "https://spaceflightnow.com/2026/04/27/live-coverage-ula-to-launch-29-amazon-leo-satellites-on-atlas-5-rocket-from-cape-canaveral/",
+      "score": 0.0,
+      "published_utc": "2026-04-27T19:10:22+00:00",
+      "note": "not_today"
+    },
+    "4c2989a94d5680b977394372": {
+      "ts": 1777842926,
+      "source": "Spaceflight Now",
+      "title": "SpaceX scrubs Falcon Heavy launch of final ViaSat-3 satellite due to poor weather",
+      "link": "https://spaceflightnow.com/2026/04/27/live-coverage-spacex-to-launch-final-viasat-3-satellite-on-falcon-heavy-rocket/",
+      "score": 0.0,
+      "published_utc": "2026-04-27T00:46:54+00:00",
+      "note": "not_today"
+    },
+    "27ae059dab11affb12552600": {
+      "ts": 1777842926,
+      "source": "Spaceflight Now",
+      "title": "SpaceX flies 25 Starlink satellites to orbit on its 50th Falcon 9 launch of the year",
+      "link": "https://spaceflightnow.com/2026/04/26/live-coverage-spacex-to-fly-25-starlink-satellites-on-its-50th-falcon-9-launch-of-the-year/",
+      "score": 0.0,
+      "published_utc": "2026-04-26T13:38:21+00:00",
+      "note": "not_today"
+    },
+    "ad296b31f7f3f76809f5dcd5": {
+      "ts": 1777842926,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/04/23/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/",
+      "score": 0.0,
+      "published_utc": "2026-04-23T00:07:10+00:00",
+      "note": "not_today"
+    },
+    "a0e1e9070e4b361191a8b698": {
+      "ts": 1777842926,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches final GPS III satellite for the U.S. Space Force",
+      "link": "https://spaceflightnow.com/2026/04/21/live-coverage-spacex-to-launch-final-gps-iii-satellite-for-the-u-s-space-force/",
+      "score": 0.0,
+      "published_utc": "2026-04-21T00:11:11+00:00",
+      "note": "not_today"
+    },
+    "902cd2fd1638a14444f47d0b": {
+      "ts": 1777842927,
+      "source": "NASASpaceflight",
+      "title": "SpaceX aims for mid-May Starship Flight 12 launch with revised trajectory",
+      "link": "https://www.nasaspaceflight.com/2026/05/spacex-mid-may-starship-flight-12-revised-trajectory/",
+      "score": 0.0,
+      "published_utc": "2026-05-01T20:52:30+00:00",
+      "note": "not_today"
+    },
+    "bc4edeefe965ba32d2aa2e4a": {
+      "ts": 1777842927,
+      "source": "NASASpaceflight",
+      "title": "Russia debuts new rocket with maiden Soyuz-5 launch",
+      "link": "https://www.nasaspaceflight.com/2026/04/russia-maiden-soyuz-5-launch/",
+      "score": 0.0,
+      "published_utc": "2026-04-30T21:25:53+00:00",
+      "note": "not_today"
+    },
+    "578dd841be1a7b7cddf0e727": {
+      "ts": 1777842927,
+      "source": "NASASpaceflight",
+      "title": "Next NASA ISS astronaut, doctor discusses upcoming mission",
+      "link": "https://www.nasaspaceflight.com/2026/04/next-nasa-iss-astronaut-mission/",
+      "score": 0.0,
+      "published_utc": "2026-04-30T14:55:18+00:00",
+      "note": "not_today"
+    },
+    "c85ed58819c993985c7a122d": {
+      "ts": 1777842927,
+      "source": "NASASpaceflight",
+      "title": "SpaceX launches Falcon Heavy on Wednesday after 18 month hiatus",
+      "link": "https://www.nasaspaceflight.com/2026/04/viasat-3-f3-falcon-heavy/",
+      "score": 0.0,
+      "published_utc": "2026-04-29T10:37:19+00:00",
+      "note": "not_today"
+    },
+    "462b305adac4970742f3f65e": {
+      "ts": 1777842927,
+      "source": "NASASpaceflight",
+      "title": "Curiosity Rover uncovers fresh organic clues on Ancient Mars",
+      "link": "https://www.nasaspaceflight.com/2026/04/nasas-curiosity-rover-organic-clues-mars/",
+      "score": 0.0,
+      "published_utc": "2026-04-26T19:10:07+00:00",
+      "note": "not_today"
+    },
+    "7faa8b08f35fde972b8a7c2c": {
+      "ts": 1777842927,
+      "source": "NASASpaceflight",
+      "title": "Progress MS-34 to launch from Baikonur for ISS cargo delivery",
+      "link": "https://www.nasaspaceflight.com/2026/04/progress-ms34/",
+      "score": 0.0,
+      "published_utc": "2026-04-25T16:30:36+00:00",
+      "note": "not_today"
+    },
+    "4fc7109478b107bbd0a65157": {
+      "ts": 1777842927,
+      "source": "NASASpaceflight",
+      "title": "Starship Progress at the Cape with Hoping to Launch this year",
+      "link": "https://www.nasaspaceflight.com/2026/04/starship-progress-cape-launch-this-year/",
+      "score": 0.0,
+      "published_utc": "2026-04-23T17:39:48+00:00",
+      "note": "not_today"
+    },
+    "afa1e256989a4b2dd798a4a5": {
+      "ts": 1777842927,
+      "source": "Space.com",
+      "title": "SpaceX sends 45 satellites to orbit in nighttime launch from California (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-cas500-2-mission-45-satellites",
+      "score": 0.0,
+      "published_utc": "2026-05-02T16:00:00+00:00",
+      "note": "not_today"
+    },
+    "7faebdd15ea117700ec76ef3": {
+      "ts": 1777842927,
+      "source": "Space.com",
+      "title": "NASA's Curiosity and Perseverance rovers capture sweeping Mars panoramas (video)",
+      "link": "https://www.space.com/astronomy/mars/nasas-curiosity-and-perseverance-rovers-capture-sweeping-mars-panoramas-video",
+      "score": 0.0,
+      "published_utc": "2026-05-01T12:00:00+00:00",
+      "note": "not_today"
+    },
+    "4d8bfcc4d1d6accb574e0bea": {
+      "ts": 1777842927,
+      "source": "Space.com",
+      "title": "Russia's new homegrown Soyuz 5 rocket aces debut launch",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/russias-new-homegrown-soyuz-5-rocket-aces-debut-launch",
+      "score": 0.0,
+      "published_utc": "2026-04-30T22:00:00+00:00",
+      "note": "not_today"
+    },
+    "c6b8784d4546f5aca6c01fac": {
+      "ts": 1777842927,
+      "source": "Space.com",
+      "title": "Astrophotographer captures Pleiades 'Seven Sisters' glowing through ghostly blue veil",
+      "link": "https://www.space.com/stargazing/astrophotography/astrophotographer-captures-pleiades-seven-sisters-glowing-through-ghostly-blue-veil",
+      "score": 0.0,
+      "published_utc": "2026-04-30T17:08:32+00:00",
+      "note": "not_today"
+    },
+    "8e3a4a1c5dc1f31d88c50081": {
+      "ts": 1777842927,
+      "source": "Space.com",
+      "title": "This SpaceX Falcon Heavy rocket launch looks amazing from space in these wild satellite photos",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-heavy-launch-seen-from-space-satellite-photos",
+      "score": 0.0,
+      "published_utc": "2026-04-30T16:00:00+00:00",
+      "note": "not_today"
+    },
+    "a5d00f08d14984f5105fe425": {
+      "ts": 1777842927,
+      "source": "Space.com",
+      "title": "'This is going to be what makes the Earth secure.' How one California company plans to protect us from dangerous asteroids",
+      "link": "https://www.space.com/space-exploration/asteroid-comet-missions/this-is-going-to-be-what-makes-the-earth-secure-how-one-california-company-plans-to-protect-us-from-dangerous-asteroids",
+      "score": 0.0,
+      "published_utc": "2026-04-30T12:00:00+00:00",
+      "note": "not_today"
+    },
+    "f109360f2a15d08cb4b69324": {
+      "ts": 1777842927,
+      "source": "Space.com",
+      "title": "Europe's powerful Ariane 6 rocket launches 32 Amazon internet satellites to orbit",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/europe-ariane-6-rocket-launch-32-amazon-leo-satellites-va267",
+      "score": 0.0,
+      "published_utc": "2026-04-29T17:00:00+00:00",
+      "note": "not_today"
+    },
+    "340bcf1f35a439ad3bcee42b": {
+      "ts": 1777842927,
+      "source": "Space.com",
+      "title": "What is quantum gravity? Scientists think it could explain the beginning of our universe",
+      "link": "https://www.space.com/astronomy/what-is-quantum-gravity-scientists-think-it-could-explain-the-beginning-of-our-universe",
+      "score": 0.0,
+      "published_utc": "2026-04-29T12:00:00+00:00",
+      "note": "not_today"
+    },
+    "06bf196743b1ff3535aca904": {
+      "ts": 1777842927,
+      "source": "Space.com",
+      "title": "Is Tatooine the norm? Planets may prefer living with two suns instead of one",
+      "link": "https://www.space.com/astronomy/exoplanets/is-tatooine-the-norm-planets-may-prefer-living-with-two-suns-instead-of-one",
+      "score": 0.0,
+      "published_utc": "2026-04-29T10:00:00+00:00",
+      "note": "not_today"
+    },
+    "0338f68fb19e6d4314ace3a2": {
+      "ts": 1777842927,
+      "source": "Space.com",
+      "title": "NASA chief Jared Isaacman says he's fighting for Pluto: 'I am very much in the camp of 'make Pluto a planet again'",
+      "link": "https://www.space.com/astronomy/pluto/nasa-chief-jared-isaacman-says-hes-fighting-for-pluto-i-am-very-much-in-the-camp-of-make-pluto-a-planet-again",
+      "score": 0.0,
+      "published_utc": "2026-04-28T19:18:59+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
