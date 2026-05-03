@@ -339,6 +339,20 @@ def main():
 
     new_items = []
 
+    stats = {
+    "total_entries": 0,
+    "skip_irrelevant": 0,
+    "skip_no_title_link": 0,
+    "skip_seen": 0,
+    "skip_no_date": 0,
+    "skip_not_today": 0,
+    "skip_excluded": 0,
+    "skip_not_focus": 0,
+    "kept": 0,
+    "alerts": 0,
+    "updates_sent": 0
+}
+    
     for src in sources:
         url = src["url"]
         name = src.get("name", url)
@@ -542,6 +556,14 @@ def main():
                 state["sent_updates"].pop(k, None)
     except Exception:
         pass
+
+    print("[STATS]", json.dumps(stats, ensure_ascii=False))
+
+if DEBUG_TELEGRAM:
+    telegram_send(
+        "DEBUG agente:\n" + escape_html(json.dumps(stats, ensure_ascii=False, indent=2)),
+        silent=True
+    )
 
     save_json(STATE_PATH, state)
     print(f"Done. New(today) items: {len(new_items)} | sent_updates_today: {len(state.get('sent_updates', {}).get(today_brt, {}))}")
