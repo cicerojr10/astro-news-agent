@@ -7,13 +7,12 @@ from datetime import datetime, timezone
 from dateutil import tz
 import feedparser
 import requests
-
 from bs4 import BeautifulSoup
+
+BRT = tz.gettz("America/Sao_Paulo")
 
 DEBUG = os.environ.get("DEBUG", "").lower() == "true"
 DEBUG_TELEGRAM = os.environ.get("DEBUG_TELEGRAM", "").lower() == "true"
-
-BRT = tz.gettz("America/Sao_Paulo")
 
 STATE_PATH = "state.json"
 SOURCES_PATH = "sources.json"
@@ -48,20 +47,19 @@ ANOMALY_KEYWORDS = [
     "vazamento", "emergência", "órbita errada"
 ]
 
-# Bloqueia “lixo” típico do Space.com e afins
+# Bloqueia "lixo" típico do Space.com e afins
 EXCLUDE_KEYWORDS = [
     "lego", "star wars", "best", "ranked", "podcast", "review",
     "photo of the day", "space photo of the day", "images", "wallpaper",
     "movie", "tv", "show", "episode", "entertainment", "sci-fi",
     "astrophotography", "skywatching", "meteor", "eclipse", "moon",
-    "stargazing", "what’s up", "whats up"
+    "stargazing", "what's up", "whats up"
 ]
 
-# Se você quiser ser mais agressivo no foco:
-MIN_SCORE_SEND = 3.0          # novidades “normais” durante o dia
-MIN_SCORE_DIGEST = 3.0        # itens no digest
-MIN_SCORE_ALERT = 5.5         # alertas imediatos
-MAX_UPDATES_PER_RUN = 3       # quantas “novidades” mandar a cada 10 min
+MIN_SCORE_SEND = 3.0
+MIN_SCORE_DIGEST = 3.0
+MIN_SCORE_ALERT = 5.5
+MAX_UPDATES_PER_RUN = 3
 MAX_ALERTS_PER_RUN = 8
 
 HTTP_TIMEOUT = 20
@@ -145,13 +143,9 @@ def relevant_item(title, summary):
 ISO_DATE_RE = re.compile(r"\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}")
 
 def parse_datetime_loose(s):
-    """
-    Tenta parsear algumas strings ISO comuns. Retorna datetime tz-aware UTC ou None.
-    """
     if not s:
         return None
     s = s.strip()
-    # normaliza Z
     s2 = s.replace("Z", "+00:00")
     try:
         dt = datetime.fromisoformat(s2)
@@ -160,7 +154,6 @@ def parse_datetime_loose(s):
         return dt.astimezone(timezone.utc)
     except Exception:
         pass
-    # tenta achar um trecho ISO dentro
     m = ISO_DATE_RE.search(s)
     if m:
         try:
@@ -175,17 +168,12 @@ def fetch_html(url):
         r = requests.get(url, timeout=HTTP_TIMEOUT, headers={"User-Agent": UA})
         r.raise_for_status()
         return r.text
-    except Exception:
+    except Exception as e:
+        if DEBUG:
+            print(f"[DEBUG] fetch_html failed: {url} | {e}")
         return None
 
 def extract_published_utc_from_html(html):
-    """
-    Procura data publicada em:
-    - meta property=article:published_time
-    - meta name=pubdate/date/datePublished
-    - JSON-LD datePublished/dateModified
-    - <time datetime=...>
-    """
     if not html:
         return None
 
@@ -222,7 +210,6 @@ def extract_published_utc_from_html(html):
         except Exception:
             continue
 
-        # pode ser lista ou dict
         candidates = []
         if isinstance(data, list):
             candidates = data
@@ -241,18 +228,13 @@ def extract_published_utc_from_html(html):
     return None
 
 def extract_text_for_summary(html, max_chars=1800):
-    """
-    Extrai texto “principal” de forma simples (heurística) para resumir.
-    """
     if not html:
         return ""
     soup = BeautifulSoup(html, "html.parser")
 
-    # remove scripts/styles
     for tag in soup(["script", "style", "noscript"]):
         tag.decompose()
 
-    # tenta article primeiro
     node = soup.find("article") or soup.body
     if not node:
         return ""
@@ -261,25 +243,17 @@ def extract_text_for_summary(html, max_chars=1800):
     text = re.sub(r"\s+", " ", text).strip()
     return text[:max_chars]
 
-# ====== “Resumo PT-BR” (heurístico) ======
+# ====== "Resumo PT-BR" (heurístico) ======
 
 def ptbr_bullet_summary(title, text):
-    """
-    Sem usar API externa, cria um mini-resumo em PT-BR por heurística:
-    - pega 2 frases iniciais “úteis” do texto
-    """
     if not text:
         return "Resumo: link com pouco texto extraível; confira a matéria para detalhes."
 
-    # divide em “frases” simples
     parts = re.split(r"(?<=[\.\!\?])\s+", text)
     parts = [p.strip() for p in parts if len(p.strip()) >= 60]
 
     picks = parts[:2] if parts else [text[:220]]
 
-    # “tradução” real sem LLM é limitada; então eu faço um resumo em PT-BR
-    # baseado no conteúdo (mantém nomes próprios/termos).
-    # Se quiser tradução de verdade, precisa API (DeepL/OpenAI) ou modelo local.
     bullets = []
     for p in picks:
         bullets.append(p)
@@ -306,10 +280,6 @@ def telegram_send(text, silent=False):
 # ====== Digest scheduling robusto ======
 
 def should_send_digest(state, slot):
-    """
-    slot: "morning" ou "night"
-    garante 1 digest por dia por slot.
-    """
     today = str(now_brt().date())
     sent = state.get("digests_sent", {})
     return sent.get(today, {}).get(slot) != True
@@ -322,7 +292,6 @@ def mark_digest_sent(state, slot):
 
 def in_digest_window():
     dt = now_brt()
-    # “primeiro run após” 08:00 e 20:00 BRT, com janela larga
     if 8 <= dt.hour < 12:
         return "morning"
     if 20 <= dt.hour < 23:
@@ -337,22 +306,22 @@ def main():
 
     today_brt = str(now_brt().date())
 
+    stats = {
+        "total_entries": 0,
+        "skip_irrelevant": 0,
+        "skip_no_title_link": 0,
+        "skip_seen": 0,
+        "skip_no_date": 0,
+        "skip_not_today": 0,
+        "skip_excluded": 0,
+        "skip_not_focus": 0,
+        "kept": 0,
+        "alerts": 0,
+        "updates_sent": 0
+    }
+
     new_items = []
 
-    stats = {
-    "total_entries": 0,
-    "skip_irrelevant": 0,
-    "skip_no_title_link": 0,
-    "skip_seen": 0,
-    "skip_no_date": 0,
-    "skip_not_today": 0,
-    "skip_excluded": 0,
-    "skip_not_focus": 0,
-    "kept": 0,
-    "alerts": 0,
-    "updates_sent": 0
-}
-    
     for src in sources:
         url = src["url"]
         name = src.get("name", url)
@@ -364,30 +333,35 @@ def main():
             continue
 
         for e in feed.entries[:60]:
+            stats["total_entries"] += 1
+
             title = (e.get("title") or "").strip()
             summary = e.get("summary") or e.get("description") or ""
             link = (e.get("link") or "").strip()
             if not title or not link:
+                stats["skip_no_title_link"] += 1
                 continue
 
             if not relevant_item(title, summary):
+                stats["skip_irrelevant"] += 1
+                if DEBUG:
+                    print(f"[DEBUG] skip_irrelevant: {name} | {title}")
                 continue
 
             fp = fingerprint(e)
             if fp in state["seen"]:
+                stats["skip_seen"] += 1
                 continue
 
-            # 1) tenta data do RSS
             pub_dt_utc = entry_published_dt_utc(e)
 
-            # 2) fallback: HTML
             html = None
             if pub_dt_utc is None:
                 html = fetch_html(link)
                 pub_dt_utc = extract_published_utc_from_html(html)
 
-            # se ainda sem data, descarta (pra manter “sempre do dia”)
             if pub_dt_utc is None:
+                stats["skip_no_date"] += 1
                 state["seen"][fp] = {
                     "ts": int(time.time()),
                     "source": name,
@@ -397,11 +371,12 @@ def main():
                     "published_utc": None,
                     "note": "no_published_date"
                 }
+                if DEBUG:
+                    print(f"[DEBUG] skip_no_date: {name} | {title} | {link}")
                 continue
 
-            # só HOJE (BRT)
             if not is_today_brt(pub_dt_utc):
-                # marca como visto para não reprocessar toda hora
+                stats["skip_not_today"] += 1
                 state["seen"][fp] = {
                     "ts": int(time.time()),
                     "source": name,
@@ -411,11 +386,14 @@ def main():
                     "published_utc": pub_dt_utc.isoformat(),
                     "note": "not_today"
                 }
+                if DEBUG:
+                    print(f"[DEBUG] skip_not_today: {name} | {title} | published: {pub_dt_utc}")
                 continue
 
             score, has_focus, has_anomaly, has_exclude = score_entry(title, summary, weight)
+
             if has_exclude:
-                # marca como visto para não insistir
+                stats["skip_excluded"] += 1
                 state["seen"][fp] = {
                     "ts": int(time.time()),
                     "source": name,
@@ -425,10 +403,12 @@ def main():
                     "published_utc": pub_dt_utc.isoformat(),
                     "note": "excluded"
                 }
+                if DEBUG:
+                    print(f"[DEBUG] skip_excluded: {name} | {title}")
                 continue
 
-            # se não tiver foco nem anomalia (depois dos filtros), ignora
             if not has_focus and not has_anomaly:
+                stats["skip_not_focus"] += 1
                 state["seen"][fp] = {
                     "ts": int(time.time()),
                     "source": name,
@@ -438,9 +418,10 @@ def main():
                     "published_utc": pub_dt_utc.isoformat(),
                     "note": "not_focus"
                 }
+                if DEBUG:
+                    print(f"[DEBUG] skip_not_focus: {name} | {title}")
                 continue
 
-            # texto para resumo
             if html is None:
                 html = fetch_html(link)
             text = extract_text_for_summary(html) if html else ""
@@ -467,6 +448,10 @@ def main():
                 "resumo_pt": resumo_pt
             }
             new_items.append(item)
+            stats["kept"] += 1
+
+            if DEBUG:
+                print(f"[DEBUG] kept: {name} | {title} | score: {score:.1f}")
 
     # ordena por relevância
     new_items.sort(key=lambda x: x["score"], reverse=True)
@@ -482,9 +467,9 @@ def main():
             f"🔗 {escape_html(x['link'])}"
         )
         telegram_send(msg, silent=False)
+        stats["alerts"] += 1
 
     # ===== Novidades do dia (incremental) =====
-    # evita mandar sempre: controla por fp em sent_updates[today]
     sent_today = state.get("sent_updates", {}).get(today_brt, {})
     candidates = [x for x in new_items if x["score"] >= MIN_SCORE_SEND]
 
@@ -494,7 +479,6 @@ def main():
             continue
         to_send.append(x)
 
-    # manda até N por run
     for x in to_send[:MAX_UPDATES_PER_RUN]:
         msg = (
             f"🛰️ <b>NOVIDADE (hoje)</b>\n"
@@ -504,6 +488,7 @@ def main():
             f"🔗 {escape_html(x['link'])}"
         )
         telegram_send(msg, silent=True)
+        stats["updates_sent"] += 1
 
         state.setdefault("sent_updates", {})
         state["sent_updates"].setdefault(today_brt, {})
@@ -538,8 +523,6 @@ def main():
             telegram_send("\n".join(lines), silent=True)
 
         mark_digest_sent(state, slot)
-
-        # limpa fila do dia (mantém outros dias se algum bug enfileirar)
         state["digest_queue"] = [x for x in state["digest_queue"] if x.get("day_brt") != today_brt]
 
     # ===== Enxuga histórico =====
@@ -548,7 +531,7 @@ def main():
         items.sort(key=lambda kv: kv[1].get("ts", 0), reverse=True)
         state["seen"] = dict(items[:6000])
 
-    # limpeza de sent_updates antigos (mantém 7 dias)
+    # limpeza de sent_updates antigos
     try:
         keys = sorted(state.get("sent_updates", {}).keys())
         if len(keys) > 10:
@@ -557,16 +540,20 @@ def main():
     except Exception:
         pass
 
+    save_json(STATE_PATH, state)
+
+    print(f"Done. New(today) items: {len(new_items)} | BRT: {now_brt().strftime('%H:%M')}")
     print("[STATS]", json.dumps(stats, ensure_ascii=False))
 
-if DEBUG_TELEGRAM:
-    telegram_send(
-        "DEBUG agente:\n" + escape_html(json.dumps(stats, ensure_ascii=False, indent=2)),
-        silent=True
-    )
-
-    save_json(STATE_PATH, state)
-    print(f"Done. New(today) items: {len(new_items)} | sent_updates_today: {len(state.get('sent_updates', {}).get(today_brt, {}))}")
+    # Debug no Telegram
+    if DEBUG_TELEGRAM:
+        msg = (
+            f"🔧 <b>Debug Agente</b>\n"
+            f"📅 {now_brt().strftime('%d/%m %H:%M')} BRT\n\n"
+            f"<code>{escape_html(json.dumps(stats, ensure_ascii=False, indent=1))}</code>\n\n"
+            f"New items: {len(new_items)}"
+        )
+        telegram_send(msg, silent=True)
 
 if __name__ == "__main__":
     main()
