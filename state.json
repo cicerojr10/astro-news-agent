@@ -39,7 +39,27 @@
       "link": "https://www.space.com/space-exploration/international-space-station/it-was-quite-a-light-show-nasa-astronaut-spies-dramatic-fireball-from-the-international-space-station-photos",
       "score": 0.0,
       "published_utc": "2026-05-03T16:00:00+00:00"
+    },
+    "82efe7df38da4fd0cb2346f6": {
+      "ts": 1777831453,
+      "source": "NASASpaceflight",
+      "title": "SpaceX launches CAS500-2 and 45 other payloads to Sun-synchronous orbit",
+      "link": "https://www.nasaspaceflight.com/2026/05/spacex-launch-cas500-2-45-payloads-orbit/",
+      "score": 3.6,
+      "published_utc": "2026-05-03T18:00:27+00:00"
     }
   },
-  "digest_queue": []
+  "digest_queue": [
+    {
+      "title": "SpaceX launches CAS500-2 and 45 other payloads to Sun-synchronous orbit",
+      "link": "https://www.nasaspaceflight.com/2026/05/spacex-launch-cas500-2-45-payloads-orbit/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_launch": true,
+      "is_anomaly": false,
+      "published_utc": "2026-05-03T18:00:27+00:00",
+      "day_brt": "2026-05-03",
+      "queued_ts": 1777831453
+    }
+  ]
 }
