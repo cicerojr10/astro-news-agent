@@ -1,4 +1,13 @@
 {
-  "seen": {},
+  "seen": {
+    "20e63a98d3febc3009f27c6e": {
+      "ts": 1777806122,
+      "source": "Space.com",
+      "title": "Why do some stars become 'supernova impostors'? Astronomers still don't quite know",
+      "link": "https://www.space.com/astronomy/stars/why-do-some-stars-become-supernova-impostors-astronomers-still-dont-quite-know",
+      "score": 2.4499999999999997,
+      "published_utc": "2026-05-03T10:00:00+00:00"
+    }
+  },
   "digest_queue": []
 }
