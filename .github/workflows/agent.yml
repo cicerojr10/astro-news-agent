@@ -31,7 +31,6 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          IS_DIGEST_RUN: ${{ github.event.schedule == '0 11 * * *' || github.event.schedule == '0 23 * * *' }}
         run: python agent.py
 
       - name: Commit state changes
