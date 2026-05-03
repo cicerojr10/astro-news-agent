@@ -10,6 +10,9 @@ import requests
 
 from bs4 import BeautifulSoup
 
+DEBUG = os.environ.get("DEBUG", "").lower() == "true"
+DEBUG_TELEGRAM = os.environ.get("DEBUG_TELEGRAM", "").lower() == "true"
+
 BRT = tz.gettz("America/Sao_Paulo")
 
 STATE_PATH = "state.json"
