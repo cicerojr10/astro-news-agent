@@ -353,15 +353,91 @@
       "score": 0.0,
       "published_utc": "2026-04-28T19:18:59+00:00",
       "note": "not_today"
+    },
+    "78d82f412caf7aaccb40f3ed": {
+      "ts": 1777911365,
+      "source": "NASA Breaking News",
+      "title": "Hubble Spots a Starry Spiral",
+      "link": "https://www.nasa.gov/image-article/hubble-spots-a-starry-spiral/",
+      "score": 4.0,
+      "published_utc": "2026-05-04T15:17:19+00:00"
+    },
+    "55bbf20263e3b54e05239ed8": {
+      "ts": 1777911365,
+      "source": "NASA Breaking News",
+      "title": "LAGEOS: An Earth Science Mission Built for Enduring Precision",
+      "link": "https://www.nasa.gov/missions/lageos/lageos-an-earth-science-mission-built-for-enduring-precision/",
+      "score": 4.0,
+      "published_utc": "2026-05-04T13:15:00+00:00"
+    },
+    "5f17b4c7025b50c5587e7b1c": {
+      "ts": 1777911366,
+      "source": "NASA Breaking News",
+      "title": "Record-Setting Retreat of Hektoria Glacier",
+      "link": "https://science.nasa.gov/earth/earth-observatory/record-setting-retreat-of-hektoria-glacier/",
+      "score": 4.0,
+      "published_utc": "2026-05-04T04:01:00+00:00"
+    },
+    "6c4113013e685d4f99a6854d": {
+      "ts": 1777911368,
+      "source": "Space.com",
+      "title": "Our Milky Way's 'Zone of Avoidance' holds a galaxy supercluster with 30,000 trillion times the sun's mass",
+      "link": "https://www.space.com/astronomy/galaxies/our-milky-ways-zone-of-avoidance-holds-a-galaxy-supercluster-with-30-000-trillion-times-the-suns-mass",
+      "score": 2.8,
+      "published_utc": "2026-05-04T15:00:00+00:00"
     }
   },
-  "digest_queue": [],
+  "digest_queue": [
+    {
+      "fp": "78d82f412caf7aaccb40f3ed",
+      "title": "Hubble Spots a Starry Spiral",
+      "link": "https://www.nasa.gov/image-article/hubble-spots-a-starry-spiral/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-04T15:17:19+00:00",
+      "day_brt": "2026-05-04",
+      "resumo_pt": "Resumo (PT-BR): 2 min read Hubble Spots a Starry Spiral NASA Hubble Mission Team Goddard Space Flight Center May 04, 2026 Image Article ESA/Hubble & NASA, D. Thilker and the PHANGS-HST Team In this new picture from NASA’s Hubble Space Telescope , a spiral galaxy glittering with star clusters is the center of attention.",
+      "queued_ts": 1777911369
+    },
+    {
+      "fp": "55bbf20263e3b54e05239ed8",
+      "title": "LAGEOS: An Earth Science Mission Built for Enduring Precision",
+      "link": "https://www.nasa.gov/missions/lageos/lageos-an-earth-science-mission-built-for-enduring-precision/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-04T13:15:00+00:00",
+      "day_brt": "2026-05-04",
+      "resumo_pt": "Resumo (PT-BR): 2 min read LAGEOS: An Earth Science Mission Built for Enduring Precision NASA History Office NASA History Office May 04, 2026 Article Technicians at NASA’s Goddard Space Flight Center helped complete prelaunch testing of the Laser Geodynamic Satellite (LAGEOS). LAGEOS was the first satellite devoted exclusively to laser ranging studies.",
+      "queued_ts": 1777911369
+    },
+    {
+      "fp": "5f17b4c7025b50c5587e7b1c",
+      "title": "Record-Setting Retreat of Hektoria Glacier",
+      "link": "https://science.nasa.gov/earth/earth-observatory/record-setting-retreat-of-hektoria-glacier/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-04T04:01:00+00:00",
+      "day_brt": "2026-05-04",
+      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Record-Setting Retreat of... Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Notes from the Field Blog Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 5 min read Record-Setting Retreat of Hektoria Glacier Image of the Day for May 4, 2026 Scientists relied on satellite data to understand how the Antarctic glacier lost so much ice so rapidly.",
+      "queued_ts": 1777911369
+    }
+  ],
   "digests_sent": {
     "2026-05-03": {
       "night": true
     },
     "2026-05-04": {
       "morning": true
+    }
+  },
+  "sent_updates": {
+    "2026-05-04": {
+      "78d82f412caf7aaccb40f3ed": true,
+      "55bbf20263e3b54e05239ed8": true,
+      "5f17b4c7025b50c5587e7b1c": true
     }
   }
 }
