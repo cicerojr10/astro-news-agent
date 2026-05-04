@@ -393,6 +393,22 @@
       "link": "https://www.nasa.gov/missions/artemis/nasa-welcomes-malta-as-newest-artemis-accords-signatory/",
       "score": 4.0,
       "published_utc": "2026-05-04T17:46:22+00:00"
+    },
+    "410272cd9757c0b95400b2be": {
+      "ts": 1777931043,
+      "source": "NASA Breaking News",
+      "title": "NASA Welcomes Ireland as Newest Artemis Accords Signatory",
+      "link": "https://www.nasa.gov/missions/artemis/nasa-welcomes-ireland-as-newest-artemis-accords-signatory/",
+      "score": 4.0,
+      "published_utc": "2026-05-04T21:09:23+00:00"
+    },
+    "db9c9526ed0e40a0ed4bfa1b": {
+      "ts": 1777931045,
+      "source": "Space.com",
+      "title": "Trump's proposed NASA budget is a 'horrible threat to our future' in space, Planetary Society CEO says",
+      "link": "https://www.space.com/space-exploration/trumps-proposed-nasa-budget-is-a-horrible-threat-to-our-future-in-space-planetary-society-ceo-says",
+      "score": 2.8,
+      "published_utc": "2026-05-04T21:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -443,6 +459,18 @@
       "day_brt": "2026-05-04",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Welcomes Malta as Newest Artemis Accords Signatory Elizabeth Shaw May 04, 2026 Article Credit: NASA The Republic of Malta became the 65th signatory to the Artemis Accords on Monday during a ceremony in the town of Kalkara with NASA and U.S. “Today, it’s my pleasure to welcome the Republic of Malta to the Artemis Accords community,” NASA Administrator Jared Isaacman said in recorded remarks.",
       "queued_ts": 1777921801
+    },
+    {
+      "fp": "410272cd9757c0b95400b2be",
+      "title": "NASA Welcomes Ireland as Newest Artemis Accords Signatory",
+      "link": "https://www.nasa.gov/missions/artemis/nasa-welcomes-ireland-as-newest-artemis-accords-signatory/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-04T21:09:23+00:00",
+      "day_brt": "2026-05-04",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Welcomes Ireland as Newest Artemis Accords Signatory Elizabeth Shaw May 04, 2026 Article Minister for Enterprise, Tourism and Employment Peter Burke, T.D., 3rd from left, signs the Artemis Accords during a ceremony with Chief of Staff in the Office of the Under Secretary of State for Economic Affairs William Cappelletti, left, NASA Administrator Jared Isaacman, and Ambassador of Ireland to the United States of America Geraldine Byrne Nason, right, Monday, May 4, 2026, at the Mary W. NASA/Bill Ingalls Ireland signed the Artemis Accords Monday during a signing ceremony hosted by NASA, becoming the latest nation to commit to the responsible exploration of space for all humanity.",
+      "queued_ts": 1777931045
     }
   ],
   "digests_sent": {
@@ -458,7 +486,8 @@
       "78d82f412caf7aaccb40f3ed": true,
       "55bbf20263e3b54e05239ed8": true,
       "5f17b4c7025b50c5587e7b1c": true,
-      "c0c970deafa0d783584c69e1": true
+      "c0c970deafa0d783584c69e1": true,
+      "410272cd9757c0b95400b2be": true
     }
   }
 }
