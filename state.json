@@ -409,6 +409,14 @@
       "link": "https://www.space.com/space-exploration/trumps-proposed-nasa-budget-is-a-horrible-threat-to-our-future-in-space-planetary-society-ceo-says",
       "score": 2.8,
       "published_utc": "2026-05-04T21:00:00+00:00"
+    },
+    "f948b653facb0ff5f192f553": {
+      "ts": 1777934405,
+      "source": "Spaceflight Now",
+      "title": "Lockheed Martin joins collaboration with Firefly Aerospace and Seagate for off-shore launches",
+      "link": "https://spaceflightnow.com/2026/05/04/lockheed-martin-announces-collaboration-with-firefly-aerospace-and-seagate-for-off-shore-launches/",
+      "score": 3.6,
+      "published_utc": "2026-05-04T21:52:31+00:00"
     }
   },
   "digest_queue": [
@@ -471,6 +479,18 @@
       "day_brt": "2026-05-04",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Welcomes Ireland as Newest Artemis Accords Signatory Elizabeth Shaw May 04, 2026 Article Minister for Enterprise, Tourism and Employment Peter Burke, T.D., 3rd from left, signs the Artemis Accords during a ceremony with Chief of Staff in the Office of the Under Secretary of State for Economic Affairs William Cappelletti, left, NASA Administrator Jared Isaacman, and Ambassador of Ireland to the United States of America Geraldine Byrne Nason, right, Monday, May 4, 2026, at the Mary W. NASA/Bill Ingalls Ireland signed the Artemis Accords Monday during a signing ceremony hosted by NASA, becoming the latest nation to commit to the responsible exploration of space for all humanity.",
       "queued_ts": 1777931045
+    },
+    {
+      "fp": "f948b653facb0ff5f192f553",
+      "title": "Lockheed Martin joins collaboration with Firefly Aerospace and Seagate for off-shore launches",
+      "link": "https://spaceflightnow.com/2026/05/04/lockheed-martin-announces-collaboration-with-firefly-aerospace-and-seagate-for-off-shore-launches/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-05-04T21:52:31+00:00",
+      "day_brt": "2026-05-04",
+      "resumo_pt": "Resumo (PT-BR): Lockheed Martin joins collaboration with Firefly Aerospace and Seagate for off-shore launches May 4, 2026 Will Robinson-Smith An artist’s interpretation of a Firefly Aerospace rocket atop a Seagate Space Gateway Series spaceport. Graphic: Firefly Aerospace/Seagate Space Lockheed Martin is joining in the effort to support a sea-based approach for launching Firefly Aerospace’s Alpha rocket.",
+      "queued_ts": 1777934406
     }
   ],
   "digests_sent": {
@@ -487,7 +507,8 @@
       "55bbf20263e3b54e05239ed8": true,
       "5f17b4c7025b50c5587e7b1c": true,
       "c0c970deafa0d783584c69e1": true,
-      "410272cd9757c0b95400b2be": true
+      "410272cd9757c0b95400b2be": true,
+      "f948b653facb0ff5f192f553": true
     }
   }
 }
