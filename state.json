@@ -385,6 +385,14 @@
       "link": "https://www.space.com/astronomy/galaxies/our-milky-ways-zone-of-avoidance-holds-a-galaxy-supercluster-with-30-000-trillion-times-the-suns-mass",
       "score": 2.8,
       "published_utc": "2026-05-04T15:00:00+00:00"
+    },
+    "c0c970deafa0d783584c69e1": {
+      "ts": 1777921798,
+      "source": "NASA Breaking News",
+      "title": "NASA Welcomes Malta as Newest Artemis Accords Signatory",
+      "link": "https://www.nasa.gov/missions/artemis/nasa-welcomes-malta-as-newest-artemis-accords-signatory/",
+      "score": 4.0,
+      "published_utc": "2026-05-04T17:46:22+00:00"
     }
   },
   "digest_queue": [
@@ -423,6 +431,18 @@
       "day_brt": "2026-05-04",
       "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Record-Setting Retreat of... Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Notes from the Field Blog Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 5 min read Record-Setting Retreat of Hektoria Glacier Image of the Day for May 4, 2026 Scientists relied on satellite data to understand how the Antarctic glacier lost so much ice so rapidly.",
       "queued_ts": 1777911369
+    },
+    {
+      "fp": "c0c970deafa0d783584c69e1",
+      "title": "NASA Welcomes Malta as Newest Artemis Accords Signatory",
+      "link": "https://www.nasa.gov/missions/artemis/nasa-welcomes-malta-as-newest-artemis-accords-signatory/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-04T17:46:22+00:00",
+      "day_brt": "2026-05-04",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Welcomes Malta as Newest Artemis Accords Signatory Elizabeth Shaw May 04, 2026 Article Credit: NASA The Republic of Malta became the 65th signatory to the Artemis Accords on Monday during a ceremony in the town of Kalkara with NASA and U.S. “Today, it’s my pleasure to welcome the Republic of Malta to the Artemis Accords community,” NASA Administrator Jared Isaacman said in recorded remarks.",
+      "queued_ts": 1777921801
     }
   ],
   "digests_sent": {
@@ -437,7 +457,8 @@
     "2026-05-04": {
       "78d82f412caf7aaccb40f3ed": true,
       "55bbf20263e3b54e05239ed8": true,
-      "5f17b4c7025b50c5587e7b1c": true
+      "5f17b4c7025b50c5587e7b1c": true,
+      "c0c970deafa0d783584c69e1": true
     }
   }
 }
