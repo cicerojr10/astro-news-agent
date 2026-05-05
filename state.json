@@ -425,9 +425,94 @@
       "link": "https://science.nasa.gov/earth/earth-observatory/ahuachapan-and-its-restive-neighbors/",
       "score": 4.0,
       "published_utc": "2026-05-05T04:01:00+00:00"
+    },
+    "762ac6dbf600ad9a30fe8566": {
+      "ts": 1777999741,
+      "source": "NASA Breaking News",
+      "title": "Building on America’s 65-Year Legacy of Human Spaceflight",
+      "link": "https://www.nasa.gov/image-article/building-on-americas-65-year-legacy-of-human-spaceflight/",
+      "score": 4.0,
+      "published_utc": "2026-05-05T16:04:41+00:00"
+    },
+    "b70542479731c968e1bc0859": {
+      "ts": 1777999741,
+      "source": "NASA Breaking News",
+      "title": "NASA Volunteers Double Known Population of Brown Dwarfs",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-double-known-population-of-brown-dwarfs/",
+      "score": 4.0,
+      "published_utc": "2026-05-05T13:48:55+00:00"
+    },
+    "896968deda65bb4b51962990": {
+      "ts": 1777999742,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/05/05/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-7/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-05-05T13:15:50+00:00"
+    },
+    "4828615c0c30acfd50ed971e": {
+      "ts": 1777999743,
+      "source": "Space.com",
+      "title": "These 2 companies want to start removing space junk from orbit in 2027",
+      "link": "https://www.space.com/space-exploration/satellites/these-2-companies-want-to-start-removing-space-junk-from-orbit-in-2027",
+      "score": 2.8,
+      "published_utc": "2026-05-05T16:00:00+00:00"
+    },
+    "5c2779381cc4ce0f9f03d9d6": {
+      "ts": 1777999743,
+      "source": "Space.com",
+      "title": "Former NASA chief Jim Bridenstine takes over as CEO of Quantum Space",
+      "link": "https://www.space.com/space-exploration/satellites/former-nasa-chief-jim-bridenstine-takes-over-as-ceo-of-quantum-space",
+      "score": 2.8,
+      "published_utc": "2026-05-05T14:00:00+00:00"
+    },
+    "b18fa8448c4b00feb18d2831": {
+      "ts": 1777999743,
+      "source": "Space.com",
+      "title": "NASA is making a powerful new ion engine to send astronauts to Mars — and it just passed its 1st test",
+      "link": "https://www.space.com/astronomy/mars/nasa-is-making-a-powerful-new-ion-engine-to-send-astronauts-to-mars-and-it-just-passed-its-1st-test",
+      "score": 2.8,
+      "published_utc": "2026-05-05T13:00:00+00:00"
     }
   },
-  "digest_queue": [],
+  "digest_queue": [
+    {
+      "fp": "896968deda65bb4b51962990",
+      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/05/05/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-7/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-05-05T13:15:50+00:00",
+      "day_brt": "2026-05-05",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB May 5, 2026 Will Robinson-Smith File: SpaceX’s Falcon 9 rocket stands at Space Launch Complex 4 East at Vandenberg Space Force Base ahead of the Starlink 17-31 mission on March 13, 2026. Image: SpaceX SpaceX is to launch its second Starlink mission in the month of May, this time from Vandenberg Space Force Base in California aboard a Falcon 9 rocket.",
+      "queued_ts": 1777999745
+    },
+    {
+      "fp": "762ac6dbf600ad9a30fe8566",
+      "title": "Building on America’s 65-Year Legacy of Human Spaceflight",
+      "link": "https://www.nasa.gov/image-article/building-on-americas-65-year-legacy-of-human-spaceflight/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-05T16:04:41+00:00",
+      "day_brt": "2026-05-05",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Building on America’s 65-Year Legacy of Human Spaceflight Michele Ostovar NASA History Communications Lead May 05, 2026 Image Article America’s first human spaceflight begins as the Mercury-Redstone 3 (MR-3) space vehicle, with astronaut Alan B. aboard, launches from Cape Canaveral, Florida on May 5, 1961.",
+      "queued_ts": 1777999745
+    },
+    {
+      "fp": "b70542479731c968e1bc0859",
+      "title": "NASA Volunteers Double Known Population of Brown Dwarfs",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-double-known-population-of-brown-dwarfs/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-05T13:48:55+00:00",
+      "day_brt": "2026-05-05",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Volunteers Double Known Population of Brown Dwarfs NASA Science Editorial Team May 05, 2026 Article A new paper from NASA’s Backyard Worlds: Planet 9 project announces that volunteers have essentially doubled the number of known brown dwarfs, with over 3,000 new discoveries made over the past 10 years since the project began. Brown dwarfs are balls of gas the size of Jupiter, less massive than stars.",
+      "queued_ts": 1777999745
+    }
+  ],
   "digests_sent": {
     "2026-05-03": {
       "night": true
@@ -450,7 +535,10 @@
       "f948b653facb0ff5f192f553": true
     },
     "2026-05-05": {
-      "1afa5daebc780d51c84695f4": true
+      "1afa5daebc780d51c84695f4": true,
+      "896968deda65bb4b51962990": true,
+      "762ac6dbf600ad9a30fe8566": true,
+      "b70542479731c968e1bc0859": true
     }
   }
 }
