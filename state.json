@@ -489,6 +489,14 @@
       "link": "https://www.nasaspaceflight.com/2026/05/pad-1-conversion-flight-12-nearing/",
       "score": 3.6,
       "published_utc": "2026-05-05T18:23:55+00:00"
+    },
+    "a8209bc98705a77b7c51cc4c": {
+      "ts": 1778020637,
+      "source": "NASA Breaking News",
+      "title": "NASA eClips and GLOBE Educators Strengthen a Regional STEM Ecosystem in Coastal Virginia",
+      "link": "https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-and-globe-educators-strengthen-a-regional-stem-ecosystem-in-coastal-virginia/",
+      "score": 4.0,
+      "published_utc": "2026-05-05T21:20:16+00:00"
     }
   },
   "digest_queue": [
@@ -551,6 +559,18 @@
       "day_brt": "2026-05-05",
       "resumo_pt": "Resumo (PT-BR): Pad 1 conversion ongoing, with Flight 12 nearing by Ryan Weber May 5, 2026 written by Ryan Weber May 5, 2026 1 Over six months after the end of Flight 11, the old design, Pad 1, was demolished, and conversion to the newer pad design, like Pad 2, is underway. In that time, crews have made impressive progress, with excavation of the trench about to start.",
       "queued_ts": 1778010520
+    },
+    {
+      "fp": "a8209bc98705a77b7c51cc4c",
+      "title": "NASA eClips and GLOBE Educators Strengthen a Regional STEM Ecosystem in Coastal Virginia",
+      "link": "https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-and-globe-educators-strengthen-a-regional-stem-ecosystem-in-coastal-virginia/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-05T21:20:16+00:00",
+      "day_brt": "2026-05-05",
+      "resumo_pt": "Resumo (PT-BR): Explore This Section Science Science Activation NASA eClips and GLOBE... Overview Learning Resources Science Activation Teams SME Map Opportunities More Science Activation Stories Citizen Science Science Activation Opportunities 3 min read NASA eClips and GLOBE Educators Strengthen a Regional STEM Ecosystem in Coastal Virginia NASA Science Editorial Team May 05, 2026 Article Jessica Taylor, Physical Scientist at NASA Langley Research Center and Principle Investigator for GLOBE Clouds and the My NASA Data project, explains calibration of an infrared thermometer.",
+      "queued_ts": 1778020640
     }
   ],
   "digests_sent": {
@@ -580,7 +600,8 @@
       "762ac6dbf600ad9a30fe8566": true,
       "b70542479731c968e1bc0859": true,
       "48c356d57cf1a1f54dc2db7c": true,
-      "7db3cb3665cdd1c73369c50b": true
+      "7db3cb3665cdd1c73369c50b": true,
+      "a8209bc98705a77b7c51cc4c": true
     }
   }
 }
