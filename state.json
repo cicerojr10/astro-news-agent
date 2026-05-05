@@ -417,9 +417,30 @@
       "link": "https://spaceflightnow.com/2026/05/04/lockheed-martin-announces-collaboration-with-firefly-aerospace-and-seagate-for-off-shore-launches/",
       "score": 3.6,
       "published_utc": "2026-05-04T21:52:31+00:00"
+    },
+    "1afa5daebc780d51c84695f4": {
+      "ts": 1777970185,
+      "source": "NASA Breaking News",
+      "title": "Ahuachapán and Its Restive Neighbors",
+      "link": "https://science.nasa.gov/earth/earth-observatory/ahuachapan-and-its-restive-neighbors/",
+      "score": 4.0,
+      "published_utc": "2026-05-05T04:01:00+00:00"
     }
   },
-  "digest_queue": [],
+  "digest_queue": [
+    {
+      "fp": "1afa5daebc780d51c84695f4",
+      "title": "Ahuachapán and Its Restive Neighbors",
+      "link": "https://science.nasa.gov/earth/earth-observatory/ahuachapan-and-its-restive-neighbors/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-05T04:01:00+00:00",
+      "day_brt": "2026-05-05",
+      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Ahuachapán and Its Restive... Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Notes from the Field Blog Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 3 min read Ahuachapán and Its Restive Neighbors Image of the Day for May 5, 2026 From a geothermal hotspot to the one-time “Lighthouse of the Pacific,” the heat is on beneath the volcanic landscape of western El Salvador.",
+      "queued_ts": 1777970188
+    }
+  ],
   "digests_sent": {
     "2026-05-03": {
       "night": true
@@ -437,6 +458,9 @@
       "c0c970deafa0d783584c69e1": true,
       "410272cd9757c0b95400b2be": true,
       "f948b653facb0ff5f192f553": true
+    },
+    "2026-05-05": {
+      "1afa5daebc780d51c84695f4": true
     }
   }
 }
