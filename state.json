@@ -473,6 +473,14 @@
       "link": "https://www.space.com/astronomy/mars/nasa-is-making-a-powerful-new-ion-engine-to-send-astronauts-to-mars-and-it-just-passed-its-1st-test",
       "score": 2.8,
       "published_utc": "2026-05-05T13:00:00+00:00"
+    },
+    "48c356d57cf1a1f54dc2db7c": {
+      "ts": 1778004243,
+      "source": "NASA Breaking News",
+      "title": "NASA Astronaut to Answer Questions from Students in Florida",
+      "link": "https://www.nasa.gov/general/nasa-astronaut-to-answer-questions-from-students-in-florida/",
+      "score": 4.0,
+      "published_utc": "2026-05-05T16:59:59+00:00"
     }
   },
   "digest_queue": [
@@ -511,6 +519,18 @@
       "day_brt": "2026-05-05",
       "resumo_pt": "Resumo (PT-BR): 2 min read NASA Volunteers Double Known Population of Brown Dwarfs NASA Science Editorial Team May 05, 2026 Article A new paper from NASA’s Backyard Worlds: Planet 9 project announces that volunteers have essentially doubled the number of known brown dwarfs, with over 3,000 new discoveries made over the past 10 years since the project began. Brown dwarfs are balls of gas the size of Jupiter, less massive than stars.",
       "queued_ts": 1777999745
+    },
+    {
+      "fp": "48c356d57cf1a1f54dc2db7c",
+      "title": "NASA Astronaut to Answer Questions from Students in Florida",
+      "link": "https://www.nasa.gov/general/nasa-astronaut-to-answer-questions-from-students-in-florida/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-05T16:59:59+00:00",
+      "day_brt": "2026-05-05",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Astronaut to Answer Questions from Students in Florida Gerelle Q. Dodson May 05, 2026 Article NASA astronaut Chris Williams calls down to mission controllers during Crew Medical Officer training while inside the International Space Station’s Destiny laboratory module.",
+      "queued_ts": 1778004246
     }
   ],
   "digests_sent": {
@@ -538,7 +558,8 @@
       "1afa5daebc780d51c84695f4": true,
       "896968deda65bb4b51962990": true,
       "762ac6dbf600ad9a30fe8566": true,
-      "b70542479731c968e1bc0859": true
+      "b70542479731c968e1bc0859": true,
+      "48c356d57cf1a1f54dc2db7c": true
     }
   }
 }
