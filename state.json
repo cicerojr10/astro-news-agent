@@ -499,80 +499,7 @@
       "published_utc": "2026-05-05T21:20:16+00:00"
     }
   },
-  "digest_queue": [
-    {
-      "fp": "896968deda65bb4b51962990",
-      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
-      "link": "https://spaceflightnow.com/2026/05/05/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-7/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-05-05T13:15:50+00:00",
-      "day_brt": "2026-05-05",
-      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB May 5, 2026 Will Robinson-Smith File: SpaceX’s Falcon 9 rocket stands at Space Launch Complex 4 East at Vandenberg Space Force Base ahead of the Starlink 17-31 mission on March 13, 2026. Image: SpaceX SpaceX is to launch its second Starlink mission in the month of May, this time from Vandenberg Space Force Base in California aboard a Falcon 9 rocket.",
-      "queued_ts": 1777999745
-    },
-    {
-      "fp": "762ac6dbf600ad9a30fe8566",
-      "title": "Building on America’s 65-Year Legacy of Human Spaceflight",
-      "link": "https://www.nasa.gov/image-article/building-on-americas-65-year-legacy-of-human-spaceflight/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-05T16:04:41+00:00",
-      "day_brt": "2026-05-05",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Building on America’s 65-Year Legacy of Human Spaceflight Michele Ostovar NASA History Communications Lead May 05, 2026 Image Article America’s first human spaceflight begins as the Mercury-Redstone 3 (MR-3) space vehicle, with astronaut Alan B. aboard, launches from Cape Canaveral, Florida on May 5, 1961.",
-      "queued_ts": 1777999745
-    },
-    {
-      "fp": "b70542479731c968e1bc0859",
-      "title": "NASA Volunteers Double Known Population of Brown Dwarfs",
-      "link": "https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-double-known-population-of-brown-dwarfs/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-05T13:48:55+00:00",
-      "day_brt": "2026-05-05",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Volunteers Double Known Population of Brown Dwarfs NASA Science Editorial Team May 05, 2026 Article A new paper from NASA’s Backyard Worlds: Planet 9 project announces that volunteers have essentially doubled the number of known brown dwarfs, with over 3,000 new discoveries made over the past 10 years since the project began. Brown dwarfs are balls of gas the size of Jupiter, less massive than stars.",
-      "queued_ts": 1777999745
-    },
-    {
-      "fp": "48c356d57cf1a1f54dc2db7c",
-      "title": "NASA Astronaut to Answer Questions from Students in Florida",
-      "link": "https://www.nasa.gov/general/nasa-astronaut-to-answer-questions-from-students-in-florida/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-05T16:59:59+00:00",
-      "day_brt": "2026-05-05",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Astronaut to Answer Questions from Students in Florida Gerelle Q. Dodson May 05, 2026 Article NASA astronaut Chris Williams calls down to mission controllers during Crew Medical Officer training while inside the International Space Station’s Destiny laboratory module.",
-      "queued_ts": 1778004246
-    },
-    {
-      "fp": "7db3cb3665cdd1c73369c50b",
-      "title": "Pad 1 conversion ongoing, with Flight 12 nearing",
-      "link": "https://www.nasaspaceflight.com/2026/05/pad-1-conversion-flight-12-nearing/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-05-05T18:23:55+00:00",
-      "day_brt": "2026-05-05",
-      "resumo_pt": "Resumo (PT-BR): Pad 1 conversion ongoing, with Flight 12 nearing by Ryan Weber May 5, 2026 written by Ryan Weber May 5, 2026 1 Over six months after the end of Flight 11, the old design, Pad 1, was demolished, and conversion to the newer pad design, like Pad 2, is underway. In that time, crews have made impressive progress, with excavation of the trench about to start.",
-      "queued_ts": 1778010520
-    },
-    {
-      "fp": "a8209bc98705a77b7c51cc4c",
-      "title": "NASA eClips and GLOBE Educators Strengthen a Regional STEM Ecosystem in Coastal Virginia",
-      "link": "https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-and-globe-educators-strengthen-a-regional-stem-ecosystem-in-coastal-virginia/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-05T21:20:16+00:00",
-      "day_brt": "2026-05-05",
-      "resumo_pt": "Resumo (PT-BR): Explore This Section Science Science Activation NASA eClips and GLOBE... Overview Learning Resources Science Activation Teams SME Map Opportunities More Science Activation Stories Citizen Science Science Activation Opportunities 3 min read NASA eClips and GLOBE Educators Strengthen a Regional STEM Ecosystem in Coastal Virginia NASA Science Editorial Team May 05, 2026 Article Jessica Taylor, Physical Scientist at NASA Langley Research Center and Principle Investigator for GLOBE Clouds and the My NASA Data project, explains calibration of an infrared thermometer.",
-      "queued_ts": 1778020640
-    }
-  ],
+  "digest_queue": [],
   "digests_sent": {
     "2026-05-03": {
       "night": true
@@ -582,7 +509,8 @@
       "night": true
     },
     "2026-05-05": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
