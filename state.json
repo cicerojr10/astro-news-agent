@@ -562,9 +562,50 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/europes-1st-reusable-spacecraft-space-rider-clears-key-hurdles-on-the-road-to-launch",
       "score": 2.8,
       "published_utc": "2026-05-06T19:00:00+00:00"
+    },
+    "3316221a69de724e17e2c791": {
+      "ts": 1778111639,
+      "source": "NASA Breaking News",
+      "title": "Ames Science Stars of the Month May 2026",
+      "link": "https://www.nasa.gov/general/ames-science-stars-of-the-month-may-2026/",
+      "score": 4.0,
+      "published_utc": "2026-05-06T22:19:47+00:00"
+    },
+    "e2fad9584a7b901e5c6e466c": {
+      "ts": 1778111639,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Dryden Aeronautical Test Range Supports Flight, Space Missions",
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasas-dryden-aeronautical-test-range-supports-flight-space-missions/",
+      "score": 4.0,
+      "published_utc": "2026-05-06T20:42:35+00:00"
     }
   },
-  "digest_queue": [],
+  "digest_queue": [
+    {
+      "fp": "3316221a69de724e17e2c791",
+      "title": "Ames Science Stars of the Month May 2026",
+      "link": "https://www.nasa.gov/general/ames-science-stars-of-the-month-may-2026/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-06T22:19:47+00:00",
+      "day_brt": "2026-05-06",
+      "resumo_pt": "Resumo (PT-BR): 2 min read Ames Science Stars of the Month May 2026 Aaron McKinnon May 06, 2026 Article NASA Ames Science Directorate Stars of the Month: May 2026 The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Lora Jovanović, Tammy Moore, Frances Donovan, and Jaden Ta. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
+      "queued_ts": 1778111643
+    },
+    {
+      "fp": "e2fad9584a7b901e5c6e466c",
+      "title": "NASA’s Dryden Aeronautical Test Range Supports Flight, Space Missions",
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasas-dryden-aeronautical-test-range-supports-flight-space-missions/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-06T20:42:35+00:00",
+      "day_brt": "2026-05-06",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA’s Dryden Aeronautical Test Range Supports Flight, Space Missions Jay Levine NASA Armstrong Public Affairs Specialist May 06, 2026 Article Contents Preparing for future flights Supporting space station operations Advancing NASA's mission Range operators at the Dryden Aeronautical Test Range at NASA’s Armstong Flight Research Center in Edwards, California, provide voice and tracking support to the International Space Station. 6, 2025, photo, Alex Oganesyan, left, and Deming Ingles are at their workstations, where they support communications backup for space station missions.",
+      "queued_ts": 1778111643
+    }
+  ],
   "digests_sent": {
     "2026-05-03": {
       "night": true
@@ -604,7 +645,9 @@
       "0ba1ebe8f7736d450850bc04": true,
       "178ac21e31fefc96ec4e9390": true,
       "25b3a3e505f04a3c09e3e6e5": true,
-      "b58b80903dde34ba4400f133": true
+      "b58b80903dde34ba4400f133": true,
+      "3316221a69de724e17e2c791": true,
+      "e2fad9584a7b901e5c6e466c": true
     }
   }
 }
