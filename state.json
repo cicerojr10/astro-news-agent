@@ -514,9 +514,50 @@
       "link": "https://www.space.com/space-exploration/satellites/solar-activity-space-junk-crash-earth-faster",
       "score": 2.8,
       "published_utc": "2026-05-06T10:00:00+00:00"
+    },
+    "0ba1ebe8f7736d450850bc04": {
+      "ts": 1778087050,
+      "source": "NASA Breaking News",
+      "title": "Unlocking the Mystery of X-ray Dots",
+      "link": "https://www.nasa.gov/image-article/unlocking-the-mystery-of-x-ray-dots/",
+      "score": 4.0,
+      "published_utc": "2026-05-06T15:07:18+00:00"
+    },
+    "178ac21e31fefc96ec4e9390": {
+      "ts": 1778087050,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Roman Poised to Transform Hunt for Elusive Neutron Stars",
+      "link": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-poised-to-transform-hunt-for-elusive-neutron-stars/",
+      "score": 4.0,
+      "published_utc": "2026-05-06T14:00:00+00:00"
     }
   },
-  "digest_queue": [],
+  "digest_queue": [
+    {
+      "fp": "0ba1ebe8f7736d450850bc04",
+      "title": "Unlocking the Mystery of X-ray Dots",
+      "link": "https://www.nasa.gov/image-article/unlocking-the-mystery-of-x-ray-dots/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-06T15:07:18+00:00",
+      "day_brt": "2026-05-06",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Unlocking the Mystery of X-ray Dots Lee Mohon HQ Web Team May 06, 2026 Image Article A newly discovered object may be a key to unlocking the true nature of a mysterious class of sources that astronomers have found in the early universe in recent years. Major A new “X-ray dot” found by NASA’s Chandra X-ray Observatory – which could look like this artist’s illustration released on April 28, 2026 – could explain what the hundreds or potentially thousands of these objects are.",
+      "queued_ts": 1778087054
+    },
+    {
+      "fp": "178ac21e31fefc96ec4e9390",
+      "title": "NASA’s Roman Poised to Transform Hunt for Elusive Neutron Stars",
+      "link": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-poised-to-transform-hunt-for-elusive-neutron-stars/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-06T14:00:00+00:00",
+      "day_brt": "2026-05-06",
+      "resumo_pt": "Resumo (PT-BR): 5 min read NASA’s Roman Poised to Transform Hunt for Elusive Neutron Stars Hannah Braun Space Telescope Science Institute May 06, 2026 Article This artist’s concept shows an isolated neutron star as an ultra-dense stellar remnant, packing more mass than the Sun into a city-sized sphere and radiating energy as it slowly cools in the depths of space. NASA’s upcoming Nancy Grace Roman Space Telescope will search for, and could measure the mass of, isolated neutron stars using astrometric microlensing.",
+      "queued_ts": 1778087054
+    }
+  ],
   "digests_sent": {
     "2026-05-03": {
       "night": true
@@ -550,6 +591,10 @@
       "48c356d57cf1a1f54dc2db7c": true,
       "7db3cb3665cdd1c73369c50b": true,
       "a8209bc98705a77b7c51cc4c": true
+    },
+    "2026-05-06": {
+      "0ba1ebe8f7736d450850bc04": true,
+      "178ac21e31fefc96ec4e9390": true
     }
   }
 }
