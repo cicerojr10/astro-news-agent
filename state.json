@@ -506,6 +506,14 @@
       "score": 0.0,
       "published_utc": "2026-05-05T13:15:50+00:00",
       "note": "not_today"
+    },
+    "ce7f270434c1cec4e24bc187": {
+      "ts": 1778066242,
+      "source": "Space.com",
+      "title": "Solar activity makes space junk crash to Earth faster",
+      "link": "https://www.space.com/space-exploration/satellites/solar-activity-space-junk-crash-earth-faster",
+      "score": 2.8,
+      "published_utc": "2026-05-06T10:00:00+00:00"
     }
   },
   "digest_queue": [],
@@ -520,6 +528,9 @@
     "2026-05-05": {
       "morning": true,
       "night": true
+    },
+    "2026-05-06": {
+      "morning": true
     }
   },
   "sent_updates": {
