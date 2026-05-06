@@ -530,6 +530,22 @@
       "link": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-poised-to-transform-hunt-for-elusive-neutron-stars/",
       "score": 4.0,
       "published_utc": "2026-05-06T14:00:00+00:00"
+    },
+    "25b3a3e505f04a3c09e3e6e5": {
+      "ts": 1778093369,
+      "source": "NASA Breaking News",
+      "title": "NASA Sets Coverage for SpaceX 34th Station Resupply Launch, Arrival",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-34th-station-resupply-launch-arrival/",
+      "score": 4.0,
+      "published_utc": "2026-05-06T17:14:08+00:00"
+    },
+    "9c6d4b90b0c9e1b3c64a6aed": {
+      "ts": 1778093371,
+      "source": "Space.com",
+      "title": "'Whatever Russia is testing, it's sophisticated': 2 Russian satellites get within 10 feet of each other in orbit",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/whatever-russia-is-testing-its-sophisticated-2-russian-satellites-get-within-10-feet-of-each-other-in-orbit",
+      "score": 2.8,
+      "published_utc": "2026-05-06T18:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -556,6 +572,18 @@
       "day_brt": "2026-05-06",
       "resumo_pt": "Resumo (PT-BR): 5 min read NASA’s Roman Poised to Transform Hunt for Elusive Neutron Stars Hannah Braun Space Telescope Science Institute May 06, 2026 Article This artist’s concept shows an isolated neutron star as an ultra-dense stellar remnant, packing more mass than the Sun into a city-sized sphere and radiating energy as it slowly cools in the depths of space. NASA’s upcoming Nancy Grace Roman Space Telescope will search for, and could measure the mass of, isolated neutron stars using astrometric microlensing.",
       "queued_ts": 1778087054
+    },
+    {
+      "fp": "25b3a3e505f04a3c09e3e6e5",
+      "title": "NASA Sets Coverage for SpaceX 34th Station Resupply Launch, Arrival",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-34th-station-resupply-launch-arrival/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-06T17:14:08+00:00",
+      "day_brt": "2026-05-06",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA Sets Coverage for SpaceX 34th Station Resupply Launch, Arrival Gerelle Q. Dodson May 06, 2026 MEDIA ADVISORY M26-037 NASA Headquarters Kennedy Space Center Johnson Space Center A SpaceX Dragon cargo spacecraft supporting NASA’s SpaceX CRS-33 mission approaches the International Space Station on Aug.",
+      "queued_ts": 1778093371
     }
   ],
   "digests_sent": {
@@ -594,7 +622,8 @@
     },
     "2026-05-06": {
       "0ba1ebe8f7736d450850bc04": true,
-      "178ac21e31fefc96ec4e9390": true
+      "178ac21e31fefc96ec4e9390": true,
+      "25b3a3e505f04a3c09e3e6e5": true
     }
   }
 }
