@@ -546,6 +546,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/whatever-russia-is-testing-its-sophisticated-2-russian-satellites-get-within-10-feet-of-each-other-in-orbit",
       "score": 2.8,
       "published_utc": "2026-05-06T18:00:00+00:00"
+    },
+    "b58b80903dde34ba4400f133": {
+      "ts": 1778098437,
+      "source": "NASA Breaking News",
+      "title": "NASA Wallops to Host Public Information Session May 13",
+      "link": "https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-host-public-information-session-may-13/",
+      "score": 4.0,
+      "published_utc": "2026-05-06T19:09:23+00:00"
+    },
+    "a10436c08497fa28f2760fb2": {
+      "ts": 1778098440,
+      "source": "Space.com",
+      "title": "Europe's 1st reusable spacecraft 'Space Rider' clears key hurdles on the road to launch",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/europes-1st-reusable-spacecraft-space-rider-clears-key-hurdles-on-the-road-to-launch",
+      "score": 2.8,
+      "published_utc": "2026-05-06T19:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -584,6 +600,18 @@
       "day_brt": "2026-05-06",
       "resumo_pt": "Resumo (PT-BR): 4 min read NASA Sets Coverage for SpaceX 34th Station Resupply Launch, Arrival Gerelle Q. Dodson May 06, 2026 MEDIA ADVISORY M26-037 NASA Headquarters Kennedy Space Center Johnson Space Center A SpaceX Dragon cargo spacecraft supporting NASA’s SpaceX CRS-33 mission approaches the International Space Station on Aug.",
       "queued_ts": 1778093371
+    },
+    {
+      "fp": "b58b80903dde34ba4400f133",
+      "title": "NASA Wallops to Host Public Information Session May 13",
+      "link": "https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-host-public-information-session-may-13/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-06T19:09:23+00:00",
+      "day_brt": "2026-05-06",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA Wallops to Host Public Information Session May 13 Goddard Digital Team May 06, 2026 Article Aerial view of NASA’s Wallops Flight Facility main base in Wallops Island, Virginia. Courtesy of Patrick Hendrickson To facilitate discussion and information sharing on activities at NASA’s Wallops Flight Facility in Virginia, a public information session is being held 4–6 p.m., Wednesday, May 13, at the NASA Wallops Visitor Center.",
+      "queued_ts": 1778098440
     }
   ],
   "digests_sent": {
@@ -623,7 +651,8 @@
     "2026-05-06": {
       "0ba1ebe8f7736d450850bc04": true,
       "178ac21e31fefc96ec4e9390": true,
-      "25b3a3e505f04a3c09e3e6e5": true
+      "25b3a3e505f04a3c09e3e6e5": true,
+      "b58b80903dde34ba4400f133": true
     }
   }
 }
