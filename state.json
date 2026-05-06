@@ -497,6 +497,15 @@
       "link": "https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-and-globe-educators-strengthen-a-regional-stem-ecosystem-in-coastal-virginia/",
       "score": 4.0,
       "published_utc": "2026-05-05T21:20:16+00:00"
+    },
+    "b9ce357a6547439878f09405": {
+      "ts": 1778049639,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/05/05/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-7/",
+      "score": 0.0,
+      "published_utc": "2026-05-05T13:15:50+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [],
