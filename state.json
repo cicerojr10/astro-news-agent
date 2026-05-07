@@ -594,6 +594,30 @@
       "link": "https://www.space.com/astronomy/black-holes/how-do-the-biggest-black-holes-in-the-universe-form-ripples-in-spacetime-provide-a-clue",
       "score": 2.8,
       "published_utc": "2026-05-07T13:00:00+00:00"
+    },
+    "3a7d5f7f02b1a5e9c323ba5b": {
+      "ts": 1778167885,
+      "source": "NASA Breaking News",
+      "title": "NASA-Supported Small Spacecraft Launches to Study Solar Particles",
+      "link": "https://www.nasa.gov/directorates/stmd/nasa-supported-small-spacecraft-launches-to-study-solar-particles/",
+      "score": 4.0,
+      "published_utc": "2026-05-07T14:44:59+00:00"
+    },
+    "bbc473dd7385cd696ce14665": {
+      "ts": 1778167885,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Simulated Mars Mission Marks 200 Days Inside Habitat",
+      "link": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-mission-marks-200-days-inside-habitat/",
+      "score": 4.0,
+      "published_utc": "2026-05-07T14:07:53+00:00"
+    },
+    "7fca5565efb030fa2684f6ff": {
+      "ts": 1778167888,
+      "source": "Space.com",
+      "title": "Here's what 6 years of driving on Mars did to the wheels on NASA's Curiosity rover (video)",
+      "link": "https://www.space.com/astronomy/mars/heres-what-6-years-of-driving-on-mars-did-to-the-wheels-on-nasas-curiosity-rover-video",
+      "score": 2.8,
+      "published_utc": "2026-05-07T14:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -620,6 +644,30 @@
       "day_brt": "2026-05-06",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA’s Dryden Aeronautical Test Range Supports Flight, Space Missions Jay Levine NASA Armstrong Public Affairs Specialist May 06, 2026 Article Contents Preparing for future flights Supporting space station operations Advancing NASA's mission Range operators at the Dryden Aeronautical Test Range at NASA’s Armstong Flight Research Center in Edwards, California, provide voice and tracking support to the International Space Station. 6, 2025, photo, Alex Oganesyan, left, and Deming Ingles are at their workstations, where they support communications backup for space station missions.",
       "queued_ts": 1778111643
+    },
+    {
+      "fp": "3a7d5f7f02b1a5e9c323ba5b",
+      "title": "NASA-Supported Small Spacecraft Launches to Study Solar Particles",
+      "link": "https://www.nasa.gov/directorates/stmd/nasa-supported-small-spacecraft-launches-to-study-solar-particles/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-07T14:44:59+00:00",
+      "day_brt": "2026-05-07",
+      "resumo_pt": "Resumo (PT-BR): 3 Min Read NASA-Supported Small Spacecraft Launches to Study Solar Particles The Solar Neutrino Astro-Particle PhYsics (SNAPPY) CubeSat launched at 3 a.m. PDT) on Sunday, May 3, aboard a SpaceX Falcon 9 rocket from Space Launch Complex 4 East at Vandenburg Space Force Base in California.",
+      "queued_ts": 1778167888
+    },
+    {
+      "fp": "bbc473dd7385cd696ce14665",
+      "title": "NASA’s Simulated Mars Mission Marks 200 Days Inside Habitat",
+      "link": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-mission-marks-200-days-inside-habitat/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-07T14:07:53+00:00",
+      "day_brt": "2026-05-07",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA’s Simulated Mars Mission Marks 200 Days Inside Habitat HRP Communications Team HRP Communications Team May 07, 2026 Article Members of NASA’s CHAPEA (Crew Health and Performance Exploration Analog) mission 2 pose for a group photo. (From left to right: Ellen Ellis, Ross Elder, James Spicer, and Matthew Montgomery) Credit: NASA The four crew members of NASA’s Mars simulation recently marked 200 days into their 378-day Red Planet mission on May 7.",
+      "queued_ts": 1778167888
     }
   ],
   "digests_sent": {
@@ -669,7 +717,9 @@
       "e2fad9584a7b901e5c6e466c": true
     },
     "2026-05-07": {
-      "98a3b07488cb5cbfe74b8f92": true
+      "98a3b07488cb5cbfe74b8f92": true,
+      "3a7d5f7f02b1a5e9c323ba5b": true,
+      "bbc473dd7385cd696ce14665": true
     }
   }
 }
