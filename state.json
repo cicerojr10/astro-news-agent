@@ -650,6 +650,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/where-does-earths-mysterious-ring-current-come-from-nasa-and-the-us-space-force-are-launching-a-mission-to-find-out",
       "score": 2.8,
       "published_utc": "2026-05-07T18:01:01+00:00"
+    },
+    "3c4c3353a10b61c292839f2a": {
+      "ts": 1778185352,
+      "source": "NASA Breaking News",
+      "title": "NASA Sends Mars Helicopter Blades Beyond Mach 1",
+      "link": "https://science.nasa.gov/photojournal/nasa-sends-mars-helicopter-blades-beyond-mach-1/",
+      "score": 4.0,
+      "published_utc": "2026-05-07T18:33:32+00:00"
+    },
+    "b75a7fad96e75dc1b057d89c": {
+      "ts": 1778185352,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Next-Gen Mars Helicopter Rotors Are Moving Fast",
+      "link": "https://science.nasa.gov/photojournal/nasas-next-gen-mars-helicopter-rotors-are-moving-fast/",
+      "score": 4.0,
+      "published_utc": "2026-05-07T18:32:37+00:00"
     }
   },
   "digest_queue": [
@@ -736,6 +752,30 @@
       "day_brt": "2026-05-07",
       "resumo_pt": "Resumo (PT-BR): 6 min read NASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1 Jet Propulsion Laboratory May 07, 2026 Article Contents Need for speed Blade-proof chamber More about NASA’s Mars Exploration Program Engineer Jaakko Karras inspects a next-generation Mars helicopter rotor blade prior to testing it at supersonic speeds in the 25-Foot Space Simulator at NASA’s Jet Propulsion Laboratory in November 2025. NASA/JPL-Caltech Inside the dark chamber of JPL’s 25-Foot Space Simulator, an engineer examines a test stand used to investigate the performance of next-generation Mars helicopter rotor blades at high speeds.",
       "queued_ts": 1778180596
+    },
+    {
+      "fp": "3c4c3353a10b61c292839f2a",
+      "title": "NASA Sends Mars Helicopter Blades Beyond Mach 1",
+      "link": "https://science.nasa.gov/photojournal/nasa-sends-mars-helicopter-blades-beyond-mach-1/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-07T18:33:32+00:00",
+      "day_brt": "2026-05-07",
+      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NASA Sends Mars Helicopter... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 1 Min Read NASA Sends Mars Helicopter Blades Beyond Mach 1 PIA26649 Credits: NASA/JPL-Caltech Image Addition Date: 05/07/2026 Downloads NASA Sends Mars Helicopter Blades Beyond Mach 1 JPEG (1.38 MB) Description Engineer Fernando Mier-Hicks inspects a test stand used to investigate the performance of next-generation Mars helicopter rotor blades at high speeds inside the 25-Foot Space Simulator at NASA’s Jet Propulsion Laboratory in Southern California in November 2025.",
+      "queued_ts": 1778185356
+    },
+    {
+      "fp": "b75a7fad96e75dc1b057d89c",
+      "title": "NASA’s Next-Gen Mars Helicopter Rotors Are Moving Fast",
+      "link": "https://science.nasa.gov/photojournal/nasas-next-gen-mars-helicopter-rotors-are-moving-fast/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-07T18:32:37+00:00",
+      "day_brt": "2026-05-07",
+      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NASA’s Next-Gen Mars... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 1 Min Read NASA’s Next-Gen Mars Helicopter Rotors Are Moving Fast PIA26648 Credits: NASA/JPL-Caltech Image Addition Date: 05/07/2026 Downloads NASA’s Next-Gen Mars Helicopter Rotors Are Moving Fast JPEG (1.34 MB) Description Engineer Jaakko Karras inspects a next-generation Mars helicopter rotor blade prior to supersonic speed testing in the 25-Foot Space Simulator at NASA’s Jet Propulsion Laboratory in Southern California in November 2025.",
+      "queued_ts": 1778185356
     }
   ],
   "digests_sent": {
@@ -790,7 +830,9 @@
       "bbc473dd7385cd696ce14665": true,
       "b9c56cf7b3c474c1e5dfb1a0": true,
       "1aac41b83fb41d97448959bf": true,
-      "d76caa7af47ceb3a9fdd74f0": true
+      "d76caa7af47ceb3a9fdd74f0": true,
+      "3c4c3353a10b61c292839f2a": true,
+      "b75a7fad96e75dc1b057d89c": true
     }
   }
 }
