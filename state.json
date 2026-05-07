@@ -618,6 +618,22 @@
       "link": "https://www.space.com/astronomy/mars/heres-what-6-years-of-driving-on-mars-did-to-the-wheels-on-nasas-curiosity-rover-video",
       "score": 2.8,
       "published_utc": "2026-05-07T14:00:00+00:00"
+    },
+    "b9c56cf7b3c474c1e5dfb1a0": {
+      "ts": 1778174397,
+      "source": "NASA Breaking News",
+      "title": "A Light in the Dark",
+      "link": "https://www.nasa.gov/image-article/a-light-in-the-dark/",
+      "score": 4.0,
+      "published_utc": "2026-05-07T15:25:37+00:00"
+    },
+    "1aac41b83fb41d97448959bf": {
+      "ts": 1778174397,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit",
+      "link": "https://science.nasa.gov/science-research/ai-foundation-model-in-orbit/",
+      "score": 4.0,
+      "published_utc": "2026-05-07T14:23:35+00:00"
     }
   },
   "digest_queue": [
@@ -668,6 +684,30 @@
       "day_brt": "2026-05-07",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA’s Simulated Mars Mission Marks 200 Days Inside Habitat HRP Communications Team HRP Communications Team May 07, 2026 Article Members of NASA’s CHAPEA (Crew Health and Performance Exploration Analog) mission 2 pose for a group photo. (From left to right: Ellen Ellis, Ross Elder, James Spicer, and Matthew Montgomery) Credit: NASA The four crew members of NASA’s Mars simulation recently marked 200 days into their 378-day Red Planet mission on May 7.",
       "queued_ts": 1778167888
+    },
+    {
+      "fp": "b9c56cf7b3c474c1e5dfb1a0",
+      "title": "A Light in the Dark",
+      "link": "https://www.nasa.gov/image-article/a-light-in-the-dark/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-07T15:25:37+00:00",
+      "day_brt": "2026-05-07",
+      "resumo_pt": "Resumo (PT-BR): 1 min read A Light in the Dark HQ Web Team May 07, 2026 Image Article NASA A thin sliver of Earth’s edge is brightly illuminated against the vast darkness of space in this April 3, 2026, image taken during the Artemis II mission. Artemis II was the first crewed flight in a series of missions to test NASA’s human deep space capabilities, paving the way for future lunar surface missions.",
+      "queued_ts": 1778174400
+    },
+    {
+      "fp": "1aac41b83fb41d97448959bf",
+      "title": "NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit",
+      "link": "https://science.nasa.gov/science-research/ai-foundation-model-in-orbit/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-07T14:23:35+00:00",
+      "day_brt": "2026-05-07",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit Lauren Leese May 07, 2026 Article Florida as seen from the International Space Station. A NASA geospatial AI foundation model was deployed to a platform aboard the space station for the first time, unlocking new opportunities for Earth observation.",
+      "queued_ts": 1778174400
     }
   ],
   "digests_sent": {
@@ -719,7 +759,9 @@
     "2026-05-07": {
       "98a3b07488cb5cbfe74b8f92": true,
       "3a7d5f7f02b1a5e9c323ba5b": true,
-      "bbc473dd7385cd696ce14665": true
+      "bbc473dd7385cd696ce14665": true,
+      "b9c56cf7b3c474c1e5dfb1a0": true,
+      "1aac41b83fb41d97448959bf": true
     }
   }
 }
