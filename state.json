@@ -634,6 +634,22 @@
       "link": "https://science.nasa.gov/science-research/ai-foundation-model-in-orbit/",
       "score": 4.0,
       "published_utc": "2026-05-07T14:23:35+00:00"
+    },
+    "d76caa7af47ceb3a9fdd74f0": {
+      "ts": 1778180593,
+      "source": "NASA Breaking News",
+      "title": "NASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1",
+      "link": "https://www.nasa.gov/solar-system/planets/mars/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/",
+      "score": 4.0,
+      "published_utc": "2026-05-07T18:28:59+00:00"
+    },
+    "c17e6bfb89ea296c09be70c8": {
+      "ts": 1778180595,
+      "source": "Space.com",
+      "title": "Where does Earth's mysterious 'ring current' come from? NASA and the US Space Force are launching a mission to find out",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/where-does-earths-mysterious-ring-current-come-from-nasa-and-the-us-space-force-are-launching-a-mission-to-find-out",
+      "score": 2.8,
+      "published_utc": "2026-05-07T18:01:01+00:00"
     }
   },
   "digest_queue": [
@@ -708,6 +724,18 @@
       "day_brt": "2026-05-07",
       "resumo_pt": "Resumo (PT-BR): 4 min read NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit Lauren Leese May 07, 2026 Article Florida as seen from the International Space Station. A NASA geospatial AI foundation model was deployed to a platform aboard the space station for the first time, unlocking new opportunities for Earth observation.",
       "queued_ts": 1778174400
+    },
+    {
+      "fp": "d76caa7af47ceb3a9fdd74f0",
+      "title": "NASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1",
+      "link": "https://www.nasa.gov/solar-system/planets/mars/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-07T18:28:59+00:00",
+      "day_brt": "2026-05-07",
+      "resumo_pt": "Resumo (PT-BR): 6 min read NASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1 Jet Propulsion Laboratory May 07, 2026 Article Contents Need for speed Blade-proof chamber More about NASA’s Mars Exploration Program Engineer Jaakko Karras inspects a next-generation Mars helicopter rotor blade prior to testing it at supersonic speeds in the 25-Foot Space Simulator at NASA’s Jet Propulsion Laboratory in November 2025. NASA/JPL-Caltech Inside the dark chamber of JPL’s 25-Foot Space Simulator, an engineer examines a test stand used to investigate the performance of next-generation Mars helicopter rotor blades at high speeds.",
+      "queued_ts": 1778180596
     }
   ],
   "digests_sent": {
@@ -761,7 +789,8 @@
       "3a7d5f7f02b1a5e9c323ba5b": true,
       "bbc473dd7385cd696ce14665": true,
       "b9c56cf7b3c474c1e5dfb1a0": true,
-      "1aac41b83fb41d97448959bf": true
+      "1aac41b83fb41d97448959bf": true,
+      "d76caa7af47ceb3a9fdd74f0": true
     }
   }
 }
