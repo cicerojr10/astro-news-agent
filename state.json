@@ -698,6 +698,14 @@
       "link": "https://spaceflightnow.com/2026/05/07/rocket-lab-announces-five-launch-neutron-deal-as-it-continues-aiming-for-late-2026-debut/",
       "score": 13.5,
       "published_utc": "2026-05-07T22:35:44+00:00"
+    },
+    "2b1def7249358c5e61455a68": {
+      "ts": 1778198109,
+      "source": "NASA Breaking News",
+      "title": "Meet the Fleet: NASA Armstrong Continues Legacy of Flight Research",
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research/",
+      "score": 4.0,
+      "published_utc": "2026-05-07T23:45:41+00:00"
     }
   },
   "digest_queue": [
@@ -724,6 +732,18 @@
       "day_brt": "2026-05-06",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA’s Dryden Aeronautical Test Range Supports Flight, Space Missions Jay Levine NASA Armstrong Public Affairs Specialist May 06, 2026 Article Contents Preparing for future flights Supporting space station operations Advancing NASA's mission Range operators at the Dryden Aeronautical Test Range at NASA’s Armstong Flight Research Center in Edwards, California, provide voice and tracking support to the International Space Station. 6, 2025, photo, Alex Oganesyan, left, and Deming Ingles are at their workstations, where they support communications backup for space station missions.",
       "queued_ts": 1778111643
+    },
+    {
+      "fp": "2b1def7249358c5e61455a68",
+      "title": "Meet the Fleet: NASA Armstrong Continues Legacy of Flight Research",
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-07T23:45:41+00:00",
+      "day_brt": "2026-05-07",
+      "resumo_pt": "Resumo (PT-BR): 3 min read Meet the Fleet: NASA Armstrong Continues Legacy of Flight Research Teresa Whiting NASA Armstrong Public Affairs Specialist May 07, 2026 Article NASA’s X-59 quiet supersonic research aircraft flies above Palmdale and Edwards, California, during its first flight Tuesday, Oct. 28, 2025, accompanied by a NASA F/A-18 research aircraft serving as chase.",
+      "queued_ts": 1778198118
     }
   ],
   "digests_sent": {
@@ -784,7 +804,8 @@
       "b75a7fad96e75dc1b057d89c": true,
       "eee0109725be7226da138cdd": true,
       "b8b679f7556eca3c8a134696": true,
-      "c77ed6149e646a94bb1f65ee": true
+      "c77ed6149e646a94bb1f65ee": true,
+      "2b1def7249358c5e61455a68": true
     }
   }
 }
