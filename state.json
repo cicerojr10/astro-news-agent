@@ -578,6 +578,14 @@
       "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasas-dryden-aeronautical-test-range-supports-flight-space-missions/",
       "score": 4.0,
       "published_utc": "2026-05-06T20:42:35+00:00"
+    },
+    "98a3b07488cb5cbfe74b8f92": {
+      "ts": 1778152753,
+      "source": "NASA Breaking News",
+      "title": "Cornell Students Aid NASA with Drone Safety in Sky",
+      "link": "https://www.nasa.gov/aeronautics/usrc-cornell-drone-safety/",
+      "score": 4.0,
+      "published_utc": "2026-05-07T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -621,6 +629,9 @@
     "2026-05-06": {
       "morning": true,
       "night": true
+    },
+    "2026-05-07": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -648,6 +659,9 @@
       "b58b80903dde34ba4400f133": true,
       "3316221a69de724e17e2c791": true,
       "e2fad9584a7b901e5c6e466c": true
+    },
+    "2026-05-07": {
+      "98a3b07488cb5cbfe74b8f92": true
     }
   }
 }
