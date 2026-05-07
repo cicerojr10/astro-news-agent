@@ -666,6 +666,30 @@
       "link": "https://science.nasa.gov/photojournal/nasas-next-gen-mars-helicopter-rotors-are-moving-fast/",
       "score": 4.0,
       "published_utc": "2026-05-07T18:32:37+00:00"
+    },
+    "eee0109725be7226da138cdd": {
+      "ts": 1778189331,
+      "source": "NASA Breaking News",
+      "title": "NASA Welcomes Paraguay as 67th Artemis Accords Signatory",
+      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-paraguay-as-67th-artemis-accords-signatory/",
+      "score": 4.0,
+      "published_utc": "2026-05-07T20:41:48+00:00"
+    },
+    "b8b679f7556eca3c8a134696": {
+      "ts": 1778189334,
+      "source": "NASASpaceflight",
+      "title": "China prepares cargo, crew, and deep space missions, as commercial sector steps towards reusability",
+      "link": "https://www.nasaspaceflight.com/2026/05/china-cargo-crew-reusability/",
+      "score": 3.6,
+      "published_utc": "2026-05-07T21:04:09+00:00"
+    },
+    "b7ca78f97b333aa7bc0b9ed0": {
+      "ts": 1778189334,
+      "source": "Space.com",
+      "title": "A 29-pound Mars rock held NASA's Curiosity rover hostage for 6 days",
+      "link": "https://www.space.com/space-exploration/mars-rovers/a-29-pound-mars-rock-held-nasas-curiosity-rover-hostage-for-6-days",
+      "score": 2.8,
+      "published_utc": "2026-05-07T21:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -776,6 +800,30 @@
       "day_brt": "2026-05-07",
       "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NASA’s Next-Gen Mars... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 1 Min Read NASA’s Next-Gen Mars Helicopter Rotors Are Moving Fast PIA26648 Credits: NASA/JPL-Caltech Image Addition Date: 05/07/2026 Downloads NASA’s Next-Gen Mars Helicopter Rotors Are Moving Fast JPEG (1.34 MB) Description Engineer Jaakko Karras inspects a next-generation Mars helicopter rotor blade prior to supersonic speed testing in the 25-Foot Space Simulator at NASA’s Jet Propulsion Laboratory in Southern California in November 2025.",
       "queued_ts": 1778185356
+    },
+    {
+      "fp": "eee0109725be7226da138cdd",
+      "title": "NASA Welcomes Paraguay as 67th Artemis Accords Signatory",
+      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-paraguay-as-67th-artemis-accords-signatory/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-07T20:41:48+00:00",
+      "day_brt": "2026-05-07",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Welcomes Paraguay as 67th Artemis Accords Signatory Elizabeth Shaw May 07, 2026 Article Credit: NASA The Republic of Paraguay signed the Artemis Accords on Thursday during a ceremony in Asunción, becoming the latest nation to commit to the shared principles guiding civil space exploration. “Today, I am proud to welcome Paraguay as the 67th signatory to the Artemis Accords,” said NASA Administrator Jared Isaacman.",
+      "queued_ts": 1778189335
+    },
+    {
+      "fp": "b8b679f7556eca3c8a134696",
+      "title": "China prepares cargo, crew, and deep space missions, as commercial sector steps towards reusability",
+      "link": "https://www.nasaspaceflight.com/2026/05/china-cargo-crew-reusability/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-05-07T21:04:09+00:00",
+      "day_brt": "2026-05-07",
+      "resumo_pt": "Resumo (PT-BR): China prepares cargo, crew, and deep space missions, as commercial sector steps towards reusability by Martin Smith May 7, 2026 written by Martin Smith May 7, 2026 2 China is preparing to launch both cargo and crew missions to its Tiangong space station, as a new cargo freighter is tested in low-Earth orbit and new designs are revealed to expand the orbiting outpost. Celebrating 70 years since the foundation of its space program this year, China is also advancing plans for deep space missions exploring the Moon and Mars, and is extending international involvement in the projects.",
+      "queued_ts": 1778189335
     }
   ],
   "digests_sent": {
@@ -832,7 +880,9 @@
       "1aac41b83fb41d97448959bf": true,
       "d76caa7af47ceb3a9fdd74f0": true,
       "3c4c3353a10b61c292839f2a": true,
-      "b75a7fad96e75dc1b057d89c": true
+      "b75a7fad96e75dc1b057d89c": true,
+      "eee0109725be7226da138cdd": true,
+      "b8b679f7556eca3c8a134696": true
     }
   }
 }
