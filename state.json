@@ -763,6 +763,14 @@
       "link": "https://science.nasa.gov/photojournal/nasas-psyche-mission-captures-mars-during-gravity-assist-approach/",
       "score": 4.0,
       "published_utc": "2026-05-08T18:11:39+00:00"
+    },
+    "f2c7996dc8153711efa9d084": {
+      "ts": 1778274791,
+      "source": "Space.com",
+      "title": "Black holes slamming into scorching stars may be causing mysterious blue flashes in the cosmos",
+      "link": "https://www.space.com/astronomy/black-holes/black-holes-slamming-into-scorching-stars-may-be-causing-mysterious-blue-flashes-in-the-cosmos",
+      "score": 11.2,
+      "published_utc": "2026-05-08T21:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -837,6 +845,18 @@
       "day_brt": "2026-05-08",
       "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NASA’s Psyche Mission... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 2 Min Read NASA’s Psyche Mission Captures Mars During Gravity Assist Approach PIA26750 Credits: NASA/JPL-Caltech/ASU Image Addition Date: 05/08/2026 Downloads NASA’s Psyche Mission Captures Mars During Gravity Assist Approach JPEG (132.38 KB) PIA26750 Figure A JPEG (105.92 KB) Description This colorized image of Mars was captured by NASA’s Psyche mission on May 3, 2026, about 3 million miles (4.8 million kilometers) from the planet.",
       "queued_ts": 1778270704
+    },
+    {
+      "fp": "f2c7996dc8153711efa9d084",
+      "title": "Black holes slamming into scorching stars may be causing mysterious blue flashes in the cosmos",
+      "link": "https://www.space.com/astronomy/black-holes/black-holes-slamming-into-scorching-stars-may-be-causing-mysterious-blue-flashes-in-the-cosmos",
+      "source": "Space.com",
+      "score": 11.2,
+      "is_anomaly": true,
+      "published_utc": "2026-05-08T21:00:00+00:00",
+      "day_brt": "2026-05-08",
+      "resumo_pt": "Resumo (PT-BR): Astronomy Black Holes Black holes slamming into scorching stars may be causing mysterious blue flashes in the cosmos News By Robert Lea published 8 May 2026 \"As opposed to the other models, the compact object and Wolf-Rayet merger model does appear to easily justify all of the LFBOT transient and environmental properties!\" When you purchase through links on our site, we may earn an affiliate commission. Click for next article An illustration shows a black hole colliding with a Wolf Rayet star triggering a bright blue blast.",
+      "queued_ts": 1778274792
     }
   ],
   "digests_sent": {
@@ -906,7 +926,8 @@
     "2026-05-08": {
       "fbb83f8586566accb590e2c0": true,
       "93e338a65f9a4af66948f793": true,
-      "d86dddfc929f7c6a2d6cd509": true
+      "d86dddfc929f7c6a2d6cd509": true,
+      "f2c7996dc8153711efa9d084": true
     }
   }
 }
