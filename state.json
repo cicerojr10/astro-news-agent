@@ -706,6 +706,23 @@
       "link": "https://www.nasa.gov/centers-and-facilities/armstrong/meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research/",
       "score": 4.0,
       "published_utc": "2026-05-07T23:45:41+00:00"
+    },
+    "5afcf13f7e763e6d3cba35d3": {
+      "ts": 1778241790,
+      "source": "Space.com",
+      "title": "SpaceX just fired up its 33-engine Starship 'V3' Super Heavy rocket booster. When could it fly?",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-just-fired-up-its-33-engine-starship-v3-super-heavy-rocket-booster-when-could-it-fly",
+      "score": 2.8,
+      "published_utc": "2026-05-08T12:00:00+00:00"
+    },
+    "45001bb2a1be33474b8388ee": {
+      "ts": 1778241790,
+      "source": "Space.com",
+      "title": "A 29-pound Mars rock held NASA's Curiosity rover hostage for 6 days (video)",
+      "link": "https://www.space.com/space-exploration/mars-rovers/a-29-pound-mars-rock-held-nasas-curiosity-rover-hostage-for-6-days",
+      "score": 0.0,
+      "published_utc": "2026-05-07T21:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
