@@ -723,6 +723,14 @@
       "score": 0.0,
       "published_utc": "2026-05-07T21:00:00+00:00",
       "note": "not_today"
+    },
+    "f089c7d52c67869c3ccb86b3": {
+      "ts": 1778245178,
+      "source": "Space.com",
+      "title": "SpaceX just fired up its 33-engine Starship 'V3' Super Heavy rocket booster. When could it fly? (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-just-fired-up-its-33-engine-starship-v3-super-heavy-rocket-booster-when-could-it-fly",
+      "score": 2.8,
+      "published_utc": "2026-05-08T12:00:00+00:00"
     }
   },
   "digest_queue": [
