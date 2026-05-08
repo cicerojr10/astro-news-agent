@@ -787,6 +787,14 @@
       "link": "https://www.nasaspaceflight.com/2026/05/booster-19-33-ship-39-rollout/",
       "score": 3.6,
       "published_utc": "2026-05-08T22:45:59+00:00"
+    },
+    "e9b38269ef25bff0c7bc68a5": {
+      "ts": 1778284676,
+      "source": "Spaceflight Now",
+      "title": "Rescue mission for NASA’s $500 million space telescope passes key testing milestone",
+      "link": "https://spaceflightnow.com/2026/05/08/rescue-mission-for-nasas-500-million-space-telescope-passes-key-testing-milestone/",
+      "score": 3.6,
+      "published_utc": "2026-05-08T23:19:34+00:00"
     }
   },
   "digest_queue": [
@@ -825,6 +833,18 @@
       "day_brt": "2026-05-07",
       "resumo_pt": "Resumo (PT-BR): 3 min read Meet the Fleet: NASA Armstrong Continues Legacy of Flight Research Teresa Whiting NASA Armstrong Public Affairs Specialist May 07, 2026 Article NASA’s X-59 quiet supersonic research aircraft flies above Palmdale and Edwards, California, during its first flight Tuesday, Oct. 28, 2025, accompanied by a NASA F/A-18 research aircraft serving as chase.",
       "queued_ts": 1778198118
+    },
+    {
+      "fp": "e9b38269ef25bff0c7bc68a5",
+      "title": "Rescue mission for NASA’s $500 million space telescope passes key testing milestone",
+      "link": "https://spaceflightnow.com/2026/05/08/rescue-mission-for-nasas-500-million-space-telescope-passes-key-testing-milestone/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-05-08T23:19:34+00:00",
+      "day_brt": "2026-05-08",
+      "resumo_pt": "Resumo (PT-BR): Rescue mission for NASA’s $500 million space telescope passes key testing milestone May 8, 2026 Will Robinson-Smith Engineers from Katalyst stabilize their Link robotic servicing spacecraft as it moves into a vibration chamber at NASA Goddard on April 15, 2026. The vibration chamber simulated the intense shaking Link will experience during launch.",
+      "queued_ts": 1778284678
     }
   ],
   "digests_sent": {
@@ -898,7 +918,8 @@
       "d86dddfc929f7c6a2d6cd509": true,
       "f2c7996dc8153711efa9d084": true,
       "e725400a110925e6499a8b78": true,
-      "19a4a24caadbb20ec8601df4": true
+      "19a4a24caadbb20ec8601df4": true,
+      "e9b38269ef25bff0c7bc68a5": true
     }
   }
 }
