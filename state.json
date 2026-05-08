@@ -755,6 +755,14 @@
       "link": "https://www.nasa.gov/image-article/glowing-views-from-the-space-station/",
       "score": 4.0,
       "published_utc": "2026-05-08T15:21:17+00:00"
+    },
+    "d86dddfc929f7c6a2d6cd509": {
+      "ts": 1778270700,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Psyche Mission Captures Mars During Gravity Assist Approach",
+      "link": "https://science.nasa.gov/photojournal/nasas-psyche-mission-captures-mars-during-gravity-assist-approach/",
+      "score": 4.0,
+      "published_utc": "2026-05-08T18:11:39+00:00"
     }
   },
   "digest_queue": [
@@ -817,6 +825,18 @@
       "day_brt": "2026-05-08",
       "resumo_pt": "Resumo (PT-BR): 1 min read Glowing Views from the Space Station HQ Web Team May 08, 2026 Image Article NASA/Chris Williams NASA astronaut Chris Williams captured the Milky Way rising above Earth’s atmospheric glow on April 13, 2026, while aboard a SpaceX Dragon docked to the International Space Station. It occurs when atoms and molecules in the upper atmosphere, excited by sunlight, emit light to shed their excess energy.",
       "queued_ts": 1778256440
+    },
+    {
+      "fp": "d86dddfc929f7c6a2d6cd509",
+      "title": "NASA’s Psyche Mission Captures Mars During Gravity Assist Approach",
+      "link": "https://science.nasa.gov/photojournal/nasas-psyche-mission-captures-mars-during-gravity-assist-approach/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-08T18:11:39+00:00",
+      "day_brt": "2026-05-08",
+      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NASA’s Psyche Mission... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 2 Min Read NASA’s Psyche Mission Captures Mars During Gravity Assist Approach PIA26750 Credits: NASA/JPL-Caltech/ASU Image Addition Date: 05/08/2026 Downloads NASA’s Psyche Mission Captures Mars During Gravity Assist Approach JPEG (132.38 KB) PIA26750 Figure A JPEG (105.92 KB) Description This colorized image of Mars was captured by NASA’s Psyche mission on May 3, 2026, about 3 million miles (4.8 million kilometers) from the planet.",
+      "queued_ts": 1778270704
     }
   ],
   "digests_sent": {
@@ -885,7 +905,8 @@
     },
     "2026-05-08": {
       "fbb83f8586566accb590e2c0": true,
-      "93e338a65f9a4af66948f793": true
+      "93e338a65f9a4af66948f793": true,
+      "d86dddfc929f7c6a2d6cd509": true
     }
   }
 }
