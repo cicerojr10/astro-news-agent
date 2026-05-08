@@ -771,6 +771,22 @@
       "link": "https://www.space.com/astronomy/black-holes/black-holes-slamming-into-scorching-stars-may-be-causing-mysterious-blue-flashes-in-the-cosmos",
       "score": 11.2,
       "published_utc": "2026-05-08T21:00:00+00:00"
+    },
+    "e725400a110925e6499a8b78": {
+      "ts": 1778281853,
+      "source": "NASA Breaking News",
+      "title": "NASA’s SpaceX 34th Commercial Resupply Mission Overview",
+      "link": "https://www.nasa.gov/general/nasas-spacex-34th-commercial-resupply-mission-overview/",
+      "score": 4.0,
+      "published_utc": "2026-05-08T22:50:03+00:00"
+    },
+    "19a4a24caadbb20ec8601df4": {
+      "ts": 1778281856,
+      "source": "NASASpaceflight",
+      "title": "Booster 19 completes Static Fire as Ship 39 prepares for rollout",
+      "link": "https://www.nasaspaceflight.com/2026/05/booster-19-33-ship-39-rollout/",
+      "score": 3.6,
+      "published_utc": "2026-05-08T22:45:59+00:00"
     }
   },
   "digest_queue": [
@@ -809,54 +825,6 @@
       "day_brt": "2026-05-07",
       "resumo_pt": "Resumo (PT-BR): 3 min read Meet the Fleet: NASA Armstrong Continues Legacy of Flight Research Teresa Whiting NASA Armstrong Public Affairs Specialist May 07, 2026 Article NASA’s X-59 quiet supersonic research aircraft flies above Palmdale and Edwards, California, during its first flight Tuesday, Oct. 28, 2025, accompanied by a NASA F/A-18 research aircraft serving as chase.",
       "queued_ts": 1778198118
-    },
-    {
-      "fp": "fbb83f8586566accb590e2c0",
-      "title": "NASA Names Brian Hughes to Launch Operations Role",
-      "link": "https://www.nasa.gov/news-release/nasa-names-brian-hughes-to-launch-operations-role/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-08T14:00:15+00:00",
-      "day_brt": "2026-05-08",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Names Brian Hughes to Launch Operations Role Cheryl Warner News Chief May 08, 2026 RELEASE 26-038 NASA Headquarters During his tenure as chief of staff, NASA’s Brian Hughes is seen during a NASA town hall event, Wednesday, June 25, 2025, at the NASA Headquarters Mary W. Credit: NASA/Bill Ingalls NASA announced Friday that Brian Hughes will return to the agency as senior director of launch operations, based at the agency’s Kennedy Space Center in Florida.",
-      "queued_ts": 1778251890
-    },
-    {
-      "fp": "93e338a65f9a4af66948f793",
-      "title": "Glowing Views from the Space Station",
-      "link": "https://www.nasa.gov/image-article/glowing-views-from-the-space-station/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-08T15:21:17+00:00",
-      "day_brt": "2026-05-08",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Glowing Views from the Space Station HQ Web Team May 08, 2026 Image Article NASA/Chris Williams NASA astronaut Chris Williams captured the Milky Way rising above Earth’s atmospheric glow on April 13, 2026, while aboard a SpaceX Dragon docked to the International Space Station. It occurs when atoms and molecules in the upper atmosphere, excited by sunlight, emit light to shed their excess energy.",
-      "queued_ts": 1778256440
-    },
-    {
-      "fp": "d86dddfc929f7c6a2d6cd509",
-      "title": "NASA’s Psyche Mission Captures Mars During Gravity Assist Approach",
-      "link": "https://science.nasa.gov/photojournal/nasas-psyche-mission-captures-mars-during-gravity-assist-approach/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-08T18:11:39+00:00",
-      "day_brt": "2026-05-08",
-      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NASA’s Psyche Mission... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 2 Min Read NASA’s Psyche Mission Captures Mars During Gravity Assist Approach PIA26750 Credits: NASA/JPL-Caltech/ASU Image Addition Date: 05/08/2026 Downloads NASA’s Psyche Mission Captures Mars During Gravity Assist Approach JPEG (132.38 KB) PIA26750 Figure A JPEG (105.92 KB) Description This colorized image of Mars was captured by NASA’s Psyche mission on May 3, 2026, about 3 million miles (4.8 million kilometers) from the planet.",
-      "queued_ts": 1778270704
-    },
-    {
-      "fp": "f2c7996dc8153711efa9d084",
-      "title": "Black holes slamming into scorching stars may be causing mysterious blue flashes in the cosmos",
-      "link": "https://www.space.com/astronomy/black-holes/black-holes-slamming-into-scorching-stars-may-be-causing-mysterious-blue-flashes-in-the-cosmos",
-      "source": "Space.com",
-      "score": 11.2,
-      "is_anomaly": true,
-      "published_utc": "2026-05-08T21:00:00+00:00",
-      "day_brt": "2026-05-08",
-      "resumo_pt": "Resumo (PT-BR): Astronomy Black Holes Black holes slamming into scorching stars may be causing mysterious blue flashes in the cosmos News By Robert Lea published 8 May 2026 \"As opposed to the other models, the compact object and Wolf-Rayet merger model does appear to easily justify all of the LFBOT transient and environmental properties!\" When you purchase through links on our site, we may earn an affiliate commission. Click for next article An illustration shows a black hole colliding with a Wolf Rayet star triggering a bright blue blast.",
-      "queued_ts": 1778274792
     }
   ],
   "digests_sent": {
@@ -880,7 +848,8 @@
       "night": true
     },
     "2026-05-08": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -927,7 +896,9 @@
       "fbb83f8586566accb590e2c0": true,
       "93e338a65f9a4af66948f793": true,
       "d86dddfc929f7c6a2d6cd509": true,
-      "f2c7996dc8153711efa9d084": true
+      "f2c7996dc8153711efa9d084": true,
+      "e725400a110925e6499a8b78": true,
+      "19a4a24caadbb20ec8601df4": true
     }
   }
 }
