@@ -747,6 +747,14 @@
       "link": "https://www.space.com/science/astrophysics/scientists-found-10-000-possible-exoplanets-hiding-in-nasa-data",
       "score": 2.8,
       "published_utc": "2026-05-08T13:00:00+00:00"
+    },
+    "93e338a65f9a4af66948f793": {
+      "ts": 1778256437,
+      "source": "NASA Breaking News",
+      "title": "Glowing Views from the Space Station",
+      "link": "https://www.nasa.gov/image-article/glowing-views-from-the-space-station/",
+      "score": 4.0,
+      "published_utc": "2026-05-08T15:21:17+00:00"
     }
   },
   "digest_queue": [
@@ -797,6 +805,18 @@
       "day_brt": "2026-05-08",
       "resumo_pt": "Resumo (PT-BR): 2 min read NASA Names Brian Hughes to Launch Operations Role Cheryl Warner News Chief May 08, 2026 RELEASE 26-038 NASA Headquarters During his tenure as chief of staff, NASA’s Brian Hughes is seen during a NASA town hall event, Wednesday, June 25, 2025, at the NASA Headquarters Mary W. Credit: NASA/Bill Ingalls NASA announced Friday that Brian Hughes will return to the agency as senior director of launch operations, based at the agency’s Kennedy Space Center in Florida.",
       "queued_ts": 1778251890
+    },
+    {
+      "fp": "93e338a65f9a4af66948f793",
+      "title": "Glowing Views from the Space Station",
+      "link": "https://www.nasa.gov/image-article/glowing-views-from-the-space-station/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-08T15:21:17+00:00",
+      "day_brt": "2026-05-08",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Glowing Views from the Space Station HQ Web Team May 08, 2026 Image Article NASA/Chris Williams NASA astronaut Chris Williams captured the Milky Way rising above Earth’s atmospheric glow on April 13, 2026, while aboard a SpaceX Dragon docked to the International Space Station. It occurs when atoms and molecules in the upper atmosphere, excited by sunlight, emit light to shed their excess energy.",
+      "queued_ts": 1778256440
     }
   ],
   "digests_sent": {
@@ -864,7 +884,8 @@
       "2b1def7249358c5e61455a68": true
     },
     "2026-05-08": {
-      "fbb83f8586566accb590e2c0": true
+      "fbb83f8586566accb590e2c0": true,
+      "93e338a65f9a4af66948f793": true
     }
   }
 }
