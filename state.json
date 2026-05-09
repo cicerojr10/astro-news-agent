@@ -803,6 +803,15 @@
       "link": "https://www.space.com/space-exploration/how-long-can-the-voyager-probes-keep-exploring-interstellar-space-nasa-gearing-up-for-big-bang-maneuver-to-boost-dwindling-power-levels",
       "score": 2.8,
       "published_utc": "2026-05-09T13:00:00+00:00"
+    },
+    "b2c93f9d4f504618d1135421": {
+      "ts": 1778337548,
+      "source": "NASASpaceflight",
+      "title": "Full Stack Flight 12 prepares for WDR",
+      "link": "https://www.nasaspaceflight.com/2026/05/booster-19-33-ship-39-rollout/",
+      "score": 0.0,
+      "published_utc": "2026-05-08T22:45:59+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
