@@ -812,6 +812,15 @@
       "score": 0.0,
       "published_utc": "2026-05-08T22:45:59+00:00",
       "note": "not_today"
+    },
+    "01af9ed103a05d501eff3f56": {
+      "ts": 1778436067,
+      "source": "NASASpaceflight",
+      "title": "Full Stack Flight 12 awaits new date for WDR",
+      "link": "https://www.nasaspaceflight.com/2026/05/booster-19-33-ship-39-rollout/",
+      "score": 0.0,
+      "published_utc": "2026-05-08T22:45:59+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
