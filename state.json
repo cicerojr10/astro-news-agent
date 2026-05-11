@@ -953,66 +953,6 @@
       "day_brt": "2026-05-08",
       "resumo_pt": "Resumo (PT-BR): Rescue mission for NASA’s $500 million space telescope passes key testing milestone May 8, 2026 Will Robinson-Smith Engineers from Katalyst stabilize their Link robotic servicing spacecraft as it moves into a vibration chamber at NASA Goddard on April 15, 2026. The vibration chamber simulated the intense shaking Link will experience during launch.",
       "queued_ts": 1778284678
-    },
-    {
-      "fp": "1afa7cd6b9992ccb6d84e362",
-      "title": "Hubble Survey Sets Up Roman’s Future Look Near Milky Way’s Center",
-      "link": "https://science.nasa.gov/missions/roman-space-telescope/hubble-survey-sets-up-romans-future-look-near-milky-ways-center/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-11T14:00:39+00:00",
-      "day_brt": "2026-05-11",
-      "resumo_pt": "Resumo (PT-BR): Roman Home About Roman Mission Overview Why is Roman Important? Frequently Asked Questions Mission Timeline Partners Meet the Team Science Overview Dark Energy Dark Matter Exoplanets Large Area Near-Infrared Surveys Observing with Roman General Investigator Program For Scientists Observatory Roman Observatory Wide Field Instrument Coronagraph Instrument Interactive Telescope Diagram Roman/Webb Comparison Roman/Hubble Comparison For Scientists Resources for Scientists Core Community Surveys General Astrophysics Surveys Science Teams Scientific Observatory Details Technical Details & Data Repository WFI Reference Information Anticipated Performance Tables Engaging with Roman Science Events Papers & Publications News In the News Find an Event Mission Timeline Social Media Media Resources Multimedia Education and Outreach Materials Roman's Flickr Photo Gallery Videos and Animations Roman Observer Video Game 7 min read Hubble Survey Sets Up Roman’s Future Look Near Milky Way’s Center NASA Roman Mission Team Goddard Space Flight Center NASA Hubble Mission Team Goddard Space Flight Center May 11, 2026 Article Contents ‘Small’ lenses, large discoveries For Roman, from Hubble Next leap in magnitude This VISTA VVV Survey image shows the galactic bulge near Sagittarius A*, the supermassive black hole at the Milky Way’s center.",
-      "queued_ts": 1778517716
-    },
-    {
-      "fp": "4cfbae8e0ff36d763f177cc1",
-      "title": "NASA Astronaut Jessica Meir",
-      "link": "https://www.nasa.gov/image-article/nasa-astronaut-jessica-meir-2/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-11T13:58:09+00:00",
-      "day_brt": "2026-05-11",
-      "resumo_pt": "Resumo (PT-BR): 1 min read NASA Astronaut Jessica Meir HQ Web Team May 11, 2026 Image Article NASA/Josh Valcarcel NASA Astronaut Jessica Meir sits for a portrait at NASA’s Johnson Space Center in Houston on Sept. This photo was chosen as one of the 2025 NASA Photographer of the Year finalists .",
-      "queued_ts": 1778517716
-    },
-    {
-      "fp": "aa31ec360d8c643a7a9917e1",
-      "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
-      "link": "https://spaceflightnow.com/2026/05/11/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-05-11T19:50:46+00:00",
-      "day_brt": "2026-05-11",
-      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office May 11, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket is seen in the launch position at Space Launch Complex 4 East at Vandenberg Space Force Base on Jan. 16, 2026, ahead of the launch of the NROL-105 mission for the National Reconnaissance Office.",
-      "queued_ts": 1778530281
-    },
-    {
-      "fp": "b6cdceb94f59cbb98107f286",
-      "title": "NASA Invites Media to Annual Lunabotics Robotics Competition",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-annual-lunabotics-robotics-competition/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-11T19:11:57+00:00",
-      "day_brt": "2026-05-11",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Invites Media to Annual Lunabotics Robotics Competition NASA Communications May 11, 2026 MEDIA ADVISORY M26-001 Kennedy Space Center Students from the United States Military Academy (West Point), dressed in safety gear, prepare to enter the mining arena with their robotic miner during NASA’s LUNABOTICS competition on May 24, 2022, at the Center for Space Education near the Kennedy Space Center Visitor Complex in Florida. have designed and built remote-controlled robots for the mining competition.",
-      "queued_ts": 1778530281
-    },
-    {
-      "fp": "ada8583280cebc63d235f4d5",
-      "title": "Joint Earth Observation Mission Quality Assessment Framework – Optical Guidelines Documents Released",
-      "link": "https://science.nasa.gov/science-research/earth-science/joint-earth-observation-mission-quality-assessment-framework-optical-guidelines-documents-released/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-11T18:34:33+00:00",
-      "day_brt": "2026-05-11",
-      "resumo_pt": "Resumo (PT-BR): CSDA Menu CSDA Commercial Data Commercial Datasets End User License Agreements Commercial Satellite Data Explorer Satellite Data Evaluation CSDA Vendors Airbus BlackSky Capella Space GeoOptics GHGSat ICEYE MDA Space Pixxel Planet PlanetiQ Polar Geospatial Center Satellogic Spire Teledyne Brown Engineering Tomorrow.io Umbra Vantor Program Activities Pilot Research Projects FAQs News 3 min read Joint Earth Observation Mission Quality Assessment Framework – Optical Guidelines Documents Released Joseph Smith May 11, 2026 Article Released on April 26, 2026, the Optical Guidelines document provides specific guidelines for the mission quality assessment of optical sensors as part of the implementation of the generic Earth observation mission quality assessment for the optical domain. NASA's Commercial Satellite Data Acquisition (CSDA) program, in conjunction with the European Space Agency (ESA) and the U.S.",
-      "queued_ts": 1778530281
     }
   ],
   "digests_sent": {
@@ -1048,7 +988,8 @@
       "night": true
     },
     "2026-05-11": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
