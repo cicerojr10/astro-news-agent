@@ -854,6 +854,23 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-nrol-172-spy-satellite-mission",
       "score": 2.8,
       "published_utc": "2026-05-11T15:00:00+00:00"
+    },
+    "46636488d07a25a939fc0b2d": {
+      "ts": 1778523973,
+      "source": "NASASpaceflight",
+      "title": "Full Stack Flight 12 completes WDR",
+      "link": "https://www.nasaspaceflight.com/2026/05/booster-19-33-ship-39-rollout/",
+      "score": 0.0,
+      "published_utc": "2026-05-08T22:45:59+00:00",
+      "note": "not_today"
+    },
+    "8ba1fcbe7e967dfae7d1b3d8": {
+      "ts": 1778523973,
+      "source": "Space.com",
+      "title": "China's Tianzhou 10 freighter delivers 7 tons of cargo to Tiangong space station",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-tianzhou-10-freighter-delivers-7-tons-of-cargo-to-tiangong-space-station",
+      "score": 2.8,
+      "published_utc": "2026-05-11T17:00:00+00:00"
     }
   },
   "digest_queue": [
