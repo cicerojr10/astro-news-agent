@@ -830,6 +830,30 @@
       "score": 0.0,
       "published_utc": "2026-05-08T22:45:59+00:00",
       "note": "not_today"
+    },
+    "1afa7cd6b9992ccb6d84e362": {
+      "ts": 1778517713,
+      "source": "NASA Breaking News",
+      "title": "Hubble Survey Sets Up Roman’s Future Look Near Milky Way’s Center",
+      "link": "https://science.nasa.gov/missions/roman-space-telescope/hubble-survey-sets-up-romans-future-look-near-milky-ways-center/",
+      "score": 4.0,
+      "published_utc": "2026-05-11T14:00:39+00:00"
+    },
+    "4cfbae8e0ff36d763f177cc1": {
+      "ts": 1778517713,
+      "source": "NASA Breaking News",
+      "title": "NASA Astronaut Jessica Meir",
+      "link": "https://www.nasa.gov/image-article/nasa-astronaut-jessica-meir-2/",
+      "score": 4.0,
+      "published_utc": "2026-05-11T13:58:09+00:00"
+    },
+    "07bd7e5d0344d3fa394dba93": {
+      "ts": 1778517715,
+      "source": "Space.com",
+      "title": "Watch SpaceX launch secret US spy satellites to orbit from California today",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-nrol-172-spy-satellite-mission",
+      "score": 2.8,
+      "published_utc": "2026-05-11T15:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -880,6 +904,30 @@
       "day_brt": "2026-05-08",
       "resumo_pt": "Resumo (PT-BR): Rescue mission for NASA’s $500 million space telescope passes key testing milestone May 8, 2026 Will Robinson-Smith Engineers from Katalyst stabilize their Link robotic servicing spacecraft as it moves into a vibration chamber at NASA Goddard on April 15, 2026. The vibration chamber simulated the intense shaking Link will experience during launch.",
       "queued_ts": 1778284678
+    },
+    {
+      "fp": "1afa7cd6b9992ccb6d84e362",
+      "title": "Hubble Survey Sets Up Roman’s Future Look Near Milky Way’s Center",
+      "link": "https://science.nasa.gov/missions/roman-space-telescope/hubble-survey-sets-up-romans-future-look-near-milky-ways-center/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-11T14:00:39+00:00",
+      "day_brt": "2026-05-11",
+      "resumo_pt": "Resumo (PT-BR): Roman Home About Roman Mission Overview Why is Roman Important? Frequently Asked Questions Mission Timeline Partners Meet the Team Science Overview Dark Energy Dark Matter Exoplanets Large Area Near-Infrared Surveys Observing with Roman General Investigator Program For Scientists Observatory Roman Observatory Wide Field Instrument Coronagraph Instrument Interactive Telescope Diagram Roman/Webb Comparison Roman/Hubble Comparison For Scientists Resources for Scientists Core Community Surveys General Astrophysics Surveys Science Teams Scientific Observatory Details Technical Details & Data Repository WFI Reference Information Anticipated Performance Tables Engaging with Roman Science Events Papers & Publications News In the News Find an Event Mission Timeline Social Media Media Resources Multimedia Education and Outreach Materials Roman's Flickr Photo Gallery Videos and Animations Roman Observer Video Game 7 min read Hubble Survey Sets Up Roman’s Future Look Near Milky Way’s Center NASA Roman Mission Team Goddard Space Flight Center NASA Hubble Mission Team Goddard Space Flight Center May 11, 2026 Article Contents ‘Small’ lenses, large discoveries For Roman, from Hubble Next leap in magnitude This VISTA VVV Survey image shows the galactic bulge near Sagittarius A*, the supermassive black hole at the Milky Way’s center.",
+      "queued_ts": 1778517716
+    },
+    {
+      "fp": "4cfbae8e0ff36d763f177cc1",
+      "title": "NASA Astronaut Jessica Meir",
+      "link": "https://www.nasa.gov/image-article/nasa-astronaut-jessica-meir-2/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-11T13:58:09+00:00",
+      "day_brt": "2026-05-11",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA Astronaut Jessica Meir HQ Web Team May 11, 2026 Image Article NASA/Josh Valcarcel NASA Astronaut Jessica Meir sits for a portrait at NASA’s Johnson Space Center in Houston on Sept. This photo was chosen as one of the 2025 NASA Photographer of the Year finalists .",
+      "queued_ts": 1778517716
     }
   ],
   "digests_sent": {
@@ -966,6 +1014,10 @@
       "e725400a110925e6499a8b78": true,
       "19a4a24caadbb20ec8601df4": true,
       "e9b38269ef25bff0c7bc68a5": true
+    },
+    "2026-05-11": {
+      "1afa7cd6b9992ccb6d84e362": true,
+      "4cfbae8e0ff36d763f177cc1": true
     }
   }
 }
