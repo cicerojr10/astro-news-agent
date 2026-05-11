@@ -904,6 +904,9 @@
     "2026-05-10": {
       "morning": true,
       "night": true
+    },
+    "2026-05-11": {
+      "morning": true
     }
   },
   "sent_updates": {
