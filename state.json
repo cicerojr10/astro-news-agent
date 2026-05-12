@@ -995,6 +995,22 @@
       "link": "https://www.space.com/technology/star-catcher-just-raised-usd65-million-to-build-the-worlds-first-power-grid-in-space-with-lasers",
       "score": 2.8,
       "published_utc": "2026-05-12T13:00:00+00:00"
+    },
+    "9e218d60cba77f383197c11d": {
+      "ts": 1778605295,
+      "source": "NASA Breaking News",
+      "title": "Hello Universe: NASA’s Next-Gen Space Processor Undergoes Testing",
+      "link": "https://www.nasa.gov/technology/hello-universe-nasas-next-gen-space-processor-undergoes-testing/",
+      "score": 4.0,
+      "published_utc": "2026-05-12T15:02:47+00:00"
+    },
+    "a94841a392b2c49421f09801": {
+      "ts": 1778605298,
+      "source": "Space.com",
+      "title": "Watch SpaceX launch 6,500 pounds of cargo to the International Space Station today",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-dragon-cargo-launch-iss-crs-34",
+      "score": 2.8,
+      "published_utc": "2026-05-12T15:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -1093,6 +1109,18 @@
       "day_brt": "2026-05-12",
       "resumo_pt": "Resumo (PT-BR): 3 Min Read I Am Artemis: Kathleen Harmon Kathleen Harmon, Artemis II Mission Interface Manager for NASA's Deep Space Network, in the Charles Elachi Mission Control Center at NASA’s Jet Propulsion Laboratory in Southern California. Credits: NASA/JPL-Caltech Jet Propulsion Laboratory May 12, 2026 Article Listen to this audio excerpt from Kathleen Harmon, the Artemis II Mission Interface Manager for NASA’s Deep Space Network: 0:00 / 0:00 Your browser does not support the audio element.",
       "queued_ts": 1778597480
+    },
+    {
+      "fp": "9e218d60cba77f383197c11d",
+      "title": "Hello Universe: NASA’s Next-Gen Space Processor Undergoes Testing",
+      "link": "https://www.nasa.gov/technology/hello-universe-nasas-next-gen-space-processor-undergoes-testing/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-12T15:02:47+00:00",
+      "day_brt": "2026-05-12",
+      "resumo_pt": "Resumo (PT-BR): 4 min read Hello Universe: NASA’s Next-Gen Space Processor Undergoes Testing Jet Propulsion Laboratory May 12, 2026 Article Small enough to fit in the palm of a hand, NASA’s High Performance Spaceflight Computing processor packs the power of a full system-on-a-chip. This next-generation processor is made to survive deep space while delivering a massive leap in computational speed compared to current spacecraft technology.",
+      "queued_ts": 1778605298
     }
   ],
   "digests_sent": {
@@ -1195,7 +1223,8 @@
     },
     "2026-05-12": {
       "0289bf9a82e2157ab98ee126": true,
-      "9f6c1df1d186a53428df2871": true
+      "9f6c1df1d186a53428df2871": true,
+      "9e218d60cba77f383197c11d": true
     }
   }
 }
