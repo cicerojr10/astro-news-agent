@@ -946,6 +946,14 @@
       "score": 0.0,
       "published_utc": "2026-05-12T01:38:30+00:00",
       "note": "not_today"
+    },
+    "e4dc37915dfc7e083fe37ea5": {
+      "ts": 1778580579,
+      "source": "Space.com",
+      "title": "SpaceX fuels up Starship V3 megarocket for 1st time ahead of crucial test flight (photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fuels-up-starship-v3-megarocket-for-1st-time-ahead-of-crucial-test-flight-photos",
+      "score": 2.8,
+      "published_utc": "2026-05-12T10:00:00+00:00"
     }
   },
   "digest_queue": [
