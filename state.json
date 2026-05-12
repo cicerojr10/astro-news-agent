@@ -1011,6 +1011,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-dragon-cargo-launch-iss-crs-34",
       "score": 2.8,
       "published_utc": "2026-05-12T15:00:00+00:00"
+    },
+    "6b9bdd52d0b8ecc5a1879445": {
+      "ts": 1778612647,
+      "source": "NASA Breaking News",
+      "title": "NASA Langley Engineer Attends FAA Training",
+      "link": "https://www.nasa.gov/general/nasa-langley-engineer-attends-faa-training/",
+      "score": 4.0,
+      "published_utc": "2026-05-12T18:57:31+00:00"
     }
   },
   "digest_queue": [
@@ -1121,6 +1129,18 @@
       "day_brt": "2026-05-12",
       "resumo_pt": "Resumo (PT-BR): 4 min read Hello Universe: NASA’s Next-Gen Space Processor Undergoes Testing Jet Propulsion Laboratory May 12, 2026 Article Small enough to fit in the palm of a hand, NASA’s High Performance Spaceflight Computing processor packs the power of a full system-on-a-chip. This next-generation processor is made to survive deep space while delivering a massive leap in computational speed compared to current spacecraft technology.",
       "queued_ts": 1778605298
+    },
+    {
+      "fp": "6b9bdd52d0b8ecc5a1879445",
+      "title": "NASA Langley Engineer Attends FAA Training",
+      "link": "https://www.nasa.gov/general/nasa-langley-engineer-attends-faa-training/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-12T18:57:31+00:00",
+      "day_brt": "2026-05-12",
+      "resumo_pt": "Resumo (PT-BR): 5 min read NASA Langley Engineer Attends FAA Training Sondra Woodward May 12, 2026 Article At a busy airport, every aircraft in the area shares just a handful of radio frequencies. Spectrum and time are constrained and if multiple people speak at once, both messages can get lost.",
+      "queued_ts": 1778612650
     }
   ],
   "digests_sent": {
@@ -1224,7 +1244,8 @@
     "2026-05-12": {
       "0289bf9a82e2157ab98ee126": true,
       "9f6c1df1d186a53428df2871": true,
-      "9e218d60cba77f383197c11d": true
+      "9e218d60cba77f383197c11d": true,
+      "6b9bdd52d0b8ecc5a1879445": true
     }
   }
 }
