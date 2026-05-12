@@ -937,6 +937,15 @@
       "score": 0.0,
       "published_utc": "2026-05-11T15:00:00+00:00",
       "note": "not_today"
+    },
+    "faf372996f2a82ffe8d74d37": {
+      "ts": 1778571359,
+      "source": "NASA Breaking News",
+      "title": "Curiosity Blog, Sols 4886-4892: Ingenuity and Perseverance, Curiosity Style",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style/",
+      "score": 0.0,
+      "published_utc": "2026-05-12T01:38:30+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
