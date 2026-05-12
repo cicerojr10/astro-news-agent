@@ -911,6 +911,14 @@
       "link": "https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/",
       "score": 4.0,
       "published_utc": "2026-05-11T22:11:35+00:00"
+    },
+    "ab28e9d8c76de5510069daf9": {
+      "ts": 1778548842,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill",
+      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/",
+      "score": 4.0,
+      "published_utc": "2026-05-12T00:09:41+00:00"
     }
   },
   "digest_queue": [
@@ -973,6 +981,18 @@
       "day_brt": "2026-05-11",
       "resumo_pt": "Resumo (PT-BR): Earth Observatory Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Notes from the Field Blog Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 2 min read May 2026 Satellite Puzzler NASA Earth Observatory May 11, 2026 Article Puzzler Previous Satellite Puzzlers Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1778544045
+    },
+    {
+      "fp": "ab28e9d8c76de5510069daf9",
+      "title": "NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill",
+      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-12T00:09:41+00:00",
+      "day_brt": "2026-05-11",
+      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NASA’s Curiosity Takes Close... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 2 Min Read NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill PIA26724 Credits: NASA/JPL-Caltech/MSSS Image Addition Date: 05/11/2026 Downloads NASA's Curiosity Takes Close Look at Rock That Got Stuck on Drill PNG (20.94 MB) Description NASA’s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed “Atacama” on May 6, 2026, the 4,877th Martian day, or sol, of the mission.",
+      "queued_ts": 1778548845
     }
   ],
   "digests_sent": {
@@ -1067,7 +1087,8 @@
       "aa31ec360d8c643a7a9917e1": true,
       "b6cdceb94f59cbb98107f286": true,
       "ada8583280cebc63d235f4d5": true,
-      "da3abe16b835b88ec8f1eedb": true
+      "da3abe16b835b88ec8f1eedb": true,
+      "ab28e9d8c76de5510069daf9": true
     }
   }
 }
