@@ -971,6 +971,30 @@
       "score": 0.0,
       "published_utc": "2026-05-11T15:00:00+00:00",
       "note": "not_today"
+    },
+    "9f6c1df1d186a53428df2871": {
+      "ts": 1778597478,
+      "source": "NASA Breaking News",
+      "title": "I Am Artemis: Kathleen Harmon",
+      "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-kathleen-harmon/",
+      "score": 4.0,
+      "published_utc": "2026-05-12T14:40:56+00:00"
+    },
+    "09271e75c266206c123bfca1": {
+      "ts": 1778597480,
+      "source": "Space.com",
+      "title": "NASA's Psyche asteroid probe will fly within 3,000 miles of Mars on May 15: Here's what to expect",
+      "link": "https://www.space.com/space-exploration/asteroid-comet-missions/nasas-psyche-asteroid-probe-will-fly-within-3-000-miles-of-mars-on-may-15-heres-what-to-expect",
+      "score": 2.8,
+      "published_utc": "2026-05-12T14:19:42+00:00"
+    },
+    "efdd60e8dbc7f0470981c3d6": {
+      "ts": 1778597480,
+      "source": "Space.com",
+      "title": "Star Catcher just raised $65 million to build the world's first power grid in space — with lasers",
+      "link": "https://www.space.com/technology/star-catcher-just-raised-usd65-million-to-build-the-worlds-first-power-grid-in-space-with-lasers",
+      "score": 2.8,
+      "published_utc": "2026-05-12T13:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -1057,6 +1081,18 @@
       "day_brt": "2026-05-12",
       "resumo_pt": "Resumo (PT-BR): Live coverage: NASA, SpaceX to launch 34th Cargo Dragon mission to the space station May 12, 2026 Will Robinson-Smith A SpaceX Cargo Dragon spacecraft, tail number C209, is seen atop a Falcon 9 rocket at Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station. Image: SpaceX SpaceX is getting ready to launch a Cargo Dragon loaded with 6,500 pounds of science and supplies to the International Space Station from Cape Canaveral Space Force Station on Tuesday evening, weather permitting.",
       "queued_ts": 1778590803
+    },
+    {
+      "fp": "9f6c1df1d186a53428df2871",
+      "title": "I Am Artemis: Kathleen Harmon",
+      "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-kathleen-harmon/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-12T14:40:56+00:00",
+      "day_brt": "2026-05-12",
+      "resumo_pt": "Resumo (PT-BR): 3 Min Read I Am Artemis: Kathleen Harmon Kathleen Harmon, Artemis II Mission Interface Manager for NASA's Deep Space Network, in the Charles Elachi Mission Control Center at NASA’s Jet Propulsion Laboratory in Southern California. Credits: NASA/JPL-Caltech Jet Propulsion Laboratory May 12, 2026 Article Listen to this audio excerpt from Kathleen Harmon, the Artemis II Mission Interface Manager for NASA’s Deep Space Network: 0:00 / 0:00 Your browser does not support the audio element.",
+      "queued_ts": 1778597480
     }
   ],
   "digests_sent": {
@@ -1158,7 +1194,8 @@
       "ab28e9d8c76de5510069daf9": true
     },
     "2026-05-12": {
-      "0289bf9a82e2157ab98ee126": true
+      "0289bf9a82e2157ab98ee126": true,
+      "9f6c1df1d186a53428df2871": true
     }
   }
 }
