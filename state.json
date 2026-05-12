@@ -954,6 +954,23 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fuels-up-starship-v3-megarocket-for-1st-time-ahead-of-crucial-test-flight-photos",
       "score": 2.8,
       "published_utc": "2026-05-12T10:00:00+00:00"
+    },
+    "0289bf9a82e2157ab98ee126": {
+      "ts": 1778590802,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: NASA, SpaceX to launch 34th Cargo Dragon mission to the space station",
+      "link": "https://spaceflightnow.com/2026/05/12/live-coverage-nasa-spacex-to-launch-34th-cargo-dragon-mission-to-the-space-station/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-05-12T12:20:19+00:00"
+    },
+    "3f3a74e087e42578c61f30d0": {
+      "ts": 1778590803,
+      "source": "Space.com",
+      "title": "SpaceX launches secret US spy satellites to orbit from California (video, photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-nrol-172-spy-satellite-mission",
+      "score": 0.0,
+      "published_utc": "2026-05-11T15:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -1028,6 +1045,18 @@
       "day_brt": "2026-05-11",
       "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NASA’s Curiosity Takes Close... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 2 Min Read NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill PIA26724 Credits: NASA/JPL-Caltech/MSSS Image Addition Date: 05/11/2026 Downloads NASA's Curiosity Takes Close Look at Rock That Got Stuck on Drill PNG (20.94 MB) Description NASA’s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed “Atacama” on May 6, 2026, the 4,877th Martian day, or sol, of the mission.",
       "queued_ts": 1778548845
+    },
+    {
+      "fp": "0289bf9a82e2157ab98ee126",
+      "title": "Live coverage: NASA, SpaceX to launch 34th Cargo Dragon mission to the space station",
+      "link": "https://spaceflightnow.com/2026/05/12/live-coverage-nasa-spacex-to-launch-34th-cargo-dragon-mission-to-the-space-station/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-05-12T12:20:19+00:00",
+      "day_brt": "2026-05-12",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: NASA, SpaceX to launch 34th Cargo Dragon mission to the space station May 12, 2026 Will Robinson-Smith A SpaceX Cargo Dragon spacecraft, tail number C209, is seen atop a Falcon 9 rocket at Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station. Image: SpaceX SpaceX is getting ready to launch a Cargo Dragon loaded with 6,500 pounds of science and supplies to the International Space Station from Cape Canaveral Space Force Station on Tuesday evening, weather permitting.",
+      "queued_ts": 1778590803
     }
   ],
   "digests_sent": {
@@ -1127,6 +1156,9 @@
       "ada8583280cebc63d235f4d5": true,
       "da3abe16b835b88ec8f1eedb": true,
       "ab28e9d8c76de5510069daf9": true
+    },
+    "2026-05-12": {
+      "0289bf9a82e2157ab98ee126": true
     }
   }
 }
