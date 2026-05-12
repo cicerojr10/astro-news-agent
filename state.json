@@ -903,6 +903,14 @@
       "link": "https://www.space.com/space-exploration/artemis/nasas-artemis-3-rocket-is-taking-shape-for-2027-launch-to-test-lunar-landers-photo",
       "score": 2.8,
       "published_utc": "2026-05-11T20:00:00+00:00"
+    },
+    "da3abe16b835b88ec8f1eedb": {
+      "ts": 1778544042,
+      "source": "NASA Breaking News",
+      "title": "May 2026 Satellite Puzzler",
+      "link": "https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/",
+      "score": 4.0,
+      "published_utc": "2026-05-11T22:11:35+00:00"
     }
   },
   "digest_queue": [
@@ -953,6 +961,18 @@
       "day_brt": "2026-05-08",
       "resumo_pt": "Resumo (PT-BR): Rescue mission for NASA’s $500 million space telescope passes key testing milestone May 8, 2026 Will Robinson-Smith Engineers from Katalyst stabilize their Link robotic servicing spacecraft as it moves into a vibration chamber at NASA Goddard on April 15, 2026. The vibration chamber simulated the intense shaking Link will experience during launch.",
       "queued_ts": 1778284678
+    },
+    {
+      "fp": "da3abe16b835b88ec8f1eedb",
+      "title": "May 2026 Satellite Puzzler",
+      "link": "https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-11T22:11:35+00:00",
+      "day_brt": "2026-05-11",
+      "resumo_pt": "Resumo (PT-BR): Earth Observatory Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Notes from the Field Blog Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 2 min read May 2026 Satellite Puzzler NASA Earth Observatory May 11, 2026 Article Puzzler Previous Satellite Puzzlers Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
+      "queued_ts": 1778544045
     }
   ],
   "digests_sent": {
@@ -1046,7 +1066,8 @@
       "4cfbae8e0ff36d763f177cc1": true,
       "aa31ec360d8c643a7a9917e1": true,
       "b6cdceb94f59cbb98107f286": true,
-      "ada8583280cebc63d235f4d5": true
+      "ada8583280cebc63d235f4d5": true,
+      "da3abe16b835b88ec8f1eedb": true
     }
   }
 }
