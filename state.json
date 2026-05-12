@@ -1019,6 +1019,38 @@
       "link": "https://www.nasa.gov/general/nasa-langley-engineer-attends-faa-training/",
       "score": 4.0,
       "published_utc": "2026-05-12T18:57:31+00:00"
+    },
+    "d3d9fa403cb15fd5fac1495a": {
+      "ts": 1778618796,
+      "source": "Spaceflight Now",
+      "title": "Poor weather causes NASA, SpaceX to scrub launch attempt of 34th Cargo Dragon mission to the space station",
+      "link": "https://spaceflightnow.com/2026/05/12/live-coverage-nasa-spacex-to-launch-34th-cargo-dragon-mission-to-the-space-station/",
+      "score": 6.3,
+      "published_utc": "2026-05-12T12:20:19+00:00"
+    },
+    "63288a92998c1efed0861050": {
+      "ts": 1778618797,
+      "source": "NASASpaceflight",
+      "title": "SpaceX CRS-34 resupply mission to ISS delayed 24 hours",
+      "link": "https://www.nasaspaceflight.com/2026/05/crs-34-launch/",
+      "score": 5.4,
+      "published_utc": "2026-05-12T20:11:46+00:00"
+    },
+    "e4a954c2e2c35a161346caa1": {
+      "ts": 1778618798,
+      "source": "Space.com",
+      "title": "Cowboy Space raises $275 million to launch AI data centers on brand-new rocket",
+      "link": "https://www.space.com/technology/cowboy-space-raises-usd275-million-to-launch-ai-data-centers-on-brand-new-rocket",
+      "score": 2.8,
+      "published_utc": "2026-05-12T19:05:26+00:00"
+    },
+    "48f727d320d1c378407ef9d2": {
+      "ts": 1778618798,
+      "source": "Space.com",
+      "title": "Watch SpaceX launch 6,500 pounds of cargo to the International Space Station on May 13",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-dragon-cargo-launch-iss-crs-34",
+      "score": 2.8,
+      "published_utc": "2026-05-12T15:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -1141,6 +1173,30 @@
       "day_brt": "2026-05-12",
       "resumo_pt": "Resumo (PT-BR): 5 min read NASA Langley Engineer Attends FAA Training Sondra Woodward May 12, 2026 Article At a busy airport, every aircraft in the area shares just a handful of radio frequencies. Spectrum and time are constrained and if multiple people speak at once, both messages can get lost.",
       "queued_ts": 1778612650
+    },
+    {
+      "fp": "d3d9fa403cb15fd5fac1495a",
+      "title": "Poor weather causes NASA, SpaceX to scrub launch attempt of 34th Cargo Dragon mission to the space station",
+      "link": "https://spaceflightnow.com/2026/05/12/live-coverage-nasa-spacex-to-launch-34th-cargo-dragon-mission-to-the-space-station/",
+      "source": "Spaceflight Now",
+      "score": 6.3,
+      "is_anomaly": false,
+      "published_utc": "2026-05-12T12:20:19+00:00",
+      "day_brt": "2026-05-12",
+      "resumo_pt": "Resumo (PT-BR): Poor weather causes NASA, SpaceX to scrub launch attempt of 34th Cargo Dragon mission to the space station May 12, 2026 Will Robinson-Smith A SpaceX Cargo Dragon spacecraft, tail number C209, is seen atop a Falcon 9 rocket at Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station. EDT (2026 UTC): NASA, SpaceX scrub launch on Tuesday, target NET Wednesday.",
+      "queued_ts": 1778618799
+    },
+    {
+      "fp": "63288a92998c1efed0861050",
+      "title": "SpaceX CRS-34 resupply mission to ISS delayed 24 hours",
+      "link": "https://www.nasaspaceflight.com/2026/05/crs-34-launch/",
+      "source": "NASASpaceflight",
+      "score": 5.4,
+      "is_anomaly": false,
+      "published_utc": "2026-05-12T20:11:46+00:00",
+      "day_brt": "2026-05-12",
+      "resumo_pt": "Resumo (PT-BR): SpaceX CRS-34 resupply mission to ISS delayed 24 hours by Justin Davenport May 12, 2026 written by Justin Davenport May 12, 2026 2 Just over two weeks after Progress MS-34 docked to the Station, the ISS is set to receive a new visiting vehicle loaded with cargo. A SpaceX Falcon 9 was scheduled to launch the CRS-34 cargo mission to ISS on Tuesday, May 12, at 7:16 PM EDT (23:16 UTC) from Space Launch Complex 40 (SLC-40) at the Cape Canaveral Space Force Station (CCSFS) in Florida.",
+      "queued_ts": 1778618799
     }
   ],
   "digests_sent": {
@@ -1245,7 +1301,9 @@
       "0289bf9a82e2157ab98ee126": true,
       "9f6c1df1d186a53428df2871": true,
       "9e218d60cba77f383197c11d": true,
-      "6b9bdd52d0b8ecc5a1879445": true
+      "6b9bdd52d0b8ecc5a1879445": true,
+      "d3d9fa403cb15fd5fac1495a": true,
+      "63288a92998c1efed0861050": true
     }
   }
 }
