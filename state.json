@@ -919,6 +919,24 @@
       "link": "https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/",
       "score": 4.0,
       "published_utc": "2026-05-12T00:09:41+00:00"
+    },
+    "3676dae39d65a607a61a3c96": {
+      "ts": 1778561557,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
+      "link": "https://spaceflightnow.com/2026/05/11/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office/",
+      "score": 0.0,
+      "published_utc": "2026-05-11T19:50:46+00:00",
+      "note": "not_today"
+    },
+    "dc95ebd2f0c10e691c1ef6f7": {
+      "ts": 1778561557,
+      "source": "Space.com",
+      "title": "SpaceX launches secret US spy satellites to orbit from California (photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-nrol-172-spy-satellite-mission",
+      "score": 0.0,
+      "published_utc": "2026-05-11T15:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
