@@ -1108,6 +1108,22 @@
       "score": 0.0,
       "published_utc": "2026-05-12T12:20:19+00:00",
       "note": "not_today"
+    },
+    "d49b44c9f2c2d5e17a2eee67": {
+      "ts": 1778706098,
+      "source": "NASA Breaking News",
+      "title": "NASA-Supported Space Tech Advances Earthly Construction",
+      "link": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-supported-space-tech-advances-earthly-construction/",
+      "score": 4.0,
+      "published_utc": "2026-05-13T19:47:08+00:00"
+    },
+    "aec64ef69ba1deed2200ad07": {
+      "ts": 1778706100,
+      "source": "Space.com",
+      "title": "Will Starship launch from foreign shores? SpaceX 'constantly exploring' options for megarocket liftoff sites",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/will-starship-launch-from-foreign-shores-spacex-constantly-exploring-options-for-megarocket-liftoff-sites",
+      "score": 2.8,
+      "published_utc": "2026-05-13T20:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -1230,6 +1246,18 @@
       "day_brt": "2026-05-13",
       "resumo_pt": "Resumo (PT-BR): 1 min read Rise Goes to Washington HQ Web Team May 13, 2026 Image Article NASA/Joel Kowsky “Rise,” the Artemis II zero gravity indicator , is seen sitting on the dais as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen speak with congressional staff, Tuesday, May 12, 2026, in Washington. NASA’s Artemis II mission took Wiseman, Glover, Koch, and Hansen on a nearly 10-day journey around the Moon and back to Earth in April 2026.",
       "queued_ts": 1778700055
+    },
+    {
+      "fp": "d49b44c9f2c2d5e17a2eee67",
+      "title": "NASA-Supported Space Tech Advances Earthly Construction",
+      "link": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-supported-space-tech-advances-earthly-construction/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-13T19:47:08+00:00",
+      "day_brt": "2026-05-13",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA-Supported Space Tech Advances Earthly Construction Rebecca Carroll NASA’s Spinoff Publication May 13, 2026 Article Branch’s work outfitting a prototype of a lunar surface habitat they developed, pictured here, under a cooperative agreement with Marshall Space Flight Center, helped the company evolve its printing processes. An innovative 3D printing process that advanced NASA’s approach to outfitting a lunar habitat is making buildings on Earth beautiful, efficient, and strong.",
+      "queued_ts": 1778706101
     }
   ],
   "digests_sent": {
@@ -1347,7 +1375,8 @@
       "75c721cfefc48124f5812b7e": true,
       "2a219174baaa974b500e587f": true,
       "2e2a51f7ee620b9e69377009": true,
-      "766e78879bda16cbdb3f55e2": true
+      "766e78879bda16cbdb3f55e2": true,
+      "d49b44c9f2c2d5e17a2eee67": true
     }
   }
 }
