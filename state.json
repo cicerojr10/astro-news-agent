@@ -1083,6 +1083,14 @@
       "link": "https://science.nasa.gov/missions/tess/nasas-planet-hunting-tess-reveals-dazzling-night-sky/",
       "score": 4.0,
       "published_utc": "2026-05-13T14:15:23+00:00"
+    },
+    "2e2a51f7ee620b9e69377009": {
+      "ts": 1778693644,
+      "source": "NASASpaceflight",
+      "title": "SpaceX’s new Starship pad readies for first launch",
+      "link": "https://www.nasaspaceflight.com/2026/05/spacex-starship-pad-first-launch/",
+      "score": 3.6,
+      "published_utc": "2026-05-13T17:27:44+00:00"
     }
   },
   "digest_queue": [
@@ -1181,6 +1189,18 @@
       "day_brt": "2026-05-13",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA’s Planet-Hunting TESS Reveals Dazzling Night Sky Jeanette Kazmierczak May 13, 2026 Article NASA’s TESS (Transiting Exoplanet Survey Satellite) has released its most complete view of the starry sky to date, filling in gaps from previous observations. Nearly 6,000 colored dots scattered across the image show the locations of either confirmed or candidate exoplanets — worlds beyond our solar system — identified by the mission as of September 2025 at the end of TESS’s second extended mission.",
       "queued_ts": 1778686159
+    },
+    {
+      "fp": "2e2a51f7ee620b9e69377009",
+      "title": "SpaceX’s new Starship pad readies for first launch",
+      "link": "https://www.nasaspaceflight.com/2026/05/spacex-starship-pad-first-launch/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-05-13T17:27:44+00:00",
+      "day_brt": "2026-05-13",
+      "resumo_pt": "Resumo (PT-BR): SpaceX’s new Starship pad readies for first launch by Ryan Weber May 13, 2026 written by Ryan Weber May 13, 2026 1 Over the last two years, SpaceX has been constructing a completely redesigned launch pad for Starship, drawing on lessons learned from the first 11 flights. The new pad alongside Block 3 of Starship is a clean-sheet design that should help SpaceX move toward a much more reusable launch pad.",
+      "queued_ts": 1778693645
     }
   ],
   "digests_sent": {
@@ -1296,7 +1316,8 @@
     },
     "2026-05-13": {
       "75c721cfefc48124f5812b7e": true,
-      "2a219174baaa974b500e587f": true
+      "2a219174baaa974b500e587f": true,
+      "2e2a51f7ee620b9e69377009": true
     }
   }
 }
