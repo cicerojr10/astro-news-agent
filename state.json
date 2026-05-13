@@ -1132,6 +1132,33 @@
       "link": "https://www.space.com/entertainment/space-books/remember-choose-your-own-adventure-books-now-theres-a-gorgeous-graphic-novel-version-heading-to-space-and-beyond-exclusive",
       "score": 2.8,
       "published_utc": "2026-05-13T21:00:00+00:00"
+    },
+    "f1b9485d4e24db6ea6beef62": {
+      "ts": 1778715295,
+      "source": "Spaceflight Now",
+      "title": "For a second time, poor weather scrubs Cargo Dragon mission launch to the space station",
+      "link": "https://spaceflightnow.com/2026/05/12/live-coverage-nasa-spacex-to-launch-34th-cargo-dragon-mission-to-the-space-station/",
+      "score": 0.0,
+      "published_utc": "2026-05-12T12:20:19+00:00",
+      "note": "not_today"
+    },
+    "9eb1903b1559e53c24077974": {
+      "ts": 1778715295,
+      "source": "NASASpaceflight",
+      "title": "SpaceX CRS-34 resupply mission to ISS scrubbed due to weather",
+      "link": "https://www.nasaspaceflight.com/2026/05/crs-34-launch/",
+      "score": 0.0,
+      "published_utc": "2026-05-12T20:11:46+00:00",
+      "note": "not_today"
+    },
+    "a961e1bb36df5965b73e18bc": {
+      "ts": 1778715296,
+      "source": "Space.com",
+      "title": "SpaceX scrubs Dragon cargo launch to International Space Station due to bad weather",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-dragon-cargo-launch-iss-crs-34",
+      "score": 0.0,
+      "published_utc": "2026-05-12T15:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -1206,66 +1233,6 @@
       "day_brt": "2026-05-11",
       "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NASA’s Curiosity Takes Close... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 2 Min Read NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill PIA26724 Credits: NASA/JPL-Caltech/MSSS Image Addition Date: 05/11/2026 Downloads NASA's Curiosity Takes Close Look at Rock That Got Stuck on Drill PNG (20.94 MB) Description NASA’s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed “Atacama” on May 6, 2026, the 4,877th Martian day, or sol, of the mission.",
       "queued_ts": 1778548845
-    },
-    {
-      "fp": "75c721cfefc48124f5812b7e",
-      "title": "Studying Pneumonia in Space for Heart Health on Earth",
-      "link": "https://www.nasa.gov/missions/station/iss-research/studying-pneumonia-in-space-for-heart-health-on-earth/",
-      "source": "NASA Breaking News",
-      "score": 10.0,
-      "is_anomaly": true,
-      "published_utc": "2026-05-13T14:45:00+00:00",
-      "day_brt": "2026-05-13",
-      "resumo_pt": "Resumo (PT-BR): 2 min read Studying Pneumonia in Space for Heart Health on Earth Christine E. Giraldo International Space Station Research Communications Team May 13, 2026 Article NASA astronaut Jack Hathaway works on MVP Cell-09 research inside a portable glovebag aboard the International Space Station.",
-      "queued_ts": 1778686159
-    },
-    {
-      "fp": "2a219174baaa974b500e587f",
-      "title": "NASA’s Planet-Hunting TESS Reveals Dazzling Night Sky",
-      "link": "https://science.nasa.gov/missions/tess/nasas-planet-hunting-tess-reveals-dazzling-night-sky/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-13T14:15:23+00:00",
-      "day_brt": "2026-05-13",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA’s Planet-Hunting TESS Reveals Dazzling Night Sky Jeanette Kazmierczak May 13, 2026 Article NASA’s TESS (Transiting Exoplanet Survey Satellite) has released its most complete view of the starry sky to date, filling in gaps from previous observations. Nearly 6,000 colored dots scattered across the image show the locations of either confirmed or candidate exoplanets — worlds beyond our solar system — identified by the mission as of September 2025 at the end of TESS’s second extended mission.",
-      "queued_ts": 1778686159
-    },
-    {
-      "fp": "2e2a51f7ee620b9e69377009",
-      "title": "SpaceX’s new Starship pad readies for first launch",
-      "link": "https://www.nasaspaceflight.com/2026/05/spacex-starship-pad-first-launch/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-05-13T17:27:44+00:00",
-      "day_brt": "2026-05-13",
-      "resumo_pt": "Resumo (PT-BR): SpaceX’s new Starship pad readies for first launch by Ryan Weber May 13, 2026 written by Ryan Weber May 13, 2026 1 Over the last two years, SpaceX has been constructing a completely redesigned launch pad for Starship, drawing on lessons learned from the first 11 flights. The new pad alongside Block 3 of Starship is a clean-sheet design that should help SpaceX move toward a much more reusable launch pad.",
-      "queued_ts": 1778693645
-    },
-    {
-      "fp": "766e78879bda16cbdb3f55e2",
-      "title": "Rise Goes to Washington",
-      "link": "https://www.nasa.gov/image-article/rise-goes-to-washington/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-13T19:17:12+00:00",
-      "day_brt": "2026-05-13",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Rise Goes to Washington HQ Web Team May 13, 2026 Image Article NASA/Joel Kowsky “Rise,” the Artemis II zero gravity indicator , is seen sitting on the dais as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen speak with congressional staff, Tuesday, May 12, 2026, in Washington. NASA’s Artemis II mission took Wiseman, Glover, Koch, and Hansen on a nearly 10-day journey around the Moon and back to Earth in April 2026.",
-      "queued_ts": 1778700055
-    },
-    {
-      "fp": "d49b44c9f2c2d5e17a2eee67",
-      "title": "NASA-Supported Space Tech Advances Earthly Construction",
-      "link": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-supported-space-tech-advances-earthly-construction/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-13T19:47:08+00:00",
-      "day_brt": "2026-05-13",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA-Supported Space Tech Advances Earthly Construction Rebecca Carroll NASA’s Spinoff Publication May 13, 2026 Article Branch’s work outfitting a prototype of a lunar surface habitat they developed, pictured here, under a cooperative agreement with Marshall Space Flight Center, helped the company evolve its printing processes. An innovative 3D printing process that advanced NASA’s approach to outfitting a lunar habitat is making buildings on Earth beautiful, efficient, and strong.",
-      "queued_ts": 1778706101
     }
   ],
   "digests_sent": {
@@ -1309,7 +1276,8 @@
       "night": true
     },
     "2026-05-13": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
