@@ -1067,6 +1067,22 @@
       "link": "https://www.space.com/science/particle-physics/like-putting-a-microscope-into-the-core-of-the-sun-worlds-1st-space-based-neutrino-detector-launches-to-orbit",
       "score": 2.8,
       "published_utc": "2026-05-13T12:00:00+00:00"
+    },
+    "75c721cfefc48124f5812b7e": {
+      "ts": 1778686154,
+      "source": "NASA Breaking News",
+      "title": "Studying Pneumonia in Space for Heart Health on Earth",
+      "link": "https://www.nasa.gov/missions/station/iss-research/studying-pneumonia-in-space-for-heart-health-on-earth/",
+      "score": 10.0,
+      "published_utc": "2026-05-13T14:45:00+00:00"
+    },
+    "2a219174baaa974b500e587f": {
+      "ts": 1778686154,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Planet-Hunting TESS Reveals Dazzling Night Sky",
+      "link": "https://science.nasa.gov/missions/tess/nasas-planet-hunting-tess-reveals-dazzling-night-sky/",
+      "score": 4.0,
+      "published_utc": "2026-05-13T14:15:23+00:00"
     }
   },
   "digest_queue": [
@@ -1141,6 +1157,30 @@
       "day_brt": "2026-05-11",
       "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NASA’s Curiosity Takes Close... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 2 Min Read NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill PIA26724 Credits: NASA/JPL-Caltech/MSSS Image Addition Date: 05/11/2026 Downloads NASA's Curiosity Takes Close Look at Rock That Got Stuck on Drill PNG (20.94 MB) Description NASA’s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed “Atacama” on May 6, 2026, the 4,877th Martian day, or sol, of the mission.",
       "queued_ts": 1778548845
+    },
+    {
+      "fp": "75c721cfefc48124f5812b7e",
+      "title": "Studying Pneumonia in Space for Heart Health on Earth",
+      "link": "https://www.nasa.gov/missions/station/iss-research/studying-pneumonia-in-space-for-heart-health-on-earth/",
+      "source": "NASA Breaking News",
+      "score": 10.0,
+      "is_anomaly": true,
+      "published_utc": "2026-05-13T14:45:00+00:00",
+      "day_brt": "2026-05-13",
+      "resumo_pt": "Resumo (PT-BR): 2 min read Studying Pneumonia in Space for Heart Health on Earth Christine E. Giraldo International Space Station Research Communications Team May 13, 2026 Article NASA astronaut Jack Hathaway works on MVP Cell-09 research inside a portable glovebag aboard the International Space Station.",
+      "queued_ts": 1778686159
+    },
+    {
+      "fp": "2a219174baaa974b500e587f",
+      "title": "NASA’s Planet-Hunting TESS Reveals Dazzling Night Sky",
+      "link": "https://science.nasa.gov/missions/tess/nasas-planet-hunting-tess-reveals-dazzling-night-sky/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-13T14:15:23+00:00",
+      "day_brt": "2026-05-13",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA’s Planet-Hunting TESS Reveals Dazzling Night Sky Jeanette Kazmierczak May 13, 2026 Article NASA’s TESS (Transiting Exoplanet Survey Satellite) has released its most complete view of the starry sky to date, filling in gaps from previous observations. Nearly 6,000 colored dots scattered across the image show the locations of either confirmed or candidate exoplanets — worlds beyond our solar system — identified by the mission as of September 2025 at the end of TESS’s second extended mission.",
+      "queued_ts": 1778686159
     }
   ],
   "digests_sent": {
@@ -1253,6 +1293,10 @@
       "d3d9fa403cb15fd5fac1495a": true,
       "63288a92998c1efed0861050": true,
       "5806ca1ff6c13633faeb2e10": true
+    },
+    "2026-05-13": {
+      "75c721cfefc48124f5812b7e": true,
+      "2a219174baaa974b500e587f": true
     }
   }
 }
