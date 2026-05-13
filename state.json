@@ -1059,6 +1059,14 @@
       "link": "https://spaceflightnow.com/2026/05/12/spacex-targets-may-19-for-debut-of-starship-super-heavy-version-3-launch-pad-2/",
       "score": 3.6,
       "published_utc": "2026-05-12T23:15:22+00:00"
+    },
+    "2087732e04f4a39132b2e74d": {
+      "ts": 1778675607,
+      "source": "Space.com",
+      "title": "'Like putting a microscope into the core of the sun': World's 1st space-based neutrino detector launches to orbit",
+      "link": "https://www.space.com/science/particle-physics/like-putting-a-microscope-into-the-core-of-the-sun-worlds-1st-space-based-neutrino-detector-launches-to-orbit",
+      "score": 2.8,
+      "published_utc": "2026-05-13T12:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -1174,6 +1182,9 @@
     "2026-05-12": {
       "morning": true,
       "night": true
+    },
+    "2026-05-13": {
+      "morning": true
     }
   },
   "sent_updates": {
