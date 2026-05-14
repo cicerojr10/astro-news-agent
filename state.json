@@ -1191,6 +1191,30 @@
       "link": "https://www.space.com/stargazing/auroras/geomagnetic-storm-could-spark-northern-lights-as-far-south-as-new-york-and-idaho-tonight-may-14",
       "score": 2.8,
       "published_utc": "2026-05-14T16:08:30+00:00"
+    },
+    "3927a25ffdb137b40f24b534": {
+      "ts": 1778782577,
+      "source": "NASA Breaking News",
+      "title": "NASA, Industry Prepare Cryogenic Fuel Technology Demo",
+      "link": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-industry-prepare-cryogenic-fuel-technology-demo/",
+      "score": 4.0,
+      "published_utc": "2026-05-14T16:32:09+00:00"
+    },
+    "8629b2cdf92376b3aca7c37a": {
+      "ts": 1778782580,
+      "source": "Space.com",
+      "title": "NASA's Perseverance rover is positively glowing in its new selfie on Mars",
+      "link": "https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-rover-is-positively-glowing-in-its-new-selfie-on-mars",
+      "score": 2.8,
+      "published_utc": "2026-05-14T18:00:00+00:00"
+    },
+    "d316014510116290fe712967": {
+      "ts": 1778782581,
+      "source": "Space.com",
+      "title": "SpaceX's Starship V3 megarocket will do something completely new on Flight 12 — take a good look at itself",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-v3-megarocket-will-do-something-completely-new-on-flight-12-take-a-good-look-at-itself",
+      "score": 2.8,
+      "published_utc": "2026-05-14T17:36:27+00:00"
     }
   },
   "digest_queue": [
@@ -1277,6 +1301,18 @@
       "day_brt": "2026-05-14",
       "resumo_pt": "Resumo (PT-BR): 1 min read Fresh Food Delivery for Space Station HQ Web Team May 14, 2026 Image Article You’re allowed to play with your food when you’re on the International Space Station! NASA/Chris Williams NASA astronauts Jack Hathaway (bottom left), Jessica Meir (middle left), and Chris Williams (bottom right), and ESA (European Space Agency) astronaut Sophie Adenot (top right) have some fun with food and microgravity in this April 19, 2026, photo.",
       "queued_ts": 1778776210
+    },
+    {
+      "fp": "3927a25ffdb137b40f24b534",
+      "title": "NASA, Industry Prepare Cryogenic Fuel Technology Demo",
+      "link": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-industry-prepare-cryogenic-fuel-technology-demo/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-14T16:32:09+00:00",
+      "day_brt": "2026-05-14",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA, Industry Prepare Cryogenic Fuel Technology Demo Daniel Boyette Communications Specialist May 14, 2026 Article NASA is collaborating with Eta Space of Rockledge, Florida, on an in‑orbit technology demonstration to advance a key capability for future deep space missions. The Liquid Oxygen Flight Demonstration, or LOXSAT, will test cryogenic fluid management technologies necessary for creating in-space propellant depots, essentially gas stations in space, that could support long-term exploration.",
+      "queued_ts": 1778782581
     }
   ],
   "digests_sent": {
@@ -1402,7 +1438,8 @@
       "d49b44c9f2c2d5e17a2eee67": true
     },
     "2026-05-14": {
-      "85dd8eae328840ca7d780973": true
+      "85dd8eae328840ca7d780973": true,
+      "3927a25ffdb137b40f24b534": true
     }
   }
 }
