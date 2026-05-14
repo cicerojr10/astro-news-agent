@@ -1175,6 +1175,22 @@
       "link": "https://www.space.com/space-exploration/artemis/nasa-reveals-new-details-about-artemis-3-astronaut-mission",
       "score": 2.8,
       "published_utc": "2026-05-14T12:00:00+00:00"
+    },
+    "85dd8eae328840ca7d780973": {
+      "ts": 1778776207,
+      "source": "NASA Breaking News",
+      "title": "Fresh Food Delivery for Space Station",
+      "link": "https://www.nasa.gov/image-article/fresh-food-delivery-for-space-station/",
+      "score": 4.0,
+      "published_utc": "2026-05-14T14:55:08+00:00"
+    },
+    "9650e79f288793d0355001e6": {
+      "ts": 1778776209,
+      "source": "Space.com",
+      "title": "Geomagnetic storm could spark northern lights as far south as New York and Idaho tonight",
+      "link": "https://www.space.com/stargazing/auroras/geomagnetic-storm-could-spark-northern-lights-as-far-south-as-new-york-and-idaho-tonight-may-14",
+      "score": 2.8,
+      "published_utc": "2026-05-14T16:08:30+00:00"
     }
   },
   "digest_queue": [
@@ -1249,6 +1265,18 @@
       "day_brt": "2026-05-11",
       "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NASA’s Curiosity Takes Close... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 2 Min Read NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill PIA26724 Credits: NASA/JPL-Caltech/MSSS Image Addition Date: 05/11/2026 Downloads NASA's Curiosity Takes Close Look at Rock That Got Stuck on Drill PNG (20.94 MB) Description NASA’s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed “Atacama” on May 6, 2026, the 4,877th Martian day, or sol, of the mission.",
       "queued_ts": 1778548845
+    },
+    {
+      "fp": "85dd8eae328840ca7d780973",
+      "title": "Fresh Food Delivery for Space Station",
+      "link": "https://www.nasa.gov/image-article/fresh-food-delivery-for-space-station/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-14T14:55:08+00:00",
+      "day_brt": "2026-05-14",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Fresh Food Delivery for Space Station HQ Web Team May 14, 2026 Image Article You’re allowed to play with your food when you’re on the International Space Station! NASA/Chris Williams NASA astronauts Jack Hathaway (bottom left), Jessica Meir (middle left), and Chris Williams (bottom right), and ESA (European Space Agency) astronaut Sophie Adenot (top right) have some fun with food and microgravity in this April 19, 2026, photo.",
+      "queued_ts": 1778776210
     }
   ],
   "digests_sent": {
@@ -1372,6 +1400,9 @@
       "2e2a51f7ee620b9e69377009": true,
       "766e78879bda16cbdb3f55e2": true,
       "d49b44c9f2c2d5e17a2eee67": true
+    },
+    "2026-05-14": {
+      "85dd8eae328840ca7d780973": true
     }
   }
 }
