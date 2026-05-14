@@ -1305,54 +1305,6 @@
       "day_brt": "2026-05-11",
       "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NASA’s Curiosity Takes Close... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 2 Min Read NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill PIA26724 Credits: NASA/JPL-Caltech/MSSS Image Addition Date: 05/11/2026 Downloads NASA's Curiosity Takes Close Look at Rock That Got Stuck on Drill PNG (20.94 MB) Description NASA’s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed “Atacama” on May 6, 2026, the 4,877th Martian day, or sol, of the mission.",
       "queued_ts": 1778548845
-    },
-    {
-      "fp": "85dd8eae328840ca7d780973",
-      "title": "Fresh Food Delivery for Space Station",
-      "link": "https://www.nasa.gov/image-article/fresh-food-delivery-for-space-station/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-14T14:55:08+00:00",
-      "day_brt": "2026-05-14",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Fresh Food Delivery for Space Station HQ Web Team May 14, 2026 Image Article You’re allowed to play with your food when you’re on the International Space Station! NASA/Chris Williams NASA astronauts Jack Hathaway (bottom left), Jessica Meir (middle left), and Chris Williams (bottom right), and ESA (European Space Agency) astronaut Sophie Adenot (top right) have some fun with food and microgravity in this April 19, 2026, photo.",
-      "queued_ts": 1778776210
-    },
-    {
-      "fp": "3927a25ffdb137b40f24b534",
-      "title": "NASA, Industry Prepare Cryogenic Fuel Technology Demo",
-      "link": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-industry-prepare-cryogenic-fuel-technology-demo/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-14T16:32:09+00:00",
-      "day_brt": "2026-05-14",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NASA, Industry Prepare Cryogenic Fuel Technology Demo Daniel Boyette Communications Specialist May 14, 2026 Article NASA is collaborating with Eta Space of Rockledge, Florida, on an in‑orbit technology demonstration to advance a key capability for future deep space missions. The Liquid Oxygen Flight Demonstration, or LOXSAT, will test cryogenic fluid management technologies necessary for creating in-space propellant depots, essentially gas stations in space, that could support long-term exploration.",
-      "queued_ts": 1778782581
-    },
-    {
-      "fp": "8f99c55747d3f19afb559f16",
-      "title": "NASA Draws on Industry for Mars Telecommunications Network",
-      "link": "https://www.nasa.gov/directorates/esdmd/nasa-draws-on-industry-for-mars-telecommunications-network/",
-      "source": "NASA Breaking News",
-      "score": 10.0,
-      "is_anomaly": true,
-      "published_utc": "2026-05-14T20:53:24+00:00",
-      "day_brt": "2026-05-14",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Draws on Industry for Mars Telecommunications Network Lauren E. Low May 14, 2026 Article NASA’s Perseverance Mars rover used its dual-camera Mastcam-Z imager to capture this image of “Santa Cruz,” a hill about 1.5 miles (2.5 kilometers) away from the rover, on April 29, 2021.",
-      "queued_ts": 1778793545
-    },
-    {
-      "fp": "add540746aba470779f6042b",
-      "title": "ULA confirms successful solid rocket booster test as Vulcan anomaly investigation continues",
-      "link": "https://spaceflightnow.com/2026/05/14/ula-confirms-successful-solid-rocket-booster-test-as-vulcan-anomaly-investigation-continues/",
-      "source": "Spaceflight Now",
-      "score": 9.0,
-      "is_anomaly": true,
-      "published_utc": "2026-05-14T21:20:57+00:00",
-      "day_brt": "2026-05-14",
-      "resumo_pt": "Resumo (PT-BR): ULA confirms successful solid rocket booster test as Vulcan anomaly investigation continues May 14, 2026 Will Robinson-Smith An anomalous plume is visible from one of the Vulcan’s solid rocket motors during the launch of the USSF-87 mission on Feb. United Launch Alliance oversaw the completion of a critical milestone in mid-April on the road to resuming flights with its Vulcan rockets.",
-      "queued_ts": 1778797968
     }
   ],
   "digests_sent": {
@@ -1400,7 +1352,8 @@
       "night": true
     },
     "2026-05-14": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
