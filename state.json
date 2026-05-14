@@ -1215,6 +1215,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-v3-megarocket-will-do-something-completely-new-on-flight-12-take-a-good-look-at-itself",
       "score": 2.8,
       "published_utc": "2026-05-14T17:36:27+00:00"
+    },
+    "8f99c55747d3f19afb559f16": {
+      "ts": 1778793541,
+      "source": "NASA Breaking News",
+      "title": "NASA Draws on Industry for Mars Telecommunications Network",
+      "link": "https://www.nasa.gov/directorates/esdmd/nasa-draws-on-industry-for-mars-telecommunications-network/",
+      "score": 10.0,
+      "published_utc": "2026-05-14T20:53:24+00:00"
     }
   },
   "digest_queue": [
@@ -1313,6 +1321,18 @@
       "day_brt": "2026-05-14",
       "resumo_pt": "Resumo (PT-BR): 2 min read NASA, Industry Prepare Cryogenic Fuel Technology Demo Daniel Boyette Communications Specialist May 14, 2026 Article NASA is collaborating with Eta Space of Rockledge, Florida, on an in‑orbit technology demonstration to advance a key capability for future deep space missions. The Liquid Oxygen Flight Demonstration, or LOXSAT, will test cryogenic fluid management technologies necessary for creating in-space propellant depots, essentially gas stations in space, that could support long-term exploration.",
       "queued_ts": 1778782581
+    },
+    {
+      "fp": "8f99c55747d3f19afb559f16",
+      "title": "NASA Draws on Industry for Mars Telecommunications Network",
+      "link": "https://www.nasa.gov/directorates/esdmd/nasa-draws-on-industry-for-mars-telecommunications-network/",
+      "source": "NASA Breaking News",
+      "score": 10.0,
+      "is_anomaly": true,
+      "published_utc": "2026-05-14T20:53:24+00:00",
+      "day_brt": "2026-05-14",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Draws on Industry for Mars Telecommunications Network Lauren E. Low May 14, 2026 Article NASA’s Perseverance Mars rover used its dual-camera Mastcam-Z imager to capture this image of “Santa Cruz,” a hill about 1.5 miles (2.5 kilometers) away from the rover, on April 29, 2021.",
+      "queued_ts": 1778793545
     }
   ],
   "digests_sent": {
@@ -1439,7 +1459,8 @@
     },
     "2026-05-14": {
       "85dd8eae328840ca7d780973": true,
-      "3927a25ffdb137b40f24b534": true
+      "3927a25ffdb137b40f24b534": true,
+      "8f99c55747d3f19afb559f16": true
     }
   }
 }
