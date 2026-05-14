@@ -1159,6 +1159,14 @@
       "score": 0.0,
       "published_utc": "2026-05-12T15:00:00+00:00",
       "note": "not_today"
+    },
+    "f44a146be60fba2540e16efe": {
+      "ts": 1778760076,
+      "source": "Space.com",
+      "title": "NASA reveals new details about Artemis 3 astronaut mission",
+      "link": "https://www.space.com/space-exploration/artemis/nasa-reveals-new-details-about-artemis-3-astronaut-mission",
+      "score": 2.8,
+      "published_utc": "2026-05-14T12:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -1278,6 +1286,9 @@
     "2026-05-13": {
       "morning": true,
       "night": true
+    },
+    "2026-05-14": {
+      "morning": true
     }
   },
   "sent_updates": {
