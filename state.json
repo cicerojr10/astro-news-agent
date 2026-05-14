@@ -1223,6 +1223,14 @@
       "link": "https://www.nasa.gov/directorates/esdmd/nasa-draws-on-industry-for-mars-telecommunications-network/",
       "score": 10.0,
       "published_utc": "2026-05-14T20:53:24+00:00"
+    },
+    "add540746aba470779f6042b": {
+      "ts": 1778797966,
+      "source": "Spaceflight Now",
+      "title": "ULA confirms successful solid rocket booster test as Vulcan anomaly investigation continues",
+      "link": "https://spaceflightnow.com/2026/05/14/ula-confirms-successful-solid-rocket-booster-test-as-vulcan-anomaly-investigation-continues/",
+      "score": 9.0,
+      "published_utc": "2026-05-14T21:20:57+00:00"
     }
   },
   "digest_queue": [
@@ -1333,6 +1341,18 @@
       "day_brt": "2026-05-14",
       "resumo_pt": "Resumo (PT-BR): 2 min read NASA Draws on Industry for Mars Telecommunications Network Lauren E. Low May 14, 2026 Article NASA’s Perseverance Mars rover used its dual-camera Mastcam-Z imager to capture this image of “Santa Cruz,” a hill about 1.5 miles (2.5 kilometers) away from the rover, on April 29, 2021.",
       "queued_ts": 1778793545
+    },
+    {
+      "fp": "add540746aba470779f6042b",
+      "title": "ULA confirms successful solid rocket booster test as Vulcan anomaly investigation continues",
+      "link": "https://spaceflightnow.com/2026/05/14/ula-confirms-successful-solid-rocket-booster-test-as-vulcan-anomaly-investigation-continues/",
+      "source": "Spaceflight Now",
+      "score": 9.0,
+      "is_anomaly": true,
+      "published_utc": "2026-05-14T21:20:57+00:00",
+      "day_brt": "2026-05-14",
+      "resumo_pt": "Resumo (PT-BR): ULA confirms successful solid rocket booster test as Vulcan anomaly investigation continues May 14, 2026 Will Robinson-Smith An anomalous plume is visible from one of the Vulcan’s solid rocket motors during the launch of the USSF-87 mission on Feb. United Launch Alliance oversaw the completion of a critical milestone in mid-April on the road to resuming flights with its Vulcan rockets.",
+      "queued_ts": 1778797968
     }
   ],
   "digests_sent": {
@@ -1460,7 +1480,8 @@
     "2026-05-14": {
       "85dd8eae328840ca7d780973": true,
       "3927a25ffdb137b40f24b534": true,
-      "8f99c55747d3f19afb559f16": true
+      "8f99c55747d3f19afb559f16": true,
+      "add540746aba470779f6042b": true
     }
   }
 }
