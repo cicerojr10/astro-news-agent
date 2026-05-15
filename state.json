@@ -1298,6 +1298,15 @@
       "link": "https://www.nasaspaceflight.com/2026/05/fligth12-debut-spacex-ship-evolution/",
       "score": 3.6,
       "published_utc": "2026-05-15T16:53:49+00:00"
+    },
+    "a1ff0fe6b01b0de59ab87999": {
+      "ts": 1778877424,
+      "source": "Space.com",
+      "title": "Watch SpaceX launch 6,500 pounds of cargo to the ISS today after delay",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-dragon-cargo-launch-iss-crs-34",
+      "score": 0.0,
+      "published_utc": "2026-05-12T15:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
