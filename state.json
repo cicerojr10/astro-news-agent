@@ -1316,6 +1316,15 @@
       "score": 0.0,
       "published_utc": "2026-05-12T20:11:46+00:00",
       "note": "not_today"
+    },
+    "c1c14d0808c3b61652c9662e": {
+      "ts": 1778884430,
+      "source": "Space.com",
+      "title": "SpaceX launches 6,500 pounds of cargo to the International Space Station after delay (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-dragon-cargo-launch-iss-crs-34",
+      "score": 0.0,
+      "published_utc": "2026-05-12T15:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
