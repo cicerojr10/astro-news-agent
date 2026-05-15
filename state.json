@@ -1257,6 +1257,47 @@
       "score": 0.0,
       "published_utc": "2026-05-14T16:08:30+00:00",
       "note": "not_today"
+    },
+    "1875997e761904f6f3252b5a": {
+      "ts": 1778867833,
+      "source": "NASA Breaking News",
+      "title": "Curiosity Shakes Loose a Pesky Rock",
+      "link": "https://www.nasa.gov/image-article/curiosity-shakes-loose-a-pesky-rock/",
+      "score": 4.0,
+      "published_utc": "2026-05-15T14:45:52+00:00"
+    },
+    "07a4751a91b36a7885795e3e": {
+      "ts": 1778867834,
+      "source": "NASA Breaking News",
+      "title": "Hubble Sights Galaxy in Transition",
+      "link": "https://science.nasa.gov/missions/hubble/hubble-sights-galaxy-in-transition/",
+      "score": 4.0,
+      "published_utc": "2026-05-15T12:01:37+00:00"
+    },
+    "9681e64840ba2e3e3bb917b9": {
+      "ts": 1778867834,
+      "source": "NASA Breaking News",
+      "title": "NASA Outlines Preliminary Artemis III Mission Plans",
+      "link": "https://www.nasa.gov/missions/artemis/artemis-3/nasa-outlines-preliminary-artemis-iii-mission-plans/",
+      "score": 0.0,
+      "published_utc": "2026-05-13T15:33:56+00:00",
+      "note": "not_today"
+    },
+    "37643080064bf6fcdc600c14": {
+      "ts": 1778867835,
+      "source": "Spaceflight Now",
+      "title": "Live Coverage: SpaceX makes another attempt to launch space station cargo mission",
+      "link": "https://spaceflightnow.com/2026/05/15/live-coverage-spacex-makes-another-attempt-to-launch-space-station-cargo-mission/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-05-15T17:36:05+00:00"
+    },
+    "9b30b1d6e924be24c77601c0": {
+      "ts": 1778867836,
+      "source": "NASASpaceflight",
+      "title": "Flight 12 readies for the debut SpaceX’s next Ship evolution",
+      "link": "https://www.nasaspaceflight.com/2026/05/fligth12-debut-spacex-ship-evolution/",
+      "score": 3.6,
+      "published_utc": "2026-05-15T16:53:49+00:00"
     }
   },
   "digest_queue": [
@@ -1343,6 +1384,54 @@
       "day_brt": "2026-05-14",
       "resumo_pt": "Resumo (PT-BR): Rocket Lab signs new launch contracts and acquires robotics company during Q1 2026 by Sean Yoder May 14, 2026 written by Sean Yoder May 14, 2026 1 Rocket Lab opened 2026 by breaking every record it set in 2025. The company signed more launch contracts in three months than it flew missions in all of last year, completed the acquisition of laser communications firm Mynaric AG, entered into a definitive agreement to acquire space robotics company Motiv Space Systems, introduced a new electric satellite thruster, and was selected alongside Raytheon to demonstrate capabilities for the U.S.",
       "queued_ts": 1778808287
+    },
+    {
+      "fp": "37643080064bf6fcdc600c14",
+      "title": "Live Coverage: SpaceX makes another attempt to launch space station cargo mission",
+      "link": "https://spaceflightnow.com/2026/05/15/live-coverage-spacex-makes-another-attempt-to-launch-space-station-cargo-mission/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-05-15T17:36:05+00:00",
+      "day_brt": "2026-05-15",
+      "resumo_pt": "Resumo (PT-BR): Live Coverage: SpaceX makes another attempt to launch space station cargo mission May 15, 2026 Spaceflight Now A SpaceX Cargo Dragon spacecraft, C209, is seen atop a Falcon 9 rocket at Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station. Image: SpaceX SpaceX is counting down Friday for another attempt to launch a Cargo Dragon ship loaded with 6,500 pounds of science and supplies for the International Space Station after two delays earlier in the week due to bad weather.",
+      "queued_ts": 1778867839
+    },
+    {
+      "fp": "1875997e761904f6f3252b5a",
+      "title": "Curiosity Shakes Loose a Pesky Rock",
+      "link": "https://www.nasa.gov/image-article/curiosity-shakes-loose-a-pesky-rock/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-15T14:45:52+00:00",
+      "day_brt": "2026-05-15",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Curiosity Shakes Loose a Pesky Rock HQ Web Team Andrew Good Media Relations Specialist May 15, 2026 Image Article NASA/JPL-Caltech/MSSS After NASA’s Curiosity Mars rover drilled a sample from this rock on April 25, 2026, it withdrew its robotic arm and pulled the entire rock off the surface with it. Engineers spent several days repositioning the arm and vibrating the drill to try and get the rock loose.",
+      "queued_ts": 1778867839
+    },
+    {
+      "fp": "07a4751a91b36a7885795e3e",
+      "title": "Hubble Sights Galaxy in Transition",
+      "link": "https://science.nasa.gov/missions/hubble/hubble-sights-galaxy-in-transition/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-15T12:01:37+00:00",
+      "day_brt": "2026-05-15",
+      "resumo_pt": "Resumo (PT-BR): Explore Hubble Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space? Hubble by the Numbers At the Museum FAQs Impact & Benefits Hubble's Impact & Benefits Science Impacts Cultural Impact Technology Benefits Impact on Human Spaceflight Astro Community Impacts Science Hubble Science Science Themes Science Highlights Science Behind Discoveries Universe Uncovered Hubble's Partners in Science Hubble & Citizen Science AI & Hubble Science Explore the Night Sky Observatory Hubble Observatory Hubble Design Mission Operations Science Operations Astronaut Missions to Hubble Hubble vs Webb Team Hubble Team Career Aspirations Hubble Astronauts Multimedia Images Videos Online Activities e-Books Sonifications Podcasts 3D Hubble Models Lithographs Fact Sheets Posters Hubble on the NASA App Glossary News Hubble News Social Media Media Resources 35th Anniversary More Online Activities 3 min read Hubble Sights Galaxy in Transition NASA Hubble Mission Team Goddard Space Flight Center May 15, 2026 Article This NASA Hubble Space Telescope images reveals the lenticular galaxy, NGC 1266.",
+      "queued_ts": 1778867839
+    },
+    {
+      "fp": "9b30b1d6e924be24c77601c0",
+      "title": "Flight 12 readies for the debut SpaceX’s next Ship evolution",
+      "link": "https://www.nasaspaceflight.com/2026/05/fligth12-debut-spacex-ship-evolution/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-05-15T16:53:49+00:00",
+      "day_brt": "2026-05-15",
+      "resumo_pt": "Resumo (PT-BR): Flight 12 readies for the debut SpaceX’s next Ship evolution by Ryan Weber May 15, 2026 written by Ryan Weber May 15, 2026 1 Starship’s second stage has evolved through numerous iterations since the early test flights of SN8 and SN15. Ship 39, the first vehicle of Block 3, marks the latest update.",
+      "queued_ts": 1778867839
     }
   ],
   "digests_sent": {
@@ -1477,6 +1566,11 @@
       "8f99c55747d3f19afb559f16": true,
       "add540746aba470779f6042b": true,
       "05fd8d8d6a8a04ed07aca181": true
+    },
+    "2026-05-15": {
+      "37643080064bf6fcdc600c14": true,
+      "1875997e761904f6f3252b5a": true,
+      "07a4751a91b36a7885795e3e": true
     }
   }
 }
