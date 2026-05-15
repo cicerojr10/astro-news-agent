@@ -1392,6 +1392,9 @@
     "2026-05-14": {
       "morning": true,
       "night": true
+    },
+    "2026-05-15": {
+      "morning": true
     }
   },
   "sent_updates": {
