@@ -1239,6 +1239,15 @@
       "link": "https://www.nasaspaceflight.com/2026/05/rocket-lab-q1-2026/",
       "score": 3.6,
       "published_utc": "2026-05-15T00:24:31+00:00"
+    },
+    "7b7df7e68f6dfcabbc96634a": {
+      "ts": 1778832669,
+      "source": "Space.com",
+      "title": "NASA's Psyche asteroid probe will fly within 3,000 miles of Mars today: Here's what to expect",
+      "link": "https://www.space.com/space-exploration/asteroid-comet-missions/nasas-psyche-asteroid-probe-will-fly-within-3-000-miles-of-mars-on-may-15-heres-what-to-expect",
+      "score": 0.0,
+      "published_utc": "2026-05-12T14:19:42+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
