@@ -1231,6 +1231,14 @@
       "link": "https://spaceflightnow.com/2026/05/14/ula-confirms-successful-solid-rocket-booster-test-as-vulcan-anomaly-investigation-continues/",
       "score": 9.0,
       "published_utc": "2026-05-14T21:20:57+00:00"
+    },
+    "05fd8d8d6a8a04ed07aca181": {
+      "ts": 1778808286,
+      "source": "NASASpaceflight",
+      "title": "Rocket Lab signs new launch contracts and acquires robotics company during Q1 2026",
+      "link": "https://www.nasaspaceflight.com/2026/05/rocket-lab-q1-2026/",
+      "score": 3.6,
+      "published_utc": "2026-05-15T00:24:31+00:00"
     }
   },
   "digest_queue": [
@@ -1305,6 +1313,18 @@
       "day_brt": "2026-05-11",
       "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NASA’s Curiosity Takes Close... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 2 Min Read NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill PIA26724 Credits: NASA/JPL-Caltech/MSSS Image Addition Date: 05/11/2026 Downloads NASA's Curiosity Takes Close Look at Rock That Got Stuck on Drill PNG (20.94 MB) Description NASA’s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed “Atacama” on May 6, 2026, the 4,877th Martian day, or sol, of the mission.",
       "queued_ts": 1778548845
+    },
+    {
+      "fp": "05fd8d8d6a8a04ed07aca181",
+      "title": "Rocket Lab signs new launch contracts and acquires robotics company during Q1 2026",
+      "link": "https://www.nasaspaceflight.com/2026/05/rocket-lab-q1-2026/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-05-15T00:24:31+00:00",
+      "day_brt": "2026-05-14",
+      "resumo_pt": "Resumo (PT-BR): Rocket Lab signs new launch contracts and acquires robotics company during Q1 2026 by Sean Yoder May 14, 2026 written by Sean Yoder May 14, 2026 1 Rocket Lab opened 2026 by breaking every record it set in 2025. The company signed more launch contracts in three months than it flew missions in all of last year, completed the acquisition of laser communications firm Mynaric AG, entered into a definitive agreement to acquire space robotics company Motiv Space Systems, introduced a new electric satellite thruster, and was selected alongside Raytheon to demonstrate capabilities for the U.S.",
+      "queued_ts": 1778808287
     }
   ],
   "digests_sent": {
@@ -1434,7 +1454,8 @@
       "85dd8eae328840ca7d780973": true,
       "3927a25ffdb137b40f24b534": true,
       "8f99c55747d3f19afb559f16": true,
-      "add540746aba470779f6042b": true
+      "add540746aba470779f6042b": true,
+      "05fd8d8d6a8a04ed07aca181": true
     }
   }
 }
