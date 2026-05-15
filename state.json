@@ -1307,6 +1307,15 @@
       "score": 0.0,
       "published_utc": "2026-05-12T15:00:00+00:00",
       "note": "not_today"
+    },
+    "7d614e4185753f0f1b4a1ad6": {
+      "ts": 1778881072,
+      "source": "NASASpaceflight",
+      "title": "SpaceX CRS-34 resupply mission ready to try again",
+      "link": "https://www.nasaspaceflight.com/2026/05/crs-34-launch/",
+      "score": 0.0,
+      "published_utc": "2026-05-12T20:11:46+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
