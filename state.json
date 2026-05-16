@@ -1350,6 +1350,14 @@
       "score": 0.0,
       "published_utc": "2026-05-12T20:11:46+00:00",
       "note": "not_today"
+    },
+    "3d76a177fbf12178a4da325d": {
+      "ts": 1778933189,
+      "source": "Space.com",
+      "title": "NASA's Psyche spacecraft is flying to a metal asteroid. So, why did it just visit Mars?",
+      "link": "https://www.space.com/space-exploration/asteroid-comet-missions/nasas-psyche-spacecraft-is-flying-to-a-metal-asteroid-so-why-did-it-just-visit-mars",
+      "score": 2.8,
+      "published_utc": "2026-05-16T12:00:00+00:00"
     }
   },
   "digest_queue": [
