@@ -1501,6 +1501,9 @@
     "2026-05-16": {
       "morning": true,
       "night": true
+    },
+    "2026-05-17": {
+      "morning": true
     }
   },
   "sent_updates": {
