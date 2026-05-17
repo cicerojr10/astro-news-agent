@@ -1374,6 +1374,14 @@
       "link": "https://www.space.com/astronomy/mars/watch-nasas-new-mars-helicopter-rotor-break-the-speed-of-sound-video",
       "score": 2.8,
       "published_utc": "2026-05-17T15:00:00+00:00"
+    },
+    "5dfd7c069125617fe0dc3983": {
+      "ts": 1779041435,
+      "source": "NASASpaceflight",
+      "title": "Artemis III deep into processing and planning for key HLS test",
+      "link": "https://www.nasaspaceflight.com/2026/05/artemis-iii-processing-planning-hls/",
+      "score": 3.6,
+      "published_utc": "2026-05-17T17:29:54+00:00"
     }
   },
   "digest_queue": [
@@ -1460,6 +1468,18 @@
       "day_brt": "2026-05-14",
       "resumo_pt": "Resumo (PT-BR): Rocket Lab signs new launch contracts and acquires robotics company during Q1 2026 by Sean Yoder May 14, 2026 written by Sean Yoder May 14, 2026 1 Rocket Lab opened 2026 by breaking every record it set in 2025. The company signed more launch contracts in three months than it flew missions in all of last year, completed the acquisition of laser communications firm Mynaric AG, entered into a definitive agreement to acquire space robotics company Motiv Space Systems, introduced a new electric satellite thruster, and was selected alongside Raytheon to demonstrate capabilities for the U.S.",
       "queued_ts": 1778808287
+    },
+    {
+      "fp": "5dfd7c069125617fe0dc3983",
+      "title": "Artemis III deep into processing and planning for key HLS test",
+      "link": "https://www.nasaspaceflight.com/2026/05/artemis-iii-processing-planning-hls/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-05-17T17:29:54+00:00",
+      "day_brt": "2026-05-17",
+      "resumo_pt": "Resumo (PT-BR): Artemis III deep into processing and planning for key HLS test by Chris Bergin May 17, 2026 written by Chris Bergin May 17, 2026 2 NASA is deep into planning for Artemis III, a pivotal crewed mission in low Earth orbit scheduled for next year that will serve as a critical dress rehearsal for the agency’s return to the Moon. The flight will mark the first time NASA integrates multiple human-rated vehicles from commercial partners in a single campaign, testing rendezvous, docking, and operations between the Orion spacecraft and uncrewed pathfinder versions of Blue Origin’s Blue Moon Mark 2 and SpaceX’s Starship Human Landing System (HLS).",
+      "queued_ts": 1779041436
     }
   ],
   "digests_sent": {
@@ -1523,45 +1543,6 @@
     }
   },
   "sent_updates": {
-    "2026-05-04": {
-      "78d82f412caf7aaccb40f3ed": true,
-      "55bbf20263e3b54e05239ed8": true,
-      "5f17b4c7025b50c5587e7b1c": true,
-      "c0c970deafa0d783584c69e1": true,
-      "410272cd9757c0b95400b2be": true,
-      "f948b653facb0ff5f192f553": true
-    },
-    "2026-05-05": {
-      "1afa5daebc780d51c84695f4": true,
-      "896968deda65bb4b51962990": true,
-      "762ac6dbf600ad9a30fe8566": true,
-      "b70542479731c968e1bc0859": true,
-      "48c356d57cf1a1f54dc2db7c": true,
-      "7db3cb3665cdd1c73369c50b": true,
-      "a8209bc98705a77b7c51cc4c": true
-    },
-    "2026-05-06": {
-      "0ba1ebe8f7736d450850bc04": true,
-      "178ac21e31fefc96ec4e9390": true,
-      "25b3a3e505f04a3c09e3e6e5": true,
-      "b58b80903dde34ba4400f133": true,
-      "3316221a69de724e17e2c791": true,
-      "e2fad9584a7b901e5c6e466c": true
-    },
-    "2026-05-07": {
-      "98a3b07488cb5cbfe74b8f92": true,
-      "3a7d5f7f02b1a5e9c323ba5b": true,
-      "bbc473dd7385cd696ce14665": true,
-      "b9c56cf7b3c474c1e5dfb1a0": true,
-      "1aac41b83fb41d97448959bf": true,
-      "d76caa7af47ceb3a9fdd74f0": true,
-      "3c4c3353a10b61c292839f2a": true,
-      "b75a7fad96e75dc1b057d89c": true,
-      "eee0109725be7226da138cdd": true,
-      "b8b679f7556eca3c8a134696": true,
-      "c77ed6149e646a94bb1f65ee": true,
-      "2b1def7249358c5e61455a68": true
-    },
     "2026-05-08": {
       "fbb83f8586566accb590e2c0": true,
       "93e338a65f9a4af66948f793": true,
@@ -1609,6 +1590,9 @@
       "07a4751a91b36a7885795e3e": true,
       "44928ab9d87ce87a5072a0d6": true,
       "69fbffaa0ed0e5920868ecde": true
+    },
+    "2026-05-17": {
+      "5dfd7c069125617fe0dc3983": true
     }
   }
 }
