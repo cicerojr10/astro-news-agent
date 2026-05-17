@@ -1468,18 +1468,6 @@
       "day_brt": "2026-05-14",
       "resumo_pt": "Resumo (PT-BR): Rocket Lab signs new launch contracts and acquires robotics company during Q1 2026 by Sean Yoder May 14, 2026 written by Sean Yoder May 14, 2026 1 Rocket Lab opened 2026 by breaking every record it set in 2025. The company signed more launch contracts in three months than it flew missions in all of last year, completed the acquisition of laser communications firm Mynaric AG, entered into a definitive agreement to acquire space robotics company Motiv Space Systems, introduced a new electric satellite thruster, and was selected alongside Raytheon to demonstrate capabilities for the U.S.",
       "queued_ts": 1778808287
-    },
-    {
-      "fp": "5dfd7c069125617fe0dc3983",
-      "title": "Artemis III deep into processing and planning for key HLS test",
-      "link": "https://www.nasaspaceflight.com/2026/05/artemis-iii-processing-planning-hls/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-05-17T17:29:54+00:00",
-      "day_brt": "2026-05-17",
-      "resumo_pt": "Resumo (PT-BR): Artemis III deep into processing and planning for key HLS test by Chris Bergin May 17, 2026 written by Chris Bergin May 17, 2026 2 NASA is deep into planning for Artemis III, a pivotal crewed mission in low Earth orbit scheduled for next year that will serve as a critical dress rehearsal for the agency’s return to the Moon. The flight will mark the first time NASA integrates multiple human-rated vehicles from commercial partners in a single campaign, testing rendezvous, docking, and operations between the Orion spacecraft and uncrewed pathfinder versions of Blue Origin’s Blue Moon Mark 2 and SpaceX’s Starship Human Landing System (HLS).",
-      "queued_ts": 1779041436
     }
   ],
   "digests_sent": {
@@ -1539,7 +1527,8 @@
       "night": true
     },
     "2026-05-17": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
