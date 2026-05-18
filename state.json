@@ -1382,6 +1382,14 @@
       "link": "https://www.nasaspaceflight.com/2026/05/artemis-iii-processing-planning-hls/",
       "score": 3.6,
       "published_utc": "2026-05-17T17:29:54+00:00"
+    },
+    "3e42bfc610657e69bdb2424f": {
+      "ts": 1779105703,
+      "source": "Space.com",
+      "title": "SpaceX Starlink and other satellite megaconstellations are creating an 'unregulated geoengineering experiment', scientists say",
+      "link": "https://www.space.com/space-exploration/satellites/spacex-starlink-and-other-satellite-megaconstellations-are-creating-an-unregulated-geoengineering-experiment-scientists-say",
+      "score": 2.8,
+      "published_utc": "2026-05-18T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -1529,6 +1537,9 @@
     "2026-05-17": {
       "morning": true,
       "night": true
+    },
+    "2026-05-18": {
+      "morning": true
     }
   },
   "sent_updates": {
