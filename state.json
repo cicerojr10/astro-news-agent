@@ -1415,6 +1415,46 @@
       "link": "https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-several-us-states-may-18-20-as-3-cmes-race-toward-earth",
       "score": 2.8,
       "published_utc": "2026-05-18T14:44:14+00:00"
+    },
+    "a33f3404efe65e26cfa06916": {
+      "ts": 1779126621,
+      "source": "NASA Breaking News",
+      "title": "NASA Selects Next Class of Space Health Postdoctoral Fellows",
+      "link": "https://www.nasa.gov/news-release/nasa-selects-next-class-of-space-health-postdoctoral-fellows/",
+      "score": 4.0,
+      "published_utc": "2026-05-18T17:00:17+00:00"
+    },
+    "a3acff12d07833b09d72fcf4": {
+      "ts": 1779126621,
+      "source": "NASA Breaking News",
+      "title": "Beacon of Light",
+      "link": "https://www.nasa.gov/image-article/beacon-of-light/",
+      "score": 4.0,
+      "published_utc": "2026-05-18T15:31:45+00:00"
+    },
+    "11ac685a801492b12034ba34": {
+      "ts": 1779126624,
+      "source": "Space.com",
+      "title": "Watch Vega C rocket launch European-Chinese space weather satellite to orbit tonight",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/european-chinese-space-weather-mission-smile-launch",
+      "score": 2.8,
+      "published_utc": "2026-05-18T17:00:00+00:00"
+    },
+    "f463817be9e2045699b6b151": {
+      "ts": 1779126624,
+      "source": "Space.com",
+      "title": "SpaceX Starship Flight 12 launch updates: 1st-ever Starship V3 test gets new launch date",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-12-launch-updates-may-18-2026",
+      "score": 2.8,
+      "published_utc": "2026-05-18T14:56:45+00:00"
+    },
+    "53271eb01ff4addb6bc3ddd9": {
+      "ts": 1779126624,
+      "source": "Space.com",
+      "title": "Northern lights may be visible in several US states tonight as 3 CMEs race toward Earth",
+      "link": "https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-us-states-may-18-20-as-cmes-race-toward-earth",
+      "score": 2.8,
+      "published_utc": "2026-05-18T14:44:14+00:00"
     }
   },
   "digest_queue": [
@@ -1501,6 +1541,30 @@
       "day_brt": "2026-05-14",
       "resumo_pt": "Resumo (PT-BR): Rocket Lab signs new launch contracts and acquires robotics company during Q1 2026 by Sean Yoder May 14, 2026 written by Sean Yoder May 14, 2026 1 Rocket Lab opened 2026 by breaking every record it set in 2025. The company signed more launch contracts in three months than it flew missions in all of last year, completed the acquisition of laser communications firm Mynaric AG, entered into a definitive agreement to acquire space robotics company Motiv Space Systems, introduced a new electric satellite thruster, and was selected alongside Raytheon to demonstrate capabilities for the U.S.",
       "queued_ts": 1778808287
+    },
+    {
+      "fp": "a33f3404efe65e26cfa06916",
+      "title": "NASA Selects Next Class of Space Health Postdoctoral Fellows",
+      "link": "https://www.nasa.gov/news-release/nasa-selects-next-class-of-space-health-postdoctoral-fellows/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-18T17:00:17+00:00",
+      "day_brt": "2026-05-18",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Selects Next Class of Space Health Postdoctoral Fellows HRP Communications Team HRP Communications Team May 18, 2026 RELEASE A view of NASA’s Orion spacecraft aboard the SLS (Space Launch System) rocket on April 1 during the launch of the Artemis II test flight. Credit: NASA The NASA-funded Translational Research Institute for Space Health (TRISH) has selected two early‑career scientists for its next class of postdoctoral fellows.",
+      "queued_ts": 1779126625
+    },
+    {
+      "fp": "a3acff12d07833b09d72fcf4",
+      "title": "Beacon of Light",
+      "link": "https://www.nasa.gov/image-article/beacon-of-light/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-18T15:31:45+00:00",
+      "day_brt": "2026-05-18",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Beacon of Light HQ Web Team May 18, 2026 Image Article This latest Picture of the Month from the NASA/ESA/CSA James Webb Space Telescope features Messier 77 (M77), a barred spiral galaxy famous and appreciated among astronomers for its combination of relative proximity and spectacular features to study. It is located 45 million light-years away in the constellation Cetus (The Whale).",
+      "queued_ts": 1779126625
     }
   ],
   "digests_sent": {
@@ -1618,6 +1682,10 @@
     },
     "2026-05-17": {
       "5dfd7c069125617fe0dc3983": true
+    },
+    "2026-05-18": {
+      "a33f3404efe65e26cfa06916": true,
+      "a3acff12d07833b09d72fcf4": true
     }
   }
 }
