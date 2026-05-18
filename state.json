@@ -1399,6 +1399,22 @@
       "score": 0.0,
       "published_utc": "2026-05-14T16:08:30+00:00",
       "note": "not_today"
+    },
+    "f0dd1d1f02e58d71a142a107": {
+      "ts": 1779119587,
+      "source": "Space.com",
+      "title": "SpaceX Starship Flight 12 launch updates: 1st-ever Starship V3 test gets new launch date",
+      "link": "https://www.space.com/space-exploration/live/spacex-starship-flight-12-launch-updates-may-18-2026",
+      "score": 2.8,
+      "published_utc": "2026-05-18T14:56:45+00:00"
+    },
+    "aca4f1b1653aaf49caac4d7f": {
+      "ts": 1779119587,
+      "source": "Space.com",
+      "title": "Northern lights may be visible in several US states tonight as 3 CMEs race toward Earth",
+      "link": "https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-several-us-states-may-18-20-as-3-cmes-race-toward-earth",
+      "score": 2.8,
+      "published_utc": "2026-05-18T14:44:14+00:00"
     }
   },
   "digest_queue": [
