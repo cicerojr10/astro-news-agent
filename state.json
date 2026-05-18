@@ -1581,78 +1581,6 @@
       "day_brt": "2026-05-14",
       "resumo_pt": "Resumo (PT-BR): Rocket Lab signs new launch contracts and acquires robotics company during Q1 2026 by Sean Yoder May 14, 2026 written by Sean Yoder May 14, 2026 1 Rocket Lab opened 2026 by breaking every record it set in 2025. The company signed more launch contracts in three months than it flew missions in all of last year, completed the acquisition of laser communications firm Mynaric AG, entered into a definitive agreement to acquire space robotics company Motiv Space Systems, introduced a new electric satellite thruster, and was selected alongside Raytheon to demonstrate capabilities for the U.S.",
       "queued_ts": 1778808287
-    },
-    {
-      "fp": "a33f3404efe65e26cfa06916",
-      "title": "NASA Selects Next Class of Space Health Postdoctoral Fellows",
-      "link": "https://www.nasa.gov/news-release/nasa-selects-next-class-of-space-health-postdoctoral-fellows/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-18T17:00:17+00:00",
-      "day_brt": "2026-05-18",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Selects Next Class of Space Health Postdoctoral Fellows HRP Communications Team HRP Communications Team May 18, 2026 RELEASE A view of NASA’s Orion spacecraft aboard the SLS (Space Launch System) rocket on April 1 during the launch of the Artemis II test flight. Credit: NASA The NASA-funded Translational Research Institute for Space Health (TRISH) has selected two early‑career scientists for its next class of postdoctoral fellows.",
-      "queued_ts": 1779126625
-    },
-    {
-      "fp": "a3acff12d07833b09d72fcf4",
-      "title": "Beacon of Light",
-      "link": "https://www.nasa.gov/image-article/beacon-of-light/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-18T15:31:45+00:00",
-      "day_brt": "2026-05-18",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Beacon of Light HQ Web Team May 18, 2026 Image Article This latest Picture of the Month from the NASA/ESA/CSA James Webb Space Telescope features Messier 77 (M77), a barred spiral galaxy famous and appreciated among astronomers for its combination of relative proximity and spectacular features to study. It is located 45 million light-years away in the constellation Cetus (The Whale).",
-      "queued_ts": 1779126625
-    },
-    {
-      "fp": "130052600446b15ced60bdb2",
-      "title": "NASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars",
-      "link": "https://science.nasa.gov/missions/maven/nasas-maven-makes-1st-discovery-of-atmospheric-effect-at-mars/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-18T17:09:43+00:00",
-      "day_brt": "2026-05-18",
-      "resumo_pt": "Resumo (PT-BR): 5 min read NASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars NASA Science Editorial Team May 18, 2026 Article In December 2023, scientists looking at Mars data stumbled across something completely unexpected — observations of an atmospheric effect never before seen in the Red Planet’s atmosphere. Using instruments aboard NASA’s MAVEN (Mars Atmosphere and Volatile Evolution) mission, scientists identified a phenomenon known to occur in Earth’s magnetosphere, where charged particles are squeezed like toothpaste coming out of a tube along magnetic structures called flux tubes.",
-      "queued_ts": 1779132033
-    },
-    {
-      "fp": "35d92c22033c9526cd80de8b",
-      "title": "Super Heavy Block 3 the Booster of the Future",
-      "link": "https://www.nasaspaceflight.com/2026/05/super-heavy-block-3-booster-future/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-05-18T18:27:46+00:00",
-      "day_brt": "2026-05-18",
-      "resumo_pt": "Resumo (PT-BR): Super Heavy Block 3 the Booster of the Future by Ryan Weber May 18, 2026 written by Ryan Weber May 18, 2026 1 The first stage of Starship, the Super Heavy booster, has already undergone many changes during its development. This most recent design change, from Block 1/2 boosters to Block 3, is by far the biggest leap.",
-      "queued_ts": 1779132033
-    },
-    {
-      "fp": "6bb64a33759ac4837cdd02cd",
-      "title": "Johnson Photographers Honored for Award-Winning Portraits",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/johnson-photographers-honored-for-award-winning-portraits/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-18T21:28:32+00:00",
-      "day_brt": "2026-05-18",
-      "resumo_pt": "Resumo (PT-BR): 3 min read Johnson Photographers Honored for Award-Winning Portraits Sumer Loggins Johnson Space Center Office of Communications May 18, 2026 Article Three photographers at NASA’s Johnson Space Center who inspire the world through visual storytelling earned top honors in the portrait category at the 2025 NASA Imagery Experts Program Annual Awards. “Congratulations to all three on this impressive achievement and for capturing such breathtaking imagery,” said Johnson Director Vanessa Wyche.",
-      "queued_ts": 1779144790
-    },
-    {
-      "fp": "685bc70fbeac27137e28722a",
-      "title": "Vega C set to launch SMILE to study Earth’s magnetosphere",
-      "link": "https://www.nasaspaceflight.com/2026/05/esa-smile-launch/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-05-18T22:50:38+00:00",
-      "day_brt": "2026-05-18",
-      "resumo_pt": "Resumo (PT-BR): Vega C set to launch SMILE to study Earth’s magnetosphere by Eleanor Day May 18, 2026 written by Eleanor Day May 18, 2026 4 The European Space Agency’s (ESA) latest science mission, Solar Wind Magnetosphere Ionosphere Link Explorer (SMILE), is set to launch on a four-stage Vega C rocket from French Guiana. SMILE, a collaboration between ESA, the Chinese Academy of Sciences (CAS), and multiple academic and commercial organizations, will capture the first global soft X-ray images of Earth’s magnetosphere and its response to powerful solar wind.",
-      "queued_ts": 1779144790
     }
   ],
   "digests_sent": {
@@ -1716,7 +1644,8 @@
       "night": true
     },
     "2026-05-18": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
