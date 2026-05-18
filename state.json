@@ -1455,6 +1455,30 @@
       "link": "https://www.space.com/stargazing/auroras/northern-lights-may-be-visible-in-these-us-states-may-18-20-as-cmes-race-toward-earth",
       "score": 2.8,
       "published_utc": "2026-05-18T14:44:14+00:00"
+    },
+    "130052600446b15ced60bdb2": {
+      "ts": 1779132028,
+      "source": "NASA Breaking News",
+      "title": "NASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars",
+      "link": "https://science.nasa.gov/missions/maven/nasas-maven-makes-1st-discovery-of-atmospheric-effect-at-mars/",
+      "score": 4.0,
+      "published_utc": "2026-05-18T17:09:43+00:00"
+    },
+    "35d92c22033c9526cd80de8b": {
+      "ts": 1779132032,
+      "source": "NASASpaceflight",
+      "title": "Super Heavy Block 3 the Booster of the Future",
+      "link": "https://www.nasaspaceflight.com/2026/05/super-heavy-block-3-booster-future/",
+      "score": 3.6,
+      "published_utc": "2026-05-18T18:27:46+00:00"
+    },
+    "746da9f747122f9968885118": {
+      "ts": 1779132032,
+      "source": "Space.com",
+      "title": "What time is SpaceX's Starship V3 launch on May 20? (Starship Flight 12 timeline)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/what-time-is-spacex-starship-v3-launch-starship-flight-12-timeline",
+      "score": 2.8,
+      "published_utc": "2026-05-18T18:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -1565,6 +1589,30 @@
       "day_brt": "2026-05-18",
       "resumo_pt": "Resumo (PT-BR): 1 min read Beacon of Light HQ Web Team May 18, 2026 Image Article This latest Picture of the Month from the NASA/ESA/CSA James Webb Space Telescope features Messier 77 (M77), a barred spiral galaxy famous and appreciated among astronomers for its combination of relative proximity and spectacular features to study. It is located 45 million light-years away in the constellation Cetus (The Whale).",
       "queued_ts": 1779126625
+    },
+    {
+      "fp": "130052600446b15ced60bdb2",
+      "title": "NASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars",
+      "link": "https://science.nasa.gov/missions/maven/nasas-maven-makes-1st-discovery-of-atmospheric-effect-at-mars/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-18T17:09:43+00:00",
+      "day_brt": "2026-05-18",
+      "resumo_pt": "Resumo (PT-BR): 5 min read NASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars NASA Science Editorial Team May 18, 2026 Article In December 2023, scientists looking at Mars data stumbled across something completely unexpected — observations of an atmospheric effect never before seen in the Red Planet’s atmosphere. Using instruments aboard NASA’s MAVEN (Mars Atmosphere and Volatile Evolution) mission, scientists identified a phenomenon known to occur in Earth’s magnetosphere, where charged particles are squeezed like toothpaste coming out of a tube along magnetic structures called flux tubes.",
+      "queued_ts": 1779132033
+    },
+    {
+      "fp": "35d92c22033c9526cd80de8b",
+      "title": "Super Heavy Block 3 the Booster of the Future",
+      "link": "https://www.nasaspaceflight.com/2026/05/super-heavy-block-3-booster-future/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-05-18T18:27:46+00:00",
+      "day_brt": "2026-05-18",
+      "resumo_pt": "Resumo (PT-BR): Super Heavy Block 3 the Booster of the Future by Ryan Weber May 18, 2026 written by Ryan Weber May 18, 2026 1 The first stage of Starship, the Super Heavy booster, has already undergone many changes during its development. This most recent design change, from Block 1/2 boosters to Block 3, is by far the biggest leap.",
+      "queued_ts": 1779132033
     }
   ],
   "digests_sent": {
@@ -1685,7 +1733,9 @@
     },
     "2026-05-18": {
       "a33f3404efe65e26cfa06916": true,
-      "a3acff12d07833b09d72fcf4": true
+      "a3acff12d07833b09d72fcf4": true,
+      "130052600446b15ced60bdb2": true,
+      "35d92c22033c9526cd80de8b": true
     }
   }
 }
