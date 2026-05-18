@@ -1479,6 +1479,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/what-time-is-spacex-starship-v3-launch-starship-flight-12-timeline",
       "score": 2.8,
       "published_utc": "2026-05-18T18:00:00+00:00"
+    },
+    "6bb64a33759ac4837cdd02cd": {
+      "ts": 1779144786,
+      "source": "NASA Breaking News",
+      "title": "Johnson Photographers Honored for Award-Winning Portraits",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/johnson-photographers-honored-for-award-winning-portraits/",
+      "score": 4.0,
+      "published_utc": "2026-05-18T21:28:32+00:00"
+    },
+    "685bc70fbeac27137e28722a": {
+      "ts": 1779144788,
+      "source": "NASASpaceflight",
+      "title": "Vega C set to launch SMILE to study Earth’s magnetosphere",
+      "link": "https://www.nasaspaceflight.com/2026/05/esa-smile-launch/",
+      "score": 3.6,
+      "published_utc": "2026-05-18T22:50:38+00:00"
     }
   },
   "digest_queue": [
@@ -1613,6 +1629,30 @@
       "day_brt": "2026-05-18",
       "resumo_pt": "Resumo (PT-BR): Super Heavy Block 3 the Booster of the Future by Ryan Weber May 18, 2026 written by Ryan Weber May 18, 2026 1 The first stage of Starship, the Super Heavy booster, has already undergone many changes during its development. This most recent design change, from Block 1/2 boosters to Block 3, is by far the biggest leap.",
       "queued_ts": 1779132033
+    },
+    {
+      "fp": "6bb64a33759ac4837cdd02cd",
+      "title": "Johnson Photographers Honored for Award-Winning Portraits",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/johnson-photographers-honored-for-award-winning-portraits/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-18T21:28:32+00:00",
+      "day_brt": "2026-05-18",
+      "resumo_pt": "Resumo (PT-BR): 3 min read Johnson Photographers Honored for Award-Winning Portraits Sumer Loggins Johnson Space Center Office of Communications May 18, 2026 Article Three photographers at NASA’s Johnson Space Center who inspire the world through visual storytelling earned top honors in the portrait category at the 2025 NASA Imagery Experts Program Annual Awards. “Congratulations to all three on this impressive achievement and for capturing such breathtaking imagery,” said Johnson Director Vanessa Wyche.",
+      "queued_ts": 1779144790
+    },
+    {
+      "fp": "685bc70fbeac27137e28722a",
+      "title": "Vega C set to launch SMILE to study Earth’s magnetosphere",
+      "link": "https://www.nasaspaceflight.com/2026/05/esa-smile-launch/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-05-18T22:50:38+00:00",
+      "day_brt": "2026-05-18",
+      "resumo_pt": "Resumo (PT-BR): Vega C set to launch SMILE to study Earth’s magnetosphere by Eleanor Day May 18, 2026 written by Eleanor Day May 18, 2026 4 The European Space Agency’s (ESA) latest science mission, Solar Wind Magnetosphere Ionosphere Link Explorer (SMILE), is set to launch on a four-stage Vega C rocket from French Guiana. SMILE, a collaboration between ESA, the Chinese Academy of Sciences (CAS), and multiple academic and commercial organizations, will capture the first global soft X-ray images of Earth’s magnetosphere and its response to powerful solar wind.",
+      "queued_ts": 1779144790
     }
   ],
   "digests_sent": {
@@ -1735,7 +1775,9 @@
       "a33f3404efe65e26cfa06916": true,
       "a3acff12d07833b09d72fcf4": true,
       "130052600446b15ced60bdb2": true,
-      "35d92c22033c9526cd80de8b": true
+      "35d92c22033c9526cd80de8b": true,
+      "6bb64a33759ac4837cdd02cd": true,
+      "685bc70fbeac27137e28722a": true
     }
   }
 }
