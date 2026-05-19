@@ -1538,6 +1538,22 @@
       "score": 0.0,
       "published_utc": "2026-05-18T14:56:45+00:00",
       "note": "not_today"
+    },
+    "08d01d63ac0a7f4df340dcba": {
+      "ts": 1779221038,
+      "source": "Space.com",
+      "title": "Worker dies at SpaceX's Starbase in leadup to Starship V3 megarocket launch",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/worker-dies-at-spacexs-starbase-in-leadup-to-starship-v3-megarocket-launch",
+      "score": 2.8,
+      "published_utc": "2026-05-19T20:00:00+00:00"
+    },
+    "29dcc280af634842c9f15e38": {
+      "ts": 1779221038,
+      "source": "Space.com",
+      "title": "'The Mandalorian and Grogu' clip reveals how Mando gets his Razor Crest spaceship back (video)",
+      "link": "https://www.space.com/entertainment/space-movies-shows/the-mandalorian-and-grogu-clip-reveals-how-mando-gets-his-razor-crest-spaceship-back-video",
+      "score": 2.8,
+      "published_utc": "2026-05-19T19:00:00+00:00"
     }
   },
   "digest_queue": [
