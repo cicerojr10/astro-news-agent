@@ -1521,6 +1521,23 @@
       "score": 0.0,
       "published_utc": "2026-05-18T17:00:00+00:00",
       "note": "not_today"
+    },
+    "59f88c542d2995075f7e48e7": {
+      "ts": 1779206653,
+      "source": "NASA Breaking News",
+      "title": "NASA’s New Shock Detectives Project Invites Volunteers to Help Study Solar Wind",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/nasas-new-shock-detectives-project-invites-volunteers-to-help-study-solar-wind/",
+      "score": 4.0,
+      "published_utc": "2026-05-19T13:05:00+00:00"
+    },
+    "0d4e4682e4c041e2e2644825": {
+      "ts": 1779206655,
+      "source": "Space.com",
+      "title": "SpaceX Starship Flight 12 launch updates: 1st Starship V3 will now launch on May 21",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-12-launch-updates-may-19-2026",
+      "score": 0.0,
+      "published_utc": "2026-05-18T14:56:45+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -1619,6 +1636,18 @@
       "day_brt": "2026-05-18",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Sample Return Mars Perseverance Rover Mars Curiosity Rover MAVEN Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Curiosity Blog, Sols 4893-4899: Drilling at Campo Marte and a Visit From the Psyche Spacecraft Mars Science Laboratory Mission Team Members May 18, 2026 Article NASA’s Mars rover Curiosity acquired this image, as the rover used its APXS instrument to measure the composition of the “Campo Marte” block in preparation for drilling.",
       "queued_ts": 1779155925
+    },
+    {
+      "fp": "59f88c542d2995075f7e48e7",
+      "title": "NASA’s New Shock Detectives Project Invites Volunteers to Help Study Solar Wind",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/nasas-new-shock-detectives-project-invites-volunteers-to-help-study-solar-wind/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-19T13:05:00+00:00",
+      "day_brt": "2026-05-19",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA’s New Shock Detectives Project Invites Volunteers to Help Study Solar Wind NASA Science Editorial Team May 19, 2026 Article The Sun sprays an extremely fast stream of charged particles called the solar wind. At approximately 56,000 miles (90,000 kilometers) in front of the Earth toward the Sun, the solar wind collides with the Earth’s protective magnetic field, generating a long-lasting shock wave that stretches for hundreds of thousands of miles.",
+      "queued_ts": 1779206656
     }
   ],
   "digests_sent": {
@@ -1749,6 +1778,9 @@
       "6bb64a33759ac4837cdd02cd": true,
       "685bc70fbeac27137e28722a": true,
       "59ffa3af64dc7aa0da96cfa8": true
+    },
+    "2026-05-19": {
+      "59f88c542d2995075f7e48e7": true
     }
   }
 }
