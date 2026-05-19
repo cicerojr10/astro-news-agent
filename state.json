@@ -1503,6 +1503,24 @@
       "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4893-4899-drilling-at-campo-marte-and-a-visit-from-the-psyche-spacecraft/",
       "score": 4.0,
       "published_utc": "2026-05-19T00:33:45+00:00"
+    },
+    "1f09b8105840e63bf2e5ce21": {
+      "ts": 1779170749,
+      "source": "Space.com",
+      "title": "What time is SpaceX's Starship V3 launch on May 21? (Starship Flight 12 timeline)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/what-time-is-spacex-starship-v3-launch-starship-flight-12-timeline",
+      "score": 0.0,
+      "published_utc": "2026-05-18T18:00:00+00:00",
+      "note": "not_today"
+    },
+    "9f153836faf8be2cdf46c7a6": {
+      "ts": 1779170749,
+      "source": "Space.com",
+      "title": "Vega C rocket launches European-Chinese space weather satellite to orbit",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/european-chinese-space-weather-mission-smile-launch",
+      "score": 0.0,
+      "published_utc": "2026-05-18T17:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
