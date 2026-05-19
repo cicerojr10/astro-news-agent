@@ -1563,6 +1563,30 @@
       "score": 0.0,
       "published_utc": "2026-05-18T22:50:38+00:00",
       "note": "not_today"
+    },
+    "968a364a9318b79fbd757ca7": {
+      "ts": 1779230890,
+      "source": "NASA Breaking News",
+      "title": "Psyche’s High-Resolution View of Mars’ South Pole",
+      "link": "https://science.nasa.gov/photojournal/psyches-high-resolution-view-of-mars-south-pole/",
+      "score": 4.0,
+      "published_utc": "2026-05-19T20:38:49+00:00"
+    },
+    "99ea6894ca629d01b04aa1c6": {
+      "ts": 1779230890,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Psyche Mission Sees Mars’ South Pole After Flyby",
+      "link": "https://science.nasa.gov/photojournal/nasas-psyche-mission-sees-mars-south-pole-after-flyby/",
+      "score": 4.0,
+      "published_utc": "2026-05-19T20:34:02+00:00"
+    },
+    "8eef738f429499dfb14e4af8": {
+      "ts": 1779230890,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Psyche Mission Aces Mars Flyby, Targets Metal-Rich Asteroid",
+      "link": "https://www.nasa.gov/missions/psyche-mission/nasas-psyche-mission-aces-mars-flyby-targets-metal-rich-asteroid/",
+      "score": 4.0,
+      "published_utc": "2026-05-19T19:49:33+00:00"
     }
   },
   "digest_queue": [
@@ -1673,6 +1697,42 @@
       "day_brt": "2026-05-19",
       "resumo_pt": "Resumo (PT-BR): 2 min read NASA’s New Shock Detectives Project Invites Volunteers to Help Study Solar Wind NASA Science Editorial Team May 19, 2026 Article The Sun sprays an extremely fast stream of charged particles called the solar wind. At approximately 56,000 miles (90,000 kilometers) in front of the Earth toward the Sun, the solar wind collides with the Earth’s protective magnetic field, generating a long-lasting shock wave that stretches for hundreds of thousands of miles.",
       "queued_ts": 1779206656
+    },
+    {
+      "fp": "968a364a9318b79fbd757ca7",
+      "title": "Psyche’s High-Resolution View of Mars’ South Pole",
+      "link": "https://science.nasa.gov/photojournal/psyches-high-resolution-view-of-mars-south-pole/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-19T20:38:49+00:00",
+      "day_brt": "2026-05-19",
+      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal Psyche’s High-Resolution... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 1 Min Read Psyche’s High-Resolution View of Mars’ South Pole PIA26773 Credits: NASA/JPL-Caltech/ASU Image Addition Date: 05/19/2026 Downloads Psyche’s High-Resolution View of Mars’ South Pole PNG (1.09 MB) Description This is the highest-resolution view of the water ice-rich south polar cap of Mars captured by NASA’s Psyche mission after it made its close approach with the planet for a gravity assist.",
+      "queued_ts": 1779230893
+    },
+    {
+      "fp": "99ea6894ca629d01b04aa1c6",
+      "title": "NASA’s Psyche Mission Sees Mars’ South Pole After Flyby",
+      "link": "https://science.nasa.gov/photojournal/nasas-psyche-mission-sees-mars-south-pole-after-flyby/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-19T20:34:02+00:00",
+      "day_brt": "2026-05-19",
+      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NASA’s Psyche Mission Sees... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 1 Min Read NASA’s Psyche Mission Sees Mars’ South Pole After Flyby PIA26772 Credits: NASA/JPL-Caltech/ASU Image Addition Date: 05/19/2026 Downloads NASA’s Psyche Mission Sees Mars’ South Pole After Flyby PNG (423.28 KB) Description This is Psyche’s first view of a nearly “full Mars” seen shortly after the spacecraft’s closest approach to the planet on May 15, 2026.",
+      "queued_ts": 1779230893
+    },
+    {
+      "fp": "8eef738f429499dfb14e4af8",
+      "title": "NASA’s Psyche Mission Aces Mars Flyby, Targets Metal-Rich Asteroid",
+      "link": "https://www.nasa.gov/missions/psyche-mission/nasas-psyche-mission-aces-mars-flyby-targets-metal-rich-asteroid/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-19T19:49:33+00:00",
+      "day_brt": "2026-05-19",
+      "resumo_pt": "Resumo (PT-BR): 5 min read NASA’s Psyche Mission Aces Mars Flyby, Targets Metal-Rich Asteroid Jet Propulsion Laboratory May 19, 2026 Article Contents Unique Martian view Onward to asteroid Psyche More about Psyche This view of a crescent Mars was captured on May 15, 2026, at about 5:03 a.m. PDT by NASA’s Psyche mission as it approached the planet for a gravity assist.",
+      "queued_ts": 1779230893
     }
   ],
   "digests_sent": {
@@ -1805,7 +1865,10 @@
       "59ffa3af64dc7aa0da96cfa8": true
     },
     "2026-05-19": {
-      "59f88c542d2995075f7e48e7": true
+      "59f88c542d2995075f7e48e7": true,
+      "968a364a9318b79fbd757ca7": true,
+      "99ea6894ca629d01b04aa1c6": true,
+      "8eef738f429499dfb14e4af8": true
     }
   }
 }
