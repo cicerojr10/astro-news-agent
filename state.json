@@ -1587,6 +1587,14 @@
       "link": "https://www.nasa.gov/missions/psyche-mission/nasas-psyche-mission-aces-mars-flyby-targets-metal-rich-asteroid/",
       "score": 4.0,
       "published_utc": "2026-05-19T19:49:33+00:00"
+    },
+    "d6f28731971398ad27a5cbf4": {
+      "ts": 1779241807,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket launch from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/05/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-launch-from-vandenberg-sfb/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-05-20T00:28:12+00:00"
     }
   },
   "digest_queue": [
@@ -1685,6 +1693,18 @@
       "day_brt": "2026-05-18",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Sample Return Mars Perseverance Rover Mars Curiosity Rover MAVEN Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Curiosity Blog, Sols 4893-4899: Drilling at Campo Marte and a Visit From the Psyche Spacecraft Mars Science Laboratory Mission Team Members May 18, 2026 Article NASA’s Mars rover Curiosity acquired this image, as the rover used its APXS instrument to measure the composition of the “Campo Marte” block in preparation for drilling.",
       "queued_ts": 1779155925
+    },
+    {
+      "fp": "d6f28731971398ad27a5cbf4",
+      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket launch from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/05/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-launch-from-vandenberg-sfb/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-05-20T00:28:12+00:00",
+      "day_brt": "2026-05-19",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket launch from Vandenberg SFB May 20, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket is vertical at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base ahead of the launch of the Starlink 9-10 mission on Nov. Image: SpaceX SpaceX is preparing to launch its Falcon 9 rocket from Vandenberg Space Force Base Tuesday night to send a batch of its Starlink satellites into low Earth orbit.",
+      "queued_ts": 1779241809
     }
   ],
   "digests_sent": {
@@ -1821,7 +1841,8 @@
       "59f88c542d2995075f7e48e7": true,
       "968a364a9318b79fbd757ca7": true,
       "99ea6894ca629d01b04aa1c6": true,
-      "8eef738f429499dfb14e4af8": true
+      "8eef738f429499dfb14e4af8": true,
+      "d6f28731971398ad27a5cbf4": true
     }
   }
 }
