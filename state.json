@@ -1645,6 +1645,23 @@
       "score": 0.0,
       "published_utc": "2026-05-18T14:56:45+00:00",
       "note": "not_today"
+    },
+    "63d3b42f0272d12f5950c996": {
+      "ts": 1779298257,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
+      "link": "https://spaceflightnow.com/2026/05/20/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-13/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-05-20T15:42:11+00:00"
+    },
+    "80a58668648a5825ba59f3ec": {
+      "ts": 1779298258,
+      "source": "Space.com",
+      "title": "Worker dies at SpaceX's Starbase ahead of Starship V3 megarocket launch",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/worker-dies-at-spacexs-starbase-in-leadup-to-starship-v3-megarocket-launch",
+      "score": 0.0,
+      "published_utc": "2026-05-19T20:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -1767,6 +1784,18 @@
       "day_brt": "2026-05-20",
       "resumo_pt": "Resumo (PT-BR): 5 min read NASA’s Fermi Glimpses Power Source of Supercharged Supernovae Francis Reddy May 20, 2026 Article An international team studying data from NASA’s Fermi Gamma-ray Space Telescope concludes the mission detected a rare, unusually luminous supernova. The researchers say it likely received its power-up from a supermagnetized neutron star born in the stellar collapse that triggered the explosion.",
       "queued_ts": 1779283713
+    },
+    {
+      "fp": "63d3b42f0272d12f5950c996",
+      "title": "Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
+      "link": "https://spaceflightnow.com/2026/05/20/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-13/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-05-20T15:42:11+00:00",
+      "day_brt": "2026-05-20",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral May 20, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket stands at Space Launch Complex 40 (SLC-40) ahead of the launch of the Starlink 12-21 mission. Image: Adam Bernstein/Spaceflight Now SpaceX is preparing to launch a batch Starlink V2 Mini Optimized satellites on a Falcon 9 rocket from Cape Canaveral Space Force Station early Thursday morning.",
+      "queued_ts": 1779298259
     }
   ],
   "digests_sent": {
@@ -1910,7 +1939,8 @@
       "d6f28731971398ad27a5cbf4": true
     },
     "2026-05-20": {
-      "5297cf4e67d560aadfcb3f77": true
+      "5297cf4e67d560aadfcb3f77": true,
+      "63d3b42f0272d12f5950c996": true
     }
   }
 }
