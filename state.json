@@ -1620,6 +1620,31 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-new-v3-starship-megarocket-for-1st-time-on-may-20-watch-live",
       "score": 2.8,
       "published_utc": "2026-05-20T10:00:00+00:00"
+    },
+    "5297cf4e67d560aadfcb3f77": {
+      "ts": 1779283709,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Fermi Glimpses Power Source of Supercharged Supernovae",
+      "link": "https://science.nasa.gov/missions/fermi/nasas-fermi-glimpses-power-source-of-supercharged-supernovae/",
+      "score": 16.0,
+      "published_utc": "2026-05-20T12:55:00+00:00"
+    },
+    "09ccb2dff7cc5e8693e9c90d": {
+      "ts": 1779283712,
+      "source": "Space.com",
+      "title": "SpaceX launches Starlink satellites on stunning sunset Falcon 9 flight (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-42-b1103-vsfb-ocisly",
+      "score": 2.8,
+      "published_utc": "2026-05-20T03:10:38+00:00"
+    },
+    "50fe1ba209e7f62955de8c04": {
+      "ts": 1779283712,
+      "source": "Space.com",
+      "title": "SpaceX Starship Flight 12 launch updates: 1st Starship V3 stacked ahead of May 21 liftoff",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-12-launch-updates-may-20-2026",
+      "score": 0.0,
+      "published_utc": "2026-05-18T14:56:45+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -1730,6 +1755,18 @@
       "day_brt": "2026-05-19",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket launch from Vandenberg SFB May 20, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket is vertical at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base ahead of the launch of the Starlink 9-10 mission on Nov. Image: SpaceX SpaceX is preparing to launch its Falcon 9 rocket from Vandenberg Space Force Base Tuesday night to send a batch of its Starlink satellites into low Earth orbit.",
       "queued_ts": 1779241809
+    },
+    {
+      "fp": "5297cf4e67d560aadfcb3f77",
+      "title": "NASA’s Fermi Glimpses Power Source of Supercharged Supernovae",
+      "link": "https://science.nasa.gov/missions/fermi/nasas-fermi-glimpses-power-source-of-supercharged-supernovae/",
+      "source": "NASA Breaking News",
+      "score": 16.0,
+      "is_anomaly": true,
+      "published_utc": "2026-05-20T12:55:00+00:00",
+      "day_brt": "2026-05-20",
+      "resumo_pt": "Resumo (PT-BR): 5 min read NASA’s Fermi Glimpses Power Source of Supercharged Supernovae Francis Reddy May 20, 2026 Article An international team studying data from NASA’s Fermi Gamma-ray Space Telescope concludes the mission detected a rare, unusually luminous supernova. The researchers say it likely received its power-up from a supermagnetized neutron star born in the stellar collapse that triggered the explosion.",
+      "queued_ts": 1779283713
     }
   ],
   "digests_sent": {
@@ -1871,6 +1908,9 @@
       "99ea6894ca629d01b04aa1c6": true,
       "8eef738f429499dfb14e4af8": true,
       "d6f28731971398ad27a5cbf4": true
+    },
+    "2026-05-20": {
+      "5297cf4e67d560aadfcb3f77": true
     }
   }
 }
