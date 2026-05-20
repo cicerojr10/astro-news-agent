@@ -1595,6 +1595,23 @@
       "link": "https://spaceflightnow.com/2026/05/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-launch-from-vandenberg-sfb/",
       "score": 4.680000000000001,
       "published_utc": "2026-05-20T00:28:12+00:00"
+    },
+    "2e3710b96316b8df544e7777": {
+      "ts": 1779256398,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket launch from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/05/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-launch-from-vandenberg-sfb/",
+      "score": 0.0,
+      "published_utc": "2026-05-20T00:28:12+00:00",
+      "note": "not_today"
+    },
+    "4be2655fc6e519590a1caf8e": {
+      "ts": 1779256400,
+      "source": "Space.com",
+      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 launch from California",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-42-b1103-vsfb-ocisly",
+      "score": 2.8,
+      "published_utc": "2026-05-20T03:10:38+00:00"
     }
   },
   "digest_queue": [
