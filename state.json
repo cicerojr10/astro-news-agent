@@ -1612,6 +1612,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-42-b1103-vsfb-ocisly",
       "score": 2.8,
       "published_utc": "2026-05-20T03:10:38+00:00"
+    },
+    "2c8406808f8358fd46a244f6": {
+      "ts": 1779277026,
+      "source": "Space.com",
+      "title": "How to watch SpaceX launch its 1st Starship V3 megarocket on May 21",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-new-v3-starship-megarocket-for-1st-time-on-may-20-watch-live",
+      "score": 2.8,
+      "published_utc": "2026-05-20T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -1791,6 +1799,9 @@
     "2026-05-19": {
       "morning": true,
       "night": true
+    },
+    "2026-05-20": {
+      "morning": true
     }
   },
   "sent_updates": {
