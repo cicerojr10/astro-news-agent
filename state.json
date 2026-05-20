@@ -1853,102 +1853,6 @@
       "day_brt": "2026-05-19",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket launch from Vandenberg SFB May 20, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket is vertical at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base ahead of the launch of the Starlink 9-10 mission on Nov. Image: SpaceX SpaceX is preparing to launch its Falcon 9 rocket from Vandenberg Space Force Base Tuesday night to send a batch of its Starlink satellites into low Earth orbit.",
       "queued_ts": 1779241809
-    },
-    {
-      "fp": "5297cf4e67d560aadfcb3f77",
-      "title": "NASA’s Fermi Glimpses Power Source of Supercharged Supernovae",
-      "link": "https://science.nasa.gov/missions/fermi/nasas-fermi-glimpses-power-source-of-supercharged-supernovae/",
-      "source": "NASA Breaking News",
-      "score": 16.0,
-      "is_anomaly": true,
-      "published_utc": "2026-05-20T12:55:00+00:00",
-      "day_brt": "2026-05-20",
-      "resumo_pt": "Resumo (PT-BR): 5 min read NASA’s Fermi Glimpses Power Source of Supercharged Supernovae Francis Reddy May 20, 2026 Article An international team studying data from NASA’s Fermi Gamma-ray Space Telescope concludes the mission detected a rare, unusually luminous supernova. The researchers say it likely received its power-up from a supermagnetized neutron star born in the stellar collapse that triggered the explosion.",
-      "queued_ts": 1779283713
-    },
-    {
-      "fp": "63d3b42f0272d12f5950c996",
-      "title": "Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
-      "link": "https://spaceflightnow.com/2026/05/20/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-13/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-05-20T15:42:11+00:00",
-      "day_brt": "2026-05-20",
-      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral May 20, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket stands at Space Launch Complex 40 (SLC-40) ahead of the launch of the Starlink 12-21 mission. Image: Adam Bernstein/Spaceflight Now SpaceX is preparing to launch a batch Starlink V2 Mini Optimized satellites on a Falcon 9 rocket from Cape Canaveral Space Force Station early Thursday morning.",
-      "queued_ts": 1779298259
-    },
-    {
-      "fp": "7886e429c76723842091fa42",
-      "title": "La NASA informará sobre su estrategia y misiones para la Base Lunar",
-      "link": "https://www.nasa.gov/news-release/la-nasa-informara-sobre-su-estrategia-y-misiones-para-la-base-lunar/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-20T19:08:50+00:00",
-      "day_brt": "2026-05-20",
-      "resumo_pt": "Resumo (PT-BR): 3 min read La NASA informará sobre su estrategia y misiones para la Base Lunar Gerelle Q. Dodson May 20, 2026 MEDIA ADVISORY M26-038 NASA Headquarters Concepto artístico de astronautas trabajando en la superficie lunar.",
-      "queued_ts": 1779306671
-    },
-    {
-      "fp": "058f4df1bc81062a465469ae",
-      "title": "NASA TechLeap Prize: Robotically Manipulated Payload Challenge",
-      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techleap-prize-robotically-manipulated-payload-challenge/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-20T19:02:18+00:00",
-      "day_brt": "2026-05-20",
-      "resumo_pt": "Resumo (PT-BR): 1 min read NASA TechLeap Prize: Robotically Manipulated Payload Challenge Bailey G. Light May 20, 2026 Article The Robotically Manipulated Payload Challenge — the fifth in the NASA TechLeap Prize series — is a competition to advance persistent infrastructure for in-space servicing, assembly, and manufacturing.",
-      "queued_ts": 1779306671
-    },
-    {
-      "fp": "33b5d3891f721a3861effcf1",
-      "title": "Psyche Spacecraft Completes Mars Flyby",
-      "link": "https://www.nasa.gov/image-article/psyche-spacecraft-completes-mars-flyby/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-20T17:51:10+00:00",
-      "day_brt": "2026-05-20",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Psyche Spacecraft Completes Mars Flyby Jet Propulsion Laboratory May 20, 2026 Image Article NASA/JPL-Caltech/ASU NASA’s Psyche spacecraft completed its close approach of Mars on May 15, coming within 2,864 miles (4,609 kilometers) of the planet’s surface. This representative color image, captured by Psyche’s multispectral imager instrument, features the double-ring crater Huygens and the surrounding heavily cratered southern highlands.",
-      "queued_ts": 1779306671
-    },
-    {
-      "fp": "d489ed28262ca263d67527a3",
-      "title": "NASA-developed AI Could Help Track Harmful Algae",
-      "link": "https://www.nasa.gov/science-research/earth-science/nasa-developed-ai-could-help-track-harmful-algae/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-20T17:39:10+00:00",
-      "day_brt": "2026-05-20",
-      "resumo_pt": "Resumo (PT-BR): 4 min read NASA-developed AI Could Help Track Harmful Algae Jet Propulsion Laboratory May 20, 2026 Article Green swirls of microscopic algae (phytoplankton) are visible off the U.S. 21, 2024, by the Ocean Color Instrument on NASA’s PACE satellite.",
-      "queued_ts": 1779306671
-    },
-    {
-      "fp": "2ba8534956b6e8657405cf16",
-      "title": "NASA Releases Technology Priorities to Energize Space Industry",
-      "link": "https://www.nasa.gov/technology/nasa-releases-technology-priorities-to-energize-space-industry/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-20T17:11:42+00:00",
-      "day_brt": "2026-05-20",
-      "resumo_pt": "Resumo (PT-BR): 3 Min Read NASA Releases Technology Priorities to Energize Space Industry Earthset captured through the Orion spacecraft window at 6:41 p.m. EDT, April 6, 2026, during the Artemis II crew’s flyby of the Moon.",
-      "queued_ts": 1779306671
-    },
-    {
-      "fp": "a442895fc1966781b1b2b775",
-      "title": "NASA Announces Winners in University Aeronautics Competition",
-      "link": "https://www.nasa.gov/aeronautics/nasa-announces-winners-in-university-aeronautics-competition/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-20T20:48:01+00:00",
-      "day_brt": "2026-05-20",
-      "resumo_pt": "Resumo (PT-BR): 4 min read NASA Announces Winners in University Aeronautics Competition Bailey G. Light May 20, 2026 Article Team WINGMAN from South Dakota State University, comprised of (from left to right) Todd Letcher (advisor), Matthew Wieberdink, Owen Diede, Christian Lee, and Anders Olsen, took home first place at the 2026 Gateways to Blue Skies Forum held at NASA’s Langley Research Center in Hampton, Virginia.",
-      "queued_ts": 1779312478
     }
   ],
   "digests_sent": {
@@ -2020,7 +1924,8 @@
       "night": true
     },
     "2026-05-20": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
