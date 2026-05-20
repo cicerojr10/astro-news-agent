@@ -1727,6 +1727,14 @@
       "score": 0.0,
       "published_utc": "2026-05-18T14:56:45+00:00",
       "note": "not_today"
+    },
+    "a442895fc1966781b1b2b775": {
+      "ts": 1779312475,
+      "source": "NASA Breaking News",
+      "title": "NASA Announces Winners in University Aeronautics Competition",
+      "link": "https://www.nasa.gov/aeronautics/nasa-announces-winners-in-university-aeronautics-competition/",
+      "score": 4.0,
+      "published_utc": "2026-05-20T20:48:01+00:00"
     }
   },
   "digest_queue": [
@@ -1921,6 +1929,18 @@
       "day_brt": "2026-05-20",
       "resumo_pt": "Resumo (PT-BR): 3 Min Read NASA Releases Technology Priorities to Energize Space Industry Earthset captured through the Orion spacecraft window at 6:41 p.m. EDT, April 6, 2026, during the Artemis II crew’s flyby of the Moon.",
       "queued_ts": 1779306671
+    },
+    {
+      "fp": "a442895fc1966781b1b2b775",
+      "title": "NASA Announces Winners in University Aeronautics Competition",
+      "link": "https://www.nasa.gov/aeronautics/nasa-announces-winners-in-university-aeronautics-competition/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-20T20:48:01+00:00",
+      "day_brt": "2026-05-20",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA Announces Winners in University Aeronautics Competition Bailey G. Light May 20, 2026 Article Team WINGMAN from South Dakota State University, comprised of (from left to right) Todd Letcher (advisor), Matthew Wieberdink, Owen Diede, Christian Lee, and Anders Olsen, took home first place at the 2026 Gateways to Blue Skies Forum held at NASA’s Langley Research Center in Hampton, Virginia.",
+      "queued_ts": 1779312478
     }
   ],
   "digests_sent": {
@@ -2068,7 +2088,8 @@
       "63d3b42f0272d12f5950c996": true,
       "7886e429c76723842091fa42": true,
       "058f4df1bc81062a465469ae": true,
-      "33b5d3891f721a3861effcf1": true
+      "33b5d3891f721a3861effcf1": true,
+      "a442895fc1966781b1b2b775": true
     }
   }
 }
