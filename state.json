@@ -1869,6 +1869,15 @@
       "score": 0.0,
       "published_utc": "2026-05-18T14:56:45+00:00",
       "note": "not_today"
+    },
+    "bba064f52573d3782a0c56e5": {
+      "ts": 1779407219,
+      "source": "Space.com",
+      "title": "SpaceX Starship Flight 12 live launch updates: Fueling underway for Starship V3 rocket",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-12-launch-updates-may-21-2026",
+      "score": 0.0,
+      "published_utc": "2026-05-18T14:56:45+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -1979,66 +1988,6 @@
       "day_brt": "2026-05-19",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket launch from Vandenberg SFB May 20, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket is vertical at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base ahead of the launch of the Starlink 9-10 mission on Nov. Image: SpaceX SpaceX is preparing to launch its Falcon 9 rocket from Vandenberg Space Force Base Tuesday night to send a batch of its Starlink satellites into low Earth orbit.",
       "queued_ts": 1779241809
-    },
-    {
-      "fp": "c5d5b245c00a846f79f9f656",
-      "title": "NASA Welcomes 16th Deputy Administrator Matt Anderson",
-      "link": "https://www.nasa.gov/news-release/nasa-welcomes-16th-deputy-administrator-matt-anderson/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-21T14:08:50+00:00",
-      "day_brt": "2026-05-21",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Welcomes 16th Deputy Administrator Matt Anderson Gerelle Q. Dodson May 21, 2026 RELEASE 26-040 NASA Headquarters Matt Anderson, left, joined by his wife Christine, is sworn in as the 16th deputy administrator of NASA, by NASA Administrator Jared Isaacman, Thursday, May 21, 2026, at the Eisenhower Executive Office Building in Washington.",
-      "queued_ts": 1779381020
-    },
-    {
-      "fp": "e57c9abef36940c8a54eccb2",
-      "title": "NASA Highlights 2025 International Space Station Science Results",
-      "link": "https://www.nasa.gov/missions/station/iss-research/nasa-highlights-2025-international-space-station-science-results/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-21T14:00:00+00:00",
-      "day_brt": "2026-05-21",
-      "resumo_pt": "Resumo (PT-BR): 5 Min Read NASA Highlights 2025 International Space Station Science Results Destiny Doran International Space Station Research Communications Team May 21, 2026 Article Contents Miniaturizing surgery Levitating bone growth Melanin infused materials Power that endures Runway return Tracking electrical phenomena from space To dive deeper into the International Space Station research achievements from the past year, browse the 2025 Annual Highlights of Results , which NASA released in May 2026. In 2025, researchers using the orbital laboratory conducted more than 750 investigations that advanced understanding of life in space, drove innovations to benefit people on Earth, and supported NASA’s exploration of the Moon and Mars.",
-      "queued_ts": 1779381020
-    },
-    {
-      "fp": "0661edd130bf23582c7c2ea2",
-      "title": "Hubble Sights Galaxy in Transition",
-      "link": "https://www.nasa.gov/image-article/hubble-sights-galaxy-in-transition/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-21T17:32:03+00:00",
-      "day_brt": "2026-05-21",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Hubble Sights Galaxy in Transition NASA Hubble Mission Team Goddard Space Flight Center May 21, 2026 Image Article NASA, ESA, K. Kober (NASA/Catholic University of America) This NASA Hubble Space Telescope image reveals an enigmatic galaxy with a bright center and a face that hints at spiral structure, yet it holds no obvious spiral arms.",
-      "queued_ts": 1779387584
-    },
-    {
-      "fp": "bbced14aab4de7b9c68417d6",
-      "title": "NASA Seeks Interest for Artemis Mission CubeSats",
-      "link": "https://www.nasa.gov/missions/artemis/nasa-seeks-interest-for-artemis-mission-cubesats/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-21T20:11:17+00:00",
-      "day_brt": "2026-05-21",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Seeks Interest for Artemis Mission CubeSats William Bryan Communication Strategist May 21, 2026 Article Two of the Artemis II CubeSats can be seen in the lower portion of the Orion stage adapter on the right side of the image. NASA Organizations interested in launching CubeSats on future Artemis missions should respond to NASA’s request for information (RFI) by Monday, June 1, for initial consideration.",
-      "queued_ts": 1779400136
-    },
-    {
-      "fp": "db525ca84bcaa8a2eed3b540",
-      "title": "NASA’s AWE Completes Mission to Study Earth’s Effect on Space Weather",
-      "link": "https://science.nasa.gov/science-research/heliophysics/nasas-awe-completes-mission-to-study-earths-effect-on-space-weather/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-21T18:31:06+00:00",
-      "day_brt": "2026-05-21",
-      "resumo_pt": "Resumo (PT-BR): 4 Min Read NASA’s AWE Completes Mission to Study Earth’s Effect on Space Weather A long-exposure photo taken from the International Space Station shows airglow as bands of green and red curving around Earth. Credits: NASA Vanessa Thomas May 21, 2026 Article On May 21, ground controllers powered down NASA’s AWE (Atmospheric Waves Experiment) instrument, bringing the data collection phase of the mission to a successful and scheduled end, surpassing its planned two-year mission.",
-      "queued_ts": 1779400136
     }
   ],
   "digests_sent": {
@@ -2114,7 +2063,8 @@
       "night": true
     },
     "2026-05-21": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
