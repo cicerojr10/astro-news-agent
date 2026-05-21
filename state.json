@@ -1860,6 +1860,15 @@
       "score": 0.0,
       "published_utc": "2026-05-18T14:56:45+00:00",
       "note": "not_today"
+    },
+    "4281efa506068d502f4324df": {
+      "ts": 1779404012,
+      "source": "Space.com",
+      "title": "SpaceX Starship Flight 12 launch updates: Starship V3 'go' for fueling, SpaceX says",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-12-launch-updates-may-21-2026",
+      "score": 0.0,
+      "published_utc": "2026-05-18T14:56:45+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
