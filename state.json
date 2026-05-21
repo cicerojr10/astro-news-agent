@@ -1819,6 +1819,14 @@
       "link": "https://www.nasa.gov/missions/station/iss-research/nasa-highlights-2025-international-space-station-science-results/",
       "score": 4.0,
       "published_utc": "2026-05-21T14:00:00+00:00"
+    },
+    "0661edd130bf23582c7c2ea2": {
+      "ts": 1779387580,
+      "source": "NASA Breaking News",
+      "title": "Hubble Sights Galaxy in Transition",
+      "link": "https://www.nasa.gov/image-article/hubble-sights-galaxy-in-transition/",
+      "score": 4.0,
+      "published_utc": "2026-05-21T17:32:03+00:00"
     }
   },
   "digest_queue": [
@@ -1953,6 +1961,18 @@
       "day_brt": "2026-05-21",
       "resumo_pt": "Resumo (PT-BR): 5 Min Read NASA Highlights 2025 International Space Station Science Results Destiny Doran International Space Station Research Communications Team May 21, 2026 Article Contents Miniaturizing surgery Levitating bone growth Melanin infused materials Power that endures Runway return Tracking electrical phenomena from space To dive deeper into the International Space Station research achievements from the past year, browse the 2025 Annual Highlights of Results , which NASA released in May 2026. In 2025, researchers using the orbital laboratory conducted more than 750 investigations that advanced understanding of life in space, drove innovations to benefit people on Earth, and supported NASA’s exploration of the Moon and Mars.",
       "queued_ts": 1779381020
+    },
+    {
+      "fp": "0661edd130bf23582c7c2ea2",
+      "title": "Hubble Sights Galaxy in Transition",
+      "link": "https://www.nasa.gov/image-article/hubble-sights-galaxy-in-transition/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-21T17:32:03+00:00",
+      "day_brt": "2026-05-21",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Hubble Sights Galaxy in Transition NASA Hubble Mission Team Goddard Space Flight Center May 21, 2026 Image Article NASA, ESA, K. Kober (NASA/Catholic University of America) This NASA Hubble Space Telescope image reveals an enigmatic galaxy with a bright center and a face that hints at spiral structure, yet it holds no obvious spiral arms.",
+      "queued_ts": 1779387584
     }
   ],
   "digests_sent": {
@@ -2076,7 +2096,8 @@
     "2026-05-21": {
       "49c5d5116f48a372daac1ea6": true,
       "c5d5b245c00a846f79f9f656": true,
-      "e57c9abef36940c8a54eccb2": true
+      "e57c9abef36940c8a54eccb2": true,
+      "0661edd130bf23582c7c2ea2": true
     }
   }
 }
