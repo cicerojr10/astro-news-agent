@@ -1743,6 +1743,32 @@
       "link": "https://www.space.com/space-exploration/satellites/space-debris-is-forcing-satellites-to-dodge-more-often-costing-us-vital-science-things-will-get-worse-before-they-get-better",
       "score": 2.8,
       "published_utc": "2026-05-20T22:16:29+00:00"
+    },
+    "531da65014ea5e18bfe088e7": {
+      "ts": 1779360462,
+      "source": "Space.com",
+      "title": "SpaceX will launch its 1st-ever Starship V3 megarocket today. The stakes couldn't be higher",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-its-1st-ever-starship-v3-megarocket-today-the-stakes-couldnt-be-higher",
+      "score": 2.8,
+      "published_utc": "2026-05-21T09:50:08+00:00"
+    },
+    "74739d9a76705b96428f5ef9": {
+      "ts": 1779360462,
+      "source": "Space.com",
+      "title": "How to watch SpaceX launch its 1st Starship V3 megarocket today",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-new-v3-starship-megarocket-for-1st-time-on-may-20-watch-live",
+      "score": 0.0,
+      "published_utc": "2026-05-20T10:00:00+00:00",
+      "note": "not_today"
+    },
+    "6da9e341e843b4159f566dc4": {
+      "ts": 1779360462,
+      "source": "Space.com",
+      "title": "What time is SpaceX's Starship V3 launch today? (Starship Flight 12 timeline)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/what-time-is-spacex-starship-v3-launch-starship-flight-12-timeline",
+      "score": 0.0,
+      "published_utc": "2026-05-18T18:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
