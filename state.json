@@ -1769,6 +1769,40 @@
       "score": 0.0,
       "published_utc": "2026-05-18T18:00:00+00:00",
       "note": "not_today"
+    },
+    "49c5d5116f48a372daac1ea6": {
+      "ts": 1779371345,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch first Starship Version 3 rocket",
+      "link": "https://spaceflightnow.com/2026/05/21/live-coverage-spacex-to-launch-first-starship-version-3-rocket/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-05-21T13:13:17+00:00"
+    },
+    "6b83c8f1a0178550c1a3ad16": {
+      "ts": 1779371345,
+      "source": "Spaceflight Now",
+      "title": "SpaceX’s sunrise Starlink launch adds 29 satellites to low Earth orbit megaconstellation",
+      "link": "https://spaceflightnow.com/2026/05/20/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-13/",
+      "score": 0.0,
+      "published_utc": "2026-05-20T15:42:11+00:00",
+      "note": "not_today"
+    },
+    "7b139914fbff88ba21ba4b91": {
+      "ts": 1779371346,
+      "source": "Space.com",
+      "title": "NASA exoplanet-hunting spacecraft TESS reveals its most complete look at the night sky yet",
+      "link": "https://www.space.com/astronomy/exoplanets/nasa-exoplanet-hunting-spacecraft-tess-reveals-its-most-complete-look-at-the-night-sky-yet",
+      "score": 2.8,
+      "published_utc": "2026-05-21T12:00:00+00:00"
+    },
+    "3a3ccff312d6059477588fb5": {
+      "ts": 1779371346,
+      "source": "Space.com",
+      "title": "SpaceX Starship Flight 12 launch updates: 1st Starship V3 prepares for debut liftoff today",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-12-launch-updates-may-21-2026",
+      "score": 0.0,
+      "published_utc": "2026-05-18T14:56:45+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -1952,43 +1986,12 @@
     "2026-05-20": {
       "morning": true,
       "night": true
+    },
+    "2026-05-21": {
+      "morning": true
     }
   },
   "sent_updates": {
-    "2026-05-08": {
-      "fbb83f8586566accb590e2c0": true,
-      "93e338a65f9a4af66948f793": true,
-      "d86dddfc929f7c6a2d6cd509": true,
-      "f2c7996dc8153711efa9d084": true,
-      "e725400a110925e6499a8b78": true,
-      "19a4a24caadbb20ec8601df4": true,
-      "e9b38269ef25bff0c7bc68a5": true
-    },
-    "2026-05-11": {
-      "1afa7cd6b9992ccb6d84e362": true,
-      "4cfbae8e0ff36d763f177cc1": true,
-      "aa31ec360d8c643a7a9917e1": true,
-      "b6cdceb94f59cbb98107f286": true,
-      "ada8583280cebc63d235f4d5": true,
-      "da3abe16b835b88ec8f1eedb": true,
-      "ab28e9d8c76de5510069daf9": true
-    },
-    "2026-05-12": {
-      "0289bf9a82e2157ab98ee126": true,
-      "9f6c1df1d186a53428df2871": true,
-      "9e218d60cba77f383197c11d": true,
-      "6b9bdd52d0b8ecc5a1879445": true,
-      "d3d9fa403cb15fd5fac1495a": true,
-      "63288a92998c1efed0861050": true,
-      "5806ca1ff6c13633faeb2e10": true
-    },
-    "2026-05-13": {
-      "75c721cfefc48124f5812b7e": true,
-      "2a219174baaa974b500e587f": true,
-      "2e2a51f7ee620b9e69377009": true,
-      "766e78879bda16cbdb3f55e2": true,
-      "d49b44c9f2c2d5e17a2eee67": true
-    },
     "2026-05-14": {
       "85dd8eae328840ca7d780973": true,
       "3927a25ffdb137b40f24b534": true,
@@ -2029,6 +2032,9 @@
       "058f4df1bc81062a465469ae": true,
       "33b5d3891f721a3861effcf1": true,
       "a442895fc1966781b1b2b775": true
+    },
+    "2026-05-21": {
+      "49c5d5116f48a372daac1ea6": true
     }
   }
 }
