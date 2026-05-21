@@ -1803,6 +1803,22 @@
       "score": 0.0,
       "published_utc": "2026-05-18T14:56:45+00:00",
       "note": "not_today"
+    },
+    "c5d5b245c00a846f79f9f656": {
+      "ts": 1779381016,
+      "source": "NASA Breaking News",
+      "title": "NASA Welcomes 16th Deputy Administrator Matt Anderson",
+      "link": "https://www.nasa.gov/news-release/nasa-welcomes-16th-deputy-administrator-matt-anderson/",
+      "score": 4.0,
+      "published_utc": "2026-05-21T14:08:50+00:00"
+    },
+    "e57c9abef36940c8a54eccb2": {
+      "ts": 1779381016,
+      "source": "NASA Breaking News",
+      "title": "NASA Highlights 2025 International Space Station Science Results",
+      "link": "https://www.nasa.gov/missions/station/iss-research/nasa-highlights-2025-international-space-station-science-results/",
+      "score": 4.0,
+      "published_utc": "2026-05-21T14:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -1913,6 +1929,30 @@
       "day_brt": "2026-05-19",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket launch from Vandenberg SFB May 20, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket is vertical at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base ahead of the launch of the Starlink 9-10 mission on Nov. Image: SpaceX SpaceX is preparing to launch its Falcon 9 rocket from Vandenberg Space Force Base Tuesday night to send a batch of its Starlink satellites into low Earth orbit.",
       "queued_ts": 1779241809
+    },
+    {
+      "fp": "c5d5b245c00a846f79f9f656",
+      "title": "NASA Welcomes 16th Deputy Administrator Matt Anderson",
+      "link": "https://www.nasa.gov/news-release/nasa-welcomes-16th-deputy-administrator-matt-anderson/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-21T14:08:50+00:00",
+      "day_brt": "2026-05-21",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Welcomes 16th Deputy Administrator Matt Anderson Gerelle Q. Dodson May 21, 2026 RELEASE 26-040 NASA Headquarters Matt Anderson, left, joined by his wife Christine, is sworn in as the 16th deputy administrator of NASA, by NASA Administrator Jared Isaacman, Thursday, May 21, 2026, at the Eisenhower Executive Office Building in Washington.",
+      "queued_ts": 1779381020
+    },
+    {
+      "fp": "e57c9abef36940c8a54eccb2",
+      "title": "NASA Highlights 2025 International Space Station Science Results",
+      "link": "https://www.nasa.gov/missions/station/iss-research/nasa-highlights-2025-international-space-station-science-results/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-21T14:00:00+00:00",
+      "day_brt": "2026-05-21",
+      "resumo_pt": "Resumo (PT-BR): 5 Min Read NASA Highlights 2025 International Space Station Science Results Destiny Doran International Space Station Research Communications Team May 21, 2026 Article Contents Miniaturizing surgery Levitating bone growth Melanin infused materials Power that endures Runway return Tracking electrical phenomena from space To dive deeper into the International Space Station research achievements from the past year, browse the 2025 Annual Highlights of Results , which NASA released in May 2026. In 2025, researchers using the orbital laboratory conducted more than 750 investigations that advanced understanding of life in space, drove innovations to benefit people on Earth, and supported NASA’s exploration of the Moon and Mars.",
+      "queued_ts": 1779381020
     }
   ],
   "digests_sent": {
@@ -2034,7 +2074,9 @@
       "a442895fc1966781b1b2b775": true
     },
     "2026-05-21": {
-      "49c5d5116f48a372daac1ea6": true
+      "49c5d5116f48a372daac1ea6": true,
+      "c5d5b245c00a846f79f9f656": true,
+      "e57c9abef36940c8a54eccb2": true
     }
   }
 }
