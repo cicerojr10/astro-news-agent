@@ -1835,6 +1835,31 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-private-japanese-earth-observing-satellite-early-on-may-22",
       "score": 2.8,
       "published_utc": "2026-05-21T20:00:00+00:00"
+    },
+    "bbced14aab4de7b9c68417d6": {
+      "ts": 1779400131,
+      "source": "NASA Breaking News",
+      "title": "NASA Seeks Interest for Artemis Mission CubeSats",
+      "link": "https://www.nasa.gov/missions/artemis/nasa-seeks-interest-for-artemis-mission-cubesats/",
+      "score": 4.0,
+      "published_utc": "2026-05-21T20:11:17+00:00"
+    },
+    "db525ca84bcaa8a2eed3b540": {
+      "ts": 1779400131,
+      "source": "NASA Breaking News",
+      "title": "NASA’s AWE Completes Mission to Study Earth’s Effect on Space Weather",
+      "link": "https://science.nasa.gov/science-research/heliophysics/nasas-awe-completes-mission-to-study-earths-effect-on-space-weather/",
+      "score": 4.0,
+      "published_utc": "2026-05-21T18:31:06+00:00"
+    },
+    "544ed11becdcca3075610843": {
+      "ts": 1779400134,
+      "source": "Space.com",
+      "title": "SpaceX Starship Flight 12 launch updates: The 1st Starship V3 will launch into space today",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-12-launch-updates-may-21-2026",
+      "score": 0.0,
+      "published_utc": "2026-05-18T14:56:45+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -1981,6 +2006,30 @@
       "day_brt": "2026-05-21",
       "resumo_pt": "Resumo (PT-BR): 1 min read Hubble Sights Galaxy in Transition NASA Hubble Mission Team Goddard Space Flight Center May 21, 2026 Image Article NASA, ESA, K. Kober (NASA/Catholic University of America) This NASA Hubble Space Telescope image reveals an enigmatic galaxy with a bright center and a face that hints at spiral structure, yet it holds no obvious spiral arms.",
       "queued_ts": 1779387584
+    },
+    {
+      "fp": "bbced14aab4de7b9c68417d6",
+      "title": "NASA Seeks Interest for Artemis Mission CubeSats",
+      "link": "https://www.nasa.gov/missions/artemis/nasa-seeks-interest-for-artemis-mission-cubesats/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-21T20:11:17+00:00",
+      "day_brt": "2026-05-21",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Seeks Interest for Artemis Mission CubeSats William Bryan Communication Strategist May 21, 2026 Article Two of the Artemis II CubeSats can be seen in the lower portion of the Orion stage adapter on the right side of the image. NASA Organizations interested in launching CubeSats on future Artemis missions should respond to NASA’s request for information (RFI) by Monday, June 1, for initial consideration.",
+      "queued_ts": 1779400136
+    },
+    {
+      "fp": "db525ca84bcaa8a2eed3b540",
+      "title": "NASA’s AWE Completes Mission to Study Earth’s Effect on Space Weather",
+      "link": "https://science.nasa.gov/science-research/heliophysics/nasas-awe-completes-mission-to-study-earths-effect-on-space-weather/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-21T18:31:06+00:00",
+      "day_brt": "2026-05-21",
+      "resumo_pt": "Resumo (PT-BR): 4 Min Read NASA’s AWE Completes Mission to Study Earth’s Effect on Space Weather A long-exposure photo taken from the International Space Station shows airglow as bands of green and red curving around Earth. Credits: NASA Vanessa Thomas May 21, 2026 Article On May 21, ground controllers powered down NASA’s AWE (Atmospheric Waves Experiment) instrument, bringing the data collection phase of the mission to a successful and scheduled end, surpassing its planned two-year mission.",
+      "queued_ts": 1779400136
     }
   ],
   "digests_sent": {
@@ -2105,7 +2154,9 @@
       "49c5d5116f48a372daac1ea6": true,
       "c5d5b245c00a846f79f9f656": true,
       "e57c9abef36940c8a54eccb2": true,
-      "0661edd130bf23582c7c2ea2": true
+      "0661edd130bf23582c7c2ea2": true,
+      "bbced14aab4de7b9c68417d6": true,
+      "db525ca84bcaa8a2eed3b540": true
     }
   }
 }
