@@ -1955,6 +1955,58 @@
       "link": "https://science.nasa.gov/missions/hubble/hubble-captures-galaxy-cluster/",
       "score": 4.0,
       "published_utc": "2026-05-22T11:37:42+00:00"
+    },
+    "dbbf8772bf13958259278fe9": {
+      "ts": 1779466746,
+      "source": "NASA Breaking News",
+      "title": "NASA to Compete Contract for Jet Propulsion Laboratory Management",
+      "link": "https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/",
+      "score": 4.0,
+      "published_utc": "2026-05-22T14:34:04+00:00"
+    },
+    "6ba239d34677b690a50446d2": {
+      "ts": 1779466746,
+      "source": "NASA Breaking News",
+      "title": "NASA Announces Realignment to Accelerate Mission Delivery",
+      "link": "https://www.nasa.gov/news-release/nasa-announces-realignment-to-accelerate-mission-delivery/",
+      "score": 4.0,
+      "published_utc": "2026-05-22T14:01:35+00:00"
+    },
+    "dcfb8f6ea8b4e0b911ccadc8": {
+      "ts": 1779466748,
+      "source": "NASASpaceflight",
+      "title": "Starship Flight 12 realigns for second attempt on Friday",
+      "link": "https://www.nasaspaceflight.com/2026/05/starship-flight-12-block-3-pad-2/",
+      "score": 0.0,
+      "published_utc": "2026-05-20T23:52:00+00:00",
+      "note": "not_today"
+    },
+    "f9da1ef363a3abf2fb6b6c70": {
+      "ts": 1779466748,
+      "source": "Space.com",
+      "title": "Rocket Lab launches private Japanese Earth-observing satellite to orbit (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-private-japanese-earth-observing-satellite-early-on-may-22",
+      "score": 0.0,
+      "published_utc": "2026-05-21T20:00:00+00:00",
+      "note": "not_today"
+    },
+    "ea980ebbe854d24e46c5efd8": {
+      "ts": 1779466748,
+      "source": "Space.com",
+      "title": "How to watch SpaceX launch its 1st Starship V3 megarocket today",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-new-v3-starship-megarocket-for-1st-time-on-may-22-watch-live",
+      "score": 0.0,
+      "published_utc": "2026-05-20T10:00:00+00:00",
+      "note": "not_today"
+    },
+    "9ca8bd0794c6edd1e9690596": {
+      "ts": 1779466748,
+      "source": "Space.com",
+      "title": "SpaceX Starship Flight 12 live launch updates:  Starship V3 to make 2nd launch attempt today",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-12-launch-updates-may-22-2026",
+      "score": 0.0,
+      "published_utc": "2026-05-18T14:56:45+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -2101,6 +2153,30 @@
       "day_brt": "2026-05-22",
       "resumo_pt": "Resumo (PT-BR): Explore Hubble Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space? Hubble by the Numbers At the Museum FAQs Impact & Benefits Hubble's Impact & Benefits Science Impacts Cultural Impact Technology Benefits Impact on Human Spaceflight Astro Community Impacts Science Hubble Science Science Themes Science Highlights Science Behind Discoveries Universe Uncovered Hubble's Partners in Science Hubble & Citizen Science AI & Hubble Science Explore the Night Sky Observatory Hubble Observatory Hubble Design Mission Operations Science Operations Astronaut Missions to Hubble Hubble vs Webb Team Hubble Team Career Aspirations Hubble Astronauts Multimedia Images Videos Online Activities e-Books Sonifications Podcasts 3D Hubble Models Lithographs Fact Sheets Posters Hubble on the NASA App Glossary News Hubble News Social Media Media Resources 35th Anniversary More Online Activities 2 min read Hubble Captures Galaxy Cluster NASA Hubble Mission Team Goddard Space Flight Center May 22, 2026 Article NASA's Hubble Space Telescope captured this scene of galaxy cluster MACS J1141.6-1905 in visible and infrared light.",
       "queued_ts": 1779455958
+    },
+    {
+      "fp": "dbbf8772bf13958259278fe9",
+      "title": "NASA to Compete Contract for Jet Propulsion Laboratory Management",
+      "link": "https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-22T14:34:04+00:00",
+      "day_brt": "2026-05-22",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA to Compete Contract for Jet Propulsion Laboratory Management Cheryl Warner News Chief May 22, 2026 RELEASE 26-043 NASA Headquarters NASA’s Jet Propulsion Laboratory in Southern California. Credit: NASA NASA announced plans Friday to compete the next contract for managing and operating the agency’s federally funded research and development center (FFRDC) in Southern California at the Jet Propulsion Laboratory (JPL), to ensure continued accountability and strong value for U.S.",
+      "queued_ts": 1779466749
+    },
+    {
+      "fp": "6ba239d34677b690a50446d2",
+      "title": "NASA Announces Realignment to Accelerate Mission Delivery",
+      "link": "https://www.nasa.gov/news-release/nasa-announces-realignment-to-accelerate-mission-delivery/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-22T14:01:35+00:00",
+      "day_brt": "2026-05-22",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA Announces Realignment to Accelerate Mission Delivery Cheryl Warner News Chief May 22, 2026 RELEASE 26-045 NASA Headquarters Goddard Space Flight Center Katherine Johnson IVV Facility Kennedy Space Center Glenn Research Center Credit: NASA Editor’s Note: This advisory was updated May 22, 2026 to include a retirement. NASA announced Friday an agencywide realignment to increase mission focus and move out on the National Space Policy.",
+      "queued_ts": 1779466749
     }
   ],
   "digests_sent": {
@@ -2236,7 +2312,9 @@
       "86bf611a5d004c1217612a21": true
     },
     "2026-05-22": {
-      "1b09de0464cc2742ebd3e219": true
+      "1b09de0464cc2742ebd3e219": true,
+      "dbbf8772bf13958259278fe9": true,
+      "6ba239d34677b690a50446d2": true
     }
   }
 }
