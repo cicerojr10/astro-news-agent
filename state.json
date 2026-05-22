@@ -1921,6 +1921,15 @@
       "score": 0.0,
       "published_utc": "2026-05-18T14:56:45+00:00",
       "note": "not_today"
+    },
+    "504f5a6cea69e9456d0befce": {
+      "ts": 1779429098,
+      "source": "Space.com",
+      "title": "Watch Rocket Lab launch private Japanese Earth-observing satellite this morning",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-private-japanese-earth-observing-satellite-early-on-may-22",
+      "score": 0.0,
+      "published_utc": "2026-05-21T20:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
