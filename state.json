@@ -1878,6 +1878,15 @@
       "score": 0.0,
       "published_utc": "2026-05-18T14:56:45+00:00",
       "note": "not_today"
+    },
+    "c520241ed541585b38467b17": {
+      "ts": 1779408307,
+      "source": "Space.com",
+      "title": "SpaceX Starship Flight 12 live launch updates:  1st Starship V3 launch scrubbed at last minute",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-12-launch-updates-may-21-2026",
+      "score": 0.0,
+      "published_utc": "2026-05-18T14:56:45+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
