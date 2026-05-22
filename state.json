@@ -2023,6 +2023,23 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/starship-v3-from-space-satellite-snaps-amazing-photo-of-spacex-megarocket-on-the-pad",
       "score": 2.8,
       "published_utc": "2026-05-22T18:30:00+00:00"
+    },
+    "82104362d623e79b72ff3a53": {
+      "ts": 1779484787,
+      "source": "NASA Breaking News",
+      "title": "NASA Sets Coverage for Roscosmos Spacewalk Outside Space Station",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roscosmos-spacewalk-outside-space-station-2/",
+      "score": 5.2,
+      "published_utc": "2026-05-22T19:43:57+00:00"
+    },
+    "9311fc62345ded8903379a4f": {
+      "ts": 1779484788,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX tries again for first launch of its Starship Version 3 rocket",
+      "link": "https://spaceflightnow.com/2026/05/21/live-coverage-spacex-to-launch-first-starship-version-3-rocket/",
+      "score": 0.0,
+      "published_utc": "2026-05-21T13:13:17+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -2193,6 +2210,18 @@
       "day_brt": "2026-05-22",
       "resumo_pt": "Resumo (PT-BR): 4 min read NASA Announces Realignment to Accelerate Mission Delivery Cheryl Warner News Chief May 22, 2026 RELEASE 26-045 NASA Headquarters Goddard Space Flight Center Katherine Johnson IVV Facility Kennedy Space Center Glenn Research Center Credit: NASA Editor’s Note: This advisory was updated May 22, 2026 to include a retirement. NASA announced Friday an agencywide realignment to increase mission focus and move out on the National Space Policy.",
       "queued_ts": 1779466749
+    },
+    {
+      "fp": "82104362d623e79b72ff3a53",
+      "title": "NASA Sets Coverage for Roscosmos Spacewalk Outside Space Station",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roscosmos-spacewalk-outside-space-station-2/",
+      "source": "NASA Breaking News",
+      "score": 5.2,
+      "is_anomaly": false,
+      "published_utc": "2026-05-22T19:43:57+00:00",
+      "day_brt": "2026-05-22",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Sets Coverage for Roscosmos Spacewalk Outside Space Station Jennifer M. Dooren May 22, 2026 MEDIA ADVISORY M26-039 NASA Headquarters Johnson Space Center Roscosmos cosmonaut Sergey Ryzhikov is pictured at the end of the European robotic arm as he works on a high‑resolution camera during a six‑hour, nine‑minute spacewalk outside the International Space Station on Oct.",
+      "queued_ts": 1779484790
     }
   ],
   "digests_sent": {
@@ -2330,7 +2359,8 @@
     "2026-05-22": {
       "1b09de0464cc2742ebd3e219": true,
       "dbbf8772bf13958259278fe9": true,
-      "6ba239d34677b690a50446d2": true
+      "6ba239d34677b690a50446d2": true,
+      "82104362d623e79b72ff3a53": true
     }
   }
 }
