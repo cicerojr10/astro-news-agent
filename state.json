@@ -1887,6 +1887,40 @@
       "score": 0.0,
       "published_utc": "2026-05-18T14:56:45+00:00",
       "note": "not_today"
+    },
+    "86bf611a5d004c1217612a21": {
+      "ts": 1779414564,
+      "source": "Spaceflight Now",
+      "title": "SpaceX scrubs first launch attempt of its Starship Version 3 rocket",
+      "link": "https://spaceflightnow.com/2026/05/21/live-coverage-spacex-to-launch-first-starship-version-3-rocket/",
+      "score": 6.3,
+      "published_utc": "2026-05-21T13:13:17+00:00"
+    },
+    "500bf6da7bc4c25628db3726": {
+      "ts": 1779414564,
+      "source": "NASASpaceflight",
+      "title": "Starship Flight 12 Scrubs Due to Ship Quick Disconnect Issues",
+      "link": "https://www.nasaspaceflight.com/2026/05/starship-flight-12-block-3-pad-2/",
+      "score": 0.0,
+      "published_utc": "2026-05-20T23:52:00+00:00",
+      "note": "not_today"
+    },
+    "33532cbe1e9cf3c8e4e930e1": {
+      "ts": 1779414565,
+      "source": "Space.com",
+      "title": "SpaceX's 1st Starship V3 megarocket launch scrubbed at last minute. Sorry, Nicki Minaj",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-1st-starship-v3-megarocket-launch-scrubbed-at-last-minute-sorry-nicki-minaj",
+      "score": 11.2,
+      "published_utc": "2026-05-22T00:47:01+00:00"
+    },
+    "0e926112dc229c4f2a3ea798": {
+      "ts": 1779414565,
+      "source": "Space.com",
+      "title": "SpaceX Starship Flight 12 live launch updates:  1st Starship V3 launch scrubbed, may fly May 22",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-12-launch-updates-may-21-2026",
+      "score": 0.0,
+      "published_utc": "2026-05-18T14:56:45+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -1997,6 +2031,30 @@
       "day_brt": "2026-05-19",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket launch from Vandenberg SFB May 20, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket is vertical at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base ahead of the launch of the Starlink 9-10 mission on Nov. Image: SpaceX SpaceX is preparing to launch its Falcon 9 rocket from Vandenberg Space Force Base Tuesday night to send a batch of its Starlink satellites into low Earth orbit.",
       "queued_ts": 1779241809
+    },
+    {
+      "fp": "33532cbe1e9cf3c8e4e930e1",
+      "title": "SpaceX's 1st Starship V3 megarocket launch scrubbed at last minute. Sorry, Nicki Minaj",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-1st-starship-v3-megarocket-launch-scrubbed-at-last-minute-sorry-nicki-minaj",
+      "source": "Space.com",
+      "score": 11.2,
+      "is_anomaly": true,
+      "published_utc": "2026-05-22T00:47:01+00:00",
+      "day_brt": "2026-05-21",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft SpaceX's 1st Starship V3 megarocket launch scrubbed at last minute. Sorry, Nicki Minaj News By Mike Wall published 22 May 2026 Brand-new rocket, brand-new pad — a scrub wasn't exactly surprising.",
+      "queued_ts": 1779414566
+    },
+    {
+      "fp": "86bf611a5d004c1217612a21",
+      "title": "SpaceX scrubs first launch attempt of its Starship Version 3 rocket",
+      "link": "https://spaceflightnow.com/2026/05/21/live-coverage-spacex-to-launch-first-starship-version-3-rocket/",
+      "source": "Spaceflight Now",
+      "score": 6.3,
+      "is_anomaly": false,
+      "published_utc": "2026-05-21T13:13:17+00:00",
+      "day_brt": "2026-05-21",
+      "resumo_pt": "Resumo (PT-BR): SpaceX scrubs first launch attempt of its Starship Version 3 rocket May 21, 2026 Will Robinson-Smith SpaceX scrubbed the planned launch of its Starship-Super Heavy rocket on the Flight 12 mission on May 21, 2026. EDT (0003 UTC): SpaceX scrubbed the mission after dipping in and out of multiple holds at T-minus 40 seconds.",
+      "queued_ts": 1779414566
     }
   ],
   "digests_sent": {
@@ -2124,7 +2182,9 @@
       "e57c9abef36940c8a54eccb2": true,
       "0661edd130bf23582c7c2ea2": true,
       "bbced14aab4de7b9c68417d6": true,
-      "db525ca84bcaa8a2eed3b540": true
+      "db525ca84bcaa8a2eed3b540": true,
+      "33532cbe1e9cf3c8e4e930e1": true,
+      "86bf611a5d004c1217612a21": true
     }
   }
 }
