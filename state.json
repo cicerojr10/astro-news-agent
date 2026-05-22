@@ -1947,6 +1947,14 @@
       "score": 0.0,
       "published_utc": "2026-05-21T20:00:00+00:00",
       "note": "not_today"
+    },
+    "1b09de0464cc2742ebd3e219": {
+      "ts": 1779455955,
+      "source": "NASA Breaking News",
+      "title": "Hubble Captures Galaxy Cluster",
+      "link": "https://science.nasa.gov/missions/hubble/hubble-captures-galaxy-cluster/",
+      "score": 4.0,
+      "published_utc": "2026-05-22T11:37:42+00:00"
     }
   },
   "digest_queue": [
@@ -2081,6 +2089,18 @@
       "day_brt": "2026-05-21",
       "resumo_pt": "Resumo (PT-BR): SpaceX scrubs first launch attempt of its Starship Version 3 rocket May 21, 2026 Will Robinson-Smith SpaceX scrubbed the planned launch of its Starship-Super Heavy rocket on the Flight 12 mission on May 21, 2026. EDT (0003 UTC): SpaceX scrubbed the mission after dipping in and out of multiple holds at T-minus 40 seconds.",
       "queued_ts": 1779414566
+    },
+    {
+      "fp": "1b09de0464cc2742ebd3e219",
+      "title": "Hubble Captures Galaxy Cluster",
+      "link": "https://science.nasa.gov/missions/hubble/hubble-captures-galaxy-cluster/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-22T11:37:42+00:00",
+      "day_brt": "2026-05-22",
+      "resumo_pt": "Resumo (PT-BR): Explore Hubble Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space? Hubble by the Numbers At the Museum FAQs Impact & Benefits Hubble's Impact & Benefits Science Impacts Cultural Impact Technology Benefits Impact on Human Spaceflight Astro Community Impacts Science Hubble Science Science Themes Science Highlights Science Behind Discoveries Universe Uncovered Hubble's Partners in Science Hubble & Citizen Science AI & Hubble Science Explore the Night Sky Observatory Hubble Observatory Hubble Design Mission Operations Science Operations Astronaut Missions to Hubble Hubble vs Webb Team Hubble Team Career Aspirations Hubble Astronauts Multimedia Images Videos Online Activities e-Books Sonifications Podcasts 3D Hubble Models Lithographs Fact Sheets Posters Hubble on the NASA App Glossary News Hubble News Social Media Media Resources 35th Anniversary More Online Activities 2 min read Hubble Captures Galaxy Cluster NASA Hubble Mission Team Goddard Space Flight Center May 22, 2026 Article NASA's Hubble Space Telescope captured this scene of galaxy cluster MACS J1141.6-1905 in visible and infrared light.",
+      "queued_ts": 1779455958
     }
   ],
   "digests_sent": {
@@ -2214,6 +2234,9 @@
       "db525ca84bcaa8a2eed3b540": true,
       "33532cbe1e9cf3c8e4e930e1": true,
       "86bf611a5d004c1217612a21": true
+    },
+    "2026-05-22": {
+      "1b09de0464cc2742ebd3e219": true
     }
   }
 }
