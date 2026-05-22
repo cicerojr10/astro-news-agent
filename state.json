@@ -1930,6 +1930,23 @@
       "score": 0.0,
       "published_utc": "2026-05-21T20:00:00+00:00",
       "note": "not_today"
+    },
+    "933f180dd860a9d8ac7dd639": {
+      "ts": 1779449538,
+      "source": "Space.com",
+      "title": "This cryptocurrency billionaire will fly SpaceX's 1st private Starship to Mars, but when?",
+      "link": "https://www.space.com/space-exploration/private-spaceflight/this-cryptocurrency-billionaire-will-fly-spacexs-1st-private-starship-to-mars-but-when",
+      "score": 2.8,
+      "published_utc": "2026-05-22T10:00:00+00:00"
+    },
+    "c4e99c233bacdf3ea5be94a1": {
+      "ts": 1779449538,
+      "source": "Space.com",
+      "title": "Rocket Lab launches private Japanese Earth-observing satellite early on Friday (May 22)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-private-japanese-earth-observing-satellite-early-on-may-22",
+      "score": 0.0,
+      "published_utc": "2026-05-21T20:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -2141,6 +2158,9 @@
     "2026-05-21": {
       "morning": true,
       "night": true
+    },
+    "2026-05-22": {
+      "morning": true
     }
   },
   "sent_updates": {
