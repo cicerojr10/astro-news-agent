@@ -2058,6 +2058,14 @@
       "score": 0.0,
       "published_utc": "2026-05-23T02:47:56+00:00",
       "note": "not_today"
+    },
+    "82eb9b0361a47d834c8381e8": {
+      "ts": 1779540248,
+      "source": "Space.com",
+      "title": "China set to launch Shenzhou 23 astronauts to Tiangong space station this weekend",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-23-astronaut-launch-tiangong-space-station",
+      "score": 2.8,
+      "published_utc": "2026-05-23T12:00:00+00:00"
     }
   },
   "digest_queue": [
