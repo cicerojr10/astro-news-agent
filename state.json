@@ -2216,18 +2216,6 @@
       "day_brt": "2026-05-21",
       "resumo_pt": "Resumo (PT-BR): SpaceX scrubs first launch attempt of its Starship Version 3 rocket May 21, 2026 Will Robinson-Smith SpaceX scrubbed the planned launch of its Starship-Super Heavy rocket on the Flight 12 mission on May 21, 2026. EDT (0003 UTC): SpaceX scrubbed the mission after dipping in and out of multiple holds at T-minus 40 seconds.",
       "queued_ts": 1779414566
-    },
-    {
-      "fp": "56e5c2616752fa6f9122fc82",
-      "title": "Shenzhou 23 set to launch new crew to Tiangong space station",
-      "link": "https://www.nasaspaceflight.com/2026/05/shenzhou-23-launch/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-05-23T22:16:51+00:00",
-      "day_brt": "2026-05-23",
-      "resumo_pt": "Resumo (PT-BR): Shenzhou 23 set to launch new crew to Tiangong space station by Justin Davenport May 23, 2026 written by Justin Davenport May 23, 2026 3 The Chinese space station Tiangong, permanently occupied since June 5, 2022, is set to receive a new set of crew members. Shenzhou 23 is scheduled to launch atop a Chang Zheng 2F (CZ-2F) from Site 91 at the Jiuquan Satellite Launch Center in the Inner Mongolia province of northwest China.",
-      "queued_ts": 1779575414
     }
   ],
   "digests_sent": {
@@ -2311,7 +2299,8 @@
       "night": true
     },
     "2026-05-23": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
