@@ -2040,6 +2040,15 @@
       "score": 0.0,
       "published_utc": "2026-05-21T13:13:17+00:00",
       "note": "not_today"
+    },
+    "7d052cc5121bf9d746324fd6": {
+      "ts": 1779499471,
+      "source": "NASASpaceflight",
+      "title": "Starship Flight 12: Block 3 Impresses on First Flight",
+      "link": "https://www.nasaspaceflight.com/2026/05/starship-flight-12-block-3-pad-2/",
+      "score": 0.0,
+      "published_utc": "2026-05-20T23:52:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
