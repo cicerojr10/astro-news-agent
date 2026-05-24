@@ -2098,6 +2098,15 @@
       "link": "https://www.space.com/stargazing/skywatching-kit/grab-the-estes-blue-origin-model-rocket-ahead-of-memorial-day-with-its-lowest-price-since-january",
       "score": 2.8,
       "published_utc": "2026-05-24T14:00:00+00:00"
+    },
+    "ff4cf912fb86d04b3a12c21a": {
+      "ts": 1779638992,
+      "source": "NASASpaceflight",
+      "title": "Shenzhou 23 launches new crew to Tiangong space station",
+      "link": "https://www.nasaspaceflight.com/2026/05/shenzhou-23-launch/",
+      "score": 0.0,
+      "published_utc": "2026-05-23T22:16:51+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
