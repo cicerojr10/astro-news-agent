@@ -2107,6 +2107,15 @@
       "score": 0.0,
       "published_utc": "2026-05-23T22:16:51+00:00",
       "note": "not_today"
+    },
+    "5bbb8542b5ff6c224cc86dc5": {
+      "ts": 1779642831,
+      "source": "Space.com",
+      "title": "China launches 3 astronauts, including 1st ever from Hong Kong, to Tiangong space station (video)",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-23-astronaut-launch-tiangong-space-station",
+      "score": 0.0,
+      "published_utc": "2026-05-23T12:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
