@@ -2124,6 +2124,14 @@
       "link": "https://spaceflightnow.com/2026/05/24/live-coverage-spacex-to-launch-29-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral/",
       "score": 4.680000000000001,
       "published_utc": "2026-05-24T17:54:29+00:00"
+    },
+    "248e22d3f5281cbd08572525": {
+      "ts": 1779651652,
+      "source": "NASASpaceflight",
+      "title": "Vehicle arrivals, science experiments, and maintenance keep Expedition 74 busy through April",
+      "link": "https://www.nasaspaceflight.com/2026/05/iss-roundup-april/",
+      "score": 3.6,
+      "published_utc": "2026-05-24T19:04:58+00:00"
     }
   },
   "digest_queue": [
@@ -2270,6 +2278,18 @@
       "day_brt": "2026-05-24",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 29 Starlink satellites on a Falcon 9 rocket from Cape Canaveral May 24, 2026 Will Robinson-Smith File: A Falcon 9 rocket stands in the launch position at Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station ahead of the planned liftoff of the Starlink 6-61 mission on Oct. Image: Adam Bernstein/Spaceflight Now The expansion of SpaceX’s Starlink network of internet relay satellites will continue Monday with a Memorial Day launch from Cape Canaveral Space Force Station.",
       "queued_ts": 1779646275
+    },
+    {
+      "fp": "248e22d3f5281cbd08572525",
+      "title": "Vehicle arrivals, science experiments, and maintenance keep Expedition 74 busy through April",
+      "link": "https://www.nasaspaceflight.com/2026/05/iss-roundup-april/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-05-24T19:04:58+00:00",
+      "day_brt": "2026-05-24",
+      "resumo_pt": "Resumo (PT-BR): Vehicle arrivals, science experiments, and maintenance keep Expedition 74 busy through April by Eleanor Day May 24, 2026 written by Eleanor Day May 24, 2026 5 Recent weeks aboard the International Space Station have been busy, with the Expedition 74 crew overseeing two vehicle arrivals, a departure, and an orbital reboost. The crew also completed several technology demonstrations, science experiments, and routine Station maintenance.",
+      "queued_ts": 1779651653
     }
   ],
   "digests_sent": {
@@ -2422,7 +2442,8 @@
       "56e5c2616752fa6f9122fc82": true
     },
     "2026-05-24": {
-      "25201ccebc25a6b2e1357e38": true
+      "25201ccebc25a6b2e1357e38": true,
+      "248e22d3f5281cbd08572525": true
     }
   }
 }
