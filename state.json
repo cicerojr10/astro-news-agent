@@ -2132,6 +2132,23 @@
       "link": "https://www.nasaspaceflight.com/2026/05/iss-roundup-april/",
       "score": 3.6,
       "published_utc": "2026-05-24T19:04:58+00:00"
+    },
+    "cc1056b8032994041ef3b652": {
+      "ts": 1779716991,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches 29 Starlink satellites on Memorial Day",
+      "link": "https://spaceflightnow.com/2026/05/24/live-coverage-spacex-to-launch-29-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral/",
+      "score": 0.0,
+      "published_utc": "2026-05-24T17:54:29+00:00",
+      "note": "not_today"
+    },
+    "59789166dd68195f25b84aac": {
+      "ts": 1779716992,
+      "source": "Space.com",
+      "title": "Scientists just found a supercharged supernova — powered up by a magnetic star corpse",
+      "link": "https://www.space.com/astronomy/stars/scientists-just-found-a-supercharged-supernova-powered-up-by-a-magnetic-star-corpse",
+      "score": 11.2,
+      "published_utc": "2026-05-25T13:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -2355,35 +2372,12 @@
     "2026-05-24": {
       "morning": true,
       "night": true
+    },
+    "2026-05-25": {
+      "morning": true
     }
   },
   "sent_updates": {
-    "2026-05-14": {
-      "85dd8eae328840ca7d780973": true,
-      "3927a25ffdb137b40f24b534": true,
-      "8f99c55747d3f19afb559f16": true,
-      "add540746aba470779f6042b": true,
-      "05fd8d8d6a8a04ed07aca181": true
-    },
-    "2026-05-15": {
-      "37643080064bf6fcdc600c14": true,
-      "1875997e761904f6f3252b5a": true,
-      "07a4751a91b36a7885795e3e": true,
-      "44928ab9d87ce87a5072a0d6": true,
-      "69fbffaa0ed0e5920868ecde": true
-    },
-    "2026-05-17": {
-      "5dfd7c069125617fe0dc3983": true
-    },
-    "2026-05-18": {
-      "a33f3404efe65e26cfa06916": true,
-      "a3acff12d07833b09d72fcf4": true,
-      "130052600446b15ced60bdb2": true,
-      "35d92c22033c9526cd80de8b": true,
-      "6bb64a33759ac4837cdd02cd": true,
-      "685bc70fbeac27137e28722a": true,
-      "59ffa3af64dc7aa0da96cfa8": true
-    },
     "2026-05-19": {
       "59f88c542d2995075f7e48e7": true,
       "968a364a9318b79fbd757ca7": true,
@@ -2421,6 +2415,9 @@
     "2026-05-24": {
       "25201ccebc25a6b2e1357e38": true,
       "248e22d3f5281cbd08572525": true
+    },
+    "2026-05-25": {
+      "59789166dd68195f25b84aac": true
     }
   }
 }
