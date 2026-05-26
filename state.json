@@ -2222,6 +2222,14 @@
       "score": 0.0,
       "published_utc": "2026-05-23T12:00:00+00:00",
       "note": "not_today"
+    },
+    "e9578d039996c90e1328105c": {
+      "ts": 1779830713,
+      "source": "NASA Breaking News",
+      "title": "NASA Astronauts to Answer Questions from Students in New York",
+      "link": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-students-in-new-york/",
+      "score": 4.0,
+      "published_utc": "2026-05-26T21:05:04+00:00"
     }
   },
   "digest_queue": [
@@ -2392,6 +2400,18 @@
       "day_brt": "2026-05-26",
       "resumo_pt": "Resumo (PT-BR): SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB May 26, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket lifts off from Space Launch Complex 4 East at Vandenberg Space Force Base on the Starlink 17-37 mission on May 26, 2026. EDT (1621 UTC) SpaceX confirms deployment of its 24 Starlink satellites.",
       "queued_ts": 1779818014
+    },
+    {
+      "fp": "e9578d039996c90e1328105c",
+      "title": "NASA Astronauts to Answer Questions from Students in New York",
+      "link": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-students-in-new-york/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-26T21:05:04+00:00",
+      "day_brt": "2026-05-26",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Astronauts to Answer Questions from Students in New York NASA STEM Team May 26, 2026 Article NASA astronaut and Expedition 74 flight engineer Jessica Meir configures research gear inside the Destiny laboratory module’s Microgravity Science Glovebox aboard the International Space Station. Credit: NASA/Jessica Meir Students in New York will hear from NASA astronaut Jessica Meir as she answers their prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station .",
+      "queued_ts": 1779830716
     }
   ],
   "digests_sent": {
@@ -2536,7 +2556,8 @@
       "1f4839b8be3eb48cf9911ed8": true,
       "9d3fbd5931a4ec7edef10a61": true,
       "3bfafaa010d772b93ad24197": true,
-      "bb842051d8862a8f0c80602e": true
+      "bb842051d8862a8f0c80602e": true,
+      "e9578d039996c90e1328105c": true
     }
   }
 }
