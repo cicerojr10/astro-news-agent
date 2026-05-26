@@ -2157,6 +2157,30 @@
       "link": "https://www.space.com/space-exploration/satellites/darpa-readies-robotic-deep-space-repair-satellite-for-2026-launch",
       "score": 2.8,
       "published_utc": "2026-05-25T17:00:00+00:00"
+    },
+    "1f4839b8be3eb48cf9911ed8": {
+      "ts": 1779803076,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/05/26/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-8/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-05-26T12:48:17+00:00"
+    },
+    "8df4dfc81f63e2bd7f60a12e": {
+      "ts": 1779803077,
+      "source": "Space.com",
+      "title": "Unusual red northern lights over Japan suggest some solar storms are stronger than we thought",
+      "link": "https://www.space.com/astronomy/sun/unusual-red-northern-lights-over-japan-suggest-some-solar-storms-are-stronger-than-we-thought",
+      "score": 2.8,
+      "published_utc": "2026-05-26T12:00:00+00:00"
+    },
+    "8b5f62aca139a279e5604d52": {
+      "ts": 1779803077,
+      "source": "Space.com",
+      "title": "'Very interesting wiggles' in data from silent NASA Mars spacecraft lead to unexpected solar wind discovery",
+      "link": "https://www.space.com/astronomy/mars/very-interesting-wiggles-in-data-from-silent-nasa-mars-spacecraft-lead-to-unexpected-solar-wind-discovery",
+      "score": 2.8,
+      "published_utc": "2026-05-26T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -2384,6 +2408,9 @@
     "2026-05-25": {
       "morning": true,
       "night": true
+    },
+    "2026-05-26": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -2427,6 +2454,9 @@
     },
     "2026-05-25": {
       "59789166dd68195f25b84aac": true
+    },
+    "2026-05-26": {
+      "1f4839b8be3eb48cf9911ed8": true
     }
   }
 }
