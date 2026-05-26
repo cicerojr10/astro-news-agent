@@ -2205,6 +2205,23 @@
       "link": "https://spaceflightnow.com/2026/05/26/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-8/",
       "score": 3.6,
       "published_utc": "2026-05-26T12:48:17+00:00"
+    },
+    "6dd393a48b3de36774e65d11": {
+      "ts": 1779825110,
+      "source": "Space.com",
+      "title": "Satellites imaged an underwater volcano erupting — but scientists have no idea what's actually happening on the seafloor",
+      "link": "https://www.space.com/astronomy/earth/satellites-imaged-an-underwater-volcano-erupting-but-scientists-have-no-idea-whats-actually-happening-on-the-seafloor",
+      "score": 2.8,
+      "published_utc": "2026-05-26T18:00:00+00:00"
+    },
+    "5001879b130d686913d9251a": {
+      "ts": 1779825110,
+      "source": "Space.com",
+      "title": "China just launched 3 astronauts to Tiangong space station. One will stay for a full year. (video)",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-23-astronaut-launch-tiangong-space-station",
+      "score": 0.0,
+      "published_utc": "2026-05-23T12:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
