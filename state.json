@@ -2181,6 +2181,30 @@
       "link": "https://www.space.com/astronomy/mars/very-interesting-wiggles-in-data-from-silent-nasa-mars-spacecraft-lead-to-unexpected-solar-wind-discovery",
       "score": 2.8,
       "published_utc": "2026-05-26T10:00:00+00:00"
+    },
+    "9d3fbd5931a4ec7edef10a61": {
+      "ts": 1779818010,
+      "source": "NASA Breaking News",
+      "title": "Chennai City Lights",
+      "link": "https://www.nasa.gov/image-article/chennai-city-lights/",
+      "score": 4.0,
+      "published_utc": "2026-05-26T14:49:48+00:00"
+    },
+    "3bfafaa010d772b93ad24197": {
+      "ts": 1779818010,
+      "source": "NASA Breaking News",
+      "title": "New Instrument Used Antarctic Ice Sheet to Probe Extreme Universe",
+      "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/new-instrument-used-antarctic-ice-sheet-to-probe-extreme-universe/",
+      "score": 4.0,
+      "published_utc": "2026-05-26T12:00:00+00:00"
+    },
+    "bb842051d8862a8f0c80602e": {
+      "ts": 1779818011,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/05/26/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-8/",
+      "score": 3.6,
+      "published_utc": "2026-05-26T12:48:17+00:00"
     }
   },
   "digest_queue": [
@@ -2315,6 +2339,42 @@
       "day_brt": "2026-05-21",
       "resumo_pt": "Resumo (PT-BR): SpaceX scrubs first launch attempt of its Starship Version 3 rocket May 21, 2026 Will Robinson-Smith SpaceX scrubbed the planned launch of its Starship-Super Heavy rocket on the Flight 12 mission on May 21, 2026. EDT (0003 UTC): SpaceX scrubbed the mission after dipping in and out of multiple holds at T-minus 40 seconds.",
       "queued_ts": 1779414566
+    },
+    {
+      "fp": "9d3fbd5931a4ec7edef10a61",
+      "title": "Chennai City Lights",
+      "link": "https://www.nasa.gov/image-article/chennai-city-lights/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-26T14:49:48+00:00",
+      "day_brt": "2026-05-26",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Chennai City Lights HQ Web Team May 26, 2026 Image Article NASA/Chris Williams Chennai, on India’s southern coast along the Bay of Bengal and with a metropolitan population of about 8.7 million, shines with white LED streetlights in this photograph taken at approximately 9:13 p.m. local time on May 2, 2026, from the International Space Station.",
+      "queued_ts": 1779818014
+    },
+    {
+      "fp": "3bfafaa010d772b93ad24197",
+      "title": "New Instrument Used Antarctic Ice Sheet to Probe Extreme Universe",
+      "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/new-instrument-used-antarctic-ice-sheet-to-probe-extreme-universe/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-26T12:00:00+00:00",
+      "day_brt": "2026-05-26",
+      "resumo_pt": "Resumo (PT-BR): 4 min read New Instrument Used Antarctic Ice Sheet to Probe Extreme Universe NASA Science Editorial Team May 26, 2026 Article Contents Lowering detection threshold with interferometric triggering More channels in a physically constrained space Low-frequency instrument for air shower characterization This image shows PUEO at the Long Duration Balloon Facility in Antarctica, immediately after balloon release. Credit: NASA/Scott Battaion The Payload for Ultrahigh Energy Observations (PUEO) is a NASA Astrophysics Pioneers Program mission designed to detect the most energetic particles in the universe.",
+      "queued_ts": 1779818014
+    },
+    {
+      "fp": "bb842051d8862a8f0c80602e",
+      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/05/26/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-8/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-05-26T12:48:17+00:00",
+      "day_brt": "2026-05-26",
+      "resumo_pt": "Resumo (PT-BR): SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB May 26, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket lifts off from Space Launch Complex 4 East at Vandenberg Space Force Base on the Starlink 17-37 mission on May 26, 2026. EDT (1621 UTC) SpaceX confirms deployment of its 24 Starlink satellites.",
+      "queued_ts": 1779818014
     }
   ],
   "digests_sent": {
@@ -2456,7 +2516,10 @@
       "59789166dd68195f25b84aac": true
     },
     "2026-05-26": {
-      "1f4839b8be3eb48cf9911ed8": true
+      "1f4839b8be3eb48cf9911ed8": true,
+      "9d3fbd5931a4ec7edef10a61": true,
+      "3bfafaa010d772b93ad24197": true,
+      "bb842051d8862a8f0c80602e": true
     }
   }
 }
