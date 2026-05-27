@@ -2262,6 +2262,38 @@
       "link": "https://www.space.com/space-exploration/artemis/nasa-will-reveal-the-artemis-3-astronauts-on-june-9",
       "score": 2.8,
       "published_utc": "2026-05-27T13:00:00+00:00"
+    },
+    "75b5cd66e3e3b4258ccf70ca": {
+      "ts": 1779901008,
+      "source": "NASA Breaking News",
+      "title": "La NASA anunciará la tripulación de Artemis III e informará sobre el progreso de la misión",
+      "link": "https://www.nasa.gov/news-release/la-nasa-anunciara-la-tripulacion-de-artemis-iii-e-informara-sobre-el-progreso-de-la-mision/",
+      "score": 4.0,
+      "published_utc": "2026-05-27T16:01:10+00:00"
+    },
+    "85bfc6eb60e1ae66ef828d0b": {
+      "ts": 1779901008,
+      "source": "NASA Breaking News",
+      "title": "Webinar 6/17: Discover, Access, and Task Commercial Data with NASA’s Satellite Data Explorer",
+      "link": "https://science.nasa.gov/science-research/earth-science/webinar-6-17-discover-access-and-task-commercial-data-with-nasas-satellite-data-explorer/",
+      "score": 4.0,
+      "published_utc": "2026-05-27T15:21:52+00:00"
+    },
+    "890773ee50558628499b2c6f": {
+      "ts": 1779901009,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Webb Reveals Black Hole That Formed Before Its Galaxy",
+      "link": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-black-hole-that-formed-before-its-galaxy/",
+      "score": 4.0,
+      "published_utc": "2026-05-27T15:00:00+00:00"
+    },
+    "f1939abb0c7b4c376fa5f325": {
+      "ts": 1779901009,
+      "source": "NASA Breaking News",
+      "title": "National Institutes of Health Nutrition Education Challenge",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/national-institutes-of-health-nutrition-education-challenge/",
+      "score": 4.0,
+      "published_utc": "2026-05-27T14:09:20+00:00"
     }
   },
   "digest_queue": [
@@ -2408,6 +2440,54 @@
       "day_brt": "2026-05-26",
       "resumo_pt": "Resumo (PT-BR): Following Starship V3 debut, SpaceX prepares for follow up by Alejandro Alcantarilla Romera and Chris Bergin May 26, 2026 written by Alejandro Alcantarilla Romera and Chris Bergin May 26, 2026 1 Starship Version 3 flew for the first time this week in a mission of several firsts, performing notably better than previous version debuts, demonstrating that the upgraded vehicle remains on track to become the workhorse Super Heavy Lift Launch vehicle for SpaceX. However, some issues require resolution before SpaceX returns to booster catches.",
       "queued_ts": 1779847039
+    },
+    {
+      "fp": "75b5cd66e3e3b4258ccf70ca",
+      "title": "La NASA anunciará la tripulación de Artemis III e informará sobre el progreso de la misión",
+      "link": "https://www.nasa.gov/news-release/la-nasa-anunciara-la-tripulacion-de-artemis-iii-e-informara-sobre-el-progreso-de-la-mision/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-27T16:01:10+00:00",
+      "day_brt": "2026-05-27",
+      "resumo_pt": "Resumo (PT-BR): 3 min read La NASA anunciará la tripulación de Artemis III e informará sobre el progreso de la misión María José Viñas May 27, 2026 MEDIA ADVISORY M26-041 Crédito: NASA La NASA informará sobre los avances de la misión Artemis III de la agencia y anunciará los astronautas asignados a este vuelo de prueba durante un evento en vivo a las 11 a.m. EDT (hora del este) del martes 9 de junio en el Centro Espacial Johnson de la agencia en Houston.",
+      "queued_ts": 1779901013
+    },
+    {
+      "fp": "85bfc6eb60e1ae66ef828d0b",
+      "title": "Webinar 6/17: Discover, Access, and Task Commercial Data with NASA’s Satellite Data Explorer",
+      "link": "https://science.nasa.gov/science-research/earth-science/webinar-6-17-discover-access-and-task-commercial-data-with-nasas-satellite-data-explorer/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-27T15:21:52+00:00",
+      "day_brt": "2026-05-27",
+      "resumo_pt": "Resumo (PT-BR): CSDA Menu CSDA Commercial Data Commercial Datasets End User License Agreements Commercial Satellite Data Explorer Satellite Data Evaluation CSDA Vendors Airbus BlackSky Capella Space GeoOptics GHGSat ICEYE MDA Space Pixxel Planet PlanetiQ Polar Geospatial Center Satellogic Spire Teledyne Brown Engineering Tomorrow.io Umbra Vantor Program Activities Learning Resources FAQs News News and Events Subscribe to CSDA Orbit 1 min read Webinar 6/17: Discover, Access, and Task Commercial Data with NASA’s Satellite Data Explorer Joseph Smith May 27, 2026 Article This screen capture shows a multispectral image from Vantor in the CSDA program's Satellite Data Explorer user interface. Credit: (C) Vantor Join us for an CSDA program webinar on Wednesday, June 17, 2026, to learn how to use the Satellite Data Explorer(SDX) to search, access, and task commercial Earth Observation data available through NASA's Commercial Satellite Data Acquisition (CSDA) program.",
+      "queued_ts": 1779901013
+    },
+    {
+      "fp": "890773ee50558628499b2c6f",
+      "title": "NASA’s Webb Reveals Black Hole That Formed Before Its Galaxy",
+      "link": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-black-hole-that-formed-before-its-galaxy/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-27T15:00:00+00:00",
+      "day_brt": "2026-05-27",
+      "resumo_pt": "Resumo (PT-BR): Explore Webb Science James Webb Space Telescope (JWST) NASA’s Webb Reveals Black... Webb News Latest News Latest Images Webb's Blog Awards X (offsite - login reqd) Instagram (offsite - login reqd) Facebook (offsite- login reqd) Youtube (offsite) Overview About Who is James Webb?",
+      "queued_ts": 1779901013
+    },
+    {
+      "fp": "f1939abb0c7b4c376fa5f325",
+      "title": "National Institutes of Health Nutrition Education Challenge",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/national-institutes-of-health-nutrition-education-challenge/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-27T14:09:20+00:00",
+      "day_brt": "2026-05-27",
+      "resumo_pt": "Resumo (PT-BR): 2 min read National Institutes of Health Nutrition Education Challenge Bailey G. Light May 27, 2026 Article A small cast iron of savory eggs and vegetables sits on a serving plate after being tasted.",
+      "queued_ts": 1779901013
     }
   ],
   "digests_sent": {
@@ -2562,7 +2642,10 @@
       "0f545bbb2314a4b04a27fd18": true
     },
     "2026-05-27": {
-      "d30b2adae44db1dd33d1cb54": true
+      "d30b2adae44db1dd33d1cb54": true,
+      "75b5cd66e3e3b4258ccf70ca": true,
+      "85bfc6eb60e1ae66ef828d0b": true,
+      "890773ee50558628499b2c6f": true
     }
   }
 }
