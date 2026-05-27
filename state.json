@@ -2246,6 +2246,22 @@
       "link": "https://www.nasaspaceflight.com/2026/05/starship-flight-12-v3-follow/",
       "score": 3.6,
       "published_utc": "2026-05-27T01:10:58+00:00"
+    },
+    "d30b2adae44db1dd33d1cb54": {
+      "ts": 1779890128,
+      "source": "NASA Breaking News",
+      "title": "Hubble Spies Faint Irregular Galaxy",
+      "link": "https://science.nasa.gov/missions/hubble/hubble-spies-faint-irregular-galaxy/",
+      "score": 4.0,
+      "published_utc": "2026-05-27T12:09:59+00:00"
+    },
+    "4a630cfac3f45b5646d1b8ce": {
+      "ts": 1779890130,
+      "source": "Space.com",
+      "title": "NASA will reveal the Artemis 3 astronauts on June 9",
+      "link": "https://www.space.com/space-exploration/artemis/nasa-will-reveal-the-artemis-3-astronauts-on-june-9",
+      "score": 2.8,
+      "published_utc": "2026-05-27T13:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -2489,6 +2505,9 @@
     "2026-05-26": {
       "morning": true,
       "night": true
+    },
+    "2026-05-27": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -2541,6 +2560,9 @@
       "e9578d039996c90e1328105c": true,
       "8fb10f6992aa209f0432ab49": true,
       "0f545bbb2314a4b04a27fd18": true
+    },
+    "2026-05-27": {
+      "d30b2adae44db1dd33d1cb54": true
     }
   }
 }
