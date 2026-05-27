@@ -2472,102 +2472,6 @@
       "day_brt": "2026-05-26",
       "resumo_pt": "Resumo (PT-BR): Following Starship V3 debut, SpaceX prepares for follow up by Alejandro Alcantarilla Romera and Chris Bergin May 26, 2026 written by Alejandro Alcantarilla Romera and Chris Bergin May 26, 2026 1 Starship Version 3 flew for the first time this week in a mission of several firsts, performing notably better than previous version debuts, demonstrating that the upgraded vehicle remains on track to become the workhorse Super Heavy Lift Launch vehicle for SpaceX. However, some issues require resolution before SpaceX returns to booster catches.",
       "queued_ts": 1779847039
-    },
-    {
-      "fp": "75b5cd66e3e3b4258ccf70ca",
-      "title": "La NASA anunciará la tripulación de Artemis III e informará sobre el progreso de la misión",
-      "link": "https://www.nasa.gov/news-release/la-nasa-anunciara-la-tripulacion-de-artemis-iii-e-informara-sobre-el-progreso-de-la-mision/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-27T16:01:10+00:00",
-      "day_brt": "2026-05-27",
-      "resumo_pt": "Resumo (PT-BR): 3 min read La NASA anunciará la tripulación de Artemis III e informará sobre el progreso de la misión María José Viñas May 27, 2026 MEDIA ADVISORY M26-041 Crédito: NASA La NASA informará sobre los avances de la misión Artemis III de la agencia y anunciará los astronautas asignados a este vuelo de prueba durante un evento en vivo a las 11 a.m. EDT (hora del este) del martes 9 de junio en el Centro Espacial Johnson de la agencia en Houston.",
-      "queued_ts": 1779901013
-    },
-    {
-      "fp": "85bfc6eb60e1ae66ef828d0b",
-      "title": "Webinar 6/17: Discover, Access, and Task Commercial Data with NASA’s Satellite Data Explorer",
-      "link": "https://science.nasa.gov/science-research/earth-science/webinar-6-17-discover-access-and-task-commercial-data-with-nasas-satellite-data-explorer/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-27T15:21:52+00:00",
-      "day_brt": "2026-05-27",
-      "resumo_pt": "Resumo (PT-BR): CSDA Menu CSDA Commercial Data Commercial Datasets End User License Agreements Commercial Satellite Data Explorer Satellite Data Evaluation CSDA Vendors Airbus BlackSky Capella Space GeoOptics GHGSat ICEYE MDA Space Pixxel Planet PlanetiQ Polar Geospatial Center Satellogic Spire Teledyne Brown Engineering Tomorrow.io Umbra Vantor Program Activities Learning Resources FAQs News News and Events Subscribe to CSDA Orbit 1 min read Webinar 6/17: Discover, Access, and Task Commercial Data with NASA’s Satellite Data Explorer Joseph Smith May 27, 2026 Article This screen capture shows a multispectral image from Vantor in the CSDA program's Satellite Data Explorer user interface. Credit: (C) Vantor Join us for an CSDA program webinar on Wednesday, June 17, 2026, to learn how to use the Satellite Data Explorer(SDX) to search, access, and task commercial Earth Observation data available through NASA's Commercial Satellite Data Acquisition (CSDA) program.",
-      "queued_ts": 1779901013
-    },
-    {
-      "fp": "890773ee50558628499b2c6f",
-      "title": "NASA’s Webb Reveals Black Hole That Formed Before Its Galaxy",
-      "link": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-black-hole-that-formed-before-its-galaxy/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-27T15:00:00+00:00",
-      "day_brt": "2026-05-27",
-      "resumo_pt": "Resumo (PT-BR): Explore Webb Science James Webb Space Telescope (JWST) NASA’s Webb Reveals Black... Webb News Latest News Latest Images Webb's Blog Awards X (offsite - login reqd) Instagram (offsite - login reqd) Facebook (offsite- login reqd) Youtube (offsite) Overview About Who is James Webb?",
-      "queued_ts": 1779901013
-    },
-    {
-      "fp": "f1939abb0c7b4c376fa5f325",
-      "title": "National Institutes of Health Nutrition Education Challenge",
-      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/national-institutes-of-health-nutrition-education-challenge/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-27T14:09:20+00:00",
-      "day_brt": "2026-05-27",
-      "resumo_pt": "Resumo (PT-BR): 2 min read National Institutes of Health Nutrition Education Challenge Bailey G. Light May 27, 2026 Article A small cast iron of savory eggs and vegetables sits on a serving plate after being tasted.",
-      "queued_ts": 1779901013
-    },
-    {
-      "fp": "19e6c2ec578a5e7fa3ffa2b4",
-      "title": "FAA requires SpaceX-led mishap investigation before resumption of Starship launches",
-      "link": "https://spaceflightnow.com/2026/05/27/faa-requires-spacex-led-mishap-investigation-before-resumption-of-starship-launches/",
-      "source": "Spaceflight Now",
-      "score": 9.0,
-      "is_anomaly": true,
-      "published_utc": "2026-05-27T19:13:35+00:00",
-      "day_brt": "2026-05-27",
-      "resumo_pt": "Resumo (PT-BR): FAA requires SpaceX-led mishap investigation before resumption of Starship launches May 27, 2026 Will Robinson-Smith A closeup shot of SpaceX’s Super Heavy booster, tail number Booster 19, during the initial moments of ascent on the Starship Flight 12 mission on May 22, 2026. Image: SpaceX FAA requires SpaceX-led mishap investigation before resumption of Starship launches The Federal Aviation Administration made the determination after analyzing the results of Starship Flight 12, which took place on Friday, May 22.",
-      "queued_ts": 1779909297
-    },
-    {
-      "fp": "4f32f5d222015b7260a53ff0",
-      "title": "FAA grounds SpaceX's Starship V3 megarocket after Flight 12 'mishap'",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/faa-grounds-spacexs-starship-v3-megarocket-after-flight-12-mishap",
-      "source": "Space.com",
-      "score": 7.0,
-      "is_anomaly": true,
-      "published_utc": "2026-05-27T17:28:09+00:00",
-      "day_brt": "2026-05-27",
-      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft FAA grounds SpaceX's Starship V3 megarocket after Flight 12 'mishap' News By Mike Wall published 27 May 2026 \"A return to flight of the Starship-Super Heavy vehicle is based on the FAA determining that any system, process, or procedure related to the mishap does not affect public safety.\" When you purchase through links on our site, we may earn an affiliate commission. Click for next article SpaceX's first Starship V3 megarocket launches from the Starbase site in South Texas on May 22, 2026.",
-      "queued_ts": 1779909297
-    },
-    {
-      "fp": "8239484c1230153b7ff2fca7",
-      "title": "La NASA ofrece información actualizada sobre rovers, módulos de alunizaje y misiones de Base Lunar",
-      "link": "https://www.nasa.gov/news-release/la-nasa-ofrece-informacion-actualizada-sobre-rovers-modulos-de-alunizaje-y-misiones-de-base-lunar/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-27T19:17:19+00:00",
-      "day_brt": "2026-05-27",
-      "resumo_pt": "Resumo (PT-BR): 10 min read La NASA ofrece información actualizada sobre rovers, módulos de alunizaje y misiones de Base Lunar María José Viñas May 27, 2026 RELEASE 26-046 NASA Headquarters De izquierda a derecha, se observan los modelos del módulo de aterrizaje lunar Mark 1 de Blue Origin, el rover lunar tripulado de Astrolab, el rover Lunar Outpost Pegasus y el orbitador Firefly Elytra Dark al término de una rueda de prensa para hablar sobre Base Lunar, una iniciativa a largo plazo de exploración e infraestructura lunar diseñada para permitir una presencia humana sostenida y una mayor actividad científica y comercial en el Polo Sur lunar, el martes, 26 de mayo de 2026, en el edificio de la sede de la NASA Mary W. Crédito: NASA / Aubrey Gemignani Durante una sesión informativa sobre el programa Base Lunar, celebrada en la sede de la NASA en Washington, la agencia anunció nuevos contratos para el desarrollo de vehículos lunares con capacidad para transportar tripulación y módulos de aterrizaje de carga no tripulados con destino a la Luna.",
-      "queued_ts": 1779916455
-    },
-    {
-      "fp": "3bac3b70b0ef6bd5d675dff1",
-      "title": "Girl Scouts Event Brings Space Science to the Next Generation",
-      "link": "https://science.nasa.gov/learning-resources/science-activation/girl-scouts-event-brings-space-science-to-the-next-generation/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-27T18:27:07+00:00",
-      "day_brt": "2026-05-27",
-      "resumo_pt": "Resumo (PT-BR): 5 min read Girl Scouts Event Brings Space Science to the Next Generation NASA Science Editorial Team May 27, 2026 Article An example of the Ancient & Modern Sun Watching patch can be seen at the top right corner of this Girl Scout’s vest Credit: NASA/Nicholeen Viall-Kepko In early May 2026, NASA employees, contractors, and volunteers helped to bring Heliophysics to girls of all ages in a fun-filled weekend of hands-on science activities and experiments. The event took place from May 1-3 at Camp Conowingo, a Girl Scouts of Central Maryland camping property on the Susquehanna River north of Baltimore, and brought together participants from across the region.",
-      "queued_ts": 1779916455
     }
   ],
   "digests_sent": {
@@ -2667,7 +2571,8 @@
       "night": true
     },
     "2026-05-27": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
