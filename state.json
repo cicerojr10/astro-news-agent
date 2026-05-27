@@ -2238,6 +2238,14 @@
       "link": "https://www.nasa.gov/news-release/nasa-to-announce-artemis-iii-crew-provide-mission-progress-update/",
       "score": 4.0,
       "published_utc": "2026-05-26T21:33:04+00:00"
+    },
+    "0f545bbb2314a4b04a27fd18": {
+      "ts": 1779847038,
+      "source": "NASASpaceflight",
+      "title": "Following Starship V3 debut, SpaceX prepares for follow up",
+      "link": "https://www.nasaspaceflight.com/2026/05/starship-flight-12-v3-follow/",
+      "score": 3.6,
+      "published_utc": "2026-05-27T01:10:58+00:00"
     }
   },
   "digest_queue": [
@@ -2372,6 +2380,18 @@
       "day_brt": "2026-05-21",
       "resumo_pt": "Resumo (PT-BR): SpaceX scrubs first launch attempt of its Starship Version 3 rocket May 21, 2026 Will Robinson-Smith SpaceX scrubbed the planned launch of its Starship-Super Heavy rocket on the Flight 12 mission on May 21, 2026. EDT (0003 UTC): SpaceX scrubbed the mission after dipping in and out of multiple holds at T-minus 40 seconds.",
       "queued_ts": 1779414566
+    },
+    {
+      "fp": "0f545bbb2314a4b04a27fd18",
+      "title": "Following Starship V3 debut, SpaceX prepares for follow up",
+      "link": "https://www.nasaspaceflight.com/2026/05/starship-flight-12-v3-follow/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-05-27T01:10:58+00:00",
+      "day_brt": "2026-05-26",
+      "resumo_pt": "Resumo (PT-BR): Following Starship V3 debut, SpaceX prepares for follow up by Alejandro Alcantarilla Romera and Chris Bergin May 26, 2026 written by Alejandro Alcantarilla Romera and Chris Bergin May 26, 2026 1 Starship Version 3 flew for the first time this week in a mission of several firsts, performing notably better than previous version debuts, demonstrating that the upgraded vehicle remains on track to become the workhorse Super Heavy Lift Launch vehicle for SpaceX. However, some issues require resolution before SpaceX returns to booster catches.",
+      "queued_ts": 1779847039
     }
   ],
   "digests_sent": {
@@ -2519,7 +2539,8 @@
       "3bfafaa010d772b93ad24197": true,
       "bb842051d8862a8f0c80602e": true,
       "e9578d039996c90e1328105c": true,
-      "8fb10f6992aa209f0432ab49": true
+      "8fb10f6992aa209f0432ab49": true,
+      "0f545bbb2314a4b04a27fd18": true
     }
   }
 }
