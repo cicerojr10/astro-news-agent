@@ -2294,6 +2294,22 @@
       "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/national-institutes-of-health-nutrition-education-challenge/",
       "score": 4.0,
       "published_utc": "2026-05-27T14:09:20+00:00"
+    },
+    "19e6c2ec578a5e7fa3ffa2b4": {
+      "ts": 1779909294,
+      "source": "Spaceflight Now",
+      "title": "FAA requires SpaceX-led mishap investigation before resumption of Starship launches",
+      "link": "https://spaceflightnow.com/2026/05/27/faa-requires-spacex-led-mishap-investigation-before-resumption-of-starship-launches/",
+      "score": 9.0,
+      "published_utc": "2026-05-27T19:13:35+00:00"
+    },
+    "4f32f5d222015b7260a53ff0": {
+      "ts": 1779909295,
+      "source": "Space.com",
+      "title": "FAA grounds SpaceX's Starship V3 megarocket after Flight 12 'mishap'",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/faa-grounds-spacexs-starship-v3-megarocket-after-flight-12-mishap",
+      "score": 7.0,
+      "published_utc": "2026-05-27T17:28:09+00:00"
     }
   },
   "digest_queue": [
@@ -2488,6 +2504,30 @@
       "day_brt": "2026-05-27",
       "resumo_pt": "Resumo (PT-BR): 2 min read National Institutes of Health Nutrition Education Challenge Bailey G. Light May 27, 2026 Article A small cast iron of savory eggs and vegetables sits on a serving plate after being tasted.",
       "queued_ts": 1779901013
+    },
+    {
+      "fp": "19e6c2ec578a5e7fa3ffa2b4",
+      "title": "FAA requires SpaceX-led mishap investigation before resumption of Starship launches",
+      "link": "https://spaceflightnow.com/2026/05/27/faa-requires-spacex-led-mishap-investigation-before-resumption-of-starship-launches/",
+      "source": "Spaceflight Now",
+      "score": 9.0,
+      "is_anomaly": true,
+      "published_utc": "2026-05-27T19:13:35+00:00",
+      "day_brt": "2026-05-27",
+      "resumo_pt": "Resumo (PT-BR): FAA requires SpaceX-led mishap investigation before resumption of Starship launches May 27, 2026 Will Robinson-Smith A closeup shot of SpaceX’s Super Heavy booster, tail number Booster 19, during the initial moments of ascent on the Starship Flight 12 mission on May 22, 2026. Image: SpaceX FAA requires SpaceX-led mishap investigation before resumption of Starship launches The Federal Aviation Administration made the determination after analyzing the results of Starship Flight 12, which took place on Friday, May 22.",
+      "queued_ts": 1779909297
+    },
+    {
+      "fp": "4f32f5d222015b7260a53ff0",
+      "title": "FAA grounds SpaceX's Starship V3 megarocket after Flight 12 'mishap'",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/faa-grounds-spacexs-starship-v3-megarocket-after-flight-12-mishap",
+      "source": "Space.com",
+      "score": 7.0,
+      "is_anomaly": true,
+      "published_utc": "2026-05-27T17:28:09+00:00",
+      "day_brt": "2026-05-27",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft FAA grounds SpaceX's Starship V3 megarocket after Flight 12 'mishap' News By Mike Wall published 27 May 2026 \"A return to flight of the Starship-Super Heavy vehicle is based on the FAA determining that any system, process, or procedure related to the mishap does not affect public safety.\" When you purchase through links on our site, we may earn an affiliate commission. Click for next article SpaceX's first Starship V3 megarocket launches from the Starbase site in South Texas on May 22, 2026.",
+      "queued_ts": 1779909297
     }
   ],
   "digests_sent": {
@@ -2645,7 +2685,9 @@
       "d30b2adae44db1dd33d1cb54": true,
       "75b5cd66e3e3b4258ccf70ca": true,
       "85bfc6eb60e1ae66ef828d0b": true,
-      "890773ee50558628499b2c6f": true
+      "890773ee50558628499b2c6f": true,
+      "19e6c2ec578a5e7fa3ffa2b4": true,
+      "4f32f5d222015b7260a53ff0": true
     }
   }
 }
