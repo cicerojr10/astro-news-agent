@@ -2406,6 +2406,30 @@
       "link": "https://www.space.com/space-exploration/missions/nasa-is-hatching-a-fast-paced-plan-to-boost-this-space-telescope-but-first-theyll-have-to-find-it",
       "score": 2.8,
       "published_utc": "2026-05-28T20:00:00+00:00"
+    },
+    "e00e106602319aa16a6a62a1": {
+      "ts": 1780008727,
+      "source": "NASA Breaking News",
+      "title": "NASA’s X-59 Prepares for First Supersonic Flight",
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-first-supersonic-flight/",
+      "score": 4.0,
+      "published_utc": "2026-05-28T22:29:20+00:00"
+    },
+    "972bedb031f8734613b2b545": {
+      "ts": 1780008727,
+      "source": "NASA Breaking News",
+      "title": "New Landsat Science Team Holds First In-Person Meeting",
+      "link": "https://science.nasa.gov/missions/landsat/new-landsat-science-team-holds-first-in-person-meeting/",
+      "score": 4.0,
+      "published_utc": "2026-05-28T21:03:52+00:00"
+    },
+    "c8198b1cb166a17e2f7d5a0e": {
+      "ts": 1780008727,
+      "source": "NASA Breaking News",
+      "title": "NASA Uses Mineralogical Marker to Understand Ancient Martian Climate",
+      "link": "https://science.nasa.gov/science-research/astromaterials/nasa-uses-mineralogical-marker-to-understand-ancient-martian-climate/",
+      "score": 4.0,
+      "published_utc": "2026-05-28T18:22:00+00:00"
     }
   },
   "digest_queue": [
@@ -2636,6 +2660,42 @@
       "day_brt": "2026-05-28",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Astronaut Andrew Morgan Retires Johnson Space Center Office of Communications May 28, 2026 RELEASE J26-001 Johnson Space Center May 28, 2026 Former NASA astronaut Andrew Morgan waves as he is photographed during an Expedition 61 spacewalk outside the International Space Station. Morgan has retired from the agency to continue his military service.",
       "queued_ts": 1779996390
+    },
+    {
+      "fp": "e00e106602319aa16a6a62a1",
+      "title": "NASA’s X-59 Prepares for First Supersonic Flight",
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-first-supersonic-flight/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-28T22:29:20+00:00",
+      "day_brt": "2026-05-28",
+      "resumo_pt": "Resumo (PT-BR): 6 min read NASA’s X-59 Prepares for First Supersonic Flight Nicolas Cholula NASA Armstrong Public Affairs Specialist Robert Margetta Public Affairs Speciailst May 28, 2026 Article Contents Completed flights Next steps NASA’s X-59 quiet supersonic research aircraft flies over Rogers Dry Lake near NASA’s Armstrong Flight Research Center in Edwards, California, on Tuesday, May 12, 2026. NASA continues expanding the aircraft’s flight envelope through a series of lower-altitude and slower-speed flights ahead of upcoming flight tests at speeds faster than the speed of sound.",
+      "queued_ts": 1780008731
+    },
+    {
+      "fp": "972bedb031f8734613b2b545",
+      "title": "New Landsat Science Team Holds First In-Person Meeting",
+      "link": "https://science.nasa.gov/missions/landsat/new-landsat-science-team-holds-first-in-person-meeting/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-28T21:03:52+00:00",
+      "day_brt": "2026-05-28",
+      "resumo_pt": "Resumo (PT-BR): Landsat Navigation Landsat Home Missions Landsat 10 Landsat 9 Landsat 8 Landsat 7 Landsat 6 Landsat 5 Landsat 4 Landsat 3 Landsat 2 Landsat 1 News Latest News People of Landsat Q&As Newsletter Publications Data Overview Cal/Val Open Data Benefits Overview Agriculture & Food Security Disaster Management Ecosystems & Biodiversity Energy Resources Forest Management Human Health Urban Development Water Resources Wildfires Case Studies Outreach Multimedia About Search 3 min read New Landsat Science Team Holds First In-Person Meeting Landsat Project Science Support May 28, 2026 Article The 2026-2030 Landsat Science Team met for their first in-person meeting May 5-7, 2026 at the USGS EROS Center. Front Row: Raquel De Los Reyes, Courtney Bright, Forrest Melton, Michael Campbell , Hankui Zhang Standing: Greg Vaughan, Lin Yan, Mike Wulder, David Frantz, Kyle Knipper, Nimrod Carmon, Dean Hively, Yun Yang, Peter Strobl, David Roy, Morgan Crowley, Ned Bair, Phillip Dennison, Ryan O'Shea, Feng Gao, Medhavy Thankappan, Zhuosen Wang.",
+      "queued_ts": 1780008731
+    },
+    {
+      "fp": "c8198b1cb166a17e2f7d5a0e",
+      "title": "NASA Uses Mineralogical Marker to Understand Ancient Martian Climate",
+      "link": "https://science.nasa.gov/science-research/astromaterials/nasa-uses-mineralogical-marker-to-understand-ancient-martian-climate/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-28T18:22:00+00:00",
+      "day_brt": "2026-05-28",
+      "resumo_pt": "Resumo (PT-BR): 5 Min Read NASA Uses Mineralogical Marker to Understand Ancient Martian Climate This composite image looking toward the higher regions of Mount Sharp was taken on September 9, 2015, by NASA's Curiosity rover. In the foreground -- about 2 miles (3 kilometers) from the rover -- is a long ridge teeming with hematite, an iron oxide.",
+      "queued_ts": 1780008731
     }
   ],
   "digests_sent": {
@@ -2810,7 +2870,10 @@
       "43bfcb5d9a6850f752714e42": true,
       "b988b964b5470370c119b973": true,
       "26d7245a16a56c9020c28b4b": true,
-      "cf14122379bc43459b142acd": true
+      "cf14122379bc43459b142acd": true,
+      "e00e106602319aa16a6a62a1": true,
+      "972bedb031f8734613b2b545": true,
+      "c8198b1cb166a17e2f7d5a0e": true
     }
   }
 }
