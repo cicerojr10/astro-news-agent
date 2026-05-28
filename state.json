@@ -2326,6 +2326,14 @@
       "link": "https://science.nasa.gov/learning-resources/science-activation/girl-scouts-event-brings-space-science-to-the-next-generation/",
       "score": 4.0,
       "published_utc": "2026-05-27T18:27:07+00:00"
+    },
+    "595c93d364f4cb2287ce8d60": {
+      "ts": 1779932827,
+      "source": "NASA Breaking News",
+      "title": "NASA Develops Sensor to Improve Firefighter Safety",
+      "link": "https://www.nasa.gov/wildland-fire-management/nasa-develops-sensor-to-improve-firefighter-safety/",
+      "score": 4.0,
+      "published_utc": "2026-05-27T21:45:25+00:00"
     }
   },
   "digest_queue": [
@@ -2472,6 +2480,18 @@
       "day_brt": "2026-05-26",
       "resumo_pt": "Resumo (PT-BR): Following Starship V3 debut, SpaceX prepares for follow up by Alejandro Alcantarilla Romera and Chris Bergin May 26, 2026 written by Alejandro Alcantarilla Romera and Chris Bergin May 26, 2026 1 Starship Version 3 flew for the first time this week in a mission of several firsts, performing notably better than previous version debuts, demonstrating that the upgraded vehicle remains on track to become the workhorse Super Heavy Lift Launch vehicle for SpaceX. However, some issues require resolution before SpaceX returns to booster catches.",
       "queued_ts": 1779847039
+    },
+    {
+      "fp": "595c93d364f4cb2287ce8d60",
+      "title": "NASA Develops Sensor to Improve Firefighter Safety",
+      "link": "https://www.nasa.gov/wildland-fire-management/nasa-develops-sensor-to-improve-firefighter-safety/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-27T21:45:25+00:00",
+      "day_brt": "2026-05-27",
+      "resumo_pt": "Resumo (PT-BR): 5 min read NASA Develops Sensor to Improve Firefighter Safety Milan Loiacono Science Communication Specialist May 27, 2026 Article Contents Dozers on the fire line How sensors work Driving fire science forward Alabama Forestry Commission wildland firefighter Jason Berry teaches NASA Wildland Fires Technology Program Manager Teresa Kauffman how to drive a fire bulldozer during a stakeholder event April 23-24 in Andalusia, Alabama. NASA FireSense scientists have been working with the AFC to integrate thermal sensors onto these dozers, which notify the dozer operator if the radiant heat from a nearby fire reaches a dangerous threshold.",
+      "queued_ts": 1779932829
     }
   ],
   "digests_sent": {
@@ -2634,7 +2654,8 @@
       "19e6c2ec578a5e7fa3ffa2b4": true,
       "4f32f5d222015b7260a53ff0": true,
       "8239484c1230153b7ff2fca7": true,
-      "3bac3b70b0ef6bd5d675dff1": true
+      "3bac3b70b0ef6bd5d675dff1": true,
+      "595c93d364f4cb2287ce8d60": true
     }
   }
 }
