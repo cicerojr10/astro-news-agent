@@ -2342,6 +2342,38 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-v3-megarocket-after-its-historic-debut-flight",
       "score": 2.8,
       "published_utc": "2026-05-28T13:00:00+00:00"
+    },
+    "a3ff08f36fa01651d35b2f02": {
+      "ts": 1779986774,
+      "source": "NASA Breaking News",
+      "title": "Going Low and Slow in Testing",
+      "link": "https://www.nasa.gov/image-article/going-low-and-slow-in-testing/",
+      "score": 4.0,
+      "published_utc": "2026-05-28T16:01:59+00:00"
+    },
+    "ba6c295b1cbb5f6eaabed262": {
+      "ts": 1779986774,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Roman Mission Preps to Unveil New Populations of Faraway Worlds",
+      "link": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-mission-preps-to-unveil-new-populations-of-faraway-worlds/",
+      "score": 4.0,
+      "published_utc": "2026-05-28T14:40:33+00:00"
+    },
+    "43bfcb5d9a6850f752714e42": {
+      "ts": 1779986775,
+      "source": "NASA Breaking News",
+      "title": "How NASA Uses Light to Detect Waste From Mines",
+      "link": "https://science.nasa.gov/earth/how-nasa-uses-light-to-detect-waste-from-mines/",
+      "score": 4.0,
+      "published_utc": "2026-05-28T14:20:54+00:00"
+    },
+    "ee48aac7a28a2969086c9e11": {
+      "ts": 1779986777,
+      "source": "Space.com",
+      "title": "Astrophotographer spends 115 hours capturing Horsehead Nebula in striking detail with backyard telescope",
+      "link": "https://www.space.com/stargazing/astrophotography/astrophotographer-spends-115-hours-capturing-horsehead-nebula-in-striking-detail-with-backyard-telescope",
+      "score": 2.8,
+      "published_utc": "2026-05-28T15:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -2500,6 +2532,42 @@
       "day_brt": "2026-05-27",
       "resumo_pt": "Resumo (PT-BR): 5 min read NASA Develops Sensor to Improve Firefighter Safety Milan Loiacono Science Communication Specialist May 27, 2026 Article Contents Dozers on the fire line How sensors work Driving fire science forward Alabama Forestry Commission wildland firefighter Jason Berry teaches NASA Wildland Fires Technology Program Manager Teresa Kauffman how to drive a fire bulldozer during a stakeholder event April 23-24 in Andalusia, Alabama. NASA FireSense scientists have been working with the AFC to integrate thermal sensors onto these dozers, which notify the dozer operator if the radiant heat from a nearby fire reaches a dangerous threshold.",
       "queued_ts": 1779932829
+    },
+    {
+      "fp": "a3ff08f36fa01651d35b2f02",
+      "title": "Going Low and Slow in Testing",
+      "link": "https://www.nasa.gov/image-article/going-low-and-slow-in-testing/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-28T16:01:59+00:00",
+      "day_brt": "2026-05-28",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Going Low and Slow in Testing HQ Web Team Nicolas Cholula NASA Armstrong Public Affairs Specialist May 28, 2026 Image Article NASA/Jim Ross NASA’s X-59 quiet supersonic research aircraft flies above NASA’s Armstrong Flight Research Center in Edwards, California, on April 28, 2026, during testing focused on lower-speed and altitude flight conditions in support of NASA’s Quesst mission. The X-59 has completed initial test flights at high altitudes and near-supersonic speeds, opening the door for additional flights focused on its full operating range.",
+      "queued_ts": 1779986779
+    },
+    {
+      "fp": "ba6c295b1cbb5f6eaabed262",
+      "title": "NASA’s Roman Mission Preps to Unveil New Populations of Faraway Worlds",
+      "link": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-mission-preps-to-unveil-new-populations-of-faraway-worlds/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-28T14:40:33+00:00",
+      "day_brt": "2026-05-28",
+      "resumo_pt": "Resumo (PT-BR): 6 min read NASA’s Roman Mission Preps to Unveil New Populations of Faraway Worlds Ashley Balzer May 28, 2026 Article Contents Exploring Earth’s birthplace Otherworldly climates NASA’s Nancy Grace Roman Space Telescope is poised to make a major leap in the hunt for worlds outside our solar system, known as exoplanets. Scientists expect the mission to reveal around 100,000 worlds — a staggering leap compared to the nearly 6,300 found so far thanks to NASA missions working in tandem with other observatories.",
+      "queued_ts": 1779986779
+    },
+    {
+      "fp": "43bfcb5d9a6850f752714e42",
+      "title": "How NASA Uses Light to Detect Waste From Mines",
+      "link": "https://science.nasa.gov/earth/how-nasa-uses-light-to-detect-waste-from-mines/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-28T14:20:54+00:00",
+      "day_brt": "2026-05-28",
+      "resumo_pt": "Resumo (PT-BR): Earth (ESD) Earth Explore Explore Earth Science Agriculture Air Quality Climate Change Freshwater Life on Earth Severe Storms Snow and Ice The Global Ocean Science at Work Earth Science at Work Technology and Innovation Powering Business Multimedia Image Collections Videos Data For Researchers About Us 1 min read How NASA Uses Light to Detect Waste From Mines Earth Science Division Editorial Team May 28, 2026 Article Tens of thousands of abandoned mines threaten waterways across the American West, but identifying which sites urgently need cleanup is slow and expensive. Now, NASA’s EMIT instrument can analyze the unique light signatures of mine waste from space to help focus remediation efforts where they're needed most.",
+      "queued_ts": 1779986779
     }
   ],
   "digests_sent": {
@@ -2667,6 +2735,11 @@
       "8239484c1230153b7ff2fca7": true,
       "3bac3b70b0ef6bd5d675dff1": true,
       "595c93d364f4cb2287ce8d60": true
+    },
+    "2026-05-28": {
+      "a3ff08f36fa01651d35b2f02": true,
+      "ba6c295b1cbb5f6eaabed262": true,
+      "43bfcb5d9a6850f752714e42": true
     }
   }
 }
