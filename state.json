@@ -2374,6 +2374,30 @@
       "link": "https://www.space.com/stargazing/astrophotography/astrophotographer-spends-115-hours-capturing-horsehead-nebula-in-striking-detail-with-backyard-telescope",
       "score": 2.8,
       "published_utc": "2026-05-28T15:00:00+00:00"
+    },
+    "b988b964b5470370c119b973": {
+      "ts": 1779996385,
+      "source": "NASA Breaking News",
+      "title": "Nancy Grace Roman Space Telescope Poster",
+      "link": "https://science.nasa.gov/image-article/nancy-grace-roman-space-telescope-poster/",
+      "score": 4.0,
+      "published_utc": "2026-05-28T17:26:43+00:00"
+    },
+    "26d7245a16a56c9020c28b4b": {
+      "ts": 1779996386,
+      "source": "NASA Breaking News",
+      "title": "Contractor to Civil Servant: NASA Welcomes Kenny Heckle",
+      "link": "https://www.nasa.gov/general/contractor-to-civil-servant-nasa-welcomes-kenny-heckle/",
+      "score": 4.0,
+      "published_utc": "2026-05-28T16:58:55+00:00"
+    },
+    "cf14122379bc43459b142acd": {
+      "ts": 1779996386,
+      "source": "NASA Breaking News",
+      "title": "NASA Astronaut Andrew Morgan Retires",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-andrew-morgan-retires/",
+      "score": 4.0,
+      "published_utc": "2026-05-28T16:47:10+00:00"
     }
   },
   "digest_queue": [
@@ -2568,6 +2592,42 @@
       "day_brt": "2026-05-28",
       "resumo_pt": "Resumo (PT-BR): Earth (ESD) Earth Explore Explore Earth Science Agriculture Air Quality Climate Change Freshwater Life on Earth Severe Storms Snow and Ice The Global Ocean Science at Work Earth Science at Work Technology and Innovation Powering Business Multimedia Image Collections Videos Data For Researchers About Us 1 min read How NASA Uses Light to Detect Waste From Mines Earth Science Division Editorial Team May 28, 2026 Article Tens of thousands of abandoned mines threaten waterways across the American West, but identifying which sites urgently need cleanup is slow and expensive. Now, NASA’s EMIT instrument can analyze the unique light signatures of mine waste from space to help focus remediation efforts where they're needed most.",
       "queued_ts": 1779986779
+    },
+    {
+      "fp": "b988b964b5470370c119b973",
+      "title": "Nancy Grace Roman Space Telescope Poster",
+      "link": "https://science.nasa.gov/image-article/nancy-grace-roman-space-telescope-poster/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-28T17:26:43+00:00",
+      "day_brt": "2026-05-28",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Nancy Grace Roman Space Telescope Poster jmbrill May 28, 2026 Image Article NASA/Jenny Mottar Downloads Print high resolution PDF May 28, 2026 PDF (144.47 MB) Print high resolution image May 28, 2026 PNG (45.60 MB) Smaller image for web view May 28, 2026 PNG (3.75 MB)",
+      "queued_ts": 1779996390
+    },
+    {
+      "fp": "26d7245a16a56c9020c28b4b",
+      "title": "Contractor to Civil Servant: NASA Welcomes Kenny Heckle",
+      "link": "https://www.nasa.gov/general/contractor-to-civil-servant-nasa-welcomes-kenny-heckle/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-28T16:58:55+00:00",
+      "day_brt": "2026-05-28",
+      "resumo_pt": "Resumo (PT-BR): 4 min read Contractor to Civil Servant: NASA Welcomes Kenny Heckle Cheryl Warner News Chief May 28, 2026 Article Kenny Heckle, lead, mechanical operations, Launch Equipment Test Facility at NASA’s Kennedy Space Center in Florida, poses for a photograph on Monday, May 26, 2026. Heckle is among the first engineers and technicians sworn in as new NASA civil servants as part of the administrator’s workforce directive to restore technical core competencies within the civil servants ranks.",
+      "queued_ts": 1779996390
+    },
+    {
+      "fp": "cf14122379bc43459b142acd",
+      "title": "NASA Astronaut Andrew Morgan Retires",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-andrew-morgan-retires/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-28T16:47:10+00:00",
+      "day_brt": "2026-05-28",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Astronaut Andrew Morgan Retires Johnson Space Center Office of Communications May 28, 2026 RELEASE J26-001 Johnson Space Center May 28, 2026 Former NASA astronaut Andrew Morgan waves as he is photographed during an Expedition 61 spacewalk outside the International Space Station. Morgan has retired from the agency to continue his military service.",
+      "queued_ts": 1779996390
     }
   ],
   "digests_sent": {
@@ -2739,7 +2799,10 @@
     "2026-05-28": {
       "a3ff08f36fa01651d35b2f02": true,
       "ba6c295b1cbb5f6eaabed262": true,
-      "43bfcb5d9a6850f752714e42": true
+      "43bfcb5d9a6850f752714e42": true,
+      "b988b964b5470370c119b973": true,
+      "26d7245a16a56c9020c28b4b": true,
+      "cf14122379bc43459b142acd": true
     }
   }
 }
