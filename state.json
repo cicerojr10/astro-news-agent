@@ -2519,6 +2519,22 @@
       "link": "https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/",
       "score": 4.0,
       "published_utc": "2026-05-29T20:49:43+00:00"
+    },
+    "7f4a87b29bc6766e466f05e5": {
+      "ts": 1780094917,
+      "source": "NASA Breaking News",
+      "title": "NASA Awards Contract for Johnson Space Center Infrastructure",
+      "link": "https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/",
+      "score": 4.0,
+      "published_utc": "2026-05-29T21:24:11+00:00"
+    },
+    "0f52a4589379d2d12b880b95": {
+      "ts": 1780094919,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: ULA to launch 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral",
+      "link": "https://spaceflightnow.com/2026/05/29/live-coverage-ula-to-launch-29-amazon-leo-satellites-on-atlas-5-rocket-from-cape-canaveral-2/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-05-29T21:52:15+00:00"
     }
   },
   "digest_queue": [
@@ -2725,6 +2741,30 @@
       "day_brt": "2026-05-29",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Hosts SpaceX Crew-11 Astronauts for Public Event at Headquarters Gerelle Q. Dodson May 29, 2026 MEDIA ADVISORY M26-043 NASA Headquarters NASA’s SpaceX Crew-11 astronauts gather together for a crew portrait wearing their Dragon pressure suits during a suit verification check inside the International Space Station’s Kibo laboratory module.",
       "queued_ts": 1780090066
+    },
+    {
+      "fp": "0f52a4589379d2d12b880b95",
+      "title": "Live coverage: ULA to launch 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral",
+      "link": "https://spaceflightnow.com/2026/05/29/live-coverage-ula-to-launch-29-amazon-leo-satellites-on-atlas-5-rocket-from-cape-canaveral-2/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-05-29T21:52:15+00:00",
+      "day_brt": "2026-05-29",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: ULA to launch 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral May 29, 2026 Will Robinson-Smith A United Launch Alliance Atlas 5 551 rocket stands at Space Launch Complex 41 at Cape Canaveral Space Force Station ahead of the planned launch of the Leo Atlas 07 mission for Amazon Leo. Image: Adam Bernstein/Spaceflight Now United Launch Alliance is set to launch a batch of Amazon Leo’s broadband internet satellites on its Atlas 5 rocket from Cape Canaveral Space Force Station on Friday evening, weather permitting.",
+      "queued_ts": 1780094921
+    },
+    {
+      "fp": "7f4a87b29bc6766e466f05e5",
+      "title": "NASA Awards Contract for Johnson Space Center Infrastructure",
+      "link": "https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-29T21:24:11+00:00",
+      "day_brt": "2026-05-29",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA Awards Contract for Johnson Space Center Infrastructure Jessica Taveau May 29, 2026 CONTRACT RELEASE C26-005 NASA Headquarters Johnson Space Center Credit: NASA NASA has selected seven companies to provide construction, revitalization, and infrastructure improvements at the agency’s Johnson Space Center in Houston. The Johnson Space Center Multiple Award Construction Contract supports up to $300 million in upgrades to mission‑support facilities, utilities, and equipment across the NASA Johnson campus.",
+      "queued_ts": 1780094921
     }
   ],
   "digests_sent": {
@@ -2884,7 +2924,9 @@
       "3be495a8da7c2d99b9e148cb": true,
       "8d1d8fa473d1c0d80df27e48": true,
       "cfcc06534fcf046f46ecb098": true,
-      "9aaa784f12047eb83b98eaf2": true
+      "9aaa784f12047eb83b98eaf2": true,
+      "0f52a4589379d2d12b880b95": true,
+      "7f4a87b29bc6766e466f05e5": true
     }
   }
 }
