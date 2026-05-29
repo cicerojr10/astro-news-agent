@@ -2439,6 +2439,22 @@
       "score": 0.0,
       "published_utc": "2026-05-29T00:33:17+00:00",
       "note": "not_today"
+    },
+    "2e74dc9db6b61c786de34feb": {
+      "ts": 1780038593,
+      "source": "Spaceflight Now",
+      "title": "Blue Origin’s New Glenn rocket explodes during prelaunch testing at Cape Canaveral",
+      "link": "https://spaceflightnow.com/2026/05/29/blue-origins-new-glenn-rocket-explodes-during-prelaunch-testing-at-cape-canaveral/",
+      "score": 14.4,
+      "published_utc": "2026-05-29T05:03:45+00:00"
+    },
+    "6984efea4cf5dce7951d0fd5": {
+      "ts": 1780038594,
+      "source": "NASASpaceflight",
+      "title": "Blue Origin’s New Glenn explodes during Static Fire test at LC-36",
+      "link": "https://www.nasaspaceflight.com/2026/05/blue-origin-new-glenn-explodes/",
+      "score": 9.0,
+      "published_utc": "2026-05-29T03:59:03+00:00"
     }
   },
   "digest_queue": [
@@ -2597,6 +2613,30 @@
       "day_brt": "2026-05-27",
       "resumo_pt": "Resumo (PT-BR): 5 min read NASA Develops Sensor to Improve Firefighter Safety Milan Loiacono Science Communication Specialist May 27, 2026 Article Contents Dozers on the fire line How sensors work Driving fire science forward Alabama Forestry Commission wildland firefighter Jason Berry teaches NASA Wildland Fires Technology Program Manager Teresa Kauffman how to drive a fire bulldozer during a stakeholder event April 23-24 in Andalusia, Alabama. NASA FireSense scientists have been working with the AFC to integrate thermal sensors onto these dozers, which notify the dozer operator if the radiant heat from a nearby fire reaches a dangerous threshold.",
       "queued_ts": 1779932829
+    },
+    {
+      "fp": "2e74dc9db6b61c786de34feb",
+      "title": "Blue Origin’s New Glenn rocket explodes during prelaunch testing at Cape Canaveral",
+      "link": "https://spaceflightnow.com/2026/05/29/blue-origins-new-glenn-rocket-explodes-during-prelaunch-testing-at-cape-canaveral/",
+      "source": "Spaceflight Now",
+      "score": 14.4,
+      "is_anomaly": true,
+      "published_utc": "2026-05-29T05:03:45+00:00",
+      "day_brt": "2026-05-29",
+      "resumo_pt": "Resumo (PT-BR): Blue Origin’s New Glenn rocket explodes during prelaunch testing at Cape Canaveral May 29, 2026 Will Robinson-Smith Blue Origin’s New Glenn rocket exploded on the pad at Launch Complex 36 at Cape Canaveral Space Force Station as the result of an anomaly during a static fire test on Thursday, May 28. The test was in preparation for a planned launch as soon as June 4.",
+      "queued_ts": 1780038597
+    },
+    {
+      "fp": "6984efea4cf5dce7951d0fd5",
+      "title": "Blue Origin’s New Glenn explodes during Static Fire test at LC-36",
+      "link": "https://www.nasaspaceflight.com/2026/05/blue-origin-new-glenn-explodes/",
+      "source": "NASASpaceflight",
+      "score": 9.0,
+      "is_anomaly": true,
+      "published_utc": "2026-05-29T03:59:03+00:00",
+      "day_brt": "2026-05-29",
+      "resumo_pt": "Resumo (PT-BR): Blue Origin’s New Glenn explodes during Static Fire test at LC-36 by Ryan Caton May 28, 2026 written by Ryan Caton May 28, 2026 1 Blue Origin experienced a major anomaly during a planned hot-fire test of its New Glenn rocket at Launch Complex-36 on Thursday evening, resulting in the loss of the vehicle’s booster and upper stage, along with substantial damage to pad infrastructure, including the toppling of one of the two launch towers. The incident occurred as the company was conducting what appeared to be the final major pre-launch static fire test for the heavy-lift vehicle ahead of its return-to-flight attempt.",
+      "queued_ts": 1780038597
     }
   ],
   "digests_sent": {
@@ -2705,37 +2745,6 @@
     }
   },
   "sent_updates": {
-    "2026-05-19": {
-      "59f88c542d2995075f7e48e7": true,
-      "968a364a9318b79fbd757ca7": true,
-      "99ea6894ca629d01b04aa1c6": true,
-      "8eef738f429499dfb14e4af8": true,
-      "d6f28731971398ad27a5cbf4": true
-    },
-    "2026-05-20": {
-      "5297cf4e67d560aadfcb3f77": true,
-      "63d3b42f0272d12f5950c996": true,
-      "7886e429c76723842091fa42": true,
-      "058f4df1bc81062a465469ae": true,
-      "33b5d3891f721a3861effcf1": true,
-      "a442895fc1966781b1b2b775": true
-    },
-    "2026-05-21": {
-      "49c5d5116f48a372daac1ea6": true,
-      "c5d5b245c00a846f79f9f656": true,
-      "e57c9abef36940c8a54eccb2": true,
-      "0661edd130bf23582c7c2ea2": true,
-      "bbced14aab4de7b9c68417d6": true,
-      "db525ca84bcaa8a2eed3b540": true,
-      "33532cbe1e9cf3c8e4e930e1": true,
-      "86bf611a5d004c1217612a21": true
-    },
-    "2026-05-22": {
-      "1b09de0464cc2742ebd3e219": true,
-      "dbbf8772bf13958259278fe9": true,
-      "6ba239d34677b690a50446d2": true,
-      "82104362d623e79b72ff3a53": true
-    },
     "2026-05-23": {
       "56e5c2616752fa6f9122fc82": true
     },
@@ -2776,6 +2785,10 @@
       "e00e106602319aa16a6a62a1": true,
       "972bedb031f8734613b2b545": true,
       "c8198b1cb166a17e2f7d5a0e": true
+    },
+    "2026-05-29": {
+      "2e74dc9db6b61c786de34feb": true,
+      "6984efea4cf5dce7951d0fd5": true
     }
   }
 }
