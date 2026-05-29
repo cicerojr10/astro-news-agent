@@ -2430,6 +2430,15 @@
       "link": "https://science.nasa.gov/science-research/astromaterials/nasa-uses-mineralogical-marker-to-understand-ancient-martian-climate/",
       "score": 4.0,
       "published_utc": "2026-05-28T18:22:00+00:00"
+    },
+    "0e01a2e048a96bb59bc863b9": {
+      "ts": 1780025660,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
+      "link": "https://spaceflightnow.com/2026/05/29/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-14/",
+      "score": 0.0,
+      "published_utc": "2026-05-29T00:33:17+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
