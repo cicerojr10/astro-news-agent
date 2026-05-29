@@ -2511,6 +2511,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-shenzhou-21-astronauts-return-to-earth-in-borrowed-spacecraft-video",
       "score": 2.8,
       "published_utc": "2026-05-29T18:29:54+00:00"
+    },
+    "9aaa784f12047eb83b98eaf2": {
+      "ts": 1780090063,
+      "source": "NASA Breaking News",
+      "title": "NASA Hosts SpaceX Crew-11 Astronauts for Public Event at Headquarters",
+      "link": "https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/",
+      "score": 4.0,
+      "published_utc": "2026-05-29T20:49:43+00:00"
     }
   },
   "digest_queue": [
@@ -2705,6 +2713,18 @@
       "day_brt": "2026-05-29",
       "resumo_pt": "Resumo (PT-BR): 1 min read Hubble Spies Faint Irregular Galaxy HQ Web Team May 29, 2026 Image Article This NASA Hubble Space Telescope image captures the faint glow of the dwarf irregular galaxy ESO 490-017. Kober (NASA/Catholic University of America) This NASA Hubble Space Telescope image released on May 27, 2026, features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diameter and some 23 million light-years away in the constellation Canis Major.",
       "queued_ts": 1780075498
+    },
+    {
+      "fp": "9aaa784f12047eb83b98eaf2",
+      "title": "NASA Hosts SpaceX Crew-11 Astronauts for Public Event at Headquarters",
+      "link": "https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-29T20:49:43+00:00",
+      "day_brt": "2026-05-29",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Hosts SpaceX Crew-11 Astronauts for Public Event at Headquarters Gerelle Q. Dodson May 29, 2026 MEDIA ADVISORY M26-043 NASA Headquarters NASA’s SpaceX Crew-11 astronauts gather together for a crew portrait wearing their Dragon pressure suits during a suit verification check inside the International Space Station’s Kibo laboratory module.",
+      "queued_ts": 1780090066
     }
   ],
   "digests_sent": {
@@ -2863,7 +2883,8 @@
       "c2f7716b9c6cf5f60a81b25f": true,
       "3be495a8da7c2d99b9e148cb": true,
       "8d1d8fa473d1c0d80df27e48": true,
-      "cfcc06534fcf046f46ecb098": true
+      "cfcc06534fcf046f46ecb098": true,
+      "9aaa784f12047eb83b98eaf2": true
     }
   }
 }
