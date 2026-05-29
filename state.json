@@ -2693,78 +2693,6 @@
       "day_brt": "2026-05-27",
       "resumo_pt": "Resumo (PT-BR): 5 min read NASA Develops Sensor to Improve Firefighter Safety Milan Loiacono Science Communication Specialist May 27, 2026 Article Contents Dozers on the fire line How sensors work Driving fire science forward Alabama Forestry Commission wildland firefighter Jason Berry teaches NASA Wildland Fires Technology Program Manager Teresa Kauffman how to drive a fire bulldozer during a stakeholder event April 23-24 in Andalusia, Alabama. NASA FireSense scientists have been working with the AFC to integrate thermal sensors onto these dozers, which notify the dozer operator if the radiant heat from a nearby fire reaches a dangerous threshold.",
       "queued_ts": 1779932829
-    },
-    {
-      "fp": "3be495a8da7c2d99b9e148cb",
-      "title": "SpaceX launches 29 Starlink satellites from Florida just hours after Blue Origin rocket explosion (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-53-1085-ccsfs-asog",
-      "source": "Space.com",
-      "score": 11.2,
-      "is_anomaly": true,
-      "published_utc": "2026-05-29T14:22:23+00:00",
-      "day_brt": "2026-05-29",
-      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft SpaceX launches 29 Starlink satellites from Florida just hours after Blue Origin rocket explosion (video) News By Robert Z. Pearlman last updated 29 May 2026 Liftoff occurred at 8:57 a.m.",
-      "queued_ts": 1780075498
-    },
-    {
-      "fp": "8d1d8fa473d1c0d80df27e48",
-      "title": "NASA’s Roman Space Telescope Primary Mirror Gets Last Look",
-      "link": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-29T16:33:00+00:00",
-      "day_brt": "2026-05-29",
-      "resumo_pt": "Resumo (PT-BR): 4 Min Read NASA’s Roman Space Telescope Primary Mirror Gets Last Look This photo peers down the barrel of the Roman telescope with its visor-like sunshade deployed. Credits: NASA/Sydney Rohde Ashley Balzer May 29, 2026 Article Engineers at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, have completed their final inspection of a key element for the agency’s Nancy Grace Roman Space Telescope: the primary mirror.",
-      "queued_ts": 1780075498
-    },
-    {
-      "fp": "cfcc06534fcf046f46ecb098",
-      "title": "Hubble Spies Faint Irregular Galaxy",
-      "link": "https://www.nasa.gov/image-article/hubble-spies-faint-irregular-galaxy/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-29T16:14:26+00:00",
-      "day_brt": "2026-05-29",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Hubble Spies Faint Irregular Galaxy HQ Web Team May 29, 2026 Image Article This NASA Hubble Space Telescope image captures the faint glow of the dwarf irregular galaxy ESO 490-017. Kober (NASA/Catholic University of America) This NASA Hubble Space Telescope image released on May 27, 2026, features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diameter and some 23 million light-years away in the constellation Canis Major.",
-      "queued_ts": 1780075498
-    },
-    {
-      "fp": "9aaa784f12047eb83b98eaf2",
-      "title": "NASA Hosts SpaceX Crew-11 Astronauts for Public Event at Headquarters",
-      "link": "https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-29T20:49:43+00:00",
-      "day_brt": "2026-05-29",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Hosts SpaceX Crew-11 Astronauts for Public Event at Headquarters Gerelle Q. Dodson May 29, 2026 MEDIA ADVISORY M26-043 NASA Headquarters NASA’s SpaceX Crew-11 astronauts gather together for a crew portrait wearing their Dragon pressure suits during a suit verification check inside the International Space Station’s Kibo laboratory module.",
-      "queued_ts": 1780090066
-    },
-    {
-      "fp": "0f52a4589379d2d12b880b95",
-      "title": "Live coverage: ULA to launch 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral",
-      "link": "https://spaceflightnow.com/2026/05/29/live-coverage-ula-to-launch-29-amazon-leo-satellites-on-atlas-5-rocket-from-cape-canaveral-2/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-05-29T21:52:15+00:00",
-      "day_brt": "2026-05-29",
-      "resumo_pt": "Resumo (PT-BR): Live coverage: ULA to launch 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral May 29, 2026 Will Robinson-Smith A United Launch Alliance Atlas 5 551 rocket stands at Space Launch Complex 41 at Cape Canaveral Space Force Station ahead of the planned launch of the Leo Atlas 07 mission for Amazon Leo. Image: Adam Bernstein/Spaceflight Now United Launch Alliance is set to launch a batch of Amazon Leo’s broadband internet satellites on its Atlas 5 rocket from Cape Canaveral Space Force Station on Friday evening, weather permitting.",
-      "queued_ts": 1780094921
-    },
-    {
-      "fp": "7f4a87b29bc6766e466f05e5",
-      "title": "NASA Awards Contract for Johnson Space Center Infrastructure",
-      "link": "https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-05-29T21:24:11+00:00",
-      "day_brt": "2026-05-29",
-      "resumo_pt": "Resumo (PT-BR): 1 min read NASA Awards Contract for Johnson Space Center Infrastructure Jessica Taveau May 29, 2026 CONTRACT RELEASE C26-005 NASA Headquarters Johnson Space Center Credit: NASA NASA has selected seven companies to provide construction, revitalization, and infrastructure improvements at the agency’s Johnson Space Center in Houston. The Johnson Space Center Multiple Award Construction Contract supports up to $300 million in upgrades to mission‑support facilities, utilities, and equipment across the NASA Johnson campus.",
-      "queued_ts": 1780094921
     }
   ],
   "digests_sent": {
@@ -2872,7 +2800,8 @@
       "night": true
     },
     "2026-05-29": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
