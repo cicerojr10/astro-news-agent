@@ -2463,6 +2463,46 @@
       "link": "https://science.nasa.gov/missions/hubble/hubble-captures-m88-on-journey-to-center-of-virgo-cluster/",
       "score": 4.0,
       "published_utc": "2026-05-29T11:29:09+00:00"
+    },
+    "8d1d8fa473d1c0d80df27e48": {
+      "ts": 1780075492,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Roman Space Telescope Primary Mirror Gets Last Look",
+      "link": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/",
+      "score": 4.0,
+      "published_utc": "2026-05-29T16:33:00+00:00"
+    },
+    "cfcc06534fcf046f46ecb098": {
+      "ts": 1780075492,
+      "source": "NASA Breaking News",
+      "title": "Hubble Spies Faint Irregular Galaxy",
+      "link": "https://www.nasa.gov/image-article/hubble-spies-faint-irregular-galaxy/",
+      "score": 4.0,
+      "published_utc": "2026-05-29T16:14:26+00:00"
+    },
+    "c8d4cc326b2b9797e0bea3df": {
+      "ts": 1780075495,
+      "source": "Space.com",
+      "title": "'For All Mankind' spin-off 'Star City' will make you want to know more about the Soviet space program",
+      "link": "https://www.space.com/entertainment/space-movies-shows/for-all-mankind-spin-off-star-city-will-make-you-want-to-know-more-about-the-soviet-space-program",
+      "score": 2.8,
+      "published_utc": "2026-05-29T17:00:00+00:00"
+    },
+    "6ef4867a1649d9198870afff": {
+      "ts": 1780075495,
+      "source": "Space.com",
+      "title": "Watch an Atlas V rocket launch 29 Amazon Leo internet satellites to orbit tonight",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-launch-amazon-leo-7-internet-satellites",
+      "score": 2.8,
+      "published_utc": "2026-05-29T16:00:00+00:00"
+    },
+    "3be495a8da7c2d99b9e148cb": {
+      "ts": 1780075496,
+      "source": "Space.com",
+      "title": "SpaceX launches 29 Starlink satellites from Florida just hours after Blue Origin rocket explosion (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-53-1085-ccsfs-asog",
+      "score": 11.2,
+      "published_utc": "2026-05-29T14:22:23+00:00"
     }
   },
   "digest_queue": [
@@ -2621,6 +2661,42 @@
       "day_brt": "2026-05-27",
       "resumo_pt": "Resumo (PT-BR): 5 min read NASA Develops Sensor to Improve Firefighter Safety Milan Loiacono Science Communication Specialist May 27, 2026 Article Contents Dozers on the fire line How sensors work Driving fire science forward Alabama Forestry Commission wildland firefighter Jason Berry teaches NASA Wildland Fires Technology Program Manager Teresa Kauffman how to drive a fire bulldozer during a stakeholder event April 23-24 in Andalusia, Alabama. NASA FireSense scientists have been working with the AFC to integrate thermal sensors onto these dozers, which notify the dozer operator if the radiant heat from a nearby fire reaches a dangerous threshold.",
       "queued_ts": 1779932829
+    },
+    {
+      "fp": "3be495a8da7c2d99b9e148cb",
+      "title": "SpaceX launches 29 Starlink satellites from Florida just hours after Blue Origin rocket explosion (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-53-1085-ccsfs-asog",
+      "source": "Space.com",
+      "score": 11.2,
+      "is_anomaly": true,
+      "published_utc": "2026-05-29T14:22:23+00:00",
+      "day_brt": "2026-05-29",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft SpaceX launches 29 Starlink satellites from Florida just hours after Blue Origin rocket explosion (video) News By Robert Z. Pearlman last updated 29 May 2026 Liftoff occurred at 8:57 a.m.",
+      "queued_ts": 1780075498
+    },
+    {
+      "fp": "8d1d8fa473d1c0d80df27e48",
+      "title": "NASA’s Roman Space Telescope Primary Mirror Gets Last Look",
+      "link": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-29T16:33:00+00:00",
+      "day_brt": "2026-05-29",
+      "resumo_pt": "Resumo (PT-BR): 4 Min Read NASA’s Roman Space Telescope Primary Mirror Gets Last Look This photo peers down the barrel of the Roman telescope with its visor-like sunshade deployed. Credits: NASA/Sydney Rohde Ashley Balzer May 29, 2026 Article Engineers at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, have completed their final inspection of a key element for the agency’s Nancy Grace Roman Space Telescope: the primary mirror.",
+      "queued_ts": 1780075498
+    },
+    {
+      "fp": "cfcc06534fcf046f46ecb098",
+      "title": "Hubble Spies Faint Irregular Galaxy",
+      "link": "https://www.nasa.gov/image-article/hubble-spies-faint-irregular-galaxy/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-05-29T16:14:26+00:00",
+      "day_brt": "2026-05-29",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Hubble Spies Faint Irregular Galaxy HQ Web Team May 29, 2026 Image Article This NASA Hubble Space Telescope image captures the faint glow of the dwarf irregular galaxy ESO 490-017. Kober (NASA/Catholic University of America) This NASA Hubble Space Telescope image released on May 27, 2026, features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diameter and some 23 million light-years away in the constellation Canis Major.",
+      "queued_ts": 1780075498
     }
   ],
   "digests_sent": {
@@ -2776,7 +2852,10 @@
     "2026-05-29": {
       "2e74dc9db6b61c786de34feb": true,
       "6984efea4cf5dce7951d0fd5": true,
-      "c2f7716b9c6cf5f60a81b25f": true
+      "c2f7716b9c6cf5f60a81b25f": true,
+      "3be495a8da7c2d99b9e148cb": true,
+      "8d1d8fa473d1c0d80df27e48": true,
+      "cfcc06534fcf046f46ecb098": true
     }
   }
 }
