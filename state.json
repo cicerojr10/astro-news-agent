@@ -2838,6 +2838,9 @@
     "2026-05-29": {
       "morning": true,
       "night": true
+    },
+    "2026-05-30": {
+      "morning": true
     }
   },
   "sent_updates": {
