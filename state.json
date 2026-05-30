@@ -2584,6 +2584,15 @@
       "link": "https://spaceflightnow.com/2026/05/30/live-coverage-spacex-to-launch-50th-starlink-mission-of-2026/",
       "score": 3.6,
       "published_utc": "2026-05-30T13:46:18+00:00"
+    },
+    "dc1ab3d9cddad37b6cbf979d": {
+      "ts": 1780162923,
+      "source": "Space.com",
+      "title": "Atlas V rocket launches 29 Amazon Leo internet satellites to orbit from Florida (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-launch-amazon-leo-7-internet-satellites",
+      "score": 0.0,
+      "published_utc": "2026-05-29T16:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
