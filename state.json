@@ -2535,6 +2535,14 @@
       "link": "https://spaceflightnow.com/2026/05/29/live-coverage-ula-to-launch-29-amazon-leo-satellites-on-atlas-5-rocket-from-cape-canaveral-2/",
       "score": 4.680000000000001,
       "published_utc": "2026-05-29T21:52:15+00:00"
+    },
+    "ebc8ffa6bb925dc2ff7a9fb9": {
+      "ts": 1780099853,
+      "source": "Space.com",
+      "title": "Atlas V rocket launches 29 Amazon Leo internet satellites to orbit",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-launch-amazon-leo-7-internet-satellites",
+      "score": 2.8,
+      "published_utc": "2026-05-29T16:00:00+00:00"
     }
   },
   "digest_queue": [
