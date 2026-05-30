@@ -2771,30 +2771,6 @@
       "day_brt": "2026-05-29",
       "resumo_pt": "Resumo (PT-BR): ULA launches 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral May 29, 2026 Will Robinson-Smith United Launch Alliance’s Atlas 5 551 rocket lifts off from Space Launch Complex 41 at Cape Canaveral Space Force Station on the Leo Atlas 07 mission on May 29, 2026. Image: Adam Bernstein/Spaceflight Now United Launch Alliance overcame adverse weather conditions to launch a batch of Amazon Leo’s broadband internet satellites on its Atlas 5 rocket from Cape Canaveral Space Force Station on Friday evening.",
       "queued_ts": 1780107192
-    },
-    {
-      "fp": "49ea2c6fb8df708a47b70bd9",
-      "title": "Live coverage: SpaceX to launch 50th Starlink mission of 2026",
-      "link": "https://spaceflightnow.com/2026/05/30/live-coverage-spacex-to-launch-50th-starlink-mission-of-2026/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-05-30T13:46:18+00:00",
-      "day_brt": "2026-05-30",
-      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 50th Starlink mission of 2026 May 30, 2026 Will Robinson-Smith File – SpaceX’s Falcon 9 rocket stands in the vertical launch position at Space Launch Complex 4 East at Vandenberg Space Force Base ahead of the launch of the Starlink 17-5 mission on Aug. This was the ninth flight for Falcon 9 booster, tail number B1088.",
-      "queued_ts": 1780150791
-    },
-    {
-      "fp": "acaa51e60d7b7c8430c660af",
-      "title": "SpaceX launches 50th Starlink mission of 2026",
-      "link": "https://spaceflightnow.com/2026/05/30/live-coverage-spacex-to-launch-50th-starlink-mission-of-2026/",
-      "source": "Spaceflight Now",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-05-30T13:46:18+00:00",
-      "day_brt": "2026-05-30",
-      "resumo_pt": "Resumo (PT-BR): SpaceX launches 50th Starlink mission of 2026 May 30, 2026 Will Robinson-Smith File – SpaceX’s Falcon 9 rocket stands in the vertical launch position at Space Launch Complex 4 East at Vandenberg Space Force Base ahead of the launch of the Starlink 17-5 mission on Aug. This was the ninth flight for Falcon 9 booster, tail number B1088.",
-      "queued_ts": 1780159143
     }
   ],
   "digests_sent": {
@@ -2906,7 +2882,8 @@
       "night": true
     },
     "2026-05-30": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
