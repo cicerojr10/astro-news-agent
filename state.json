@@ -2576,6 +2576,14 @@
       "score": 0.0,
       "published_utc": "2026-05-29T00:33:17+00:00",
       "note": "not_today"
+    },
+    "acaa51e60d7b7c8430c660af": {
+      "ts": 1780159142,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches 50th Starlink mission of 2026",
+      "link": "https://spaceflightnow.com/2026/05/30/live-coverage-spacex-to-launch-50th-starlink-mission-of-2026/",
+      "score": 3.6,
+      "published_utc": "2026-05-30T13:46:18+00:00"
     }
   },
   "digest_queue": [
@@ -2758,6 +2766,18 @@
       "day_brt": "2026-05-30",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 50th Starlink mission of 2026 May 30, 2026 Will Robinson-Smith File – SpaceX’s Falcon 9 rocket stands in the vertical launch position at Space Launch Complex 4 East at Vandenberg Space Force Base ahead of the launch of the Starlink 17-5 mission on Aug. This was the ninth flight for Falcon 9 booster, tail number B1088.",
       "queued_ts": 1780150791
+    },
+    {
+      "fp": "acaa51e60d7b7c8430c660af",
+      "title": "SpaceX launches 50th Starlink mission of 2026",
+      "link": "https://spaceflightnow.com/2026/05/30/live-coverage-spacex-to-launch-50th-starlink-mission-of-2026/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-05-30T13:46:18+00:00",
+      "day_brt": "2026-05-30",
+      "resumo_pt": "Resumo (PT-BR): SpaceX launches 50th Starlink mission of 2026 May 30, 2026 Will Robinson-Smith File – SpaceX’s Falcon 9 rocket stands in the vertical launch position at Space Launch Complex 4 East at Vandenberg Space Force Base ahead of the launch of the Starlink 17-5 mission on Aug. This was the ninth flight for Falcon 9 booster, tail number B1088.",
+      "queued_ts": 1780159143
     }
   ],
   "digests_sent": {
@@ -2927,7 +2947,8 @@
       "9ecfb261e5754a153bc01962": true
     },
     "2026-05-30": {
-      "49ea2c6fb8df708a47b70bd9": true
+      "49ea2c6fb8df708a47b70bd9": true,
+      "acaa51e60d7b7c8430c660af": true
     }
   }
 }
