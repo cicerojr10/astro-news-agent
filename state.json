@@ -2601,6 +2601,14 @@
       "link": "https://www.space.com/entertainment/space-movies-shows/for-all-mankind-star-wrenn-schmidt-on-her-characters-journey-from-nasas-mission-control-to-the-slammer-interview",
       "score": 2.8,
       "published_utc": "2026-05-30T18:00:00+00:00"
+    },
+    "71de60e764f28cf2acaa0375": {
+      "ts": 1780272068,
+      "source": "NASASpaceflight",
+      "title": "Ancient black hole sheds new light on Webb’s Little Red Dots",
+      "link": "https://www.nasaspaceflight.com/2026/05/webb-abell2744-qso1/",
+      "score": 3.6,
+      "published_utc": "2026-05-31T23:36:19+00:00"
     }
   },
   "digest_queue": [
@@ -2886,7 +2894,8 @@
       "night": true
     },
     "2026-05-31": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -2946,6 +2955,9 @@
     "2026-05-30": {
       "49ea2c6fb8df708a47b70bd9": true,
       "acaa51e60d7b7c8430c660af": true
+    },
+    "2026-05-31": {
+      "71de60e764f28cf2acaa0375": true
     }
   }
 }
