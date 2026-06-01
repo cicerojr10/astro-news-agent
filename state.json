@@ -2673,6 +2673,14 @@
       "link": "https://www.space.com/technology/aerospace/nasas-x-59-jet-is-ready-to-break-the-sound-barrier-for-the-1st-time-this-month",
       "score": 2.8,
       "published_utc": "2026-06-01T18:00:00+00:00"
+    },
+    "be04b5f15e41618c6db76dcf": {
+      "ts": 1780354236,
+      "source": "NASA Breaking News",
+      "title": "NASA Invites Media to See Roman Space Telescope Arrive at Kennedy",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-see-roman-space-telescope-arrive-at-kennedy/",
+      "score": 4.0,
+      "published_utc": "2026-06-01T21:22:52+00:00"
     }
   },
   "digest_queue": [
@@ -2903,6 +2911,18 @@
       "day_brt": "2026-06-01",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA to Conduct Low-Altitude Flights Near Houston Johnson Space Center Office of Communications Jun 01, 2026 Article NASA’s C-20A research aircraft takes off from the Edwards Air Force Base runway on an envelope-expansion flight test with the unmanned aerial vehicle synthetic aperture radar pod. NASA/Tony Landis Five research aircraft will support a Student Airborne Research Program ( SARP ) mission out of Ellington Field in Houston.",
       "queued_ts": 1780346446
+    },
+    {
+      "fp": "be04b5f15e41618c6db76dcf",
+      "title": "NASA Invites Media to See Roman Space Telescope Arrive at Kennedy",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-see-roman-space-telescope-arrive-at-kennedy/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-01T21:22:52+00:00",
+      "day_brt": "2026-06-01",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Invites Media to See Roman Space Telescope Arrive at Kennedy Jessica Taveau Jun 01, 2026 MEDIA ADVISORY M26-042 NASA Headquarters NASA’s Nancy Grace Roman Space Telescope stands complete in the largest clean room at the agency’s Goddard Space Flight Center in Greenbelt, Maryland. With its deep, sweeping views of the universe, Roman will observe billions of cosmic objects to explore fundamental questions about dark energy and planets outside our solar system.",
+      "queued_ts": 1780354238
     }
   ],
   "digests_sent": {
@@ -3088,7 +3108,8 @@
       "51e631f35663808a2f11a794": true,
       "0895e544c0bbd22b20149c6c": true,
       "60bd805dedab0866cbd5d1ae": true,
-      "4668aacefdd2ff53bbff7353": true
+      "4668aacefdd2ff53bbff7353": true,
+      "be04b5f15e41618c6db76dcf": true
     }
   }
 }
