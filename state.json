@@ -2698,6 +2698,30 @@
       "score": 0.0,
       "published_utc": "2026-06-01T23:45:59+00:00",
       "note": "not_today"
+    },
+    "cb658270b81fbdb893568c57": {
+      "ts": 1780404513,
+      "source": "NASA Breaking News",
+      "title": "Spacewalking With Scott Wray, Artemis EVA Training Lead",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/spacewalking-with-scott-wray-artemis-eva-training-lead/",
+      "score": 4.0,
+      "published_utc": "2026-06-02T09:00:00+00:00"
+    },
+    "f65843449d3e6cb1d188855c": {
+      "ts": 1780404516,
+      "source": "Space.com",
+      "title": "Unlocking 'the true space age': Impulse Space raises $500 million to build out fleet of ultra-mobile spacecraft",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/impulse-spacex-500-million-investment-space-ultra-mobile-spacecraft",
+      "score": 2.8,
+      "published_utc": "2026-06-02T12:00:00+00:00"
+    },
+    "c1bf50b6b9e7e368c8f25ffa": {
+      "ts": 1780404516,
+      "source": "Space.com",
+      "title": "Will SpaceX still be a launch company after its historic IPO?",
+      "link": "https://www.space.com/space-exploration/satellites/will-spacex-still-be-a-launch-company-after-its-historic-ipo",
+      "score": 2.8,
+      "published_utc": "2026-06-02T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -2868,18 +2892,6 @@
       "day_brt": "2026-05-29",
       "resumo_pt": "Resumo (PT-BR): ULA launches 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral May 29, 2026 Will Robinson-Smith United Launch Alliance’s Atlas 5 551 rocket lifts off from Space Launch Complex 41 at Cape Canaveral Space Force Station on the Leo Atlas 07 mission on May 29, 2026. Image: Adam Bernstein/Spaceflight Now United Launch Alliance overcame adverse weather conditions to launch a batch of Amazon Leo’s broadband internet satellites on its Atlas 5 rocket from Cape Canaveral Space Force Station on Friday evening.",
       "queued_ts": 1780107192
-    },
-    {
-      "fp": "df3d406445ddf9b13b48220a",
-      "title": "Fire’s Footprint on Santa Rosa Island",
-      "link": "https://science.nasa.gov/earth/earth-observatory/fires-footprint-on-santa-rosa-island/",
-      "source": "NASA Breaking News",
-      "score": 7.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-02T04:01:00+00:00",
-      "day_brt": "2026-06-02",
-      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Fire’s Footprint on Santa... Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Notes from the Field Blog Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 3 min read Fire’s Footprint on Santa Rosa Island Image of the Day for June 2, 2026 A wildland fire charred grassland, coastal sage scrub, and chaparral across one-third of the island, the second largest of the Channel Islands.",
-      "queued_ts": 1780376144
     }
   ],
   "digests_sent": {
@@ -3000,6 +3012,9 @@
     },
     "2026-06-01": {
       "night": true
+    },
+    "2026-06-02": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -3053,7 +3068,8 @@
       "be04b5f15e41618c6db76dcf": true
     },
     "2026-06-02": {
-      "df3d406445ddf9b13b48220a": true
+      "df3d406445ddf9b13b48220a": true,
+      "cb658270b81fbdb893568c57": true
     }
   }
 }
