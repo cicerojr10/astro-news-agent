@@ -2681,6 +2681,23 @@
       "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-see-roman-space-telescope-arrive-at-kennedy/",
       "score": 4.0,
       "published_utc": "2026-06-01T21:22:52+00:00"
+    },
+    "df3d406445ddf9b13b48220a": {
+      "ts": 1780376141,
+      "source": "NASA Breaking News",
+      "title": "Fire’s Footprint on Santa Rosa Island",
+      "link": "https://science.nasa.gov/earth/earth-observatory/fires-footprint-on-santa-rosa-island/",
+      "score": 7.0,
+      "published_utc": "2026-06-02T04:01:00+00:00"
+    },
+    "4faaac51da41e372576ffd6f": {
+      "ts": 1780376141,
+      "source": "NASA Breaking News",
+      "title": "NASA Awards Modification Contract for Reduced Gravity Test Aircraft",
+      "link": "https://www.nasa.gov/news-release/nasa-awards-modification-contract-for-reduced-gravity-test-aircraft/",
+      "score": 0.0,
+      "published_utc": "2026-06-01T23:45:59+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -2851,6 +2868,18 @@
       "day_brt": "2026-05-29",
       "resumo_pt": "Resumo (PT-BR): ULA launches 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral May 29, 2026 Will Robinson-Smith United Launch Alliance’s Atlas 5 551 rocket lifts off from Space Launch Complex 41 at Cape Canaveral Space Force Station on the Leo Atlas 07 mission on May 29, 2026. Image: Adam Bernstein/Spaceflight Now United Launch Alliance overcame adverse weather conditions to launch a batch of Amazon Leo’s broadband internet satellites on its Atlas 5 rocket from Cape Canaveral Space Force Station on Friday evening.",
       "queued_ts": 1780107192
+    },
+    {
+      "fp": "df3d406445ddf9b13b48220a",
+      "title": "Fire’s Footprint on Santa Rosa Island",
+      "link": "https://science.nasa.gov/earth/earth-observatory/fires-footprint-on-santa-rosa-island/",
+      "source": "NASA Breaking News",
+      "score": 7.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-02T04:01:00+00:00",
+      "day_brt": "2026-06-02",
+      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Fire’s Footprint on Santa... Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Notes from the Field Blog Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 3 min read Fire’s Footprint on Santa Rosa Island Image of the Day for June 2, 2026 A wildland fire charred grassland, coastal sage scrub, and chaparral across one-third of the island, the second largest of the Channel Islands.",
+      "queued_ts": 1780376144
     }
   ],
   "digests_sent": {
@@ -2974,25 +3003,6 @@
     }
   },
   "sent_updates": {
-    "2026-05-23": {
-      "56e5c2616752fa6f9122fc82": true
-    },
-    "2026-05-24": {
-      "25201ccebc25a6b2e1357e38": true,
-      "248e22d3f5281cbd08572525": true
-    },
-    "2026-05-25": {
-      "59789166dd68195f25b84aac": true
-    },
-    "2026-05-26": {
-      "1f4839b8be3eb48cf9911ed8": true,
-      "9d3fbd5931a4ec7edef10a61": true,
-      "3bfafaa010d772b93ad24197": true,
-      "bb842051d8862a8f0c80602e": true,
-      "e9578d039996c90e1328105c": true,
-      "8fb10f6992aa209f0432ab49": true,
-      "0f545bbb2314a4b04a27fd18": true
-    },
     "2026-05-27": {
       "d30b2adae44db1dd33d1cb54": true,
       "75b5cd66e3e3b4258ccf70ca": true,
@@ -3041,6 +3051,9 @@
       "60bd805dedab0866cbd5d1ae": true,
       "4668aacefdd2ff53bbff7353": true,
       "be04b5f15e41618c6db76dcf": true
+    },
+    "2026-06-02": {
+      "df3d406445ddf9b13b48220a": true
     }
   }
 }
