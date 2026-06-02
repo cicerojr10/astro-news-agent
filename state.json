@@ -2730,6 +2730,22 @@
       "link": "https://www.nasa.gov/image-article/look-up/",
       "score": 4.0,
       "published_utc": "2026-06-02T16:06:20+00:00"
+    },
+    "90e61971cd1ba1fc9e0d0a9e": {
+      "ts": 1780431411,
+      "source": "Space.com",
+      "title": "China launches debut mission of Falcon 9-like rocket with no advance notice (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/china-launches-debut-mission-of-falcon-9-like-rocket-with-no-advance-notice-video",
+      "score": 2.8,
+      "published_utc": "2026-06-02T20:00:00+00:00"
+    },
+    "2b765af31ff37d68d7963b93": {
+      "ts": 1780431412,
+      "source": "Space.com",
+      "title": "SpaceX wins $4 billion Space Force contract for satellites that target 'airborne threats' anywhere on Earth",
+      "link": "https://www.space.com/space-exploration/satellites/spacex-wins-usd4-billion-space-force-contract-for-satellites-that-target-airborne-threats-anywhere-on-earth",
+      "score": 2.8,
+      "published_utc": "2026-06-02T18:00:00+00:00"
     }
   },
   "digest_queue": [
