@@ -2722,6 +2722,14 @@
       "link": "https://www.space.com/space-exploration/satellites/will-spacex-still-be-a-launch-company-after-its-historic-ipo",
       "score": 2.8,
       "published_utc": "2026-06-02T10:00:00+00:00"
+    },
+    "84d3a2f4b64671caca222faa": {
+      "ts": 1780420183,
+      "source": "NASA Breaking News",
+      "title": "Look Up!",
+      "link": "https://www.nasa.gov/image-article/look-up/",
+      "score": 4.0,
+      "published_utc": "2026-06-02T16:06:20+00:00"
     }
   },
   "digest_queue": [
@@ -2892,6 +2900,18 @@
       "day_brt": "2026-05-29",
       "resumo_pt": "Resumo (PT-BR): ULA launches 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral May 29, 2026 Will Robinson-Smith United Launch Alliance’s Atlas 5 551 rocket lifts off from Space Launch Complex 41 at Cape Canaveral Space Force Station on the Leo Atlas 07 mission on May 29, 2026. Image: Adam Bernstein/Spaceflight Now United Launch Alliance overcame adverse weather conditions to launch a batch of Amazon Leo’s broadband internet satellites on its Atlas 5 rocket from Cape Canaveral Space Force Station on Friday evening.",
       "queued_ts": 1780107192
+    },
+    {
+      "fp": "84d3a2f4b64671caca222faa",
+      "title": "Look Up!",
+      "link": "https://www.nasa.gov/image-article/look-up/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-02T16:06:20+00:00",
+      "day_brt": "2026-06-02",
+      "resumo_pt": "Resumo (PT-BR): HQ Web Team Jun 02, 2026 Image Article ESA/Sophie Adenot Astronauts Sophie Adenot of ESA (European Space Agency) and Jack Hathaway of NASA, both Expedition 74 flight engineers, look out a window in the cupola, monitoring the automated approach and docking of the SpaceX Dragon cargo spacecraft to the International Space Station on May 17, 2026. The orbital outpost was soaring 259 miles above the Indian Ocean just west of the Maldives at the time of this photograph.",
+      "queued_ts": 1780420186
     }
   ],
   "digests_sent": {
@@ -3069,7 +3089,8 @@
     },
     "2026-06-02": {
       "df3d406445ddf9b13b48220a": true,
-      "cb658270b81fbdb893568c57": true
+      "cb658270b81fbdb893568c57": true,
+      "84d3a2f4b64671caca222faa": true
     }
   }
 }
