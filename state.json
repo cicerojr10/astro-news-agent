@@ -2786,6 +2786,39 @@
       "link": "https://www.nasaspaceflight.com/2026/06/blue-lc-36-recovery-rtf-end-2026/",
       "score": 3.6,
       "published_utc": "2026-06-03T01:16:06+00:00"
+    },
+    "296025b52073b8bce275d0ad": {
+      "ts": 1780498473,
+      "source": "NASA Breaking News",
+      "title": "NASA Drains 66-Million-Gallon Reservoir to Upgrade Critical Water System",
+      "link": "https://www.nasa.gov/centers-and-facilities/stennis/reservoir-drained-to-upgrade-water-system/",
+      "score": 4.0,
+      "published_utc": "2026-06-03T13:50:10+00:00"
+    },
+    "922caf46073f0dccd7e9f207": {
+      "ts": 1780498473,
+      "source": "NASA Breaking News",
+      "title": "NASA Says Farewell to MAVEN Mars Mission, Hosts Media Call Today",
+      "link": "https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/",
+      "score": 10.0,
+      "published_utc": "2026-06-03T13:12:05+00:00"
+    },
+    "5bba283e383f14b1bcf5044e": {
+      "ts": 1780498474,
+      "source": "Spaceflight Now",
+      "title": "Poor weather forces launch scrub of SpaceX’s Falcon 9 rocket from Cape Canaveral",
+      "link": "https://spaceflightnow.com/2026/06/03/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-15/",
+      "score": 0.0,
+      "published_utc": "2026-06-03T01:09:18+00:00",
+      "note": "not_today"
+    },
+    "9a4e44621a66571ec3c4e4a2": {
+      "ts": 1780498475,
+      "source": "Space.com",
+      "title": "Astrophotographer captures breathtaking view of 548 galaxies from a balcony",
+      "link": "https://www.space.com/stargazing/astrophotography/astrophotographer-captures-breathtaking-view-of-548-galaxies-from-a-balcony",
+      "score": 2.8,
+      "published_utc": "2026-06-03T12:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -3128,6 +3161,9 @@
     "2026-06-02": {
       "morning": true,
       "night": true
+    },
+    "2026-06-03": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -3188,6 +3224,10 @@
       "59b6b3e65a36de5bd55d859e": true,
       "0beae307d13724538f8c1191": true,
       "9feab9d2fc4da61fa6b50c86": true
+    },
+    "2026-06-03": {
+      "922caf46073f0dccd7e9f207": true,
+      "296025b52073b8bce275d0ad": true
     }
   }
 }
