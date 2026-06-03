@@ -2754,6 +2754,38 @@
       "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-roboticist-challenge/",
       "score": 4.0,
       "published_utc": "2026-06-02T20:56:53+00:00"
+    },
+    "59b6b3e65a36de5bd55d859e": {
+      "ts": 1780450865,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg",
+      "link": "https://spaceflightnow.com/2026/06/03/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-3/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-06-03T01:39:54+00:00"
+    },
+    "9feab9d2fc4da61fa6b50c86": {
+      "ts": 1780450866,
+      "source": "Spaceflight Now",
+      "title": "Blue Origin vows to resume New Glenn flights by year’s end",
+      "link": "https://spaceflightnow.com/2026/06/03/blue-origin-vows-to-resume-new-glenn-flights-by-years-end/",
+      "score": 3.6,
+      "published_utc": "2026-06-03T01:23:32+00:00"
+    },
+    "0beae307d13724538f8c1191": {
+      "ts": 1780450866,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
+      "link": "https://spaceflightnow.com/2026/06/03/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-15/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-06-03T01:09:18+00:00"
+    },
+    "53fc1517661a697a5b49f88c": {
+      "ts": 1780450867,
+      "source": "NASASpaceflight",
+      "title": "Blue Origin initiates LC-36 recovery, targets RTF by end of 2026",
+      "link": "https://www.nasaspaceflight.com/2026/06/blue-lc-36-recovery-rtf-end-2026/",
+      "score": 3.6,
+      "published_utc": "2026-06-03T01:16:06+00:00"
     }
   },
   "digest_queue": [
@@ -2924,6 +2956,54 @@
       "day_brt": "2026-05-29",
       "resumo_pt": "Resumo (PT-BR): ULA launches 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral May 29, 2026 Will Robinson-Smith United Launch Alliance’s Atlas 5 551 rocket lifts off from Space Launch Complex 41 at Cape Canaveral Space Force Station on the Leo Atlas 07 mission on May 29, 2026. Image: Adam Bernstein/Spaceflight Now United Launch Alliance overcame adverse weather conditions to launch a batch of Amazon Leo’s broadband internet satellites on its Atlas 5 rocket from Cape Canaveral Space Force Station on Friday evening.",
       "queued_ts": 1780107192
+    },
+    {
+      "fp": "59b6b3e65a36de5bd55d859e",
+      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg",
+      "link": "https://spaceflightnow.com/2026/06/03/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-3/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-06-03T01:39:54+00:00",
+      "day_brt": "2026-06-02",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg June 3, 2026 Will Robinson-Smith File photo of a Falcon 9 fueled for launch at Vandenberg Space Force Base in California. SpaceX is set to launch a batch of its Starlink V2 Mini Optimized satellites on a Falcon 9 rocket from Vandenberg Space Force Base Wednesday morning.",
+      "queued_ts": 1780450869
+    },
+    {
+      "fp": "0beae307d13724538f8c1191",
+      "title": "Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
+      "link": "https://spaceflightnow.com/2026/06/03/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-15/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-06-03T01:09:18+00:00",
+      "day_brt": "2026-06-02",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral June 3, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket stands at Space Launch Complex 40 (SLC-40) ahead of the launch of the Starlink 8-11 mission on Sept. Image: Adam Bernstein/Spaceflight Now SpaceX hopes to launch its Falcon 9 rocket from Cape Canaveral Space Force Station on Wednesday morning, but poor weather may prove insurmountable.",
+      "queued_ts": 1780450869
+    },
+    {
+      "fp": "9feab9d2fc4da61fa6b50c86",
+      "title": "Blue Origin vows to resume New Glenn flights by year’s end",
+      "link": "https://spaceflightnow.com/2026/06/03/blue-origin-vows-to-resume-new-glenn-flights-by-years-end/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-06-03T01:23:32+00:00",
+      "day_brt": "2026-06-02",
+      "resumo_pt": "Resumo (PT-BR): Blue Origin vows to resume New Glenn flights by year’s end June 3, 2026 William Harwood An aerial view of launch complex 36 at the Cape Canaveral Space Force Station showing the aftermath of the New Glenn explosion last Thursday. The rocket itself virtually disintegrated in the blast leaving its transporter-erector in wreckage on the concrete pad’s surface.",
+      "queued_ts": 1780450869
+    },
+    {
+      "fp": "53fc1517661a697a5b49f88c",
+      "title": "Blue Origin initiates LC-36 recovery, targets RTF by end of 2026",
+      "link": "https://www.nasaspaceflight.com/2026/06/blue-lc-36-recovery-rtf-end-2026/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-06-03T01:16:06+00:00",
+      "day_brt": "2026-06-02",
+      "resumo_pt": "Resumo (PT-BR): Blue Origin initiates LC-36 recovery, targets RTF by end of 2026 by Ryan Caton June 2, 2026 written by Ryan Caton June 2, 2026 5 Blue Origin has wasted no time launching inspection, repair, and reconstruction activities at Launch Complex-36 following the loss of a New Glenn vehicle during static fire testing last Thursday night. According to company CEO Dave Limp, the company intends to return the pad to flight operations with New Glenn before the end of this year.",
+      "queued_ts": 1780450869
     }
   ],
   "digests_sent": {
@@ -3104,7 +3184,10 @@
       "df3d406445ddf9b13b48220a": true,
       "cb658270b81fbdb893568c57": true,
       "84d3a2f4b64671caca222faa": true,
-      "7fb46cd57fc9a696a68c4e67": true
+      "7fb46cd57fc9a696a68c4e67": true,
+      "59b6b3e65a36de5bd55d859e": true,
+      "0beae307d13724538f8c1191": true,
+      "9feab9d2fc4da61fa6b50c86": true
     }
   }
 }
