@@ -2843,6 +2843,38 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-maven-mars-orbiter-is-officially-dead-after-months-of-radio-silence",
       "score": 7.0,
       "published_utc": "2026-06-03T15:32:16+00:00"
+    },
+    "6da97d140933ef2f7d093bee": {
+      "ts": 1780522619,
+      "source": "NASA Breaking News",
+      "title": "NASA Finds New Way Earth May Have Received Elements Needed for Life",
+      "link": "https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/",
+      "score": 4.0,
+      "published_utc": "2026-06-03T18:01:00+00:00"
+    },
+    "877f85828afb6579a670481c": {
+      "ts": 1780522621,
+      "source": "NASASpaceflight",
+      "title": "Artemis III’s remaining solid rocket booster segments shipped from Utah to Florida",
+      "link": "https://www.nasaspaceflight.com/2026/06/artemis-iii-srb-shipment/",
+      "score": 3.6,
+      "published_utc": "2026-06-03T20:37:08+00:00"
+    },
+    "b2d73c1620ce31ef980d8a31": {
+      "ts": 1780522622,
+      "source": "Space.com",
+      "title": "'The mirror passed with flying colors': NASA just took its last look at the Nancy Grace Roman Space Telescope before launch",
+      "link": "https://www.space.com/astronomy/the-mirror-passed-with-flying-colors-nasa-just-took-its-last-look-at-the-nancy-grace-roman-space-telescope-before-launch",
+      "score": 2.8,
+      "published_utc": "2026-06-03T19:00:00+00:00"
+    },
+    "89a3ae32b528bd06e295a480": {
+      "ts": 1780522622,
+      "source": "Space.com",
+      "title": "Like 'the loss of a loved one': NASA's Mars orbiter MAVEN is officially dead after months of radio silence",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-maven-mars-orbiter-is-officially-dead-after-months-of-radio-silence",
+      "score": 7.0,
+      "published_utc": "2026-06-03T15:32:16+00:00"
     }
   },
   "digest_queue": [
@@ -3097,6 +3129,42 @@
       "day_brt": "2026-06-03",
       "resumo_pt": "Resumo (PT-BR): 1 min read Journey to the Center of the Virgo Cluster HQ Web Team Jun 03, 2026 Image Article This NASA/ESA Hubble Space Telescope image features the spiral galaxy Messier 88 (M88). Thilker The focus of this NASA/ESA Hubble Space Telescope image released on May 29, 2026, is an active spiral galaxy on a journey lasting hundreds of millions of years.",
       "queued_ts": 1780511932
+    },
+    {
+      "fp": "89a3ae32b528bd06e295a480",
+      "title": "Like 'the loss of a loved one': NASA's Mars orbiter MAVEN is officially dead after months of radio silence",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-maven-mars-orbiter-is-officially-dead-after-months-of-radio-silence",
+      "source": "Space.com",
+      "score": 7.0,
+      "is_anomaly": true,
+      "published_utc": "2026-06-03T15:32:16+00:00",
+      "day_brt": "2026-06-03",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft Like 'the loss of a loved one': NASA's Mars orbiter MAVEN is officially dead after months of radio silence News By Josh Dinner last updated 3 June 2026 Au revoir, MAVEN, mon ami. When you purchase through links on our site, we may earn an affiliate commission.",
+      "queued_ts": 1780522624
+    },
+    {
+      "fp": "6da97d140933ef2f7d093bee",
+      "title": "NASA Finds New Way Earth May Have Received Elements Needed for Life",
+      "link": "https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-03T18:01:00+00:00",
+      "day_brt": "2026-06-03",
+      "resumo_pt": "Resumo (PT-BR): 4 Min Read NASA Finds New Way Earth May Have Received Elements Needed for Life This is an artist’s impression of a young star surrounded by a protoplanetary disk. Darker rings in the disk are where objects like planetesimals are forming, clearing a path through the debris.",
+      "queued_ts": 1780522624
+    },
+    {
+      "fp": "877f85828afb6579a670481c",
+      "title": "Artemis III’s remaining solid rocket booster segments shipped from Utah to Florida",
+      "link": "https://www.nasaspaceflight.com/2026/06/artemis-iii-srb-shipment/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-06-03T20:37:08+00:00",
+      "day_brt": "2026-06-03",
+      "resumo_pt": "Resumo (PT-BR): Artemis III’s remaining solid rocket booster segments shipped from Utah to Florida by Justin Davenport June 3, 2026 written by Justin Davenport June 3, 2026 3 While there is some uncertainty regarding timelines and landers, the Artemis III mission — currently scheduled for the summer of 2027 — is being prepared for launch at NASA’s Kennedy Space Center in Florida. Northrop Grumman began shipping all eight remaining solid rocket booster segments for the mission’s Space Launch System (SLS) rocket from Utah on Tuesday, June 2.",
+      "queued_ts": 1780522624
     }
   ],
   "digests_sent": {
@@ -3290,7 +3358,10 @@
       "296025b52073b8bce275d0ad": true,
       "a11690799764494ff63d36b7": true,
       "50a45cee4cf90630c1c38be5": true,
-      "09f6c9d0257e869b674acd83": true
+      "09f6c9d0257e869b674acd83": true,
+      "89a3ae32b528bd06e295a480": true,
+      "6da97d140933ef2f7d093bee": true,
+      "877f85828afb6579a670481c": true
     }
   }
 }
