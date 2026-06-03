@@ -2819,6 +2819,30 @@
       "link": "https://www.space.com/stargazing/astrophotography/astrophotographer-captures-breathtaking-view-of-548-galaxies-from-a-balcony",
       "score": 2.8,
       "published_utc": "2026-06-03T12:00:00+00:00"
+    },
+    "09f6c9d0257e869b674acd83": {
+      "ts": 1780511927,
+      "source": "NASA Breaking News",
+      "title": "Journey to the Center of the Virgo Cluster",
+      "link": "https://www.nasa.gov/image-article/journey-to-the-center-of-the-virgo-cluster/",
+      "score": 4.0,
+      "published_utc": "2026-06-03T15:48:44+00:00"
+    },
+    "a11690799764494ff63d36b7": {
+      "ts": 1780511929,
+      "source": "Space.com",
+      "title": "Blue Origin says New Glenn rocket will launch again 'before the end of the year' after explosion",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-says-new-glenn-rocket-will-launch-again-before-the-end-of-the-year-after-explosion",
+      "score": 11.2,
+      "published_utc": "2026-06-03T16:00:00+00:00"
+    },
+    "50a45cee4cf90630c1c38be5": {
+      "ts": 1780511929,
+      "source": "Space.com",
+      "title": "NASA's MAVEN Mars orbiter is officially dead after months of radio silence",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-maven-mars-orbiter-is-officially-dead-after-months-of-radio-silence",
+      "score": 7.0,
+      "published_utc": "2026-06-03T15:32:16+00:00"
     }
   },
   "digest_queue": [
@@ -3037,6 +3061,42 @@
       "day_brt": "2026-06-02",
       "resumo_pt": "Resumo (PT-BR): Blue Origin initiates LC-36 recovery, targets RTF by end of 2026 by Ryan Caton June 2, 2026 written by Ryan Caton June 2, 2026 5 Blue Origin has wasted no time launching inspection, repair, and reconstruction activities at Launch Complex-36 following the loss of a New Glenn vehicle during static fire testing last Thursday night. According to company CEO Dave Limp, the company intends to return the pad to flight operations with New Glenn before the end of this year.",
       "queued_ts": 1780450869
+    },
+    {
+      "fp": "a11690799764494ff63d36b7",
+      "title": "Blue Origin says New Glenn rocket will launch again 'before the end of the year' after explosion",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-says-new-glenn-rocket-will-launch-again-before-the-end-of-the-year-after-explosion",
+      "source": "Space.com",
+      "score": 11.2,
+      "is_anomaly": true,
+      "published_utc": "2026-06-03T16:00:00+00:00",
+      "day_brt": "2026-06-03",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft Blue Origin says New Glenn rocket will launch again 'before the end of the year' after explosion News By Josh Dinner published 3 June 2026 And there's only about half of the year left… When you purchase through links on our site, we may earn an affiliate commission. Click for next article (Image credit: Spaceflight Now) Copy link Facebook X Whatsapp Reddit Pinterest Flipboard Email Share this article 0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter After its rocket explosion, Blue Origin wants to complete repairs and put another New Glenn on the launchpad before the end of 2026, according to CEO Dave Limp.",
+      "queued_ts": 1780511932
+    },
+    {
+      "fp": "50a45cee4cf90630c1c38be5",
+      "title": "NASA's MAVEN Mars orbiter is officially dead after months of radio silence",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-maven-mars-orbiter-is-officially-dead-after-months-of-radio-silence",
+      "source": "Space.com",
+      "score": 7.0,
+      "is_anomaly": true,
+      "published_utc": "2026-06-03T15:32:16+00:00",
+      "day_brt": "2026-06-03",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft NASA's MAVEN Mars orbiter is officially dead after months of radio silence News By Josh Dinner published 3 June 2026 Au revoir, MAVEN, mon ami. When you purchase through links on our site, we may earn an affiliate commission.",
+      "queued_ts": 1780511932
+    },
+    {
+      "fp": "09f6c9d0257e869b674acd83",
+      "title": "Journey to the Center of the Virgo Cluster",
+      "link": "https://www.nasa.gov/image-article/journey-to-the-center-of-the-virgo-cluster/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-03T15:48:44+00:00",
+      "day_brt": "2026-06-03",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Journey to the Center of the Virgo Cluster HQ Web Team Jun 03, 2026 Image Article This NASA/ESA Hubble Space Telescope image features the spiral galaxy Messier 88 (M88). Thilker The focus of this NASA/ESA Hubble Space Telescope image released on May 29, 2026, is an active spiral galaxy on a journey lasting hundreds of millions of years.",
+      "queued_ts": 1780511932
     }
   ],
   "digests_sent": {
@@ -3227,7 +3287,10 @@
     },
     "2026-06-03": {
       "922caf46073f0dccd7e9f207": true,
-      "296025b52073b8bce275d0ad": true
+      "296025b52073b8bce275d0ad": true,
+      "a11690799764494ff63d36b7": true,
+      "50a45cee4cf90630c1c38be5": true,
+      "09f6c9d0257e869b674acd83": true
     }
   }
 }
