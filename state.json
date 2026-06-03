@@ -2924,30 +2924,6 @@
       "day_brt": "2026-05-29",
       "resumo_pt": "Resumo (PT-BR): ULA launches 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral May 29, 2026 Will Robinson-Smith United Launch Alliance’s Atlas 5 551 rocket lifts off from Space Launch Complex 41 at Cape Canaveral Space Force Station on the Leo Atlas 07 mission on May 29, 2026. Image: Adam Bernstein/Spaceflight Now United Launch Alliance overcame adverse weather conditions to launch a batch of Amazon Leo’s broadband internet satellites on its Atlas 5 rocket from Cape Canaveral Space Force Station on Friday evening.",
       "queued_ts": 1780107192
-    },
-    {
-      "fp": "84d3a2f4b64671caca222faa",
-      "title": "Look Up!",
-      "link": "https://www.nasa.gov/image-article/look-up/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-02T16:06:20+00:00",
-      "day_brt": "2026-06-02",
-      "resumo_pt": "Resumo (PT-BR): HQ Web Team Jun 02, 2026 Image Article ESA/Sophie Adenot Astronauts Sophie Adenot of ESA (European Space Agency) and Jack Hathaway of NASA, both Expedition 74 flight engineers, look out a window in the cupola, monitoring the automated approach and docking of the SpaceX Dragon cargo spacecraft to the International Space Station on May 17, 2026. The orbital outpost was soaring 259 miles above the Indian Ocean just west of the Maldives at the time of this photograph.",
-      "queued_ts": 1780420186
-    },
-    {
-      "fp": "7fb46cd57fc9a696a68c4e67",
-      "title": "NASA Space Roboticist Challenge",
-      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-roboticist-challenge/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-02T20:56:53+00:00",
-      "day_brt": "2026-06-02",
-      "resumo_pt": "Resumo (PT-BR): Light Jun 02, 2026 Article Image Credit: Motiv Space Systems The Fly Foundational Robots (FFR) mission will launch a robotic arm, with seven degrees of freedom, to low Earth orbit. NASA is opening access to the robotic arm to a select group of U.S.",
-      "queued_ts": 1780439311
     }
   ],
   "digests_sent": {
@@ -3070,7 +3046,8 @@
       "night": true
     },
     "2026-06-02": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
