@@ -2927,6 +2927,22 @@
       "link": "https://www.nasaspaceflight.com/2026/06/the-exploration-company-nyx-parachute-recovery/",
       "score": 3.6,
       "published_utc": "2026-06-04T11:09:00+00:00"
+    },
+    "5cdd8a6f237bba74e09c413e": {
+      "ts": 1780590844,
+      "source": "NASA Breaking News",
+      "title": "Colorful, Chaotic Jupiter",
+      "link": "https://www.nasa.gov/image-article/colorful-chaotic-jupiter/",
+      "score": 4.0,
+      "published_utc": "2026-06-04T15:58:03+00:00"
+    },
+    "3f2aac7f13548c32dbe74156": {
+      "ts": 1780590846,
+      "source": "Space.com",
+      "title": "NASA's dead Mars orbiter MAVEN will crash into the Red Planet in the next 100 years. It's not the only probe in the Mars morgue",
+      "link": "https://www.space.com/space-exploration/missions/nasas-dead-mars-orbiter-maven-will-crash-into-the-red-planet-in-the-next-100-years-its-not-the-only-probe-in-the-mars-morgue",
+      "score": 2.8,
+      "published_utc": "2026-06-04T15:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -3145,6 +3161,18 @@
       "day_brt": "2026-06-02",
       "resumo_pt": "Resumo (PT-BR): Blue Origin initiates LC-36 recovery, targets RTF by end of 2026 by Ryan Caton June 2, 2026 written by Ryan Caton June 2, 2026 5 Blue Origin has wasted no time launching inspection, repair, and reconstruction activities at Launch Complex-36 following the loss of a New Glenn vehicle during static fire testing last Thursday night. According to company CEO Dave Limp, the company intends to return the pad to flight operations with New Glenn before the end of this year.",
       "queued_ts": 1780450869
+    },
+    {
+      "fp": "5cdd8a6f237bba74e09c413e",
+      "title": "Colorful, Chaotic Jupiter",
+      "link": "https://www.nasa.gov/image-article/colorful-chaotic-jupiter/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-04T15:58:03+00:00",
+      "day_brt": "2026-06-04",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Colorful, Chaotic Jupiter HQ Web Team Jun 04, 2026 Image Article NASA/JPL-Caltech/SwRI/MSSS; Image processing by Gary Eason © CC BY NASA’s Juno spacecraft captured this color-enhanced view of Jupiter’s northern hemisphere during its 61st close flyby of the giant planet on May 12, 2024. Citizen scientist Gary Eason made this image using raw data from the JunoCam instrument, applying digital processing techniques to enhance color and clarity.",
+      "queued_ts": 1780590846
     }
   ],
   "digests_sent": {
@@ -3349,7 +3377,8 @@
       "2673e413db560fa7635d25d8": true
     },
     "2026-06-04": {
-      "44521420a5c7ae4ab586ef59": true
+      "44521420a5c7ae4ab586ef59": true,
+      "5cdd8a6f237bba74e09c413e": true
     }
   }
 }
