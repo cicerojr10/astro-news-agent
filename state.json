@@ -2910,6 +2910,23 @@
       "score": 0.0,
       "published_utc": "2026-06-03T01:09:18+00:00",
       "note": "not_today"
+    },
+    "f50e87d54eb1af474bcd0691": {
+      "ts": 1780580307,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches sunrise Starlink mission following weather scrub",
+      "link": "https://spaceflightnow.com/2026/06/03/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-15/",
+      "score": 0.0,
+      "published_utc": "2026-06-03T01:09:18+00:00",
+      "note": "not_today"
+    },
+    "44521420a5c7ae4ab586ef59": {
+      "ts": 1780580308,
+      "source": "NASASpaceflight",
+      "title": "The Exploration Company advances Nyx parachute recovery",
+      "link": "https://www.nasaspaceflight.com/2026/06/the-exploration-company-nyx-parachute-recovery/",
+      "score": 3.6,
+      "published_utc": "2026-06-04T11:09:00+00:00"
     }
   },
   "digest_queue": [
@@ -3256,6 +3273,9 @@
     "2026-06-03": {
       "morning": true,
       "night": true
+    },
+    "2026-06-04": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -3327,6 +3347,9 @@
       "6da97d140933ef2f7d093bee": true,
       "877f85828afb6579a670481c": true,
       "2673e413db560fa7635d25d8": true
+    },
+    "2026-06-04": {
+      "44521420a5c7ae4ab586ef59": true
     }
   }
 }
