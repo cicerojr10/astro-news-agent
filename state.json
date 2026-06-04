@@ -2892,6 +2892,24 @@
       "score": 0.0,
       "published_utc": "2026-06-04T01:28:11+00:00",
       "note": "not_today"
+    },
+    "41496d6b206e6e49bf2a1f4a": {
+      "ts": 1780568889,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg",
+      "link": "https://spaceflightnow.com/2026/06/03/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-3/",
+      "score": 0.0,
+      "published_utc": "2026-06-03T01:39:54+00:00",
+      "note": "not_today"
+    },
+    "ed651d0a47dacb4ead06169e": {
+      "ts": 1780568889,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX attempts predawn Starlink launch following weather scrub",
+      "link": "https://spaceflightnow.com/2026/06/03/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-15/",
+      "score": 0.0,
+      "published_utc": "2026-06-03T01:09:18+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
