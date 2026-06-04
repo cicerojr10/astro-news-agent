@@ -2883,6 +2883,15 @@
       "link": "https://www.nasaspaceflight.com/2026/06/eastern-range-blast-danger-areas/",
       "score": 9.0,
       "published_utc": "2026-06-03T23:04:56+00:00"
+    },
+    "a37db499f7529dbc32ee486f": {
+      "ts": 1780555435,
+      "source": "NASA Breaking News",
+      "title": "Curiosity Blog, Sols 4908-4912: Goodbye Campo Marte, It’s Been Fun!",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4908-4912-goodbye-campo-marte-its-been-fun/",
+      "score": 0.0,
+      "published_utc": "2026-06-04T01:28:11+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
