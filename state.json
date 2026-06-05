@@ -3025,6 +3025,22 @@
       "link": "https://science.nasa.gov/uncategorized/ocean-nutrient-stress/",
       "score": 4.0,
       "published_utc": "2026-06-05T18:00:11+00:00"
+    },
+    "8c0e9f8ec939facfcefb84ae": {
+      "ts": 1780698090,
+      "source": "NASA Breaking News",
+      "title": "NASA’s X-59 Aircraft Flies Supersonic for First Time",
+      "link": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
+      "score": 4.0,
+      "published_utc": "2026-06-05T20:44:57+00:00"
+    },
+    "ad92becbd424ea2f3f0e39c0": {
+      "ts": 1780698090,
+      "source": "NASA Breaking News",
+      "title": "NASA Announces Winners of 2026 University Innovation Competition",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/",
+      "score": 4.0,
+      "published_utc": "2026-06-05T20:17:11+00:00"
     }
   },
   "digest_queue": [
@@ -3303,6 +3319,30 @@
       "day_brt": "2026-06-05",
       "resumo_pt": "Resumo: link com pouco texto extraível; confira a matéria para detalhes.",
       "queued_ts": 1780687265
+    },
+    {
+      "fp": "8c0e9f8ec939facfcefb84ae",
+      "title": "NASA’s X-59 Aircraft Flies Supersonic for First Time",
+      "link": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-05T20:44:57+00:00",
+      "day_brt": "2026-06-05",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA’s X-59 Aircraft Flies Supersonic for First Time Kristen Hatfield Public Affairs Specialist Jun 05, 2026 Article NASA’s X-59 eXternal Vision System shows Mach 1.077 on Friday, June 5, 2026, marking the aircraft’s first time reaching supersonic speed in support of NASA’s Quesst mission. The moment represents a milestone for the aircraft as it transitions to include test flights faster than the speed of sound.",
+      "queued_ts": 1780698093
+    },
+    {
+      "fp": "ad92becbd424ea2f3f0e39c0",
+      "title": "NASA Announces Winners of 2026 University Innovation Competition",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-05T20:17:11+00:00",
+      "day_brt": "2026-06-05",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Announces Winners of 2026 University Innovation Competition Bailey G. Light Jun 05, 2026 Article The Massachusetts Institute of Technology team that won the 2026 RASC-AL competition for their project, Exploration-Class Lunar Integrated Power SystEm.",
+      "queued_ts": 1780698093
     }
   ],
   "digests_sent": {
@@ -3519,7 +3559,9 @@
       "406b0dccc8d794e9562cd1ea": true,
       "f6d68da6ec1678b4344b1b68": true,
       "c70fd0d4ec8d5e8a5bd83437": true,
-      "06809025190b67e4602bec76": true
+      "06809025190b67e4602bec76": true,
+      "8c0e9f8ec939facfcefb84ae": true,
+      "ad92becbd424ea2f3f0e39c0": true
     }
   }
 }
