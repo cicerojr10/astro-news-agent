@@ -3017,6 +3017,14 @@
       "link": "https://spaceflightnow.com/2026/06/05/nasa-crew-briefly-shelter-inside-dragon-capsule-as-russia-addresses-new-space-station-leaks/",
       "score": 9.0,
       "published_utc": "2026-06-05T15:38:54+00:00"
+    },
+    "06809025190b67e4602bec76": {
+      "ts": 1780687263,
+      "source": "NASA Breaking News",
+      "title": "NASA Satellites Uncover Large-Scale Ocean Nutrient Stress",
+      "link": "https://science.nasa.gov/uncategorized/ocean-nutrient-stress/",
+      "score": 4.0,
+      "published_utc": "2026-06-05T18:00:11+00:00"
     }
   },
   "digest_queue": [
@@ -3283,6 +3291,18 @@
       "day_brt": "2026-06-05",
       "resumo_pt": "Resumo (PT-BR): 2 min read First Steps: America’s Grueling Second Spacewalk Michele Ostovar NASA History Communications Lead Jun 05, 2026 Image Article A year after America’s first spacewalk, Gemini IX-A Eugene Cernan stepped outside his spacecraft for an ambitious extravehicular activity scheduled for 167 minutes. The challenges he faced led NASA to reevaluate plans, equipment, and training for future spacewalks.",
       "queued_ts": 1780680715
+    },
+    {
+      "fp": "06809025190b67e4602bec76",
+      "title": "NASA Satellites Uncover Large-Scale Ocean Nutrient Stress",
+      "link": "https://science.nasa.gov/uncategorized/ocean-nutrient-stress/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-05T18:00:11+00:00",
+      "day_brt": "2026-06-05",
+      "resumo_pt": "Resumo: link com pouco texto extraível; confira a matéria para detalhes.",
+      "queued_ts": 1780687265
     }
   ],
   "digests_sent": {
@@ -3498,7 +3518,8 @@
       "ea0afb4c22864e1600def25a": true,
       "406b0dccc8d794e9562cd1ea": true,
       "f6d68da6ec1678b4344b1b68": true,
-      "c70fd0d4ec8d5e8a5bd83437": true
+      "c70fd0d4ec8d5e8a5bd83437": true,
+      "06809025190b67e4602bec76": true
     }
   }
 }
