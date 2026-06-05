@@ -3041,6 +3041,14 @@
       "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/",
       "score": 4.0,
       "published_utc": "2026-06-05T20:17:11+00:00"
+    },
+    "d02d67186d65daf633086705": {
+      "ts": 1780702966,
+      "source": "Space.com",
+      "title": "Going supersonic! NASA's X-59 jet breaks sound barrier for the 1st time",
+      "link": "https://www.space.com/technology/aerospace/going-supersonic-nasas-x-59-jet-breaks-sound-barrier-for-the-1st-time",
+      "score": 2.8,
+      "published_utc": "2026-06-05T22:31:25+00:00"
     }
   },
   "digest_queue": [
@@ -3259,90 +3267,6 @@
       "day_brt": "2026-06-02",
       "resumo_pt": "Resumo (PT-BR): Blue Origin initiates LC-36 recovery, targets RTF by end of 2026 by Ryan Caton June 2, 2026 written by Ryan Caton June 2, 2026 5 Blue Origin has wasted no time launching inspection, repair, and reconstruction activities at Launch Complex-36 following the loss of a New Glenn vehicle during static fire testing last Thursday night. According to company CEO Dave Limp, the company intends to return the pad to flight operations with New Glenn before the end of this year.",
       "queued_ts": 1780450869
-    },
-    {
-      "fp": "ea0afb4c22864e1600def25a",
-      "title": "NASA crew briefly shelter inside Dragon capsule as Russia addresses new space station leaks",
-      "link": "https://spaceflightnow.com/2026/06/05/nasa-crew-briefly-shelter-inside-dragon-capsule-as-russia-addresses-new-space-station-leaks/",
-      "source": "Spaceflight Now",
-      "score": 9.0,
-      "is_anomaly": true,
-      "published_utc": "2026-06-05T15:38:54+00:00",
-      "day_brt": "2026-06-05",
-      "resumo_pt": "Resumo (PT-BR): NASA crew briefly shelter inside Dragon capsule as Russia addresses new space station leaks June 5, 2026 Will Robinson-Smith A computer rendering of the configuration of the International Space Station as of May 17, 2026. Six spaceships are parked at the space station including the SpaceX CRS-34 Dragon, the SpaceX Crew-12 Dragon, Northrop Grumman’s Cygnus XL, the Soyuz MS-28 crew ship, and the Progress 94 and 95 resupply ships.",
-      "queued_ts": 1780674076
-    },
-    {
-      "fp": "406b0dccc8d794e9562cd1ea",
-      "title": "Astronauts on International Space Station take shelter in SpaceX Dragon as cosmonauts try to fix air leak",
-      "link": "https://www.space.com/space-exploration/international-space-station/astronauts-on-international-space-station-take-shelter-in-spacex-dragon-as-cosmonauts-try-to-fix-air-leak",
-      "source": "Space.com",
-      "score": 7.0,
-      "is_anomaly": true,
-      "published_utc": "2026-06-05T15:30:32+00:00",
-      "day_brt": "2026-06-05",
-      "resumo_pt": "Resumo (PT-BR): Space Exploration Missions International Space Station Astronauts on International Space Station take shelter in SpaceX Dragon as cosmonauts try to fix air leak News By Mike Wall published 5 June 2026 \"Out of an abundance of caution, NASA has directed all four of the agency's SpaceX Crew-12 members and NASA astronaut Chris Williams to assume an elevated safety posture in the Dragon spacecraft while the repair is underway.\" When you purchase through links on our site, we may earn an affiliate commission. (Image credit: NASA) Copy link Facebook X Whatsapp Reddit Pinterest Flipboard Email Share this article 0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter NASA ordered five astronauts on the International Space Station to take shelter in an attached SpaceX Dragon spacecraft today while Russian cosmonauts tried to fix a concerning air leak on the orbiting lab.",
-      "queued_ts": 1780674076
-    },
-    {
-      "fp": "f6d68da6ec1678b4344b1b68",
-      "title": "NASA crew briefly shelters inside Dragon capsule as Russia addresses new space station leaks",
-      "link": "https://spaceflightnow.com/2026/06/05/nasa-crew-briefly-shelter-inside-dragon-capsule-as-russia-addresses-new-space-station-leaks/",
-      "source": "Spaceflight Now",
-      "score": 9.0,
-      "is_anomaly": true,
-      "published_utc": "2026-06-05T15:38:54+00:00",
-      "day_brt": "2026-06-05",
-      "resumo_pt": "Resumo (PT-BR): NASA crew briefly shelters inside Dragon capsule as Russia addresses new space station leaks June 5, 2026 Will Robinson-Smith A computer rendering of the configuration of the International Space Station as of May 17, 2026. Six spaceships are parked at the space station including the SpaceX CRS-34 Dragon, the SpaceX Crew-12 Dragon, Northrop Grumman’s Cygnus XL, the Soyuz MS-28 crew ship, and the Progress 94 and 95 resupply ships.",
-      "queued_ts": 1780680715
-    },
-    {
-      "fp": "c70fd0d4ec8d5e8a5bd83437",
-      "title": "First Steps: America’s Grueling Second Spacewalk",
-      "link": "https://www.nasa.gov/image-article/first-steps-americas-grueling-second-spacewalk/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-05T15:47:27+00:00",
-      "day_brt": "2026-06-05",
-      "resumo_pt": "Resumo (PT-BR): 2 min read First Steps: America’s Grueling Second Spacewalk Michele Ostovar NASA History Communications Lead Jun 05, 2026 Image Article A year after America’s first spacewalk, Gemini IX-A Eugene Cernan stepped outside his spacecraft for an ambitious extravehicular activity scheduled for 167 minutes. The challenges he faced led NASA to reevaluate plans, equipment, and training for future spacewalks.",
-      "queued_ts": 1780680715
-    },
-    {
-      "fp": "06809025190b67e4602bec76",
-      "title": "NASA Satellites Uncover Large-Scale Ocean Nutrient Stress",
-      "link": "https://science.nasa.gov/uncategorized/ocean-nutrient-stress/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-05T18:00:11+00:00",
-      "day_brt": "2026-06-05",
-      "resumo_pt": "Resumo: link com pouco texto extraível; confira a matéria para detalhes.",
-      "queued_ts": 1780687265
-    },
-    {
-      "fp": "8c0e9f8ec939facfcefb84ae",
-      "title": "NASA’s X-59 Aircraft Flies Supersonic for First Time",
-      "link": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-05T20:44:57+00:00",
-      "day_brt": "2026-06-05",
-      "resumo_pt": "Resumo (PT-BR): 4 min read NASA’s X-59 Aircraft Flies Supersonic for First Time Kristen Hatfield Public Affairs Specialist Jun 05, 2026 Article NASA’s X-59 eXternal Vision System shows Mach 1.077 on Friday, June 5, 2026, marking the aircraft’s first time reaching supersonic speed in support of NASA’s Quesst mission. The moment represents a milestone for the aircraft as it transitions to include test flights faster than the speed of sound.",
-      "queued_ts": 1780698093
-    },
-    {
-      "fp": "ad92becbd424ea2f3f0e39c0",
-      "title": "NASA Announces Winners of 2026 University Innovation Competition",
-      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-05T20:17:11+00:00",
-      "day_brt": "2026-06-05",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Announces Winners of 2026 University Innovation Competition Bailey G. Light Jun 05, 2026 Article The Massachusetts Institute of Technology team that won the 2026 RASC-AL competition for their project, Exploration-Class Lunar Integrated Power SystEm.",
-      "queued_ts": 1780698093
     }
   ],
   "digests_sent": {
@@ -3477,7 +3401,8 @@
       "night": true
     },
     "2026-06-05": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
