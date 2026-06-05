@@ -2992,6 +2992,31 @@
       "score": 0.0,
       "published_utc": "2026-06-03T22:00:00+00:00",
       "note": "not_today"
+    },
+    "c70fd0d4ec8d5e8a5bd83437": {
+      "ts": 1780680711,
+      "source": "NASA Breaking News",
+      "title": "First Steps: America’s Grueling Second Spacewalk",
+      "link": "https://www.nasa.gov/image-article/first-steps-americas-grueling-second-spacewalk/",
+      "score": 4.0,
+      "published_utc": "2026-06-05T15:47:27+00:00"
+    },
+    "95334313f89c61d0c78415f4": {
+      "ts": 1780680711,
+      "source": "NASA Breaking News",
+      "title": "NASA Concludes Antenna Mishap Investigation, Releases Report",
+      "link": "https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasa-concludes-antenna-mishap-investigation-releases-report/",
+      "score": 0.0,
+      "published_utc": "2026-06-04T15:22:36+00:00",
+      "note": "not_today"
+    },
+    "f6d68da6ec1678b4344b1b68": {
+      "ts": 1780680713,
+      "source": "Spaceflight Now",
+      "title": "NASA crew briefly shelters inside Dragon capsule as Russia addresses new space station leaks",
+      "link": "https://spaceflightnow.com/2026/06/05/nasa-crew-briefly-shelter-inside-dragon-capsule-as-russia-addresses-new-space-station-leaks/",
+      "score": 9.0,
+      "published_utc": "2026-06-05T15:38:54+00:00"
     }
   },
   "digest_queue": [
@@ -3234,6 +3259,30 @@
       "day_brt": "2026-06-05",
       "resumo_pt": "Resumo (PT-BR): Space Exploration Missions International Space Station Astronauts on International Space Station take shelter in SpaceX Dragon as cosmonauts try to fix air leak News By Mike Wall published 5 June 2026 \"Out of an abundance of caution, NASA has directed all four of the agency's SpaceX Crew-12 members and NASA astronaut Chris Williams to assume an elevated safety posture in the Dragon spacecraft while the repair is underway.\" When you purchase through links on our site, we may earn an affiliate commission. (Image credit: NASA) Copy link Facebook X Whatsapp Reddit Pinterest Flipboard Email Share this article 0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter NASA ordered five astronauts on the International Space Station to take shelter in an attached SpaceX Dragon spacecraft today while Russian cosmonauts tried to fix a concerning air leak on the orbiting lab.",
       "queued_ts": 1780674076
+    },
+    {
+      "fp": "f6d68da6ec1678b4344b1b68",
+      "title": "NASA crew briefly shelters inside Dragon capsule as Russia addresses new space station leaks",
+      "link": "https://spaceflightnow.com/2026/06/05/nasa-crew-briefly-shelter-inside-dragon-capsule-as-russia-addresses-new-space-station-leaks/",
+      "source": "Spaceflight Now",
+      "score": 9.0,
+      "is_anomaly": true,
+      "published_utc": "2026-06-05T15:38:54+00:00",
+      "day_brt": "2026-06-05",
+      "resumo_pt": "Resumo (PT-BR): NASA crew briefly shelters inside Dragon capsule as Russia addresses new space station leaks June 5, 2026 Will Robinson-Smith A computer rendering of the configuration of the International Space Station as of May 17, 2026. Six spaceships are parked at the space station including the SpaceX CRS-34 Dragon, the SpaceX Crew-12 Dragon, Northrop Grumman’s Cygnus XL, the Soyuz MS-28 crew ship, and the Progress 94 and 95 resupply ships.",
+      "queued_ts": 1780680715
+    },
+    {
+      "fp": "c70fd0d4ec8d5e8a5bd83437",
+      "title": "First Steps: America’s Grueling Second Spacewalk",
+      "link": "https://www.nasa.gov/image-article/first-steps-americas-grueling-second-spacewalk/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-05T15:47:27+00:00",
+      "day_brt": "2026-06-05",
+      "resumo_pt": "Resumo (PT-BR): 2 min read First Steps: America’s Grueling Second Spacewalk Michele Ostovar NASA History Communications Lead Jun 05, 2026 Image Article A year after America’s first spacewalk, Gemini IX-A Eugene Cernan stepped outside his spacecraft for an ambitious extravehicular activity scheduled for 167 minutes. The challenges he faced led NASA to reevaluate plans, equipment, and training for future spacewalks.",
+      "queued_ts": 1780680715
     }
   ],
   "digests_sent": {
@@ -3447,7 +3496,9 @@
     },
     "2026-06-05": {
       "ea0afb4c22864e1600def25a": true,
-      "406b0dccc8d794e9562cd1ea": true
+      "406b0dccc8d794e9562cd1ea": true,
+      "f6d68da6ec1678b4344b1b68": true,
+      "c70fd0d4ec8d5e8a5bd83437": true
     }
   }
 }
