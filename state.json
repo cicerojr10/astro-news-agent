@@ -2967,6 +2967,31 @@
       "link": "https://www.space.com/space-exploration/usd1-77-trillion-spacex-is-about-to-become-the-7th-most-valuable-american-company",
       "score": 2.8,
       "published_utc": "2026-06-05T13:00:00+00:00"
+    },
+    "ea0afb4c22864e1600def25a": {
+      "ts": 1780674072,
+      "source": "Spaceflight Now",
+      "title": "NASA crew briefly shelter inside Dragon capsule as Russia addresses new space station leaks",
+      "link": "https://spaceflightnow.com/2026/06/05/nasa-crew-briefly-shelter-inside-dragon-capsule-as-russia-addresses-new-space-station-leaks/",
+      "score": 9.0,
+      "published_utc": "2026-06-05T15:38:54+00:00"
+    },
+    "406b0dccc8d794e9562cd1ea": {
+      "ts": 1780674073,
+      "source": "Space.com",
+      "title": "Astronauts on International Space Station take shelter in SpaceX Dragon as cosmonauts try to fix air leak",
+      "link": "https://www.space.com/space-exploration/international-space-station/astronauts-on-international-space-station-take-shelter-in-spacex-dragon-as-cosmonauts-try-to-fix-air-leak",
+      "score": 7.0,
+      "published_utc": "2026-06-05T15:30:32+00:00"
+    },
+    "5e795992238c2ef8ace6a142": {
+      "ts": 1780674073,
+      "source": "Space.com",
+      "title": "Black holes could 'leak' long enough to become white holes that weigh no more than a flea's egg",
+      "link": "https://www.space.com/astronomy/black-holes/can-black-holes-turn-into-white-holes-its-not-such-a-crazy-idea-scientists-say",
+      "score": 0.0,
+      "published_utc": "2026-06-03T22:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -3185,6 +3210,30 @@
       "day_brt": "2026-06-02",
       "resumo_pt": "Resumo (PT-BR): Blue Origin initiates LC-36 recovery, targets RTF by end of 2026 by Ryan Caton June 2, 2026 written by Ryan Caton June 2, 2026 5 Blue Origin has wasted no time launching inspection, repair, and reconstruction activities at Launch Complex-36 following the loss of a New Glenn vehicle during static fire testing last Thursday night. According to company CEO Dave Limp, the company intends to return the pad to flight operations with New Glenn before the end of this year.",
       "queued_ts": 1780450869
+    },
+    {
+      "fp": "ea0afb4c22864e1600def25a",
+      "title": "NASA crew briefly shelter inside Dragon capsule as Russia addresses new space station leaks",
+      "link": "https://spaceflightnow.com/2026/06/05/nasa-crew-briefly-shelter-inside-dragon-capsule-as-russia-addresses-new-space-station-leaks/",
+      "source": "Spaceflight Now",
+      "score": 9.0,
+      "is_anomaly": true,
+      "published_utc": "2026-06-05T15:38:54+00:00",
+      "day_brt": "2026-06-05",
+      "resumo_pt": "Resumo (PT-BR): NASA crew briefly shelter inside Dragon capsule as Russia addresses new space station leaks June 5, 2026 Will Robinson-Smith A computer rendering of the configuration of the International Space Station as of May 17, 2026. Six spaceships are parked at the space station including the SpaceX CRS-34 Dragon, the SpaceX Crew-12 Dragon, Northrop Grumman’s Cygnus XL, the Soyuz MS-28 crew ship, and the Progress 94 and 95 resupply ships.",
+      "queued_ts": 1780674076
+    },
+    {
+      "fp": "406b0dccc8d794e9562cd1ea",
+      "title": "Astronauts on International Space Station take shelter in SpaceX Dragon as cosmonauts try to fix air leak",
+      "link": "https://www.space.com/space-exploration/international-space-station/astronauts-on-international-space-station-take-shelter-in-spacex-dragon-as-cosmonauts-try-to-fix-air-leak",
+      "source": "Space.com",
+      "score": 7.0,
+      "is_anomaly": true,
+      "published_utc": "2026-06-05T15:30:32+00:00",
+      "day_brt": "2026-06-05",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Missions International Space Station Astronauts on International Space Station take shelter in SpaceX Dragon as cosmonauts try to fix air leak News By Mike Wall published 5 June 2026 \"Out of an abundance of caution, NASA has directed all four of the agency's SpaceX Crew-12 members and NASA astronaut Chris Williams to assume an elevated safety posture in the Dragon spacecraft while the repair is underway.\" When you purchase through links on our site, we may earn an affiliate commission. (Image credit: NASA) Copy link Facebook X Whatsapp Reddit Pinterest Flipboard Email Share this article 0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter NASA ordered five astronauts on the International Space Station to take shelter in an attached SpaceX Dragon spacecraft today while Russian cosmonauts tried to fix a concerning air leak on the orbiting lab.",
+      "queued_ts": 1780674076
     }
   ],
   "digests_sent": {
@@ -3395,6 +3444,10 @@
     "2026-06-04": {
       "44521420a5c7ae4ab586ef59": true,
       "5cdd8a6f237bba74e09c413e": true
+    },
+    "2026-06-05": {
+      "ea0afb4c22864e1600def25a": true,
+      "406b0dccc8d794e9562cd1ea": true
     }
   }
 }
