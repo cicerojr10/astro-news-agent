@@ -3057,6 +3057,14 @@
       "link": "https://www.space.com/entertainment/neil-degrasse-tyson-narrates-new-trailer-for-upcoming-broadway-musical-galileo",
       "score": 2.8,
       "published_utc": "2026-06-06T12:00:00+00:00"
+    },
+    "22394bd5e70470f9e9223408": {
+      "ts": 1780760760,
+      "source": "Spaceflight Now",
+      "title": "SpaceX to launch 2 Starshield satellites during Saturday night Starlink mission",
+      "link": "https://spaceflightnow.com/2026/06/06/spacex-to-launch-2-starshield-satellites-during-saturday-night-starlink-mission/",
+      "score": 3.6,
+      "published_utc": "2026-06-06T15:43:12+00:00"
     }
   },
   "digest_queue": [
@@ -3275,6 +3283,18 @@
       "day_brt": "2026-06-02",
       "resumo_pt": "Resumo (PT-BR): Blue Origin initiates LC-36 recovery, targets RTF by end of 2026 by Ryan Caton June 2, 2026 written by Ryan Caton June 2, 2026 5 Blue Origin has wasted no time launching inspection, repair, and reconstruction activities at Launch Complex-36 following the loss of a New Glenn vehicle during static fire testing last Thursday night. According to company CEO Dave Limp, the company intends to return the pad to flight operations with New Glenn before the end of this year.",
       "queued_ts": 1780450869
+    },
+    {
+      "fp": "22394bd5e70470f9e9223408",
+      "title": "SpaceX to launch 2 Starshield satellites during Saturday night Starlink mission",
+      "link": "https://spaceflightnow.com/2026/06/06/spacex-to-launch-2-starshield-satellites-during-saturday-night-starlink-mission/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-06-06T15:43:12+00:00",
+      "day_brt": "2026-06-06",
+      "resumo_pt": "Resumo (PT-BR): SpaceX to launch 2 Starshield satellites during Saturday night Starlink mission June 6, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket is seen in the launch position at Space Launch Complex 4 East at Vandenberg Space Force Base on Jan. 16, 2026, ahead of the launch of the NROL-105 mission for the National Reconnaissance Office.",
+      "queued_ts": 1780760761
     }
   ],
   "digests_sent": {
@@ -3417,44 +3437,6 @@
     }
   },
   "sent_updates": {
-    "2026-05-27": {
-      "d30b2adae44db1dd33d1cb54": true,
-      "75b5cd66e3e3b4258ccf70ca": true,
-      "85bfc6eb60e1ae66ef828d0b": true,
-      "890773ee50558628499b2c6f": true,
-      "19e6c2ec578a5e7fa3ffa2b4": true,
-      "4f32f5d222015b7260a53ff0": true,
-      "8239484c1230153b7ff2fca7": true,
-      "3bac3b70b0ef6bd5d675dff1": true,
-      "595c93d364f4cb2287ce8d60": true
-    },
-    "2026-05-28": {
-      "a3ff08f36fa01651d35b2f02": true,
-      "ba6c295b1cbb5f6eaabed262": true,
-      "43bfcb5d9a6850f752714e42": true,
-      "b988b964b5470370c119b973": true,
-      "26d7245a16a56c9020c28b4b": true,
-      "cf14122379bc43459b142acd": true,
-      "e00e106602319aa16a6a62a1": true,
-      "972bedb031f8734613b2b545": true,
-      "c8198b1cb166a17e2f7d5a0e": true
-    },
-    "2026-05-29": {
-      "2e74dc9db6b61c786de34feb": true,
-      "6984efea4cf5dce7951d0fd5": true,
-      "c2f7716b9c6cf5f60a81b25f": true,
-      "3be495a8da7c2d99b9e148cb": true,
-      "8d1d8fa473d1c0d80df27e48": true,
-      "cfcc06534fcf046f46ecb098": true,
-      "9aaa784f12047eb83b98eaf2": true,
-      "0f52a4589379d2d12b880b95": true,
-      "7f4a87b29bc6766e466f05e5": true,
-      "9ecfb261e5754a153bc01962": true
-    },
-    "2026-05-30": {
-      "49ea2c6fb8df708a47b70bd9": true,
-      "acaa51e60d7b7c8430c660af": true
-    },
     "2026-05-31": {
       "71de60e764f28cf2acaa0375": true
     },
@@ -3498,6 +3480,9 @@
       "06809025190b67e4602bec76": true,
       "8c0e9f8ec939facfcefb84ae": true,
       "ad92becbd424ea2f3f0e39c0": true
+    },
+    "2026-06-06": {
+      "22394bd5e70470f9e9223408": true
     }
   }
 }
