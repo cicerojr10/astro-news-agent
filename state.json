@@ -3074,6 +3074,14 @@
       "score": 0.0,
       "published_utc": "2026-06-06T15:43:12+00:00",
       "note": "not_today"
+    },
+    "02a0e4884db2cb65faec6f71": {
+      "ts": 1780862272,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch Falcon 9 rocket booster on record-breaking 35th flight",
+      "link": "https://spaceflightnow.com/2026/06/07/live-coverage-spacex-to-launch-falcon-9-rocket-booster-on-record-breaking-35th-flight/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-06-07T19:08:47+00:00"
     }
   },
   "digest_queue": [
@@ -3292,6 +3300,18 @@
       "day_brt": "2026-06-02",
       "resumo_pt": "Resumo (PT-BR): Blue Origin initiates LC-36 recovery, targets RTF by end of 2026 by Ryan Caton June 2, 2026 written by Ryan Caton June 2, 2026 5 Blue Origin has wasted no time launching inspection, repair, and reconstruction activities at Launch Complex-36 following the loss of a New Glenn vehicle during static fire testing last Thursday night. According to company CEO Dave Limp, the company intends to return the pad to flight operations with New Glenn before the end of this year.",
       "queued_ts": 1780450869
+    },
+    {
+      "fp": "02a0e4884db2cb65faec6f71",
+      "title": "Live coverage: SpaceX to launch Falcon 9 rocket booster on record-breaking 35th flight",
+      "link": "https://spaceflightnow.com/2026/06/07/live-coverage-spacex-to-launch-falcon-9-rocket-booster-on-record-breaking-35th-flight/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-06-07T19:08:47+00:00",
+      "day_brt": "2026-06-07",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch Falcon 9 rocket booster on record-breaking 35th flight June 7, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket with the first stage booster, 1067, stands at Launch Complex 39A on Aug. Image: SpaceX SpaceX is set to push its Falcon 9 rocket fleet to the next level by flying its flight leader, tail number B1067, on a record-breaking 35th flight.",
+      "queued_ts": 1780862274
     }
   ],
   "digests_sent": {
@@ -3484,6 +3504,9 @@
     },
     "2026-06-06": {
       "22394bd5e70470f9e9223408": true
+    },
+    "2026-06-07": {
+      "02a0e4884db2cb65faec6f71": true
     }
   }
 }
