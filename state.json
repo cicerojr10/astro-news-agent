@@ -3082,6 +3082,14 @@
       "link": "https://spaceflightnow.com/2026/06/07/live-coverage-spacex-to-launch-falcon-9-rocket-booster-on-record-breaking-35th-flight/",
       "score": 4.680000000000001,
       "published_utc": "2026-06-07T19:08:47+00:00"
+    },
+    "499c408b75806399395ab17d": {
+      "ts": 1780866393,
+      "source": "NASASpaceflight",
+      "title": "NASA concludes MAVEN mission at Mars, uses data to discover new atmospheric phenomenon",
+      "link": "https://www.nasaspaceflight.com/2026/06/maven-end-of-mission/",
+      "score": 3.6,
+      "published_utc": "2026-06-07T20:11:48+00:00"
     }
   },
   "digest_queue": [
@@ -3312,6 +3320,18 @@
       "day_brt": "2026-06-07",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch Falcon 9 rocket booster on record-breaking 35th flight June 7, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket with the first stage booster, 1067, stands at Launch Complex 39A on Aug. Image: SpaceX SpaceX is set to push its Falcon 9 rocket fleet to the next level by flying its flight leader, tail number B1067, on a record-breaking 35th flight.",
       "queued_ts": 1780862274
+    },
+    {
+      "fp": "499c408b75806399395ab17d",
+      "title": "NASA concludes MAVEN mission at Mars, uses data to discover new atmospheric phenomenon",
+      "link": "https://www.nasaspaceflight.com/2026/06/maven-end-of-mission/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-06-07T20:11:48+00:00",
+      "day_brt": "2026-06-07",
+      "resumo_pt": "Resumo (PT-BR): NASA concludes MAVEN mission at Mars, uses data to discover new atmospheric phenomenon by Haygen Warren June 7, 2026 written by Haygen Warren June 7, 2026 3 Following a six-month battle to regain communication with its Mars Atmosphere and Volatile Evolution (MAVEN) spacecraft around Mars, NASA announced the conclusion of the MAVEN mission on June 3rd. The mission, which launched to the red planet in 2013, studied the Martian atmosphere and its evolution for 11 years — over a decade longer than initially expected.",
+      "queued_ts": 1780866393
     }
   ],
   "digests_sent": {
@@ -3506,7 +3526,8 @@
       "22394bd5e70470f9e9223408": true
     },
     "2026-06-07": {
-      "02a0e4884db2cb65faec6f71": true
+      "02a0e4884db2cb65faec6f71": true,
+      "499c408b75806399395ab17d": true
     }
   }
 }
