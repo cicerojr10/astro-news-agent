@@ -3107,6 +3107,23 @@
       "link": "https://www.space.com/space-exploration/artemis/is-this-the-next-artemis-crew-a-look-at-the-astronauts-on-nasas-shortlist",
       "score": 2.8,
       "published_utc": "2026-06-08T10:00:00+00:00"
+    },
+    "b77d20b0b2acaca17514caa3": {
+      "ts": 1780929653,
+      "source": "NASA Breaking News",
+      "title": "NASA Satellites Help Map Ocean Nutrient Stress",
+      "link": "https://science.nasa.gov/earth/ocean-nutrient-stress/",
+      "score": 0.0,
+      "published_utc": "2026-06-05T18:00:11+00:00",
+      "note": "not_today"
+    },
+    "189c5ba13fafffa75566d832": {
+      "ts": 1780929655,
+      "source": "Space.com",
+      "title": "Incoming CME could spark impressive northern lights over the northern US tonight",
+      "link": "https://www.space.com/stargazing/auroras/incoming-cme-could-spark-impressive-northern-lights-over-the-northern-us-june-8",
+      "score": 2.8,
+      "published_utc": "2026-06-08T12:33:01+00:00"
     }
   },
   "digest_queue": [
