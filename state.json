@@ -3124,6 +3124,38 @@
       "link": "https://www.space.com/stargazing/auroras/incoming-cme-could-spark-impressive-northern-lights-over-the-northern-us-june-8",
       "score": 2.8,
       "published_utc": "2026-06-08T12:33:01+00:00"
+    },
+    "073dd35ad75ac2e7529ba0c0": {
+      "ts": 1780940475,
+      "source": "NASA Breaking News",
+      "title": "Supersonic!",
+      "link": "https://www.nasa.gov/image-article/supersonic/",
+      "score": 4.0,
+      "published_utc": "2026-06-08T15:28:10+00:00"
+    },
+    "60f6fd8ff378943953af809f": {
+      "ts": 1780940475,
+      "source": "NASA Breaking News",
+      "title": "NASA’s INCUS Satellites Progress Toward Launch",
+      "link": "https://science.nasa.gov/photojournal/nasas-incus-satellites-progress-toward-launch/",
+      "score": 4.0,
+      "published_utc": "2026-06-08T15:22:07+00:00"
+    },
+    "d4e40b28d160293588d96d34": {
+      "ts": 1780940477,
+      "source": "Space.com",
+      "title": "This former Paralympic athlete could become the 1st person with a physical disability to live in orbit",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/this-former-paralympic-athlete-could-become-the-1st-person-with-a-physical-disability-to-live-in-orbit",
+      "score": 2.8,
+      "published_utc": "2026-06-08T17:00:00+00:00"
+    },
+    "a6fef2734cf2886b9a4f7116": {
+      "ts": 1780940477,
+      "source": "Space.com",
+      "title": "Watch SpaceX set new rocket reuse record with 35th launch — and landing —  of a Falcon 9 booster (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-35-b1067-ccsfs-asog",
+      "score": 2.8,
+      "published_utc": "2026-06-08T16:30:00+00:00"
     }
   },
   "digest_queue": [
@@ -3342,6 +3374,30 @@
       "day_brt": "2026-06-02",
       "resumo_pt": "Resumo (PT-BR): Blue Origin initiates LC-36 recovery, targets RTF by end of 2026 by Ryan Caton June 2, 2026 written by Ryan Caton June 2, 2026 5 Blue Origin has wasted no time launching inspection, repair, and reconstruction activities at Launch Complex-36 following the loss of a New Glenn vehicle during static fire testing last Thursday night. According to company CEO Dave Limp, the company intends to return the pad to flight operations with New Glenn before the end of this year.",
       "queued_ts": 1780450869
+    },
+    {
+      "fp": "073dd35ad75ac2e7529ba0c0",
+      "title": "Supersonic!",
+      "link": "https://www.nasa.gov/image-article/supersonic/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-08T15:28:10+00:00",
+      "day_brt": "2026-06-08",
+      "resumo_pt": "Resumo (PT-BR): Kristen Hatfield Public Affairs Specialist HQ Web Team Jun 08, 2026 Image Article NASA/Lori Losey On June 5, 2026, NASA’s experimental X-59 aircraft flew faster than the speed of sound for the first time, setting the stage for demonstrating its quiet supersonic capabilities later this year. NASA test pilot Jim “Clue” Less took off and landed at Edwards Air Force Base in California, reaching a top speed of approximately Mach 1.1 (713 mph).",
+      "queued_ts": 1780940478
+    },
+    {
+      "fp": "60f6fd8ff378943953af809f",
+      "title": "NASA’s INCUS Satellites Progress Toward Launch",
+      "link": "https://science.nasa.gov/photojournal/nasas-incus-satellites-progress-toward-launch/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-08T15:22:07+00:00",
+      "day_brt": "2026-06-08",
+      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NASA’s INCUS Satellites... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 2 Min Read NASA’s INCUS Satellites Progress Toward Launch PIA26614 Credits: Blue Canyon Technologies Image Addition Date: 06/08/2026 Downloads NASA’s INCUS Satellites Progress Toward Launch JPEG (10.32 MB) Description One of the three satellites that make up NASA’s INCUS (Investigation of Convective Updrafts) mission sits on a fixture at the facilities of Blue Canyon Technologies in Lafayette, Colorado.",
+      "queued_ts": 1780940478
     }
   ],
   "digests_sent": {
@@ -3542,6 +3598,10 @@
     "2026-06-07": {
       "02a0e4884db2cb65faec6f71": true,
       "499c408b75806399395ab17d": true
+    },
+    "2026-06-08": {
+      "073dd35ad75ac2e7529ba0c0": true,
+      "60f6fd8ff378943953af809f": true
     }
   }
 }
