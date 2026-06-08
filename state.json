@@ -3090,6 +3090,23 @@
       "link": "https://www.nasaspaceflight.com/2026/06/maven-end-of-mission/",
       "score": 3.6,
       "published_utc": "2026-06-07T20:11:48+00:00"
+    },
+    "74a24855d8ced228e33e8af4": {
+      "ts": 1780917784,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches Falcon 9 rocket booster on record-breaking 35th flight",
+      "link": "https://spaceflightnow.com/2026/06/07/live-coverage-spacex-to-launch-falcon-9-rocket-booster-on-record-breaking-35th-flight/",
+      "score": 0.0,
+      "published_utc": "2026-06-07T19:08:47+00:00",
+      "note": "not_today"
+    },
+    "b94e3700009512d0112f6473": {
+      "ts": 1780917785,
+      "source": "Space.com",
+      "title": "Is this the next Artemis crew? A look at the astronauts on NASA's shortlist",
+      "link": "https://www.space.com/space-exploration/artemis/is-this-the-next-artemis-crew-a-look-at-the-astronauts-on-nasas-shortlist",
+      "score": 2.8,
+      "published_utc": "2026-06-08T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -3452,6 +3469,9 @@
     "2026-06-07": {
       "morning": true,
       "night": true
+    },
+    "2026-06-08": {
+      "morning": true
     }
   },
   "sent_updates": {
