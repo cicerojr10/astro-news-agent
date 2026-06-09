@@ -3164,6 +3164,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-35-b1067-ccsfs-asog",
       "score": 2.8,
       "published_utc": "2026-06-08T16:30:00+00:00"
+    },
+    "2e608e78735bda4f5779efe0": {
+      "ts": 1781012098,
+      "source": "NASASpaceflight",
+      "title": "Booster 20 into Cryogenic Testing ahead of Starship Flight 13",
+      "link": "https://www.nasaspaceflight.com/2026/06/booster-20-cryogenic-testing-ahead-flight-13/",
+      "score": 3.6,
+      "published_utc": "2026-06-09T12:59:37+00:00"
     }
   },
   "digest_queue": [
@@ -3382,6 +3390,18 @@
       "day_brt": "2026-06-02",
       "resumo_pt": "Resumo (PT-BR): Blue Origin initiates LC-36 recovery, targets RTF by end of 2026 by Ryan Caton June 2, 2026 written by Ryan Caton June 2, 2026 5 Blue Origin has wasted no time launching inspection, repair, and reconstruction activities at Launch Complex-36 following the loss of a New Glenn vehicle during static fire testing last Thursday night. According to company CEO Dave Limp, the company intends to return the pad to flight operations with New Glenn before the end of this year.",
       "queued_ts": 1780450869
+    },
+    {
+      "fp": "2e608e78735bda4f5779efe0",
+      "title": "Booster 20 into Cryogenic Testing ahead of Starship Flight 13",
+      "link": "https://www.nasaspaceflight.com/2026/06/booster-20-cryogenic-testing-ahead-flight-13/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-06-09T12:59:37+00:00",
+      "day_brt": "2026-06-09",
+      "resumo_pt": "Resumo (PT-BR): Booster 20 into Cryogenic Testing ahead of Starship Flight 13 by Arran Reid and Chris Bergin June 9, 2026 written by Arran Reid and Chris Bergin June 9, 2026 1 Starship Flight 12 may have only recently concluded, but SpaceX’s Starbase teams are already deep into preparations for the next integrated flight test. The latest milestone involves the rollout of Booster 20 (B20), the Super Heavy booster assigned to Flight 13, as it moved from Megabay 1 to Massey’s test site and has begun cryogenic proof testing campaign.",
+      "queued_ts": 1781012099
     }
   ],
   "digests_sent": {
@@ -3590,6 +3610,9 @@
     "2026-06-08": {
       "073dd35ad75ac2e7529ba0c0": true,
       "60f6fd8ff378943953af809f": true
+    },
+    "2026-06-09": {
+      "2e608e78735bda4f5779efe0": true
     }
   }
 }
