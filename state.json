@@ -3172,6 +3172,15 @@
       "link": "https://www.nasaspaceflight.com/2026/06/booster-20-cryogenic-testing-ahead-flight-13/",
       "score": 3.6,
       "published_utc": "2026-06-09T12:59:37+00:00"
+    },
+    "9980237ec380925275fa072d": {
+      "ts": 1781022532,
+      "source": "Space.com",
+      "title": "SpaceX just launched — and landed — a Falcon 9 rocket booster for the 35th time. That's a new record. (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-35-b1067-ccsfs-asog",
+      "score": 0.0,
+      "published_utc": "2026-06-08T16:30:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
