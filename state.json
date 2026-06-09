@@ -3181,6 +3181,22 @@
       "score": 0.0,
       "published_utc": "2026-06-08T16:30:00+00:00",
       "note": "not_today"
+    },
+    "e19c46ca1baae82b11f45f5a": {
+      "ts": 1781029760,
+      "source": "NASASpaceflight",
+      "title": "Artemis III Crew Named: Veteran Astronauts to test Lunar Landers in LEO",
+      "link": "https://www.nasaspaceflight.com/2026/06/artemis-iii-veteran-astronauts-test-lunar-landers-leo/",
+      "score": 3.6,
+      "published_utc": "2026-06-09T16:56:31+00:00"
+    },
+    "b891e76642f99c185975b2e5": {
+      "ts": 1781029760,
+      "source": "Space.com",
+      "title": "Do galaxies have a 'kill switch' that makes them stop growing?",
+      "link": "https://www.space.com/astronomy/galaxies/what-causes-galaxies-to-stop-growing",
+      "score": 2.8,
+      "published_utc": "2026-06-09T18:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -3411,6 +3427,18 @@
       "day_brt": "2026-06-09",
       "resumo_pt": "Resumo (PT-BR): Booster 20 into Cryogenic Testing ahead of Starship Flight 13 by Arran Reid and Chris Bergin June 9, 2026 written by Arran Reid and Chris Bergin June 9, 2026 1 Starship Flight 12 may have only recently concluded, but SpaceX’s Starbase teams are already deep into preparations for the next integrated flight test. The latest milestone involves the rollout of Booster 20 (B20), the Super Heavy booster assigned to Flight 13, as it moved from Megabay 1 to Massey’s test site and has begun cryogenic proof testing campaign.",
       "queued_ts": 1781012099
+    },
+    {
+      "fp": "e19c46ca1baae82b11f45f5a",
+      "title": "Artemis III Crew Named: Veteran Astronauts to test Lunar Landers in LEO",
+      "link": "https://www.nasaspaceflight.com/2026/06/artemis-iii-veteran-astronauts-test-lunar-landers-leo/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-06-09T16:56:31+00:00",
+      "day_brt": "2026-06-09",
+      "resumo_pt": "Resumo (PT-BR): Artemis III Crew Named: Veteran Astronauts to test Lunar Landers in LEO by Ryan Caton June 9, 2026 written by Ryan Caton June 9, 2026 4 NASA has assigned the four astronauts who will fly the agency’s next crewed Space Launch System mission, an Earth-orbit test flight designed to evaluate one or both human-rated lunar landers before Artemis III. Commanding the mission will be NASA astronaut Randy Bresnik, with ESA astronaut Luca Parmitano serving as pilot.",
+      "queued_ts": 1781029761
     }
   ],
   "digests_sent": {
@@ -3621,7 +3649,8 @@
       "60f6fd8ff378943953af809f": true
     },
     "2026-06-09": {
-      "2e608e78735bda4f5779efe0": true
+      "2e608e78735bda4f5779efe0": true,
+      "e19c46ca1baae82b11f45f5a": true
     }
   }
 }
