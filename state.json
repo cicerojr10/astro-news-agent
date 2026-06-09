@@ -3463,90 +3463,6 @@
       "day_brt": "2026-06-02",
       "resumo_pt": "Resumo (PT-BR): Blue Origin initiates LC-36 recovery, targets RTF by end of 2026 by Ryan Caton June 2, 2026 written by Ryan Caton June 2, 2026 5 Blue Origin has wasted no time launching inspection, repair, and reconstruction activities at Launch Complex-36 following the loss of a New Glenn vehicle during static fire testing last Thursday night. According to company CEO Dave Limp, the company intends to return the pad to flight operations with New Glenn before the end of this year.",
       "queued_ts": 1780450869
-    },
-    {
-      "fp": "2e608e78735bda4f5779efe0",
-      "title": "Booster 20 into Cryogenic Testing ahead of Starship Flight 13",
-      "link": "https://www.nasaspaceflight.com/2026/06/booster-20-cryogenic-testing-ahead-flight-13/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-06-09T12:59:37+00:00",
-      "day_brt": "2026-06-09",
-      "resumo_pt": "Resumo (PT-BR): Booster 20 into Cryogenic Testing ahead of Starship Flight 13 by Arran Reid and Chris Bergin June 9, 2026 written by Arran Reid and Chris Bergin June 9, 2026 1 Starship Flight 12 may have only recently concluded, but SpaceX’s Starbase teams are already deep into preparations for the next integrated flight test. The latest milestone involves the rollout of Booster 20 (B20), the Super Heavy booster assigned to Flight 13, as it moved from Megabay 1 to Massey’s test site and has begun cryogenic proof testing campaign.",
-      "queued_ts": 1781012099
-    },
-    {
-      "fp": "e19c46ca1baae82b11f45f5a",
-      "title": "Artemis III Crew Named: Veteran Astronauts to test Lunar Landers in LEO",
-      "link": "https://www.nasaspaceflight.com/2026/06/artemis-iii-veteran-astronauts-test-lunar-landers-leo/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-06-09T16:56:31+00:00",
-      "day_brt": "2026-06-09",
-      "resumo_pt": "Resumo (PT-BR): Artemis III Crew Named: Veteran Astronauts to test Lunar Landers in LEO by Ryan Caton June 9, 2026 written by Ryan Caton June 9, 2026 4 NASA has assigned the four astronauts who will fly the agency’s next crewed Space Launch System mission, an Earth-orbit test flight designed to evaluate one or both human-rated lunar landers before Artemis III. Commanding the mission will be NASA astronaut Randy Bresnik, with ESA astronaut Luca Parmitano serving as pilot.",
-      "queued_ts": 1781029761
-    },
-    {
-      "fp": "2390c75dd4079766130d28ad",
-      "title": "Artemis III Crew Announced",
-      "link": "https://www.nasa.gov/image-article/artemis-iii-crew-announced/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-09T19:32:29+00:00",
-      "day_brt": "2026-06-09",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Artemis III Crew Announced HQ Web Team Jun 09, 2026 Image Article NASA/Robert Markowitz NASA astronaut Andre Douglas , ESA (European Space Agency) astronaut Luca Parmitano , and NASA astronauts Randy Bresnik and Frank Rubio take a photo together on June 9, 2026. NASA’s Artemis III mission in low Earth orbit will test integrated operations between the Orion spacecraft and one or both commercial landers from SpaceX and Blue Origin respectively.",
-      "queued_ts": 1781036817
-    },
-    {
-      "fp": "655d817fd278c462047a2a06",
-      "title": "La NASA avanza hacia la misión Artemis III en 2027 y anuncia a su tripulación",
-      "link": "https://www.nasa.gov/news-release/la-nasa-avanza-hacia-la-mision-artemis-iii-en-2027-y-anuncia-a-su-tripulacion/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-09T16:19:35+00:00",
-      "day_brt": "2026-06-09",
-      "resumo_pt": "Resumo (PT-BR): 12 min read La NASA avanza hacia la misión Artemis III en 2027 y anuncia a su tripulación María José Viñas Jun 09, 2026 RELEASE 26-048 NASA Headquarters La tripulación de Artemis III posa para una foto oficial en sus trajes espaciales naranjas (de izquierda a derecha: Andre Douglas, Luca Parmitano, Randy Bresnik y Frank Rubio). Crédito: NASA/Bill Stafford Read this release in English here .",
-      "queued_ts": 1781036817
-    },
-    {
-      "fp": "8152d94191398a4c2360c31c",
-      "title": "NASA Marches Toward Artemis III Mission in 2027, Names Crew Members",
-      "link": "https://www.nasa.gov/news-release/nasa-marches-toward-artemis-iii-mission-in-2027-names-crew-members/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-09T16:12:02+00:00",
-      "day_brt": "2026-06-09",
-      "resumo_pt": "Resumo (PT-BR): 9 min read NASA Marches Toward Artemis III Mission in 2027, Names Crew Members Elizabeth Shaw Jun 09, 2026 RELEASE 26-048 NASA Headquarters Johnson Space Center The Artemis III crew poses for an official portrait (from left: Andre Douglas, Luca Parmitano, Randy Bresnik, Frank Rubio). Credit: NASA/Bill Stafford Taking another step toward one of the most complex human spaceflight missions in recent history, NASA on Tuesday provided new Artemis III details and announced the four prime crew members and a backup for the test flight.",
-      "queued_ts": 1781036817
-    },
-    {
-      "fp": "a1d29f185ff607e3001a909f",
-      "title": "June 2026 Satellite Puzzler",
-      "link": "https://science.nasa.gov/earth/earth-observatory/june-2026-satellite-puzzler/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-09T15:51:12+00:00",
-      "day_brt": "2026-06-09",
-      "resumo_pt": "Resumo (PT-BR): Earth Observatory Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 2 min read June 2026 Satellite Puzzler NASA Earth Observatory Jun 09, 2026 Article Puzzler Previous Satellite Puzzlers Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
-      "queued_ts": 1781036817
-    },
-    {
-      "fp": "5abf85afea759502c68129b8",
-      "title": "NASA Knows: What Is Mass Distribution?",
-      "link": "https://www.nasa.gov/learning-resources/nasa-knows-what-is-mass-distribution/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-09T14:26:32+00:00",
-      "day_brt": "2026-06-09",
-      "resumo_pt": "Resumo (PT-BR): NASA STEM Team Jun 09, 2026 Article This article is for students grades 5-8. Mass distribution affects everything from galaxy shapes to aircraft design to planetary rotation.",
-      "queued_ts": 1781036817
     }
   ],
   "digests_sent": {
@@ -3697,7 +3613,8 @@
       "night": true
     },
     "2026-06-09": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
