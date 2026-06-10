@@ -3253,6 +3253,22 @@
       "link": "https://www.space.com/astronomy/black-holes/strange-spacetime-crystals-could-give-birth-to-tiny-black-holes",
       "score": 2.8,
       "published_utc": "2026-06-10T10:00:00+00:00"
+    },
+    "246d61e9f469d7063d000a04": {
+      "ts": 1781099385,
+      "source": "NASA Breaking News",
+      "title": "GLOBE Mission Earth Educators Participate in Land Cover Community of Practice",
+      "link": "https://science.nasa.gov/learning-resources/science-activation/globe-mission-earth-educators-participate-in-land-cover-community-of-practice/",
+      "score": 4.0,
+      "published_utc": "2026-06-10T12:43:01+00:00"
+    },
+    "52a3d4cb23a40a9de0fe3726": {
+      "ts": 1781099388,
+      "source": "Space.com",
+      "title": "NASA is building a new space telescope to search for life on nearby planets. What would it see on ancient Earth?",
+      "link": "https://www.space.com/space-exploration/search-for-life/nasa-is-building-a-new-space-telescope-to-search-for-life-on-nearby-planets-what-would-it-see-on-ancient-earth",
+      "score": 2.8,
+      "published_utc": "2026-06-10T13:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -3623,40 +3639,12 @@
     "2026-06-09": {
       "morning": true,
       "night": true
+    },
+    "2026-06-10": {
+      "morning": true
     }
   },
   "sent_updates": {
-    "2026-05-31": {
-      "71de60e764f28cf2acaa0375": true
-    },
-    "2026-06-01": {
-      "6bf688618113690897e562b2": true,
-      "51e631f35663808a2f11a794": true,
-      "0895e544c0bbd22b20149c6c": true,
-      "60bd805dedab0866cbd5d1ae": true,
-      "4668aacefdd2ff53bbff7353": true,
-      "be04b5f15e41618c6db76dcf": true
-    },
-    "2026-06-02": {
-      "df3d406445ddf9b13b48220a": true,
-      "cb658270b81fbdb893568c57": true,
-      "84d3a2f4b64671caca222faa": true,
-      "7fb46cd57fc9a696a68c4e67": true,
-      "59b6b3e65a36de5bd55d859e": true,
-      "0beae307d13724538f8c1191": true,
-      "9feab9d2fc4da61fa6b50c86": true
-    },
-    "2026-06-03": {
-      "922caf46073f0dccd7e9f207": true,
-      "296025b52073b8bce275d0ad": true,
-      "a11690799764494ff63d36b7": true,
-      "50a45cee4cf90630c1c38be5": true,
-      "09f6c9d0257e869b674acd83": true,
-      "89a3ae32b528bd06e295a480": true,
-      "6da97d140933ef2f7d093bee": true,
-      "877f85828afb6579a670481c": true,
-      "2673e413db560fa7635d25d8": true
-    },
     "2026-06-04": {
       "44521420a5c7ae4ab586ef59": true,
       "5cdd8a6f237bba74e09c413e": true
@@ -3687,6 +3675,9 @@
       "2390c75dd4079766130d28ad": true,
       "655d817fd278c462047a2a06": true,
       "8152d94191398a4c2360c31c": true
+    },
+    "2026-06-10": {
+      "246d61e9f469d7063d000a04": true
     }
   }
 }
