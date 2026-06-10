@@ -3325,6 +3325,30 @@
       "link": "https://www.space.com/space-exploration/artemis/nasa-chief-defends-all-male-artemis-3-astronaut-crew-amid-backlash-i-dont-think-anyone-should-be-reading-into-this",
       "score": 2.8,
       "published_utc": "2026-06-10T20:00:00+00:00"
+    },
+    "4fcd1ebe5d92c718793140d4": {
+      "ts": 1781133093,
+      "source": "NASA Breaking News",
+      "title": "Curiosity Blog: Sols 4913-4919: Planetary explorers, freewheeling to the Yardang unit!",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4913-4919-planetary-explorers-freewheeling-to-the-yardang-unit/",
+      "score": 4.0,
+      "published_utc": "2026-06-10T21:23:02+00:00"
+    },
+    "697c781f9c4953f84093f83a": {
+      "ts": 1781133093,
+      "source": "NASA Breaking News",
+      "title": "NASA Awards Contract for Construction Services in California",
+      "link": "https://www.nasa.gov/news-release/nasa-awards-contract-for-construction-services-in-california/",
+      "score": 4.0,
+      "published_utc": "2026-06-10T20:32:25+00:00"
+    },
+    "f5a723e1b666f474a14077d2": {
+      "ts": 1781133095,
+      "source": "NASASpaceflight",
+      "title": "Stoke Space completes Nova Stage 1 structural verification",
+      "link": "https://www.nasaspaceflight.com/2026/06/stoke-nova-update/",
+      "score": 3.6,
+      "published_utc": "2026-06-10T21:51:42+00:00"
     }
   },
   "digest_queue": [
@@ -3543,66 +3567,6 @@
       "day_brt": "2026-06-02",
       "resumo_pt": "Resumo (PT-BR): Blue Origin initiates LC-36 recovery, targets RTF by end of 2026 by Ryan Caton June 2, 2026 written by Ryan Caton June 2, 2026 5 Blue Origin has wasted no time launching inspection, repair, and reconstruction activities at Launch Complex-36 following the loss of a New Glenn vehicle during static fire testing last Thursday night. According to company CEO Dave Limp, the company intends to return the pad to flight operations with New Glenn before the end of this year.",
       "queued_ts": 1780450869
-    },
-    {
-      "fp": "8806316e789a88c9720820ab",
-      "title": "NASA Webb Finds Strongest Evidence Yet for ‘Black Hole Stars’",
-      "link": "https://science.nasa.gov/missions/webb/nasa-webb-finds-strongest-evidence-yet-for-black-hole-stars/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-10T14:00:00+00:00",
-      "day_brt": "2026-06-10",
-      "resumo_pt": "Resumo (PT-BR): Explore Webb Science James Webb Space Telescope (JWST) NASA Webb Finds Strongest... Webb News Latest News Latest Images Webb's Blog Awards X (offsite - login reqd) Instagram (offsite - login reqd) Facebook (offsite- login reqd) Youtube (offsite) Overview About Who is James Webb?",
-      "queued_ts": 1781100866
-    },
-    {
-      "fp": "b260a7e70619f528403eef42",
-      "title": "Jim Irons, Former Landsat Project Scientist, Wins Pecora Award",
-      "link": "https://science.nasa.gov/missions/landsat/jim-irons-former-landsat-project-scientist-wins-pecora-award/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-10T14:00:00+00:00",
-      "day_brt": "2026-06-10",
-      "resumo_pt": "Resumo (PT-BR): Landsat Navigation Landsat Home Missions Landsat 10 Landsat 9 Landsat 8 Landsat 7 Landsat 6 Landsat 5 Landsat 4 Landsat 3 Landsat 2 Landsat 1 News Latest News People of Landsat Q&As Newsletter Publications Data Overview Cal/Val Open Data Benefits Overview Agriculture & Food Security Disaster Management Ecosystems & Biodiversity Energy Resources Forest Management Human Health Urban Development Water Resources Wildfires Case Studies Outreach Multimedia About Search 9 min read Jim Irons, Former Landsat Project Scientist, Wins Pecora Award Madeleine Gregory Landsat Project Science Support Jun 10, 2026 Article Now an emeritus scientist at NASA Goddard Space Flight Center, Dr. Jim Irons is the former Landsat 8 Project and GSFC Earth Science Division Director.",
-      "queued_ts": 1781100866
-    },
-    {
-      "fp": "f84eb2a8e19425a91879be0e",
-      "title": "NASA’s CloudCube Pioneers Miniaturized Radar to Study Clouds, Precipitation",
-      "link": "https://science.nasa.gov/science-research/science-enabling-technology/nasas-cloudcube-pioneers-miniaturizedradar-to-study-clouds-precipitation/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-10T12:00:00+00:00",
-      "day_brt": "2026-06-10",
-      "resumo_pt": "Resumo (PT-BR): 4 min read NASA’s CloudCube Pioneers Miniaturized Radar to Study Clouds, Precipitation NASA Science Editorial Team Jun 10, 2026 Article A compact, multifrequency radar built by a team at NASA’s Jet Propulsion Laboratory will make it easier to collect information about dynamic cloud systems. Called CloudCube, this new instrument simultaneously probes the atmosphere with three radar signals, spanning 36 to 240 GHz, for optimized sensitivity to a wide range of water droplet and ice particle sizes.",
-      "queued_ts": 1781100866
-    },
-    {
-      "fp": "f1b7ecf1b0b25b5fcd691cfe",
-      "title": "Train Ride to NASA Kennedy for Artemis III Booster Segments",
-      "link": "https://www.nasa.gov/image-article/train-ride-to-nasa-kennedy-for-artemis-iii-booster-segments/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-10T16:05:29+00:00",
-      "day_brt": "2026-06-10",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Train Ride to NASA Kennedy for Artemis III Booster Segments Jonathan Deal Public Affairs Officer HQ Web Team Jun 10, 2026 Image Article NASA/Brandon Hancock The final booster motor segments for NASA’s SLS (Space Launch System) rocket that will help propel Artemis III astronauts on their journey to space shipped from Northrop Grumman’s Railyard Shipping Facility in Corinne, Utah on June 2. The eight booster motor segments are on their way to NASA’s Kennedy Space Center in Florida where they will form the SLS rocket’s twin, five-segment solid rocket boosters, which produce more than 75% of the total thrust at liftoff.",
-      "queued_ts": 1781110201
-    },
-    {
-      "fp": "dae29b9ee05d470e02f88fe2",
-      "title": "NASA, NOAA to Hold Joint Session at 23rd Symposium on Operational Environmental Satellite Systems",
-      "link": "https://science.nasa.gov/science-research/earth-science/nasa-noaa-to-hold-joint-session-at-23rd-symposium-on-operational-environmental-satellite-systems/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-10T18:09:55+00:00",
-      "day_brt": "2026-06-10",
-      "resumo_pt": "Resumo (PT-BR): CSDA Menu CSDA Commercial Data Available Datasets End User License Agreements Commercial Satellite Data Explorer Satellite Data Evaluation CSDA Vendors Airbus BlackSky Capella GeoOptics GHGSat ICEYE MDA Space Pixxel Planet PlanetiQ Polar Geospatial Center Satellogic Spire Teledyne Brown Engineering Tomorrow.io Umbra Vantor Program Activities Learning Resources FAQs News News and Events Subscribe to CSDA Orbit 2 min read NASA, NOAA to Hold Joint Session at 23rd Symposium on Operational Environmental Satellite Systems Joseph Smith Jun 10, 2026 Article Credit: AMS Submit your abstract for “Advancing Weather and Environmental Science Through NASA and NOAA Commercial Satellite Data Programs,” a joint session hosted by NASA’s Commercial Satellite Data Acquisition (CSDA) program, in partnership with the NOAA National Environmental Satellite, Data, and Information Service (NESDIS) Commercial Data Program (CDP). The session is part of the 23rd Symposium on Operational Environmental Satellite Systems, which will take place at the 2027 American Meteorological Society (AMS) Annual Meeting January 10-14 in Denver, Colorado.",
-      "queued_ts": 1781119515
     }
   ],
   "digests_sent": {
@@ -3757,7 +3721,8 @@
       "night": true
     },
     "2026-06-10": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -3798,7 +3763,10 @@
       "b260a7e70619f528403eef42": true,
       "f84eb2a8e19425a91879be0e": true,
       "f1b7ecf1b0b25b5fcd691cfe": true,
-      "dae29b9ee05d470e02f88fe2": true
+      "dae29b9ee05d470e02f88fe2": true,
+      "4fcd1ebe5d92c718793140d4": true,
+      "697c781f9c4953f84093f83a": true,
+      "f5a723e1b666f474a14077d2": true
     }
   }
 }
