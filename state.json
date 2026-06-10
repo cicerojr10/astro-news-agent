@@ -3293,6 +3293,14 @@
       "link": "https://science.nasa.gov/science-research/science-enabling-technology/nasas-cloudcube-pioneers-miniaturizedradar-to-study-clouds-precipitation/",
       "score": 4.0,
       "published_utc": "2026-06-10T12:00:00+00:00"
+    },
+    "f1b7ecf1b0b25b5fcd691cfe": {
+      "ts": 1781110198,
+      "source": "NASA Breaking News",
+      "title": "Train Ride to NASA Kennedy for Artemis III Booster Segments",
+      "link": "https://www.nasa.gov/image-article/train-ride-to-nasa-kennedy-for-artemis-iii-booster-segments/",
+      "score": 4.0,
+      "published_utc": "2026-06-10T16:05:29+00:00"
     }
   },
   "digest_queue": [
@@ -3547,6 +3555,18 @@
       "day_brt": "2026-06-10",
       "resumo_pt": "Resumo (PT-BR): 4 min read NASA’s CloudCube Pioneers Miniaturized Radar to Study Clouds, Precipitation NASA Science Editorial Team Jun 10, 2026 Article A compact, multifrequency radar built by a team at NASA’s Jet Propulsion Laboratory will make it easier to collect information about dynamic cloud systems. Called CloudCube, this new instrument simultaneously probes the atmosphere with three radar signals, spanning 36 to 240 GHz, for optimized sensitivity to a wide range of water droplet and ice particle sizes.",
       "queued_ts": 1781100866
+    },
+    {
+      "fp": "f1b7ecf1b0b25b5fcd691cfe",
+      "title": "Train Ride to NASA Kennedy for Artemis III Booster Segments",
+      "link": "https://www.nasa.gov/image-article/train-ride-to-nasa-kennedy-for-artemis-iii-booster-segments/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-10T16:05:29+00:00",
+      "day_brt": "2026-06-10",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Train Ride to NASA Kennedy for Artemis III Booster Segments Jonathan Deal Public Affairs Officer HQ Web Team Jun 10, 2026 Image Article NASA/Brandon Hancock The final booster motor segments for NASA’s SLS (Space Launch System) rocket that will help propel Artemis III astronauts on their journey to space shipped from Northrop Grumman’s Railyard Shipping Facility in Corinne, Utah on June 2. The eight booster motor segments are on their way to NASA’s Kennedy Space Center in Florida where they will form the SLS rocket’s twin, five-segment solid rocket boosters, which produce more than 75% of the total thrust at liftoff.",
+      "queued_ts": 1781110201
     }
   ],
   "digests_sent": {
@@ -3740,7 +3760,8 @@
       "246d61e9f469d7063d000a04": true,
       "8806316e789a88c9720820ab": true,
       "b260a7e70619f528403eef42": true,
-      "f84eb2a8e19425a91879be0e": true
+      "f84eb2a8e19425a91879be0e": true,
+      "f1b7ecf1b0b25b5fcd691cfe": true
     }
   }
 }
