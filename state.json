@@ -3301,6 +3301,22 @@
       "link": "https://www.nasa.gov/image-article/train-ride-to-nasa-kennedy-for-artemis-iii-booster-segments/",
       "score": 4.0,
       "published_utc": "2026-06-10T16:05:29+00:00"
+    },
+    "dae29b9ee05d470e02f88fe2": {
+      "ts": 1781119512,
+      "source": "NASA Breaking News",
+      "title": "NASA, NOAA to Hold Joint Session at 23rd Symposium on Operational Environmental Satellite Systems",
+      "link": "https://science.nasa.gov/science-research/earth-science/nasa-noaa-to-hold-joint-session-at-23rd-symposium-on-operational-environmental-satellite-systems/",
+      "score": 4.0,
+      "published_utc": "2026-06-10T18:09:55+00:00"
+    },
+    "3d2e0785eaa1198cd72a40a8": {
+      "ts": 1781119515,
+      "source": "Space.com",
+      "title": "Jupiter and Venus looked spectacular in this week's planetary conjunction. Here are our favorite photos",
+      "link": "https://www.space.com/stargazing/astrophotography/jupiter-and-venus-looked-spectacular-in-this-weeks-planetary-conjunction-here-are-our-favorite-photos",
+      "score": 2.8,
+      "published_utc": "2026-06-10T17:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -3567,6 +3583,18 @@
       "day_brt": "2026-06-10",
       "resumo_pt": "Resumo (PT-BR): 1 min read Train Ride to NASA Kennedy for Artemis III Booster Segments Jonathan Deal Public Affairs Officer HQ Web Team Jun 10, 2026 Image Article NASA/Brandon Hancock The final booster motor segments for NASA’s SLS (Space Launch System) rocket that will help propel Artemis III astronauts on their journey to space shipped from Northrop Grumman’s Railyard Shipping Facility in Corinne, Utah on June 2. The eight booster motor segments are on their way to NASA’s Kennedy Space Center in Florida where they will form the SLS rocket’s twin, five-segment solid rocket boosters, which produce more than 75% of the total thrust at liftoff.",
       "queued_ts": 1781110201
+    },
+    {
+      "fp": "dae29b9ee05d470e02f88fe2",
+      "title": "NASA, NOAA to Hold Joint Session at 23rd Symposium on Operational Environmental Satellite Systems",
+      "link": "https://science.nasa.gov/science-research/earth-science/nasa-noaa-to-hold-joint-session-at-23rd-symposium-on-operational-environmental-satellite-systems/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-10T18:09:55+00:00",
+      "day_brt": "2026-06-10",
+      "resumo_pt": "Resumo (PT-BR): CSDA Menu CSDA Commercial Data Available Datasets End User License Agreements Commercial Satellite Data Explorer Satellite Data Evaluation CSDA Vendors Airbus BlackSky Capella GeoOptics GHGSat ICEYE MDA Space Pixxel Planet PlanetiQ Polar Geospatial Center Satellogic Spire Teledyne Brown Engineering Tomorrow.io Umbra Vantor Program Activities Learning Resources FAQs News News and Events Subscribe to CSDA Orbit 2 min read NASA, NOAA to Hold Joint Session at 23rd Symposium on Operational Environmental Satellite Systems Joseph Smith Jun 10, 2026 Article Credit: AMS Submit your abstract for “Advancing Weather and Environmental Science Through NASA and NOAA Commercial Satellite Data Programs,” a joint session hosted by NASA’s Commercial Satellite Data Acquisition (CSDA) program, in partnership with the NOAA National Environmental Satellite, Data, and Information Service (NESDIS) Commercial Data Program (CDP). The session is part of the 23rd Symposium on Operational Environmental Satellite Systems, which will take place at the 2027 American Meteorological Society (AMS) Annual Meeting January 10-14 in Denver, Colorado.",
+      "queued_ts": 1781119515
     }
   ],
   "digests_sent": {
@@ -3761,7 +3789,8 @@
       "8806316e789a88c9720820ab": true,
       "b260a7e70619f528403eef42": true,
       "f84eb2a8e19425a91879be0e": true,
-      "f1b7ecf1b0b25b5fcd691cfe": true
+      "f1b7ecf1b0b25b5fcd691cfe": true,
+      "dae29b9ee05d470e02f88fe2": true
     }
   }
 }
