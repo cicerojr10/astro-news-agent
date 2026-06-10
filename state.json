@@ -3269,6 +3269,30 @@
       "link": "https://www.space.com/space-exploration/search-for-life/nasa-is-building-a-new-space-telescope-to-search-for-life-on-nearby-planets-what-would-it-see-on-ancient-earth",
       "score": 2.8,
       "published_utc": "2026-06-10T13:00:00+00:00"
+    },
+    "8806316e789a88c9720820ab": {
+      "ts": 1781100861,
+      "source": "NASA Breaking News",
+      "title": "NASA Webb Finds Strongest Evidence Yet for ‘Black Hole Stars’",
+      "link": "https://science.nasa.gov/missions/webb/nasa-webb-finds-strongest-evidence-yet-for-black-hole-stars/",
+      "score": 4.0,
+      "published_utc": "2026-06-10T14:00:00+00:00"
+    },
+    "b260a7e70619f528403eef42": {
+      "ts": 1781100862,
+      "source": "NASA Breaking News",
+      "title": "Jim Irons, Former Landsat Project Scientist, Wins Pecora Award",
+      "link": "https://science.nasa.gov/missions/landsat/jim-irons-former-landsat-project-scientist-wins-pecora-award/",
+      "score": 4.0,
+      "published_utc": "2026-06-10T14:00:00+00:00"
+    },
+    "f84eb2a8e19425a91879be0e": {
+      "ts": 1781100862,
+      "source": "NASA Breaking News",
+      "title": "NASA’s CloudCube Pioneers Miniaturized Radar to Study Clouds, Precipitation",
+      "link": "https://science.nasa.gov/science-research/science-enabling-technology/nasas-cloudcube-pioneers-miniaturizedradar-to-study-clouds-precipitation/",
+      "score": 4.0,
+      "published_utc": "2026-06-10T12:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -3487,6 +3511,42 @@
       "day_brt": "2026-06-02",
       "resumo_pt": "Resumo (PT-BR): Blue Origin initiates LC-36 recovery, targets RTF by end of 2026 by Ryan Caton June 2, 2026 written by Ryan Caton June 2, 2026 5 Blue Origin has wasted no time launching inspection, repair, and reconstruction activities at Launch Complex-36 following the loss of a New Glenn vehicle during static fire testing last Thursday night. According to company CEO Dave Limp, the company intends to return the pad to flight operations with New Glenn before the end of this year.",
       "queued_ts": 1780450869
+    },
+    {
+      "fp": "8806316e789a88c9720820ab",
+      "title": "NASA Webb Finds Strongest Evidence Yet for ‘Black Hole Stars’",
+      "link": "https://science.nasa.gov/missions/webb/nasa-webb-finds-strongest-evidence-yet-for-black-hole-stars/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-10T14:00:00+00:00",
+      "day_brt": "2026-06-10",
+      "resumo_pt": "Resumo (PT-BR): Explore Webb Science James Webb Space Telescope (JWST) NASA Webb Finds Strongest... Webb News Latest News Latest Images Webb's Blog Awards X (offsite - login reqd) Instagram (offsite - login reqd) Facebook (offsite- login reqd) Youtube (offsite) Overview About Who is James Webb?",
+      "queued_ts": 1781100866
+    },
+    {
+      "fp": "b260a7e70619f528403eef42",
+      "title": "Jim Irons, Former Landsat Project Scientist, Wins Pecora Award",
+      "link": "https://science.nasa.gov/missions/landsat/jim-irons-former-landsat-project-scientist-wins-pecora-award/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-10T14:00:00+00:00",
+      "day_brt": "2026-06-10",
+      "resumo_pt": "Resumo (PT-BR): Landsat Navigation Landsat Home Missions Landsat 10 Landsat 9 Landsat 8 Landsat 7 Landsat 6 Landsat 5 Landsat 4 Landsat 3 Landsat 2 Landsat 1 News Latest News People of Landsat Q&As Newsletter Publications Data Overview Cal/Val Open Data Benefits Overview Agriculture & Food Security Disaster Management Ecosystems & Biodiversity Energy Resources Forest Management Human Health Urban Development Water Resources Wildfires Case Studies Outreach Multimedia About Search 9 min read Jim Irons, Former Landsat Project Scientist, Wins Pecora Award Madeleine Gregory Landsat Project Science Support Jun 10, 2026 Article Now an emeritus scientist at NASA Goddard Space Flight Center, Dr. Jim Irons is the former Landsat 8 Project and GSFC Earth Science Division Director.",
+      "queued_ts": 1781100866
+    },
+    {
+      "fp": "f84eb2a8e19425a91879be0e",
+      "title": "NASA’s CloudCube Pioneers Miniaturized Radar to Study Clouds, Precipitation",
+      "link": "https://science.nasa.gov/science-research/science-enabling-technology/nasas-cloudcube-pioneers-miniaturizedradar-to-study-clouds-precipitation/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-10T12:00:00+00:00",
+      "day_brt": "2026-06-10",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA’s CloudCube Pioneers Miniaturized Radar to Study Clouds, Precipitation NASA Science Editorial Team Jun 10, 2026 Article A compact, multifrequency radar built by a team at NASA’s Jet Propulsion Laboratory will make it easier to collect information about dynamic cloud systems. Called CloudCube, this new instrument simultaneously probes the atmosphere with three radar signals, spanning 36 to 240 GHz, for optimized sensitivity to a wide range of water droplet and ice particle sizes.",
+      "queued_ts": 1781100866
     }
   ],
   "digests_sent": {
@@ -3677,7 +3737,10 @@
       "8152d94191398a4c2360c31c": true
     },
     "2026-06-10": {
-      "246d61e9f469d7063d000a04": true
+      "246d61e9f469d7063d000a04": true,
+      "8806316e789a88c9720820ab": true,
+      "b260a7e70619f528403eef42": true,
+      "f84eb2a8e19425a91879be0e": true
     }
   }
 }
