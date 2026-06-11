@@ -3389,6 +3389,38 @@
       "link": "https://www.nasa.gov/science-research/earth-science/nasa-usgs-scientists-go-rock-hounding-in-californias-high-desert/",
       "score": 4.0,
       "published_utc": "2026-06-11T15:38:31+00:00"
+    },
+    "586fac6373be2038151f4c89": {
+      "ts": 1781209162,
+      "source": "NASA Breaking News",
+      "title": "I Am Artemis: Elkin Norena",
+      "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-elkin-norena/",
+      "score": 4.0,
+      "published_utc": "2026-06-11T20:07:33+00:00"
+    },
+    "22467e6e292e010a8e49a767": {
+      "ts": 1781209162,
+      "source": "NASA Breaking News",
+      "title": "NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors",
+      "link": "https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/",
+      "score": 4.0,
+      "published_utc": "2026-06-11T18:59:37+00:00"
+    },
+    "bce6c2919b8028ec810b280b": {
+      "ts": 1781209165,
+      "source": "NASASpaceflight",
+      "title": "Japan’s H3 to return to flight with debut launch of lightest configuration",
+      "link": "https://www.nasaspaceflight.com/2026/06/h3-return-to-flight/",
+      "score": 3.6,
+      "published_utc": "2026-06-11T20:05:57+00:00"
+    },
+    "d2458f7ef70bdf1e94f66276": {
+      "ts": 1781209166,
+      "source": "Space.com",
+      "title": "SpaceX sends 24 Starlink satellites into orbit as market awaits IPO launch (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-44-b1071-vsfb-ocisly",
+      "score": 2.8,
+      "published_utc": "2026-06-11T20:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -3631,6 +3663,42 @@
       "day_brt": "2026-06-11",
       "resumo_pt": "Resumo (PT-BR): 5 min read NASA, USGS Scientists Go Rock Hounding in California’s High Desert Jet Propulsion Laboratory Jun 11, 2026 Article Contents Next-generation mineral mapping High flyer Geologists recently converged on a site near Barstow, California, to ground-truth a mineral discovery made on public land by a NASA JPL sensor flying aboard a plane overhead. NASA/JPL-Caltech Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing “fingerprint” detected by a NASA sensor.",
       "queued_ts": 1781200752
+    },
+    {
+      "fp": "586fac6373be2038151f4c89",
+      "title": "I Am Artemis: Elkin Norena",
+      "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-elkin-norena/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-11T20:07:33+00:00",
+      "day_brt": "2026-06-11",
+      "resumo_pt": "Resumo (PT-BR): 3 Min Read I Am Artemis: Elkin Norena William Bryan Communication Strategist Jun 11, 2026 Article Listen to this audio excerpt from Elkin Norena, Resident management officer, NASA’s Space Launch System Program: 0:00 / 0:00 Your browser does not support the audio element. NASA’s Elkin Norena has helped the agency launch more than a dozen space shuttle missions – that’s more than a dozen crews to low Earth orbit and more than a dozen historic missions.",
+      "queued_ts": 1781209167
+    },
+    {
+      "fp": "22467e6e292e010a8e49a767",
+      "title": "NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors",
+      "link": "https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-11T18:59:37+00:00",
+      "day_brt": "2026-06-11",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors Jeanette Kazmierczak Jun 11, 2026 Article A new type of gamma-ray sensor developed by NASA, called AstroPix, will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission, set to launch in late 2027. Scientists observe them coming from events like lightning in Earth’s atmosphere , powerful solar flares from our Sun, and cosmic collisions in distant galaxies.",
+      "queued_ts": 1781209167
+    },
+    {
+      "fp": "bce6c2919b8028ec810b280b",
+      "title": "Japan’s H3 to return to flight with debut launch of lightest configuration",
+      "link": "https://www.nasaspaceflight.com/2026/06/h3-return-to-flight/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-06-11T20:05:57+00:00",
+      "day_brt": "2026-06-11",
+      "resumo_pt": "Resumo (PT-BR): Japan’s H3 to return to flight with debut launch of lightest configuration by William Graham June 11, 2026 written by William Graham June 11, 2026 2 Japan’s H3 rocket will return to flight Friday, with a launch that also marks the debut of a new configuration, optimized for smaller payloads. Liftoff is scheduled for a window opening at 00:53 UTC (9:53 a.m.",
+      "queued_ts": 1781209167
     }
   ],
   "digests_sent": {
@@ -3839,7 +3907,10 @@
       "d736a30faf39f2b41d06a18a": true,
       "f1cef62512c0f09e88179c7d": true,
       "d68d8915e3065bda157e5844": true,
-      "8e7b01c82a1feb8a0ed05323": true
+      "8e7b01c82a1feb8a0ed05323": true,
+      "586fac6373be2038151f4c89": true,
+      "22467e6e292e010a8e49a767": true,
+      "bce6c2919b8028ec810b280b": true
     }
   }
 }
