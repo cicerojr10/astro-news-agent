@@ -3373,6 +3373,22 @@
       "link": "https://www.space.com/space-exploration/satellites/elon-musk-wants-to-put-1-million-ai-satellites-in-space-heres-how-spacex-could-do-it",
       "score": 2.8,
       "published_utc": "2026-06-11T10:00:00+00:00"
+    },
+    "d68d8915e3065bda157e5844": {
+      "ts": 1781200748,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Career Technical Education Day Highlights Technical Careers",
+      "link": "https://www.nasa.gov/centers-and-facilities/langley/nasas-career-technical-education-day-highlights-technical-careers/",
+      "score": 4.0,
+      "published_utc": "2026-06-11T16:21:11+00:00"
+    },
+    "8e7b01c82a1feb8a0ed05323": {
+      "ts": 1781200748,
+      "source": "NASA Breaking News",
+      "title": "NASA, USGS Scientists Go Rock Hounding in California’s High Desert",
+      "link": "https://www.nasa.gov/science-research/earth-science/nasa-usgs-scientists-go-rock-hounding-in-californias-high-desert/",
+      "score": 4.0,
+      "published_utc": "2026-06-11T15:38:31+00:00"
     }
   },
   "digest_queue": [
@@ -3591,6 +3607,30 @@
       "day_brt": "2026-06-02",
       "resumo_pt": "Resumo (PT-BR): Blue Origin initiates LC-36 recovery, targets RTF by end of 2026 by Ryan Caton June 2, 2026 written by Ryan Caton June 2, 2026 5 Blue Origin has wasted no time launching inspection, repair, and reconstruction activities at Launch Complex-36 following the loss of a New Glenn vehicle during static fire testing last Thursday night. According to company CEO Dave Limp, the company intends to return the pad to flight operations with New Glenn before the end of this year.",
       "queued_ts": 1780450869
+    },
+    {
+      "fp": "d68d8915e3065bda157e5844",
+      "title": "NASA’s Career Technical Education Day Highlights Technical Careers",
+      "link": "https://www.nasa.gov/centers-and-facilities/langley/nasas-career-technical-education-day-highlights-technical-careers/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-11T16:21:11+00:00",
+      "day_brt": "2026-06-11",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA’s Career Technical Education Day Highlights Technical Careers Joe Atkinson Public Affairs Officer, NASA Langley Research Center Jun 11, 2026 Article Students participate in a hands-on robotics demonstration during Career Technical Education Day at NASA’s Langley Research Center in Hampton, Virginia. NASA/Mark Knopp At NASA, remaining a global leader in exploration and innovation includes having a skilled and dedicated workforce.",
+      "queued_ts": 1781200752
+    },
+    {
+      "fp": "8e7b01c82a1feb8a0ed05323",
+      "title": "NASA, USGS Scientists Go Rock Hounding in California’s High Desert",
+      "link": "https://www.nasa.gov/science-research/earth-science/nasa-usgs-scientists-go-rock-hounding-in-californias-high-desert/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-11T15:38:31+00:00",
+      "day_brt": "2026-06-11",
+      "resumo_pt": "Resumo (PT-BR): 5 min read NASA, USGS Scientists Go Rock Hounding in California’s High Desert Jet Propulsion Laboratory Jun 11, 2026 Article Contents Next-generation mineral mapping High flyer Geologists recently converged on a site near Barstow, California, to ground-truth a mineral discovery made on public land by a NASA JPL sensor flying aboard a plane overhead. NASA/JPL-Caltech Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing “fingerprint” detected by a NASA sensor.",
+      "queued_ts": 1781200752
     }
   ],
   "digests_sent": {
@@ -3797,7 +3837,9 @@
     },
     "2026-06-11": {
       "d736a30faf39f2b41d06a18a": true,
-      "f1cef62512c0f09e88179c7d": true
+      "f1cef62512c0f09e88179c7d": true,
+      "d68d8915e3065bda157e5844": true,
+      "8e7b01c82a1feb8a0ed05323": true
     }
   }
 }
