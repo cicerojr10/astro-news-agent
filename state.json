@@ -3349,6 +3349,14 @@
       "link": "https://www.nasaspaceflight.com/2026/06/stoke-nova-update/",
       "score": 3.6,
       "published_utc": "2026-06-10T21:51:42+00:00"
+    },
+    "d736a30faf39f2b41d06a18a": {
+      "ts": 1781159016,
+      "source": "NASA Breaking News",
+      "title": "Air Pollution’s Daily Pulse Over the Northeast",
+      "link": "https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/",
+      "score": 4.0,
+      "published_utc": "2026-06-11T04:01:00+00:00"
     }
   },
   "digest_queue": [
@@ -3567,6 +3575,18 @@
       "day_brt": "2026-06-02",
       "resumo_pt": "Resumo (PT-BR): Blue Origin initiates LC-36 recovery, targets RTF by end of 2026 by Ryan Caton June 2, 2026 written by Ryan Caton June 2, 2026 5 Blue Origin has wasted no time launching inspection, repair, and reconstruction activities at Launch Complex-36 following the loss of a New Glenn vehicle during static fire testing last Thursday night. According to company CEO Dave Limp, the company intends to return the pad to flight operations with New Glenn before the end of this year.",
       "queued_ts": 1780450869
+    },
+    {
+      "fp": "d736a30faf39f2b41d06a18a",
+      "title": "Air Pollution’s Daily Pulse Over the Northeast",
+      "link": "https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-11T04:01:00+00:00",
+      "day_brt": "2026-06-11",
+      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Air Pollution’s Daily Pulse... Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 6 min read Air Pollution’s Daily Pulse Over the Northeast Image of the Day for June 11, 2026 The TEMPO mission helped scientists track morning nitrogen dioxide that contributed to afternoon ozone along the New York–Washington corridor in May 2026.",
+      "queued_ts": 1781159018
     }
   ],
   "digests_sent": {
@@ -3767,6 +3787,9 @@
       "4fcd1ebe5d92c718793140d4": true,
       "697c781f9c4953f84093f83a": true,
       "f5a723e1b666f474a14077d2": true
+    },
+    "2026-06-11": {
+      "d736a30faf39f2b41d06a18a": true
     }
   }
 }
