@@ -3421,6 +3421,30 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-44-b1071-vsfb-ocisly",
       "score": 2.8,
       "published_utc": "2026-06-11T20:00:00+00:00"
+    },
+    "2f3efb12a0ff5aabf9ed144b": {
+      "ts": 1781216279,
+      "source": "NASA Breaking News",
+      "title": "NASA Award Boosts Space Technology Research Capabilities",
+      "link": "https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/murep/nasa-award-boosts-space-technology-research-capabilities/",
+      "score": 4.0,
+      "published_utc": "2026-06-11T21:14:44+00:00"
+    },
+    "e1af1ee0022236a3e40fd1ea": {
+      "ts": 1781216279,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center",
+      "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/",
+      "score": 4.0,
+      "published_utc": "2026-06-11T20:41:44+00:00"
+    },
+    "b0dea39166d73e01db02815f": {
+      "ts": 1781216281,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg",
+      "link": "https://spaceflightnow.com/2026/06/11/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-4/",
+      "score": 3.6,
+      "published_utc": "2026-06-11T10:29:38+00:00"
     }
   },
   "digest_queue": [
@@ -3699,6 +3723,42 @@
       "day_brt": "2026-06-11",
       "resumo_pt": "Resumo (PT-BR): Japan’s H3 to return to flight with debut launch of lightest configuration by William Graham June 11, 2026 written by William Graham June 11, 2026 2 Japan’s H3 rocket will return to flight Friday, with a launch that also marks the debut of a new configuration, optimized for smaller payloads. Liftoff is scheduled for a window opening at 00:53 UTC (9:53 a.m.",
       "queued_ts": 1781209167
+    },
+    {
+      "fp": "2f3efb12a0ff5aabf9ed144b",
+      "title": "NASA Award Boosts Space Technology Research Capabilities",
+      "link": "https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/murep/nasa-award-boosts-space-technology-research-capabilities/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-11T21:14:44+00:00",
+      "day_brt": "2026-06-11",
+      "resumo_pt": "Resumo (PT-BR): 2 Min Read NASA Award Boosts Space Technology Research Capabilities NASA STEM Team Jun 11, 2026 Article NASA is introducing a new funding opportunity to accelerate academic research and technology development. The Minority University Research and Education Project Space Technology Artemis Research ( M‑STAR ) application window opened Thursday and will remain open through 11:59 p.m.",
+      "queued_ts": 1781216283
+    },
+    {
+      "fp": "e1af1ee0022236a3e40fd1ea",
+      "title": "NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center",
+      "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-11T20:41:44+00:00",
+      "day_brt": "2026-06-11",
+      "resumo_pt": "Resumo (PT-BR): 5 Min Read NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center Lee Mohon Jun 11, 2026 Article Contents Visual Description News Media Contact Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy. A paper describing these new findings published in The Astrophysical Journal.",
+      "queued_ts": 1781216283
+    },
+    {
+      "fp": "b0dea39166d73e01db02815f",
+      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg",
+      "link": "https://spaceflightnow.com/2026/06/11/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-4/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-06-11T10:29:38+00:00",
+      "day_brt": "2026-06-11",
+      "resumo_pt": "Resumo (PT-BR): SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg June 11, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket lifts off from Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base to begin the Starlink 17-44 mission on June 11, 2026. Image: SpaceX SpaceX launched its next Falcon 9 rocket from Vandenberg Space Force Base on Thursday morning, a day before the company’s stock becomes publicly available on the Nasdaq.",
+      "queued_ts": 1781216283
     }
   ],
   "digests_sent": {
@@ -3910,7 +3970,10 @@
       "8e7b01c82a1feb8a0ed05323": true,
       "586fac6373be2038151f4c89": true,
       "22467e6e292e010a8e49a767": true,
-      "bce6c2919b8028ec810b280b": true
+      "bce6c2919b8028ec810b280b": true,
+      "2f3efb12a0ff5aabf9ed144b": true,
+      "e1af1ee0022236a3e40fd1ea": true,
+      "b0dea39166d73e01db02815f": true
     }
   }
 }
