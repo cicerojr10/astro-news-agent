@@ -3545,6 +3545,22 @@
       "link": "https://www.space.com/space-exploration/satellites/why-is-the-us-space-force-researching-orbital-warehouses",
       "score": 2.8,
       "published_utc": "2026-06-12T18:00:00+00:00"
+    },
+    "2dfe1ea9edbd2eeedfcd359d": {
+      "ts": 1781296680,
+      "source": "Space.com",
+      "title": "SpaceX's stock wasn't the company's only launch today — It also put 29 Starlink satellites in orbit",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-54-b1080-ccsfs-asog",
+      "score": 2.8,
+      "published_utc": "2026-06-12T20:19:22+00:00"
+    },
+    "f7d900a90a7cd29e0ac712a4": {
+      "ts": 1781296680,
+      "source": "Space.com",
+      "title": "Japan's H3 rocket bounces back from failure with successful return to flight launch carrying 6 satellites",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/japans-h3-rocket-bounces-back-from-failure-with-successful-return-to-flight-launch-carrying-6-satellites",
+      "score": 10.5,
+      "published_utc": "2026-06-12T20:03:04+00:00"
     }
   },
   "digest_queue": [
@@ -3787,6 +3803,18 @@
       "day_brt": "2026-06-12",
       "resumo_pt": "Resumo (PT-BR): 2 min read NASA to Cover 34th SpaceX Resupply Mission Space Station Departure Gerelle Q. Dodson Jun 12, 2026 MEDIA ADVISORY M26-046 NASA Headquarters The SpaceX Dragon cargo spacecraft supporting the company’s 34th commercial resupply services mission for NASA approaches the International Space Station on May 17, 2026, carrying nearly 6,500 pounds of food, supplies, and equipment for the Expedition 74 crew.",
       "queued_ts": 1781289033
+    },
+    {
+      "fp": "f7d900a90a7cd29e0ac712a4",
+      "title": "Japan's H3 rocket bounces back from failure with successful return to flight launch carrying 6 satellites",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/japans-h3-rocket-bounces-back-from-failure-with-successful-return-to-flight-launch-carrying-6-satellites",
+      "source": "Space.com",
+      "score": 10.5,
+      "is_anomaly": true,
+      "published_utc": "2026-06-12T20:03:04+00:00",
+      "day_brt": "2026-06-12",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft Japan's H3 rocket bounces back from failure with successful return to flight launch carrying 6 satellites News By Josh Dinner published 12 June 2026 H3 has made a triumphant return. When you purchase through links on our site, we may earn an affiliate commission.",
+      "queued_ts": 1781296681
     }
   ],
   "digests_sent": {
@@ -4010,7 +4038,8 @@
     },
     "2026-06-12": {
       "2308be1630fbe9ea926b0338": true,
-      "1729cec1d25c829f84875a69": true
+      "1729cec1d25c829f84875a69": true,
+      "f7d900a90a7cd29e0ac712a4": true
     }
   }
 }
