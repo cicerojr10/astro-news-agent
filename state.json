@@ -3561,6 +3561,30 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/japans-h3-rocket-bounces-back-from-failure-with-successful-return-to-flight-launch-carrying-6-satellites",
       "score": 10.5,
       "published_utc": "2026-06-12T20:03:04+00:00"
+    },
+    "d1b77fe34e38951e49759625": {
+      "ts": 1781302305,
+      "source": "NASASpaceflight",
+      "title": "China successfully debuts tallest rocket, LandSpace prepares for second landing attempt",
+      "link": "https://www.nasaspaceflight.com/2026/06/china-roundup-061226/",
+      "score": 3.6,
+      "published_utc": "2026-06-12T21:12:21+00:00"
+    },
+    "c4d57f7edbc449925374b215": {
+      "ts": 1781302305,
+      "source": "Space.com",
+      "title": "Ever have a scary HR meeting on your calendar? That's how the Artemis 3 crew found out their assignments",
+      "link": "https://www.space.com/space-exploration/artemis/ever-have-a-scary-hr-meeting-on-your-calendar-thats-how-the-artemis-3-crew-found-out-their-assignments",
+      "score": 2.8,
+      "published_utc": "2026-06-12T22:00:00+00:00"
+    },
+    "a3e22f14158d11173d1cd1cb": {
+      "ts": 1781302305,
+      "source": "Space.com",
+      "title": "SpaceX goes public with a mind-bogglingly historic IPO. The space industry may never be the same.",
+      "link": "https://www.space.com/space-exploration/private-spaceflight/spacex-to-go-public-with-a-mind-bogglingly-historic-ipo-today-the-space-industry-may-never-be-the-same",
+      "score": 2.8,
+      "published_utc": "2026-06-12T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -3815,6 +3839,18 @@
       "day_brt": "2026-06-12",
       "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft Japan's H3 rocket bounces back from failure with successful return to flight launch carrying 6 satellites News By Josh Dinner published 12 June 2026 H3 has made a triumphant return. When you purchase through links on our site, we may earn an affiliate commission.",
       "queued_ts": 1781296681
+    },
+    {
+      "fp": "d1b77fe34e38951e49759625",
+      "title": "China successfully debuts tallest rocket, LandSpace prepares for second landing attempt",
+      "link": "https://www.nasaspaceflight.com/2026/06/china-roundup-061226/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-06-12T21:12:21+00:00",
+      "day_brt": "2026-06-12",
+      "resumo_pt": "Resumo (PT-BR): China successfully debuts tallest rocket, LandSpace prepares for second landing attempt by Martin Smith June 12, 2026 written by Martin Smith June 12, 2026 5 China kicked off a busy month with three missions for a single internet constellation in the span of nearly four days. Another maiden launch saw the nation’s tallest rocket successfully reach orbit, though the debut raised eyebrows with the absence of airspace notices ahead of the mission.",
+      "queued_ts": 1781302306
     }
   ],
   "digests_sent": {
@@ -4039,7 +4075,8 @@
     "2026-06-12": {
       "2308be1630fbe9ea926b0338": true,
       "1729cec1d25c829f84875a69": true,
-      "f7d900a90a7cd29e0ac712a4": true
+      "f7d900a90a7cd29e0ac712a4": true,
+      "d1b77fe34e38951e49759625": true
     }
   }
 }
