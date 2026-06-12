@@ -3445,6 +3445,14 @@
       "link": "https://spaceflightnow.com/2026/06/11/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-4/",
       "score": 3.6,
       "published_utc": "2026-06-11T10:29:38+00:00"
+    },
+    "2f623c809c123ff01707a93d": {
+      "ts": 1781230264,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch final Starlink mission as it begins publicly trade its stock on the Nasdaq for the first time",
+      "link": "https://spaceflightnow.com/2026/06/12/live-coverage-spacex-to-launch-final-starlink-mission-as-it-begins-publicly-trade-its-stock-on-the-nasdaq-for-the-first-time/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-06-12T02:06:09+00:00"
     }
   },
   "digest_queue": [
@@ -3663,6 +3671,18 @@
       "day_brt": "2026-06-02",
       "resumo_pt": "Resumo (PT-BR): Blue Origin initiates LC-36 recovery, targets RTF by end of 2026 by Ryan Caton June 2, 2026 written by Ryan Caton June 2, 2026 5 Blue Origin has wasted no time launching inspection, repair, and reconstruction activities at Launch Complex-36 following the loss of a New Glenn vehicle during static fire testing last Thursday night. According to company CEO Dave Limp, the company intends to return the pad to flight operations with New Glenn before the end of this year.",
       "queued_ts": 1780450869
+    },
+    {
+      "fp": "2f623c809c123ff01707a93d",
+      "title": "Live coverage: SpaceX to launch final Starlink mission as it begins publicly trade its stock on the Nasdaq for the first time",
+      "link": "https://spaceflightnow.com/2026/06/12/live-coverage-spacex-to-launch-final-starlink-mission-as-it-begins-publicly-trade-its-stock-on-the-nasdaq-for-the-first-time/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-06-12T02:06:09+00:00",
+      "day_brt": "2026-06-11",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch final Starlink mission as it begins publicly trade its stock on the Nasdaq for the first time June 12, 2026 Will Robinson-Smith File: A Falcon 9 rocket stands in the launch position at Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station ahead of the planned liftoff of the Starlink 6-61 mission on Oct. Image: Adam Bernstein/Spaceflight Now SpaceX will mark its historic launch on the stock market Friday morning with a Falcon 9 rocket launch from Cape Canaveral Space Force Station in Florida.",
+      "queued_ts": 1781230266
     }
   ],
   "digests_sent": {
@@ -3878,7 +3898,8 @@
       "bce6c2919b8028ec810b280b": true,
       "2f3efb12a0ff5aabf9ed144b": true,
       "e1af1ee0022236a3e40fd1ea": true,
-      "b0dea39166d73e01db02815f": true
+      "b0dea39166d73e01db02815f": true,
+      "2f623c809c123ff01707a93d": true
     }
   }
 }
