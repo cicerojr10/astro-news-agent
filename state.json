@@ -3815,42 +3815,6 @@
       "day_brt": "2026-06-11",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch final Starlink mission as it begins publicly trade its stock on the Nasdaq for the first time June 12, 2026 Will Robinson-Smith File: A Falcon 9 rocket stands in the launch position at Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station ahead of the planned liftoff of the Starlink 6-61 mission on Oct. Image: Adam Bernstein/Spaceflight Now SpaceX will mark its historic launch on the stock market Friday morning with a Falcon 9 rocket launch from Cape Canaveral Space Force Station in Florida.",
       "queued_ts": 1781230266
-    },
-    {
-      "fp": "1729cec1d25c829f84875a69",
-      "title": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure",
-      "link": "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-12T15:32:54+00:00",
-      "day_brt": "2026-06-12",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NASA to Cover 34th SpaceX Resupply Mission Space Station Departure Gerelle Q. Dodson Jun 12, 2026 MEDIA ADVISORY M26-046 NASA Headquarters The SpaceX Dragon cargo spacecraft supporting the company’s 34th commercial resupply services mission for NASA approaches the International Space Station on May 17, 2026, carrying nearly 6,500 pounds of food, supplies, and equipment for the Expedition 74 crew.",
-      "queued_ts": 1781289033
-    },
-    {
-      "fp": "f7d900a90a7cd29e0ac712a4",
-      "title": "Japan's H3 rocket bounces back from failure with successful return to flight launch carrying 6 satellites",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/japans-h3-rocket-bounces-back-from-failure-with-successful-return-to-flight-launch-carrying-6-satellites",
-      "source": "Space.com",
-      "score": 10.5,
-      "is_anomaly": true,
-      "published_utc": "2026-06-12T20:03:04+00:00",
-      "day_brt": "2026-06-12",
-      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft Japan's H3 rocket bounces back from failure with successful return to flight launch carrying 6 satellites News By Josh Dinner published 12 June 2026 H3 has made a triumphant return. When you purchase through links on our site, we may earn an affiliate commission.",
-      "queued_ts": 1781296681
-    },
-    {
-      "fp": "d1b77fe34e38951e49759625",
-      "title": "China successfully debuts tallest rocket, LandSpace prepares for second landing attempt",
-      "link": "https://www.nasaspaceflight.com/2026/06/china-roundup-061226/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-06-12T21:12:21+00:00",
-      "day_brt": "2026-06-12",
-      "resumo_pt": "Resumo (PT-BR): China successfully debuts tallest rocket, LandSpace prepares for second landing attempt by Martin Smith June 12, 2026 written by Martin Smith June 12, 2026 5 China kicked off a busy month with three missions for a single internet constellation in the span of nearly four days. Another maiden launch saw the nation’s tallest rocket successfully reach orbit, though the debut raised eyebrows with the absence of airspace notices ahead of the mission.",
-      "queued_ts": 1781302306
     }
   ],
   "digests_sent": {
@@ -4013,7 +3977,8 @@
       "night": true
     },
     "2026-06-12": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
