@@ -3529,6 +3529,22 @@
       "score": 0.0,
       "published_utc": "2026-06-12T02:06:09+00:00",
       "note": "not_today"
+    },
+    "1729cec1d25c829f84875a69": {
+      "ts": 1781289030,
+      "source": "NASA Breaking News",
+      "title": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure",
+      "link": "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/",
+      "score": 4.0,
+      "published_utc": "2026-06-12T15:32:54+00:00"
+    },
+    "c0109c9a02a857316924f938": {
+      "ts": 1781289032,
+      "source": "Space.com",
+      "title": "Why is the US Space Force researching 'orbital warehouses'?",
+      "link": "https://www.space.com/space-exploration/satellites/why-is-the-us-space-force-researching-orbital-warehouses",
+      "score": 2.8,
+      "published_utc": "2026-06-12T18:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -3759,6 +3775,18 @@
       "day_brt": "2026-06-11",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch final Starlink mission as it begins publicly trade its stock on the Nasdaq for the first time June 12, 2026 Will Robinson-Smith File: A Falcon 9 rocket stands in the launch position at Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station ahead of the planned liftoff of the Starlink 6-61 mission on Oct. Image: Adam Bernstein/Spaceflight Now SpaceX will mark its historic launch on the stock market Friday morning with a Falcon 9 rocket launch from Cape Canaveral Space Force Station in Florida.",
       "queued_ts": 1781230266
+    },
+    {
+      "fp": "1729cec1d25c829f84875a69",
+      "title": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure",
+      "link": "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-12T15:32:54+00:00",
+      "day_brt": "2026-06-12",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA to Cover 34th SpaceX Resupply Mission Space Station Departure Gerelle Q. Dodson Jun 12, 2026 MEDIA ADVISORY M26-046 NASA Headquarters The SpaceX Dragon cargo spacecraft supporting the company’s 34th commercial resupply services mission for NASA approaches the International Space Station on May 17, 2026, carrying nearly 6,500 pounds of food, supplies, and equipment for the Expedition 74 crew.",
+      "queued_ts": 1781289033
     }
   ],
   "digests_sent": {
@@ -3981,7 +4009,8 @@
       "2f623c809c123ff01707a93d": true
     },
     "2026-06-12": {
-      "2308be1630fbe9ea926b0338": true
+      "2308be1630fbe9ea926b0338": true,
+      "1729cec1d25c829f84875a69": true
     }
   }
 }
