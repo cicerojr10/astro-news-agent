@@ -3488,6 +3488,38 @@
       "link": "https://www.space.com/space-exploration/private-spaceflight/spacex-to-go-public-with-a-mind-bogglingly-historic-ipo-today-the-space-industry-may-never-be-the-same",
       "score": 2.8,
       "published_utc": "2026-06-12T10:00:00+00:00"
+    },
+    "2308be1630fbe9ea926b0338": {
+      "ts": 1781272595,
+      "source": "NASA Breaking News",
+      "title": "Hubble Sees Swarm of Galaxies",
+      "link": "https://science.nasa.gov/missions/hubble/hubble-sees-swarm-of-galaxies/",
+      "score": 4.0,
+      "published_utc": "2026-06-12T11:34:50+00:00"
+    },
+    "5a507a3787587d3ba4863fbc": {
+      "ts": 1781272597,
+      "source": "Space.com",
+      "title": "The critical robot arm on the ISS isn't working properly, but NASA has a plan to fix it",
+      "link": "https://www.space.com/space-exploration/international-space-station/the-critical-robot-arm-on-the-iss-isnt-working-properly-but-nasa-has-a-plan-to-fix-it",
+      "score": 2.8,
+      "published_utc": "2026-06-12T13:00:00+00:00"
+    },
+    "a6c4470258e9faa7630a3218": {
+      "ts": 1781272597,
+      "source": "Space.com",
+      "title": "My quiet obsession with satellites — and how they're ruining everything",
+      "link": "https://www.space.com/stargazing/my-quiet-obsession-with-satellites-and-how-theyre-ruining-everything",
+      "score": 2.8,
+      "published_utc": "2026-06-12T12:00:00+00:00"
+    },
+    "30002c1ce995053ea97e45e9": {
+      "ts": 1781272597,
+      "source": "Space.com",
+      "title": "SpaceX goes public with a mind-bogglingly historic IPO today. The space industry may never be the same.",
+      "link": "https://www.space.com/space-exploration/private-spaceflight/spacex-to-go-public-with-a-mind-bogglingly-historic-ipo-today-the-space-industry-may-never-be-the-same",
+      "score": 2.8,
+      "published_utc": "2026-06-12T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -3878,6 +3910,9 @@
     "2026-06-11": {
       "morning": true,
       "night": true
+    },
+    "2026-06-12": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -3935,6 +3970,9 @@
       "e1af1ee0022236a3e40fd1ea": true,
       "b0dea39166d73e01db02815f": true,
       "2f623c809c123ff01707a93d": true
+    },
+    "2026-06-12": {
+      "2308be1630fbe9ea926b0338": true
     }
   }
 }
