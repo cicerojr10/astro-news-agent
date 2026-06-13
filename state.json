@@ -3989,7 +3989,8 @@
       "night": true
     },
     "2026-06-13": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
