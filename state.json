@@ -3593,6 +3593,14 @@
       "link": "https://www.space.com/stargazing/astrophotography/closer-every-day-a-spectacular-30-day-collage-of-the-venus-jupiter-conjunction-photo",
       "score": 2.8,
       "published_utc": "2026-06-13T13:00:00+00:00"
+    },
+    "73644c2f8f048718e55dfacf": {
+      "ts": 1781403174,
+      "source": "NASASpaceflight",
+      "title": "Booster 20 Completes Cryo, As Ship 40 Nears Static Fire",
+      "link": "https://www.nasaspaceflight.com/2026/06/booster-20-cryo-ship-40-static-fire/",
+      "score": 3.6,
+      "published_utc": "2026-06-14T00:37:59+00:00"
     }
   },
   "digest_queue": [
@@ -3823,6 +3831,18 @@
       "day_brt": "2026-06-11",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch final Starlink mission as it begins publicly trade its stock on the Nasdaq for the first time June 12, 2026 Will Robinson-Smith File: A Falcon 9 rocket stands in the launch position at Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station ahead of the planned liftoff of the Starlink 6-61 mission on Oct. Image: Adam Bernstein/Spaceflight Now SpaceX will mark its historic launch on the stock market Friday morning with a Falcon 9 rocket launch from Cape Canaveral Space Force Station in Florida.",
       "queued_ts": 1781230266
+    },
+    {
+      "fp": "73644c2f8f048718e55dfacf",
+      "title": "Booster 20 Completes Cryo, As Ship 40 Nears Static Fire",
+      "link": "https://www.nasaspaceflight.com/2026/06/booster-20-cryo-ship-40-static-fire/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-06-14T00:37:59+00:00",
+      "day_brt": "2026-06-13",
+      "resumo_pt": "Resumo (PT-BR): Booster 20 Completes Cryo, As Ship 40 Nears Static Fire by Ryan Weber June 13, 2026 written by Ryan Weber June 13, 2026 1 With the completion of Flight 12 about three weeks ago, all focus is now on Flight 13 and its vehicles, Booster 20 and Ship 40. To date, both have completed cryogenic proof testing and are now set up to complete static fire testing next.",
+      "queued_ts": 1781403175
     }
   ],
   "digests_sent": {
@@ -4054,6 +4074,9 @@
       "1729cec1d25c829f84875a69": true,
       "f7d900a90a7cd29e0ac712a4": true,
       "d1b77fe34e38951e49759625": true
+    },
+    "2026-06-13": {
+      "73644c2f8f048718e55dfacf": true
     }
   }
 }
