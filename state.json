@@ -3601,6 +3601,14 @@
       "link": "https://www.nasaspaceflight.com/2026/06/booster-20-cryo-ship-40-static-fire/",
       "score": 3.6,
       "published_utc": "2026-06-14T00:37:59+00:00"
+    },
+    "bfbb004f5110a1e0793a43bc": {
+      "ts": 1781481228,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch its first Falcon 9 rocket since Nasdaq debut",
+      "link": "https://spaceflightnow.com/2026/06/14/live-coverage-spacex-to-launch-its-first-falcon-9-rocket-since-nasdaq-debut/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-06-14T23:29:03+00:00"
     }
   },
   "digest_queue": [
@@ -4013,30 +4021,11 @@
       "night": true
     },
     "2026-06-14": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
-    "2026-06-04": {
-      "44521420a5c7ae4ab586ef59": true,
-      "5cdd8a6f237bba74e09c413e": true
-    },
-    "2026-06-05": {
-      "ea0afb4c22864e1600def25a": true,
-      "406b0dccc8d794e9562cd1ea": true,
-      "f6d68da6ec1678b4344b1b68": true,
-      "c70fd0d4ec8d5e8a5bd83437": true,
-      "06809025190b67e4602bec76": true,
-      "8c0e9f8ec939facfcefb84ae": true,
-      "ad92becbd424ea2f3f0e39c0": true
-    },
-    "2026-06-06": {
-      "22394bd5e70470f9e9223408": true
-    },
-    "2026-06-07": {
-      "02a0e4884db2cb65faec6f71": true,
-      "499c408b75806399395ab17d": true
-    },
     "2026-06-08": {
       "073dd35ad75ac2e7529ba0c0": true,
       "60f6fd8ff378943953af809f": true
@@ -4080,6 +4069,9 @@
     },
     "2026-06-13": {
       "73644c2f8f048718e55dfacf": true
+    },
+    "2026-06-14": {
+      "bfbb004f5110a1e0793a43bc": true
     }
   }
 }
