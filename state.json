@@ -3948,114 +3948,6 @@
       "day_brt": "2026-06-13",
       "resumo_pt": "Resumo (PT-BR): Booster 20 Completes Cryo, As Ship 40 Nears Static Fire by Ryan Weber June 13, 2026 written by Ryan Weber June 13, 2026 1 With the completion of Flight 12 about three weeks ago, all focus is now on Flight 13 and its vehicles, Booster 20 and Ship 40. To date, both have completed cryogenic proof testing and are now set up to complete static fire testing next.",
       "queued_ts": 1781403175
-    },
-    {
-      "fp": "8dc6a6837ec6d6ac7edee719",
-      "title": "NASA Astronaut Anil Menon Available for Prelaunch Virtual Interviews",
-      "link": "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-available-for-prelaunch-virtual-interviews/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-15T15:02:04+00:00",
-      "day_brt": "2026-06-15",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Astronaut Anil Menon Available for Prelaunch Virtual Interviews Elizabeth Shaw Jun 15, 2026 MEDIA ADVISORY M26-045 NASA Headquarters NASA astronaut and International Space Station Expedition 74/75 flight engineer Anil Menon poses for a portrait at NASA’s Johnson Space Center in Houston. NASA/James Blair NASA astronaut Anil Menon will be available for limited media interviews beginning at 9 a.m.",
-      "queued_ts": 1781539862
-    },
-    {
-      "fp": "6bafb065297efb7a112a2f6f",
-      "title": "San Francisco’s Patchwork Streets",
-      "link": "https://www.nasa.gov/image-article/san-franciscos-patchwork-streets/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-15T14:30:31+00:00",
-      "day_brt": "2026-06-15",
-      "resumo_pt": "Resumo (PT-BR): 1 min read San Francisco’s Patchwork Streets HQ Web Team Jun 15, 2026 Image Article A period of unsettled weather brought scattered showers and thunderstorms to California’s Bay Area on May 27, 2026. That afternoon, a break in the clouds left downtown San Francisco and nearby communities beneath mostly cloud-free skies, allowing an astronaut aboard the International Space Station to take this photograph.",
-      "queued_ts": 1781539862
-    },
-    {
-      "fp": "ff9455dd53d6f914cc4ab1bd",
-      "title": "Experience the Launch of NASA’s Roman Space Telescope",
-      "link": "https://www.nasa.gov/social-media/nasa-socials-program/experience-the-launch-of-nasas-roman-space-telescope/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-15T14:28:36+00:00",
-      "day_brt": "2026-06-15",
-      "resumo_pt": "Resumo (PT-BR): 8 Min Read Experience the Launch of NASA’s Roman Space Telescope Gary Daines Jun 15, 2026 Article Are you ready for a new view of the universe? The Nancy Grace Roman Space Telescope will reveal distant worlds, dark energy, and the structure of the cosmos, and we want you to be a part of it!",
-      "queued_ts": 1781539862
-    },
-    {
-      "fp": "df2ef6d274092ca6c6d23ff5",
-      "title": "Metrics",
-      "link": "https://www.nasa.gov/centers-and-facilities/nssc/metrics/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-15T13:57:24+00:00",
-      "day_brt": "2026-06-15",
-      "resumo_pt": "Resumo (PT-BR): Pohto Jun 15, 2026 Article Contents Services Catalog Service Level Agreement (SLA) NSSC Bill (Formerly know as Performance and Utilization Report (PUR)) Services Catalog Click here to view the FY26 Services Catalog The catalogs provide service description, chargeback rate, unit of measure, and service level indicators for each NSSC service. Service Level Agreement (SLA) Click here to view the Service Level Agreement The SLA provides information about roles, responsibilities, rates, and service level indicators for all NASA Centers.",
-      "queued_ts": 1781539862
-    },
-    {
-      "fp": "2eb5eeb79b3016d821cad062",
-      "title": "NASA’s SpaceX CRS-34 Dragon Returns Packed with Space Station Science",
-      "link": "https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crs-34-dragon-returns-packed-with-space-station-science/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-15T17:30:00+00:00",
-      "day_brt": "2026-06-15",
-      "resumo_pt": "Resumo (PT-BR): 5 min read NASA’s SpaceX CRS-34 Dragon Returns Packed with Space Station Science Diana G. Garcia International Space Station Research Communications Team Jun 15, 2026 Article Contents Tiny cells, huge health insights Driving design enhancements Innovative medical research mix Scientists await a big splash in the Pacific Ocean as one of the most research-packed Dragon spacecraft to date returns, completing the 34th SpaceX commercial resupply mission to the International Space Station for NASA.",
-      "queued_ts": 1781547438
-    },
-    {
-      "fp": "c2cc0005db18e498aaf6b799",
-      "title": "Frontiers Forum Speaker Series",
-      "link": "https://www.nasa.gov/general/frontiers-forum-speaker-series/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-15T16:23:29+00:00",
-      "day_brt": "2026-06-15",
-      "resumo_pt": "Resumo (PT-BR): 2 min read Frontiers Forum Speaker Series Margeline Thomas Jun 15, 2026 Article Contents Voices Shaping the Future of Space Thursday, June 18 | 11-11:30 a.m. For More Information Aya Collins, director of the engagement division of NASA’s Office of Communications, moderates a discussion with, from left to right, NASA astronauts Zena Cardman, Mike Fincke, and JAXA (Japan Aerospace Exploration Agency) astronaut Kimiya Yui, Monday, June 1, 2026 at the Mary W.",
-      "queued_ts": 1781547438
-    },
-    {
-      "fp": "0dff62b713fa3d8a5ea6af35",
-      "title": "Isar Aerospace set for second launch of Spectrum rocket after weeks of delays",
-      "link": "https://www.nasaspaceflight.com/2026/06/isar-onward-and-upward/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-06-15T09:41:57+00:00",
-      "day_brt": "2026-06-15",
-      "resumo_pt": "Resumo (PT-BR): Isar Aerospace set for second launch of Spectrum rocket after weeks of delays by Justin Davenport June 15, 2026 written by Justin Davenport June 15, 2026 214 The European private space launch provider Isar Aerospace, headquartered in Ottobrunn, Germany, is set to fly its Spectrum small-satellite launcher on its second mission after weeks of delays and aborted launch attempts. Over a year after Spectrum’s first flight failed, the company is to fly the “Onward and Upward” mission from the Orbital Launch Pad at the Andoya Spaceport in Norway.",
-      "queued_ts": 1781547438
-    },
-    {
-      "fp": "13c29c1e281b8ae635ae498c",
-      "title": "Isar Aerospace scrubs second launch of Spectrum rocket after weeks of delays",
-      "link": "https://www.nasaspaceflight.com/2026/06/isar-onward-and-upward/",
-      "source": "NASASpaceflight",
-      "score": 6.3,
-      "is_anomaly": false,
-      "published_utc": "2026-06-15T09:41:57+00:00",
-      "day_brt": "2026-06-15",
-      "resumo_pt": "Resumo (PT-BR): Isar Aerospace set for second launch of Spectrum rocket after weeks of delays by Justin Davenport June 15, 2026 written by Justin Davenport June 15, 2026 214 The European private space launch provider Isar Aerospace, headquartered in Ottobrunn, Germany, is set to fly its Spectrum small-satellite launcher on its second mission after weeks of delays and aborted launch attempts. Over a year after Spectrum’s first flight failed, the company is to fly the “Onward and Upward” mission from the Orbital Launch Pad at the Andoya Spaceport in Norway.",
-      "queued_ts": 1781558642
-    },
-    {
-      "fp": "3ee154d31ff482647325235f",
-      "title": "NASA Astronauts to Answer Questions from New Jersey Students",
-      "link": "https://www.nasa.gov/learning-resources/for-colleges-universities/nasa-stem-projects/in-flight-education-downlinks/nasa-astronauts-to-answer-questions-from-new-jersey-students/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-15T18:06:18+00:00",
-      "day_brt": "2026-06-15",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Astronauts to Answer Questions from New Jersey Students Gerelle Q. Dodson Jun 15, 2026 Article NASA astronauts Jessica Meir and Chris Williams collect frozen research samples while living and working aboard the International Space Station.",
-      "queued_ts": 1781558642
     }
   ],
   "digests_sent": {
@@ -4230,7 +4122,8 @@
       "night": true
     },
     "2026-06-15": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
