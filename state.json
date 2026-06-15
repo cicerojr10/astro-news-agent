@@ -3649,6 +3649,39 @@
       "link": "https://www.space.com/astronomy/stars/nasa-x-ray-spacecraft-discovers-supernova-wreckage-at-the-heart-of-the-milky-way",
       "score": 2.8,
       "published_utc": "2026-06-15T16:00:00+00:00"
+    },
+    "2eb5eeb79b3016d821cad062": {
+      "ts": 1781547434,
+      "source": "NASA Breaking News",
+      "title": "NASA’s SpaceX CRS-34 Dragon Returns Packed with Space Station Science",
+      "link": "https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crs-34-dragon-returns-packed-with-space-station-science/",
+      "score": 4.0,
+      "published_utc": "2026-06-15T17:30:00+00:00"
+    },
+    "c2cc0005db18e498aaf6b799": {
+      "ts": 1781547434,
+      "source": "NASA Breaking News",
+      "title": "Frontiers Forum Speaker Series",
+      "link": "https://www.nasa.gov/general/frontiers-forum-speaker-series/",
+      "score": 4.0,
+      "published_utc": "2026-06-15T16:23:29+00:00"
+    },
+    "871417a47da63b7cc98898c2": {
+      "ts": 1781547435,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches its first Falcon 9 rocket since Nasdaq debut",
+      "link": "https://spaceflightnow.com/2026/06/14/live-coverage-spacex-to-launch-its-first-falcon-9-rocket-since-nasdaq-debut/",
+      "score": 0.0,
+      "published_utc": "2026-06-14T23:29:03+00:00",
+      "note": "not_today"
+    },
+    "0dff62b713fa3d8a5ea6af35": {
+      "ts": 1781547436,
+      "source": "NASASpaceflight",
+      "title": "Isar Aerospace set for second launch of Spectrum rocket after weeks of delays",
+      "link": "https://www.nasaspaceflight.com/2026/06/isar-onward-and-upward/",
+      "score": 3.6,
+      "published_utc": "2026-06-15T09:41:57+00:00"
     }
   },
   "digest_queue": [
@@ -3939,6 +3972,42 @@
       "day_brt": "2026-06-15",
       "resumo_pt": "Resumo (PT-BR): Pohto Jun 15, 2026 Article Contents Services Catalog Service Level Agreement (SLA) NSSC Bill (Formerly know as Performance and Utilization Report (PUR)) Services Catalog Click here to view the FY26 Services Catalog The catalogs provide service description, chargeback rate, unit of measure, and service level indicators for each NSSC service. Service Level Agreement (SLA) Click here to view the Service Level Agreement The SLA provides information about roles, responsibilities, rates, and service level indicators for all NASA Centers.",
       "queued_ts": 1781539862
+    },
+    {
+      "fp": "2eb5eeb79b3016d821cad062",
+      "title": "NASA’s SpaceX CRS-34 Dragon Returns Packed with Space Station Science",
+      "link": "https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crs-34-dragon-returns-packed-with-space-station-science/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-15T17:30:00+00:00",
+      "day_brt": "2026-06-15",
+      "resumo_pt": "Resumo (PT-BR): 5 min read NASA’s SpaceX CRS-34 Dragon Returns Packed with Space Station Science Diana G. Garcia International Space Station Research Communications Team Jun 15, 2026 Article Contents Tiny cells, huge health insights Driving design enhancements Innovative medical research mix Scientists await a big splash in the Pacific Ocean as one of the most research-packed Dragon spacecraft to date returns, completing the 34th SpaceX commercial resupply mission to the International Space Station for NASA.",
+      "queued_ts": 1781547438
+    },
+    {
+      "fp": "c2cc0005db18e498aaf6b799",
+      "title": "Frontiers Forum Speaker Series",
+      "link": "https://www.nasa.gov/general/frontiers-forum-speaker-series/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-15T16:23:29+00:00",
+      "day_brt": "2026-06-15",
+      "resumo_pt": "Resumo (PT-BR): 2 min read Frontiers Forum Speaker Series Margeline Thomas Jun 15, 2026 Article Contents Voices Shaping the Future of Space Thursday, June 18 | 11-11:30 a.m. For More Information Aya Collins, director of the engagement division of NASA’s Office of Communications, moderates a discussion with, from left to right, NASA astronauts Zena Cardman, Mike Fincke, and JAXA (Japan Aerospace Exploration Agency) astronaut Kimiya Yui, Monday, June 1, 2026 at the Mary W.",
+      "queued_ts": 1781547438
+    },
+    {
+      "fp": "0dff62b713fa3d8a5ea6af35",
+      "title": "Isar Aerospace set for second launch of Spectrum rocket after weeks of delays",
+      "link": "https://www.nasaspaceflight.com/2026/06/isar-onward-and-upward/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-06-15T09:41:57+00:00",
+      "day_brt": "2026-06-15",
+      "resumo_pt": "Resumo (PT-BR): Isar Aerospace set for second launch of Spectrum rocket after weeks of delays by Justin Davenport June 15, 2026 written by Justin Davenport June 15, 2026 214 The European private space launch provider Isar Aerospace, headquartered in Ottobrunn, Germany, is set to fly its Spectrum small-satellite launcher on its second mission after weeks of delays and aborted launch attempts. Over a year after Spectrum’s first flight failed, the company is to fly the “Onward and Upward” mission from the Orbital Launch Pad at the Andoya Spaceport in Norway.",
+      "queued_ts": 1781547438
     }
   ],
   "digests_sent": {
@@ -4167,7 +4236,10 @@
     "2026-06-15": {
       "8dc6a6837ec6d6ac7edee719": true,
       "6bafb065297efb7a112a2f6f": true,
-      "ff9455dd53d6f914cc4ab1bd": true
+      "ff9455dd53d6f914cc4ab1bd": true,
+      "2eb5eeb79b3016d821cad062": true,
+      "c2cc0005db18e498aaf6b799": true,
+      "0dff62b713fa3d8a5ea6af35": true
     }
   }
 }
