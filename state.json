@@ -3609,6 +3609,46 @@
       "link": "https://spaceflightnow.com/2026/06/14/live-coverage-spacex-to-launch-its-first-falcon-9-rocket-since-nasdaq-debut/",
       "score": 4.680000000000001,
       "published_utc": "2026-06-14T23:29:03+00:00"
+    },
+    "8dc6a6837ec6d6ac7edee719": {
+      "ts": 1781539858,
+      "source": "NASA Breaking News",
+      "title": "NASA Astronaut Anil Menon Available for Prelaunch Virtual Interviews",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-available-for-prelaunch-virtual-interviews/",
+      "score": 4.0,
+      "published_utc": "2026-06-15T15:02:04+00:00"
+    },
+    "6bafb065297efb7a112a2f6f": {
+      "ts": 1781539858,
+      "source": "NASA Breaking News",
+      "title": "San Francisco’s Patchwork Streets",
+      "link": "https://www.nasa.gov/image-article/san-franciscos-patchwork-streets/",
+      "score": 4.0,
+      "published_utc": "2026-06-15T14:30:31+00:00"
+    },
+    "ff9455dd53d6f914cc4ab1bd": {
+      "ts": 1781539858,
+      "source": "NASA Breaking News",
+      "title": "Experience the Launch of NASA’s Roman Space Telescope",
+      "link": "https://www.nasa.gov/social-media/nasa-socials-program/experience-the-launch-of-nasas-roman-space-telescope/",
+      "score": 4.0,
+      "published_utc": "2026-06-15T14:28:36+00:00"
+    },
+    "df2ef6d274092ca6c6d23ff5": {
+      "ts": 1781539858,
+      "source": "NASA Breaking News",
+      "title": "Metrics",
+      "link": "https://www.nasa.gov/centers-and-facilities/nssc/metrics/",
+      "score": 4.0,
+      "published_utc": "2026-06-15T13:57:24+00:00"
+    },
+    "d82eb5bd43cc8fcf214230cc": {
+      "ts": 1781539860,
+      "source": "Space.com",
+      "title": "NASA X-ray spacecraft discovers supernova wreckage at the heart of the Milky Way",
+      "link": "https://www.space.com/astronomy/stars/nasa-x-ray-spacecraft-discovers-supernova-wreckage-at-the-heart-of-the-milky-way",
+      "score": 2.8,
+      "published_utc": "2026-06-15T16:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -3851,6 +3891,54 @@
       "day_brt": "2026-06-13",
       "resumo_pt": "Resumo (PT-BR): Booster 20 Completes Cryo, As Ship 40 Nears Static Fire by Ryan Weber June 13, 2026 written by Ryan Weber June 13, 2026 1 With the completion of Flight 12 about three weeks ago, all focus is now on Flight 13 and its vehicles, Booster 20 and Ship 40. To date, both have completed cryogenic proof testing and are now set up to complete static fire testing next.",
       "queued_ts": 1781403175
+    },
+    {
+      "fp": "8dc6a6837ec6d6ac7edee719",
+      "title": "NASA Astronaut Anil Menon Available for Prelaunch Virtual Interviews",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-available-for-prelaunch-virtual-interviews/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-15T15:02:04+00:00",
+      "day_brt": "2026-06-15",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Astronaut Anil Menon Available for Prelaunch Virtual Interviews Elizabeth Shaw Jun 15, 2026 MEDIA ADVISORY M26-045 NASA Headquarters NASA astronaut and International Space Station Expedition 74/75 flight engineer Anil Menon poses for a portrait at NASA’s Johnson Space Center in Houston. NASA/James Blair NASA astronaut Anil Menon will be available for limited media interviews beginning at 9 a.m.",
+      "queued_ts": 1781539862
+    },
+    {
+      "fp": "6bafb065297efb7a112a2f6f",
+      "title": "San Francisco’s Patchwork Streets",
+      "link": "https://www.nasa.gov/image-article/san-franciscos-patchwork-streets/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-15T14:30:31+00:00",
+      "day_brt": "2026-06-15",
+      "resumo_pt": "Resumo (PT-BR): 1 min read San Francisco’s Patchwork Streets HQ Web Team Jun 15, 2026 Image Article A period of unsettled weather brought scattered showers and thunderstorms to California’s Bay Area on May 27, 2026. That afternoon, a break in the clouds left downtown San Francisco and nearby communities beneath mostly cloud-free skies, allowing an astronaut aboard the International Space Station to take this photograph.",
+      "queued_ts": 1781539862
+    },
+    {
+      "fp": "ff9455dd53d6f914cc4ab1bd",
+      "title": "Experience the Launch of NASA’s Roman Space Telescope",
+      "link": "https://www.nasa.gov/social-media/nasa-socials-program/experience-the-launch-of-nasas-roman-space-telescope/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-15T14:28:36+00:00",
+      "day_brt": "2026-06-15",
+      "resumo_pt": "Resumo (PT-BR): 8 Min Read Experience the Launch of NASA’s Roman Space Telescope Gary Daines Jun 15, 2026 Article Are you ready for a new view of the universe? The Nancy Grace Roman Space Telescope will reveal distant worlds, dark energy, and the structure of the cosmos, and we want you to be a part of it!",
+      "queued_ts": 1781539862
+    },
+    {
+      "fp": "df2ef6d274092ca6c6d23ff5",
+      "title": "Metrics",
+      "link": "https://www.nasa.gov/centers-and-facilities/nssc/metrics/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-15T13:57:24+00:00",
+      "day_brt": "2026-06-15",
+      "resumo_pt": "Resumo (PT-BR): Pohto Jun 15, 2026 Article Contents Services Catalog Service Level Agreement (SLA) NSSC Bill (Formerly know as Performance and Utilization Report (PUR)) Services Catalog Click here to view the FY26 Services Catalog The catalogs provide service description, chargeback rate, unit of measure, and service level indicators for each NSSC service. Service Level Agreement (SLA) Click here to view the Service Level Agreement The SLA provides information about roles, responsibilities, rates, and service level indicators for all NASA Centers.",
+      "queued_ts": 1781539862
     }
   ],
   "digests_sent": {
@@ -4075,6 +4163,11 @@
     },
     "2026-06-14": {
       "bfbb004f5110a1e0793a43bc": true
+    },
+    "2026-06-15": {
+      "8dc6a6837ec6d6ac7edee719": true,
+      "6bafb065297efb7a112a2f6f": true,
+      "ff9455dd53d6f914cc4ab1bd": true
     }
   }
 }
