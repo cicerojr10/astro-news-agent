@@ -3682,6 +3682,30 @@
       "link": "https://www.nasaspaceflight.com/2026/06/isar-onward-and-upward/",
       "score": 3.6,
       "published_utc": "2026-06-15T09:41:57+00:00"
+    },
+    "3ee154d31ff482647325235f": {
+      "ts": 1781558639,
+      "source": "NASA Breaking News",
+      "title": "NASA Astronauts to Answer Questions from New Jersey Students",
+      "link": "https://www.nasa.gov/learning-resources/for-colleges-universities/nasa-stem-projects/in-flight-education-downlinks/nasa-astronauts-to-answer-questions-from-new-jersey-students/",
+      "score": 4.0,
+      "published_utc": "2026-06-15T18:06:18+00:00"
+    },
+    "13c29c1e281b8ae635ae498c": {
+      "ts": 1781558641,
+      "source": "NASASpaceflight",
+      "title": "Isar Aerospace scrubs second launch of Spectrum rocket after weeks of delays",
+      "link": "https://www.nasaspaceflight.com/2026/06/isar-onward-and-upward/",
+      "score": 6.3,
+      "published_utc": "2026-06-15T09:41:57+00:00"
+    },
+    "60bf7c079fc02e23e5fc3f81": {
+      "ts": 1781558641,
+      "source": "Space.com",
+      "title": "SpaceX sends 24 Starlink satellites to orbit on 1st launch as a public company (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-54-b1093-vsfb-ocisly",
+      "score": 2.8,
+      "published_utc": "2026-06-15T19:27:41+00:00"
     }
   },
   "digest_queue": [
@@ -4008,6 +4032,30 @@
       "day_brt": "2026-06-15",
       "resumo_pt": "Resumo (PT-BR): Isar Aerospace set for second launch of Spectrum rocket after weeks of delays by Justin Davenport June 15, 2026 written by Justin Davenport June 15, 2026 214 The European private space launch provider Isar Aerospace, headquartered in Ottobrunn, Germany, is set to fly its Spectrum small-satellite launcher on its second mission after weeks of delays and aborted launch attempts. Over a year after Spectrum’s first flight failed, the company is to fly the “Onward and Upward” mission from the Orbital Launch Pad at the Andoya Spaceport in Norway.",
       "queued_ts": 1781547438
+    },
+    {
+      "fp": "13c29c1e281b8ae635ae498c",
+      "title": "Isar Aerospace scrubs second launch of Spectrum rocket after weeks of delays",
+      "link": "https://www.nasaspaceflight.com/2026/06/isar-onward-and-upward/",
+      "source": "NASASpaceflight",
+      "score": 6.3,
+      "is_anomaly": false,
+      "published_utc": "2026-06-15T09:41:57+00:00",
+      "day_brt": "2026-06-15",
+      "resumo_pt": "Resumo (PT-BR): Isar Aerospace set for second launch of Spectrum rocket after weeks of delays by Justin Davenport June 15, 2026 written by Justin Davenport June 15, 2026 214 The European private space launch provider Isar Aerospace, headquartered in Ottobrunn, Germany, is set to fly its Spectrum small-satellite launcher on its second mission after weeks of delays and aborted launch attempts. Over a year after Spectrum’s first flight failed, the company is to fly the “Onward and Upward” mission from the Orbital Launch Pad at the Andoya Spaceport in Norway.",
+      "queued_ts": 1781558642
+    },
+    {
+      "fp": "3ee154d31ff482647325235f",
+      "title": "NASA Astronauts to Answer Questions from New Jersey Students",
+      "link": "https://www.nasa.gov/learning-resources/for-colleges-universities/nasa-stem-projects/in-flight-education-downlinks/nasa-astronauts-to-answer-questions-from-new-jersey-students/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-15T18:06:18+00:00",
+      "day_brt": "2026-06-15",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Astronauts to Answer Questions from New Jersey Students Gerelle Q. Dodson Jun 15, 2026 Article NASA astronauts Jessica Meir and Chris Williams collect frozen research samples while living and working aboard the International Space Station.",
+      "queued_ts": 1781558642
     }
   ],
   "digests_sent": {
@@ -4239,7 +4287,9 @@
       "ff9455dd53d6f914cc4ab1bd": true,
       "2eb5eeb79b3016d821cad062": true,
       "c2cc0005db18e498aaf6b799": true,
-      "0dff62b713fa3d8a5ea6af35": true
+      "0dff62b713fa3d8a5ea6af35": true,
+      "13c29c1e281b8ae635ae498c": true,
+      "3ee154d31ff482647325235f": true
     }
   }
 }
