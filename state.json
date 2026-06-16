@@ -4036,66 +4036,6 @@
       "day_brt": "2026-06-13",
       "resumo_pt": "Resumo (PT-BR): Booster 20 Completes Cryo, As Ship 40 Nears Static Fire by Ryan Weber June 13, 2026 written by Ryan Weber June 13, 2026 1 With the completion of Flight 12 about three weeks ago, all focus is now on Flight 13 and its vehicles, Booster 20 and Ship 40. To date, both have completed cryogenic proof testing and are now set up to complete static fire testing next.",
       "queued_ts": 1781403175
-    },
-    {
-      "fp": "606eba8070f187013caa5779",
-      "title": "Department of Health and Human Services Digital Stockpile & Manufacturing Response Network Challenge",
-      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/department-of-health-and-human-services-digital-stockpile-manufacturing-response-network-challenge/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-16T14:39:54+00:00",
-      "day_brt": "2026-06-16",
-      "resumo_pt": "Resumo (PT-BR): 2 min read Department of Health and Human Services Digital Stockpile & Manufacturing Response Network Challenge Bailey G. Light Jun 16, 2026 Article Alexandre – stock.adobe.com NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government.",
-      "queued_ts": 1781624804
-    },
-    {
-      "fp": "871917ba35ffd39e9c764d78",
-      "title": "Aurora Australis",
-      "link": "https://www.nasa.gov/image-article/aurora-australis-7/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-16T14:20:58+00:00",
-      "day_brt": "2026-06-16",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Aurora Australis HQ Web Team Jun 16, 2026 Image Article NASA/Jessica Meir The aurora australis arcs over Earth during an active solar event in this photograph taken on June 5, 2026, from the International Space Station as it orbited 271 miles above the Indian Ocean southwest of Perth, Australia. Auroras are colorful, dynamic, and often visually delicate displays of an intricate dance of particles and magnetism between the Sun and Earth called space weather.",
-      "queued_ts": 1781624804
-    },
-    {
-      "fp": "a8dc77c01471bc4dd23b4d4c",
-      "title": "NASA’s Quantum Lab Aboard Space Station Gets Chilly Upgrade",
-      "link": "https://www.nasa.gov/missions/station/iss-research/cold-atom-laboratory/nasas-quantum-lab-aboard-space-station-gets-chilly-upgrade/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-16T16:50:40+00:00",
-      "day_brt": "2026-06-16",
-      "resumo_pt": "Resumo (PT-BR): 5 min read NASA’s Quantum Lab Aboard Space Station Gets Chilly Upgrade Jet Propulsion Laboratory Jun 16, 2026 Article Contents How it works More about Cold Atom Lab Media Contact Astronaut Jessica Meir inspects optical fibers while installing hardware updates to NASA’s Cold Atom Lab, or CAL, aboard the International Space Station on May 8, 2026. About the size of a minifridge, CAL enables researchers to explore quantum physics.",
-      "queued_ts": 1781630685
-    },
-    {
-      "fp": "68e28722ac00ed72497dcb7c",
-      "title": "Live coverage: SpaceX to launch 3 Block 2 BlueBird satellites for AST SpaceMobile",
-      "link": "https://spaceflightnow.com/2026/06/16/live-coverage-spacex-to-launch-3-block-2-bluebird-satellites-for-ast-spacemobile/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-06-16T21:45:21+00:00",
-      "day_brt": "2026-06-16",
-      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 3 Block 2 BlueBird satellites for AST SpaceMobile June 16, 2026 Will Robinson-Smith AST SpaceMobile’s BlueBird satellites 8, 9, and 10 are encapsulated inside a SpaceX Falcon 9 rocket payload fairing ahead of launch from Cape Canaveral Space Force Station. Image: AST SpaceMobile / SpaceX AST SpaceMobile is bouncing back from the loss of its BlueBird 7 satellite last month with the launch of three more in the predawn hours of Wednesday morning.",
-      "queued_ts": 1781648736
-    },
-    {
-      "fp": "57000594918b0bacee610e8d",
-      "title": "Astronaut Jessica Meir Assists With Hardware Updates for NASA’s Cold Atom Lab",
-      "link": "https://science.nasa.gov/photojournal/astronaut-jessica-meir-assists-with-hardware-updates-for-nasas-cold-atom-lab/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-16T20:41:29+00:00",
-      "day_brt": "2026-06-16",
-      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal Astronaut Jessica Meir Assists... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 2 Min Read Astronaut Jessica Meir Assists With Hardware Updates for NASA’s Cold Atom Lab PIA26725 Credits: NASA Image Addition Date: 06/16/2026 Downloads Astronaut Jessica Meir Assists With Hardware Updates for NASA’s Cold Atom Lab JPEG (4.91 MB) Description NASA astronaut Jessica Meir inspects optical fibers while installing hardware updates to the agency’s Cold Atom Lab, or CAL, aboard the International Space Station on May 8, 2026.",
-      "queued_ts": 1781648736
     }
   ],
   "digests_sent": {
@@ -4274,7 +4214,8 @@
       "night": true
     },
     "2026-06-16": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
