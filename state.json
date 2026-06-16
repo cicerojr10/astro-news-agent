@@ -3762,6 +3762,14 @@
       "link": "https://www.space.com/space-exploration/international-space-station/spacex-dragon-cargo-capsule-crs-34-return-to-earth",
       "score": 2.8,
       "published_utc": "2026-06-16T04:05:00+00:00"
+    },
+    "9a67bfee20433e543e089178": {
+      "ts": 1781641311,
+      "source": "Space.com",
+      "title": "Watch European rocket launch record-breaking mission for Amazon on June 17",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ariane-6-rocket-record-breaking-launch-amazon-leo-le-03",
+      "score": 2.8,
+      "published_utc": "2026-06-16T20:01:58+00:00"
     }
   },
   "digest_queue": [
