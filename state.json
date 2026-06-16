@@ -3722,6 +3722,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-bluebird-8-to-10-direct-to-cell-launch",
       "score": 2.8,
       "published_utc": "2026-06-16T12:00:00+00:00"
+    },
+    "606eba8070f187013caa5779": {
+      "ts": 1781624800,
+      "source": "NASA Breaking News",
+      "title": "Department of Health and Human Services Digital Stockpile & Manufacturing Response Network Challenge",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/department-of-health-and-human-services-digital-stockpile-manufacturing-response-network-challenge/",
+      "score": 4.0,
+      "published_utc": "2026-06-16T14:39:54+00:00"
+    },
+    "871917ba35ffd39e9c764d78": {
+      "ts": 1781624800,
+      "source": "NASA Breaking News",
+      "title": "Aurora Australis",
+      "link": "https://www.nasa.gov/image-article/aurora-australis-7/",
+      "score": 4.0,
+      "published_utc": "2026-06-16T14:20:58+00:00"
     }
   },
   "digest_queue": [
@@ -3964,6 +3980,30 @@
       "day_brt": "2026-06-13",
       "resumo_pt": "Resumo (PT-BR): Booster 20 Completes Cryo, As Ship 40 Nears Static Fire by Ryan Weber June 13, 2026 written by Ryan Weber June 13, 2026 1 With the completion of Flight 12 about three weeks ago, all focus is now on Flight 13 and its vehicles, Booster 20 and Ship 40. To date, both have completed cryogenic proof testing and are now set up to complete static fire testing next.",
       "queued_ts": 1781403175
+    },
+    {
+      "fp": "606eba8070f187013caa5779",
+      "title": "Department of Health and Human Services Digital Stockpile & Manufacturing Response Network Challenge",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/department-of-health-and-human-services-digital-stockpile-manufacturing-response-network-challenge/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-16T14:39:54+00:00",
+      "day_brt": "2026-06-16",
+      "resumo_pt": "Resumo (PT-BR): 2 min read Department of Health and Human Services Digital Stockpile & Manufacturing Response Network Challenge Bailey G. Light Jun 16, 2026 Article Alexandre – stock.adobe.com NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government.",
+      "queued_ts": 1781624804
+    },
+    {
+      "fp": "871917ba35ffd39e9c764d78",
+      "title": "Aurora Australis",
+      "link": "https://www.nasa.gov/image-article/aurora-australis-7/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-16T14:20:58+00:00",
+      "day_brt": "2026-06-16",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Aurora Australis HQ Web Team Jun 16, 2026 Image Article NASA/Jessica Meir The aurora australis arcs over Earth during an active solar event in this photograph taken on June 5, 2026, from the International Space Station as it orbited 271 miles above the Indian Ocean southwest of Perth, Australia. Auroras are colorful, dynamic, and often visually delicate displays of an intricate dance of particles and magnetism between the Sun and Earth called space weather.",
+      "queued_ts": 1781624804
     }
   ],
   "digests_sent": {
@@ -4202,6 +4242,10 @@
       "0dff62b713fa3d8a5ea6af35": true,
       "13c29c1e281b8ae635ae498c": true,
       "3ee154d31ff482647325235f": true
+    },
+    "2026-06-16": {
+      "606eba8070f187013caa5779": true,
+      "871917ba35ffd39e9c764d78": true
     }
   }
 }
