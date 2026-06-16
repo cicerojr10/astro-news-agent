@@ -3738,6 +3738,30 @@
       "link": "https://www.nasa.gov/image-article/aurora-australis-7/",
       "score": 4.0,
       "published_utc": "2026-06-16T14:20:58+00:00"
+    },
+    "a8dc77c01471bc4dd23b4d4c": {
+      "ts": 1781630681,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Quantum Lab Aboard Space Station Gets Chilly Upgrade",
+      "link": "https://www.nasa.gov/missions/station/iss-research/cold-atom-laboratory/nasas-quantum-lab-aboard-space-station-gets-chilly-upgrade/",
+      "score": 4.0,
+      "published_utc": "2026-06-16T16:50:40+00:00"
+    },
+    "86595c31682e01ccde26b909": {
+      "ts": 1781630684,
+      "source": "Space.com",
+      "title": "Watch a fireball burn a 300 mile path above the Midwest US (video)",
+      "link": "https://www.space.com/stargazing/meteor-showers/watch-a-fireball-burn-a-300-mile-path-above-the-midwest-us-video",
+      "score": 2.8,
+      "published_utc": "2026-06-16T16:00:00+00:00"
+    },
+    "ac999f45ee0f7803dfa11ed2": {
+      "ts": 1781630684,
+      "source": "Space.com",
+      "title": "SpaceX Dragon cargo capsule undocks from ISS, heads home to Earth",
+      "link": "https://www.space.com/space-exploration/international-space-station/spacex-dragon-cargo-capsule-crs-34-return-to-earth",
+      "score": 2.8,
+      "published_utc": "2026-06-16T04:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -4004,6 +4028,18 @@
       "day_brt": "2026-06-16",
       "resumo_pt": "Resumo (PT-BR): 1 min read Aurora Australis HQ Web Team Jun 16, 2026 Image Article NASA/Jessica Meir The aurora australis arcs over Earth during an active solar event in this photograph taken on June 5, 2026, from the International Space Station as it orbited 271 miles above the Indian Ocean southwest of Perth, Australia. Auroras are colorful, dynamic, and often visually delicate displays of an intricate dance of particles and magnetism between the Sun and Earth called space weather.",
       "queued_ts": 1781624804
+    },
+    {
+      "fp": "a8dc77c01471bc4dd23b4d4c",
+      "title": "NASA’s Quantum Lab Aboard Space Station Gets Chilly Upgrade",
+      "link": "https://www.nasa.gov/missions/station/iss-research/cold-atom-laboratory/nasas-quantum-lab-aboard-space-station-gets-chilly-upgrade/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-16T16:50:40+00:00",
+      "day_brt": "2026-06-16",
+      "resumo_pt": "Resumo (PT-BR): 5 min read NASA’s Quantum Lab Aboard Space Station Gets Chilly Upgrade Jet Propulsion Laboratory Jun 16, 2026 Article Contents How it works More about Cold Atom Lab Media Contact Astronaut Jessica Meir inspects optical fibers while installing hardware updates to NASA’s Cold Atom Lab, or CAL, aboard the International Space Station on May 8, 2026. About the size of a minifridge, CAL enables researchers to explore quantum physics.",
+      "queued_ts": 1781630685
     }
   ],
   "digests_sent": {
@@ -4245,7 +4281,8 @@
     },
     "2026-06-16": {
       "606eba8070f187013caa5779": true,
-      "871917ba35ffd39e9c764d78": true
+      "871917ba35ffd39e9c764d78": true,
+      "a8dc77c01471bc4dd23b4d4c": true
     }
   }
 }
