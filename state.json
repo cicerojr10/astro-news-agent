@@ -3706,6 +3706,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-54-b1093-vsfb-ocisly",
       "score": 2.8,
       "published_utc": "2026-06-15T19:27:41+00:00"
+    },
+    "929d49c2add82ea2621d2ee0": {
+      "ts": 1781593666,
+      "source": "Space.com",
+      "title": "Watch SpaceX Dragon cargo capsule head home to Earth today",
+      "link": "https://www.space.com/space-exploration/international-space-station/spacex-dragon-cargo-capsule-crs-34-return-to-earth",
+      "score": 2.8,
+      "published_utc": "2026-06-16T04:05:00+00:00"
     }
   },
   "digest_queue": [
