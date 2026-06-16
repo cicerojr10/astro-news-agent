@@ -3714,6 +3714,14 @@
       "link": "https://www.space.com/space-exploration/international-space-station/spacex-dragon-cargo-capsule-crs-34-return-to-earth",
       "score": 2.8,
       "published_utc": "2026-06-16T04:05:00+00:00"
+    },
+    "7e31c03b82fa0c3e0827c8df": {
+      "ts": 1781612388,
+      "source": "Space.com",
+      "title": "Watch SpaceX launch 3 huge BlueBird direct-to-cell satellites from Florida early on June 17",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-bluebird-8-to-10-direct-to-cell-launch",
+      "score": 2.8,
+      "published_utc": "2026-06-16T12:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -4132,6 +4140,9 @@
     "2026-06-15": {
       "morning": true,
       "night": true
+    },
+    "2026-06-16": {
+      "morning": true
     }
   },
   "sent_updates": {
