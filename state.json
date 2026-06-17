@@ -3846,6 +3846,40 @@
       "score": 0.0,
       "published_utc": "2026-06-16T20:01:58+00:00",
       "note": "not_today"
+    },
+    "c540b93fb7daa4a5c38a4621": {
+      "ts": 1781711848,
+      "source": "NASA Breaking News",
+      "title": "Hubble Sees Swarm of Galaxies",
+      "link": "https://www.nasa.gov/image-article/hubble-sees-swarm-of-galaxies/",
+      "score": 4.0,
+      "published_utc": "2026-06-17T14:56:13+00:00"
+    },
+    "3eddc2b96ad1cd9f97d0e0b9": {
+      "ts": 1781711850,
+      "source": "Spaceflight Now",
+      "title": "Arianespace launches its heaviest payload to date with Amazon Leo flight",
+      "link": "https://spaceflightnow.com/2026/06/17/live-coverage-arianespace-to-launch-its-heaviest-payload-to-date-with-amazon-leo-flight/",
+      "score": 3.6,
+      "published_utc": "2026-06-17T11:12:23+00:00"
+    },
+    "f9977da45f2c7d41e23d11de": {
+      "ts": 1781711851,
+      "source": "Space.com",
+      "title": "European rocket launches record-breaking mission with Amazon internet satellites",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ariane-6-rocket-record-breaking-launch-amazon-leo-le-03",
+      "score": 0.0,
+      "published_utc": "2026-06-16T20:01:58+00:00",
+      "note": "not_today"
+    },
+    "b45f4fbe2a19b60d2d1188f2": {
+      "ts": 1781711851,
+      "source": "Space.com",
+      "title": "Home again! SpaceX Dragon cargo capsule splashes down off California coast",
+      "link": "https://www.space.com/space-exploration/international-space-station/spacex-dragon-cargo-capsule-crs-34-return-to-earth",
+      "score": 0.0,
+      "published_utc": "2026-06-16T04:05:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -4088,6 +4122,30 @@
       "day_brt": "2026-06-13",
       "resumo_pt": "Resumo (PT-BR): Booster 20 Completes Cryo, As Ship 40 Nears Static Fire by Ryan Weber June 13, 2026 written by Ryan Weber June 13, 2026 1 With the completion of Flight 12 about three weeks ago, all focus is now on Flight 13 and its vehicles, Booster 20 and Ship 40. To date, both have completed cryogenic proof testing and are now set up to complete static fire testing next.",
       "queued_ts": 1781403175
+    },
+    {
+      "fp": "c540b93fb7daa4a5c38a4621",
+      "title": "Hubble Sees Swarm of Galaxies",
+      "link": "https://www.nasa.gov/image-article/hubble-sees-swarm-of-galaxies/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-17T14:56:13+00:00",
+      "day_brt": "2026-06-17",
+      "resumo_pt": "Resumo (PT-BR): 2 min read Hubble Sees Swarm of Galaxies NASA Hubble Mission Team Goddard Space Flight Center Jun 17, 2026 Image Article This NASA Hubble Space Telescope image features the galaxy cluster MACS0329-0211. Kober (NASA/Catholic University of America) Looking somewhat like a swarm of bees returning to their hive, this NASA Hubble Space Telescope image released on June 12, 2026, features the galaxy cluster MACS0329-0211.",
+      "queued_ts": 1781711852
+    },
+    {
+      "fp": "3eddc2b96ad1cd9f97d0e0b9",
+      "title": "Arianespace launches its heaviest payload to date with Amazon Leo flight",
+      "link": "https://spaceflightnow.com/2026/06/17/live-coverage-arianespace-to-launch-its-heaviest-payload-to-date-with-amazon-leo-flight/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-06-17T11:12:23+00:00",
+      "day_brt": "2026-06-17",
+      "resumo_pt": "Resumo (PT-BR): Arianespace launches its heaviest payload to date with Amazon Leo flight June 17, 2026 Will Robinson-Smith An Arianespace Ariane 64 rocket lifts off from Europe’s Spaceport in French Guiana to begin the Leo Europe 03 mission for Amazon Leo. This mission carried 36 broadband satellites onboard, the heaviest payload launched by an Ariane launcher.",
+      "queued_ts": 1781711852
     }
   ],
   "digests_sent": {
@@ -4339,7 +4397,9 @@
       "57000594918b0bacee610e8d": true
     },
     "2026-06-17": {
-      "4dc8492194047f7e65bf0c85": true
+      "4dc8492194047f7e65bf0c85": true,
+      "c540b93fb7daa4a5c38a4621": true,
+      "3eddc2b96ad1cd9f97d0e0b9": true
     }
   }
 }
