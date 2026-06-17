@@ -3880,6 +3880,14 @@
       "score": 0.0,
       "published_utc": "2026-06-16T04:05:00+00:00",
       "note": "not_today"
+    },
+    "9bce21e1bbd4b3dc93bb6a8d": {
+      "ts": 1781728212,
+      "source": "NASA Breaking News",
+      "title": "Search for Hidden Cosmic Companions in Sun’s Backyard",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/search-for-hidden-cosmic-companions-in-suns-backyard/",
+      "score": 4.0,
+      "published_utc": "2026-06-17T19:40:03+00:00"
     }
   },
   "digest_queue": [
@@ -4146,6 +4154,18 @@
       "day_brt": "2026-06-17",
       "resumo_pt": "Resumo (PT-BR): Arianespace launches its heaviest payload to date with Amazon Leo flight June 17, 2026 Will Robinson-Smith An Arianespace Ariane 64 rocket lifts off from Europe’s Spaceport in French Guiana to begin the Leo Europe 03 mission for Amazon Leo. This mission carried 36 broadband satellites onboard, the heaviest payload launched by an Ariane launcher.",
       "queued_ts": 1781711852
+    },
+    {
+      "fp": "9bce21e1bbd4b3dc93bb6a8d",
+      "title": "Search for Hidden Cosmic Companions in Sun’s Backyard",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/search-for-hidden-cosmic-companions-in-suns-backyard/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-17T19:40:03+00:00",
+      "day_brt": "2026-06-17",
+      "resumo_pt": "Resumo (PT-BR): Explore This Section Science Citizen Science Search for Hidden Cosmic... Overview Resources Opportunities Citizen Science Highlights About Science Activation 2 min read Search for Hidden Cosmic Companions in Sun’s Backyard NASA Science Editorial Team Jun 17, 2026 Article Some stars have planets.",
+      "queued_ts": 1781728216
     }
   ],
   "digests_sent": {
@@ -4399,7 +4419,8 @@
     "2026-06-17": {
       "4dc8492194047f7e65bf0c85": true,
       "c540b93fb7daa4a5c38a4621": true,
-      "3eddc2b96ad1cd9f97d0e0b9": true
+      "3eddc2b96ad1cd9f97d0e0b9": true,
+      "9bce21e1bbd4b3dc93bb6a8d": true
     }
   }
 }
