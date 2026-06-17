@@ -3888,6 +3888,23 @@
       "link": "https://science.nasa.gov/get-involved/citizen-science/search-for-hidden-cosmic-companions-in-suns-backyard/",
       "score": 4.0,
       "published_utc": "2026-06-17T19:40:03+00:00"
+    },
+    "d8a57b071a6b747d25d89d09": {
+      "ts": 1781734815,
+      "source": "NASASpaceflight",
+      "title": "Terran R second stage heads to Stennis as Relativity advances toward 2026 debut",
+      "link": "https://www.nasaspaceflight.com/2026/06/relativity-update-0626/",
+      "score": 3.6,
+      "published_utc": "2026-06-17T22:12:10+00:00"
+    },
+    "197d3cb97f901fa88a72187f": {
+      "ts": 1781734815,
+      "source": "Space.com",
+      "title": "SpaceX launches 3 huge BlueBird direct-to-cell satellites from Florida (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-bluebird-8-to-10-direct-to-cell-launch",
+      "score": 0.0,
+      "published_utc": "2026-06-16T12:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -4166,6 +4183,18 @@
       "day_brt": "2026-06-17",
       "resumo_pt": "Resumo (PT-BR): Explore This Section Science Citizen Science Search for Hidden Cosmic... Overview Resources Opportunities Citizen Science Highlights About Science Activation 2 min read Search for Hidden Cosmic Companions in Sun’s Backyard NASA Science Editorial Team Jun 17, 2026 Article Some stars have planets.",
       "queued_ts": 1781728216
+    },
+    {
+      "fp": "d8a57b071a6b747d25d89d09",
+      "title": "Terran R second stage heads to Stennis as Relativity advances toward 2026 debut",
+      "link": "https://www.nasaspaceflight.com/2026/06/relativity-update-0626/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-06-17T22:12:10+00:00",
+      "day_brt": "2026-06-17",
+      "resumo_pt": "Resumo (PT-BR): Terran R second stage heads to Stennis as Relativity advances toward 2026 debut by Eleanor Day June 17, 2026 written by Eleanor Day June 17, 2026 5 Terran R, the heavy-lift vehicle currently being developed by Relativity Space, is reaching significant milestones ahead of a potential debut at the end of 2026. Integration of essential subsystems for the rocket’s second stage was recently finalized ahead of its transfer to NASA’s Stennis Space Center for testing.",
+      "queued_ts": 1781734816
     }
   ],
   "digests_sent": {
@@ -4420,7 +4449,8 @@
       "4dc8492194047f7e65bf0c85": true,
       "c540b93fb7daa4a5c38a4621": true,
       "3eddc2b96ad1cd9f97d0e0b9": true,
-      "9bce21e1bbd4b3dc93bb6a8d": true
+      "9bce21e1bbd4b3dc93bb6a8d": true,
+      "d8a57b071a6b747d25d89d09": true
     }
   }
 }
