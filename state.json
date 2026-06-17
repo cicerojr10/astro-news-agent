@@ -3837,6 +3837,15 @@
       "score": 0.0,
       "published_utc": "2026-06-16T21:45:21+00:00",
       "note": "not_today"
+    },
+    "44b1a27e02a9ffe6487e37e3": {
+      "ts": 1781706085,
+      "source": "Space.com",
+      "title": "European rocket launches record-breaking mission with Amazon LEO satellites",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ariane-6-rocket-record-breaking-launch-amazon-leo-le-03",
+      "score": 0.0,
+      "published_utc": "2026-06-16T20:01:58+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
