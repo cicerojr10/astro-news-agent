@@ -3794,6 +3794,32 @@
       "link": "https://www.space.com/astronomy/black-holes/nasa-x-ray-spacecraft-catches-jet-erupting-from-1st-supermassive-black-hole-imaged-by-humanity",
       "score": 2.8,
       "published_utc": "2026-06-16T21:00:00+00:00"
+    },
+    "4a53218f51e22a93bcb6f4ab": {
+      "ts": 1781681292,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Webb Catches Exoplanet Getting Roasted",
+      "link": "https://science.nasa.gov/missions/webb/nasas-webb-catches-exoplanet-getting-roasted/",
+      "score": 0.0,
+      "published_utc": "2026-06-16T21:15:00+00:00",
+      "note": "not_today"
+    },
+    "d48996b95160e648cca324a7": {
+      "ts": 1781681294,
+      "source": "Space.com",
+      "title": "NASA discussing bold mission to boost Swift space telescope today: Listen live",
+      "link": "https://www.space.com/space-exploration/missions/nasa-discussing-bold-mission-to-boost-swift-space-telescope-today-listen-live",
+      "score": 2.8,
+      "published_utc": "2026-06-17T04:05:00+00:00"
+    },
+    "9ff3c75676a88bf6d036f72e": {
+      "ts": 1781681294,
+      "source": "Space.com",
+      "title": "SpaceX launches 3 huge BlueBird direct-to-cell satellites from Florida",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-bluebird-8-to-10-direct-to-cell-launch",
+      "score": 0.0,
+      "published_utc": "2026-06-16T12:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
