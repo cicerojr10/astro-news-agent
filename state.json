@@ -3820,6 +3820,23 @@
       "score": 0.0,
       "published_utc": "2026-06-16T12:00:00+00:00",
       "note": "not_today"
+    },
+    "4dc8492194047f7e65bf0c85": {
+      "ts": 1781697788,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: Arianespace to launch its heaviest payload to date with Amazon Leo flight",
+      "link": "https://spaceflightnow.com/2026/06/17/live-coverage-arianespace-to-launch-its-heaviest-payload-to-date-with-amazon-leo-flight/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-06-17T11:12:23+00:00"
+    },
+    "32bb989b3029af1103f7f022": {
+      "ts": 1781697788,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches 3 Block 2 BlueBird satellites for AST SpaceMobile",
+      "link": "https://spaceflightnow.com/2026/06/16/live-coverage-spacex-to-launch-3-block-2-bluebird-satellites-for-ast-spacemobile/",
+      "score": 0.0,
+      "published_utc": "2026-06-16T21:45:21+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -4242,6 +4259,9 @@
     "2026-06-16": {
       "morning": true,
       "night": true
+    },
+    "2026-06-17": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -4308,6 +4328,9 @@
       "a8dc77c01471bc4dd23b4d4c": true,
       "68e28722ac00ed72497dcb7c": true,
       "57000594918b0bacee610e8d": true
+    },
+    "2026-06-17": {
+      "4dc8492194047f7e65bf0c85": true
     }
   }
 }
