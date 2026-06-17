@@ -4147,54 +4147,6 @@
       "day_brt": "2026-06-13",
       "resumo_pt": "Resumo (PT-BR): Booster 20 Completes Cryo, As Ship 40 Nears Static Fire by Ryan Weber June 13, 2026 written by Ryan Weber June 13, 2026 1 With the completion of Flight 12 about three weeks ago, all focus is now on Flight 13 and its vehicles, Booster 20 and Ship 40. To date, both have completed cryogenic proof testing and are now set up to complete static fire testing next.",
       "queued_ts": 1781403175
-    },
-    {
-      "fp": "c540b93fb7daa4a5c38a4621",
-      "title": "Hubble Sees Swarm of Galaxies",
-      "link": "https://www.nasa.gov/image-article/hubble-sees-swarm-of-galaxies/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-17T14:56:13+00:00",
-      "day_brt": "2026-06-17",
-      "resumo_pt": "Resumo (PT-BR): 2 min read Hubble Sees Swarm of Galaxies NASA Hubble Mission Team Goddard Space Flight Center Jun 17, 2026 Image Article This NASA Hubble Space Telescope image features the galaxy cluster MACS0329-0211. Kober (NASA/Catholic University of America) Looking somewhat like a swarm of bees returning to their hive, this NASA Hubble Space Telescope image released on June 12, 2026, features the galaxy cluster MACS0329-0211.",
-      "queued_ts": 1781711852
-    },
-    {
-      "fp": "3eddc2b96ad1cd9f97d0e0b9",
-      "title": "Arianespace launches its heaviest payload to date with Amazon Leo flight",
-      "link": "https://spaceflightnow.com/2026/06/17/live-coverage-arianespace-to-launch-its-heaviest-payload-to-date-with-amazon-leo-flight/",
-      "source": "Spaceflight Now",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-06-17T11:12:23+00:00",
-      "day_brt": "2026-06-17",
-      "resumo_pt": "Resumo (PT-BR): Arianespace launches its heaviest payload to date with Amazon Leo flight June 17, 2026 Will Robinson-Smith An Arianespace Ariane 64 rocket lifts off from Europe’s Spaceport in French Guiana to begin the Leo Europe 03 mission for Amazon Leo. This mission carried 36 broadband satellites onboard, the heaviest payload launched by an Ariane launcher.",
-      "queued_ts": 1781711852
-    },
-    {
-      "fp": "9bce21e1bbd4b3dc93bb6a8d",
-      "title": "Search for Hidden Cosmic Companions in Sun’s Backyard",
-      "link": "https://science.nasa.gov/get-involved/citizen-science/search-for-hidden-cosmic-companions-in-suns-backyard/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-17T19:40:03+00:00",
-      "day_brt": "2026-06-17",
-      "resumo_pt": "Resumo (PT-BR): Explore This Section Science Citizen Science Search for Hidden Cosmic... Overview Resources Opportunities Citizen Science Highlights About Science Activation 2 min read Search for Hidden Cosmic Companions in Sun’s Backyard NASA Science Editorial Team Jun 17, 2026 Article Some stars have planets.",
-      "queued_ts": 1781728216
-    },
-    {
-      "fp": "d8a57b071a6b747d25d89d09",
-      "title": "Terran R second stage heads to Stennis as Relativity advances toward 2026 debut",
-      "link": "https://www.nasaspaceflight.com/2026/06/relativity-update-0626/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-06-17T22:12:10+00:00",
-      "day_brt": "2026-06-17",
-      "resumo_pt": "Resumo (PT-BR): Terran R second stage heads to Stennis as Relativity advances toward 2026 debut by Eleanor Day June 17, 2026 written by Eleanor Day June 17, 2026 5 Terran R, the heavy-lift vehicle currently being developed by Relativity Space, is reaching significant milestones ahead of a potential debut at the end of 2026. Integration of essential subsystems for the rocket’s second stage was recently finalized ahead of its transfer to NASA’s Stennis Space Center for testing.",
-      "queued_ts": 1781734816
     }
   ],
   "digests_sent": {
@@ -4377,7 +4329,8 @@
       "night": true
     },
     "2026-06-17": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
