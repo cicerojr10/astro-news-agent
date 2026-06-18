@@ -3979,6 +3979,30 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-179-nro",
       "score": 2.8,
       "published_utc": "2026-06-18T17:00:00+00:00"
+    },
+    "f6b5e525e1d4b838964830f3": {
+      "ts": 1781812322,
+      "source": "NASA Breaking News",
+      "title": "From Suriname to Space: Rohit Goeptar’s Shares his Journey to NASA",
+      "link": "https://www.nasa.gov/centers-and-facilities/kennedy/from-suriname-to-space-rohit-goeptars-shares-his-journey-to-nasa/",
+      "score": 4.0,
+      "published_utc": "2026-06-18T19:06:26+00:00"
+    },
+    "a6be6fc3a685cda2b887441f": {
+      "ts": 1781812323,
+      "source": "NASA Breaking News",
+      "title": "Desert Field Test With NASA Advanced Rover Prototype",
+      "link": "https://science.nasa.gov/photojournal/desert-field-test-with-nasa-advanced-rover-prototype/",
+      "score": 4.0,
+      "published_utc": "2026-06-18T18:29:50+00:00"
+    },
+    "9c51f2dab71892ded2b604d3": {
+      "ts": 1781812323,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Lucy Reveals Wobbling, Peanut-Shaped Asteroid",
+      "link": "https://science.nasa.gov/missions/nasas-lucy-reveals-wobbling-peanut-shaped-asteroid/",
+      "score": 4.0,
+      "published_utc": "2026-06-18T18:04:41+00:00"
     }
   },
   "digest_queue": [
@@ -4269,6 +4293,42 @@
       "day_brt": "2026-06-18",
       "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory El Niño Is Underway Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 4 min read El Niño Is Underway Image of the Day for June 18, 2026 Satellite observations of sea surface height indicated that the 2026 event continued to strengthen in early June. NASA Earth Observatory Jun 18, 2026 Article View more Images of the Day: Jun 17, 2026 Instruments: Sentinel-6 Michael Freilich Topics: El Nino Southern Oscillation Sea Surface Topography Higher-than-normal sea surfaces (red) are visible in the central and eastern Pacific on June 8, 2026, a few days before El Niño was declared.",
       "queued_ts": 1781790852
+    },
+    {
+      "fp": "f6b5e525e1d4b838964830f3",
+      "title": "From Suriname to Space: Rohit Goeptar’s Shares his Journey to NASA",
+      "link": "https://www.nasa.gov/centers-and-facilities/kennedy/from-suriname-to-space-rohit-goeptars-shares-his-journey-to-nasa/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-18T19:06:26+00:00",
+      "day_brt": "2026-06-18",
+      "resumo_pt": "Resumo (PT-BR): 5 min read From Suriname to Space: Rohit Goeptar’s Shares his Journey to NASA NASA Communications Jun 18, 2026 Article Rohit Goeptar, an electromagnetic/radio frequency analyst with NASA’s Launch Services Program at the agency’s Kennedy Space Center in Florida, reviews a radio frequency link budget analysis for NASA’s Nancy Grace Roman Space Telescope from his office. Goeptar is among the engineers and technicians sworn in as new NASA civil servants as part of NASA Administrator Jared Isaacman’s workforce directive to restore technical core competencies within the civil servants ranks.",
+      "queued_ts": 1781812328
+    },
+    {
+      "fp": "a6be6fc3a685cda2b887441f",
+      "title": "Desert Field Test With NASA Advanced Rover Prototype",
+      "link": "https://science.nasa.gov/photojournal/desert-field-test-with-nasa-advanced-rover-prototype/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-18T18:29:50+00:00",
+      "day_brt": "2026-06-18",
+      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal Desert Field Test With NASA... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 2 Min Read Desert Field Test With NASA Advanced Rover Prototype PIA26701 Credits: NASA/JPL-Caltech Image Addition Date: 06/18/2026 Downloads Desert Field Test With NASA Advanced Rover Prototype PNG (27.94 MB) PIA26701 Figure A JPEG (26.03 MB) PIA26701 Figure B JPEG (951.75 KB) PIA26701 Figure C JPEG (16.03 MB) PIA26701 Figure D JPEG (16.46 MB) Description A prototype four-wheel rover developed at NASA’s Jet Propulsion Laboratory with advanced mobility and robotic autonomy capabilities trundled across the Colorado Desert near Plaster City, California, during a field test in March 2026.",
+      "queued_ts": 1781812328
+    },
+    {
+      "fp": "9c51f2dab71892ded2b604d3",
+      "title": "NASA’s Lucy Reveals Wobbling, Peanut-Shaped Asteroid",
+      "link": "https://science.nasa.gov/missions/nasas-lucy-reveals-wobbling-peanut-shaped-asteroid/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-18T18:04:41+00:00",
+      "day_brt": "2026-06-18",
+      "resumo_pt": "Resumo (PT-BR): 6 min read NASA’s Lucy Reveals Wobbling, Peanut-Shaped Asteroid Lonnie Shekhtman Senior Science Writer Jun 18, 2026 Article Contents Wobbling rotation Peanut shape Fleeting water Compare, contrast About Lucy: Media Contacts: Even small asteroids lead complex lives. During its flyby of the asteroid Donaldjohanson last year, NASA’s Lucy spacecraft revealed the asteroid to be a wobbly, peanut-shaped body that has undergone a lot of activity in its relatively short history.",
+      "queued_ts": 1781812328
     }
   ],
   "digests_sent": {
@@ -4499,7 +4559,10 @@
     "2026-06-18": {
       "ee8c958409391bcaf0b282b3": true,
       "574bc345a453706c1a24016e": true,
-      "9fc61ef72d05e8a82d2f74f3": true
+      "9fc61ef72d05e8a82d2f74f3": true,
+      "f6b5e525e1d4b838964830f3": true,
+      "a6be6fc3a685cda2b887441f": true,
+      "9c51f2dab71892ded2b604d3": true
     }
   }
 }
