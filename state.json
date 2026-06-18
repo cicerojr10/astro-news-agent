@@ -3930,6 +3930,47 @@
       "score": 0.0,
       "published_utc": "2026-06-16T20:01:58+00:00",
       "note": "not_today"
+    },
+    "574bc345a453706c1a24016e": {
+      "ts": 1781790848,
+      "source": "NASA Breaking News",
+      "title": "Hubble Glimpses Merging Galaxy Clusters",
+      "link": "https://science.nasa.gov/missions/hubble/hubble-glimpses-merging-galaxy-clusters/",
+      "score": 4.0,
+      "published_utc": "2026-06-18T11:36:55+00:00"
+    },
+    "9fc61ef72d05e8a82d2f74f3": {
+      "ts": 1781790848,
+      "source": "NASA Breaking News",
+      "title": "El Niño Is Underway",
+      "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/",
+      "score": 4.0,
+      "published_utc": "2026-06-18T04:00:00+00:00"
+    },
+    "0d8048179523bcd349457ef2": {
+      "ts": 1781790848,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Fermi Mission Uncovers Possible Sibling Supernova Remnants",
+      "link": "https://science.nasa.gov/missions/fermi/nasas-fermi-sibling-supernova-remnants/",
+      "score": 0.0,
+      "published_utc": "2026-06-17T17:15:00+00:00",
+      "note": "not_today"
+    },
+    "ee8c958409391bcaf0b282b3": {
+      "ts": 1781790849,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
+      "link": "https://spaceflightnow.com/2026/06/18/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-2/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-06-18T13:13:12+00:00"
+    },
+    "8cf8ab4b9066725c96481329": {
+      "ts": 1781790850,
+      "source": "Space.com",
+      "title": "'It's quite a bit more than we expected': Satellite reveals immense scale of GPS signal tampering",
+      "link": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
+      "score": 2.8,
+      "published_utc": "2026-06-18T13:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -4184,6 +4225,42 @@
       "day_brt": "2026-06-17",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Announces Public-Private Partnership to Advance Mars Science Jessica Taveau Jun 17, 2026 RELEASE 26-050 NASA Headquarters NASA Administrator Jared Isaacman announces a public-private partnership to advance Mars science during an event at Relativity Space on June 17, 2026. Credit: Relativity Space NASA Wednesday announced a new public‑private partnership to advance Mars science by combining the agency’s scientific leadership with commercial innovation.",
       "queued_ts": 1781748858
+    },
+    {
+      "fp": "ee8c958409391bcaf0b282b3",
+      "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
+      "link": "https://spaceflightnow.com/2026/06/18/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-2/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-06-18T13:13:12+00:00",
+      "day_brt": "2026-06-18",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office June 18, 2026 Will Robinson-Smith File: SpaceX’s Falcon 9 rocket stands at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base ahead of the Starlink 9-10 mission on Nov. Image: SpaceX SpaceX is preparing to launch its third mission this year supporting the National Reconnaissance Office’s constellation of intelligence-gathering satellites.",
+      "queued_ts": 1781790852
+    },
+    {
+      "fp": "574bc345a453706c1a24016e",
+      "title": "Hubble Glimpses Merging Galaxy Clusters",
+      "link": "https://science.nasa.gov/missions/hubble/hubble-glimpses-merging-galaxy-clusters/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-18T11:36:55+00:00",
+      "day_brt": "2026-06-18",
+      "resumo_pt": "Resumo (PT-BR): Explore Hubble Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space? Hubble by the Numbers At the Museum FAQs Impact & Benefits Hubble's Impact & Benefits Science Impacts Cultural Impact Technology Benefits Impact on Human Spaceflight Astro Community Impacts Science Hubble Science Science Themes Science Highlights Science Behind Discoveries Universe Uncovered Hubble's Partners in Science Hubble & Citizen Science AI & Hubble Science Explore the Night Sky Observatory Hubble Observatory Hubble Design Mission Operations Science Operations Astronaut Missions to Hubble Hubble vs Webb Team Hubble Team Career Aspirations Hubble Astronauts Multimedia Images Videos Online Activities e-Books Sonifications Podcasts 3D Hubble Models Lithographs Fact Sheets Posters Hubble on the NASA App Glossary News Hubble News Social Media Media Resources 35th Anniversary More Online Activities 2 min read Hubble Glimpses Merging Galaxy Clusters NASA Hubble Mission Team Goddard Space Flight Center Jun 18, 2026 Article This NASA Hubble Space Telescope image features a swarm of galaxies in the galaxy cluster called CL0016+1609 or MACS J0018.5+1626.",
+      "queued_ts": 1781790852
+    },
+    {
+      "fp": "9fc61ef72d05e8a82d2f74f3",
+      "title": "El Niño Is Underway",
+      "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-18T04:00:00+00:00",
+      "day_brt": "2026-06-18",
+      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory El Niño Is Underway Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 4 min read El Niño Is Underway Image of the Day for June 18, 2026 Satellite observations of sea surface height indicated that the 2026 event continued to strengthen in early June. NASA Earth Observatory Jun 18, 2026 Article View more Images of the Day: Jun 17, 2026 Instruments: Sentinel-6 Michael Freilich Topics: El Nino Southern Oscillation Sea Surface Topography Higher-than-normal sea surfaces (red) are visible in the central and eastern Pacific on June 8, 2026, a few days before El Niño was declared.",
+      "queued_ts": 1781790852
     }
   ],
   "digests_sent": {
@@ -4374,41 +4451,6 @@
     }
   },
   "sent_updates": {
-    "2026-06-08": {
-      "073dd35ad75ac2e7529ba0c0": true,
-      "60f6fd8ff378943953af809f": true
-    },
-    "2026-06-09": {
-      "2e608e78735bda4f5779efe0": true,
-      "e19c46ca1baae82b11f45f5a": true,
-      "2390c75dd4079766130d28ad": true,
-      "655d817fd278c462047a2a06": true,
-      "8152d94191398a4c2360c31c": true
-    },
-    "2026-06-10": {
-      "246d61e9f469d7063d000a04": true,
-      "8806316e789a88c9720820ab": true,
-      "b260a7e70619f528403eef42": true,
-      "f84eb2a8e19425a91879be0e": true,
-      "f1b7ecf1b0b25b5fcd691cfe": true,
-      "dae29b9ee05d470e02f88fe2": true,
-      "4fcd1ebe5d92c718793140d4": true,
-      "697c781f9c4953f84093f83a": true,
-      "f5a723e1b666f474a14077d2": true
-    },
-    "2026-06-11": {
-      "d736a30faf39f2b41d06a18a": true,
-      "f1cef62512c0f09e88179c7d": true,
-      "d68d8915e3065bda157e5844": true,
-      "8e7b01c82a1feb8a0ed05323": true,
-      "586fac6373be2038151f4c89": true,
-      "22467e6e292e010a8e49a767": true,
-      "bce6c2919b8028ec810b280b": true,
-      "2f3efb12a0ff5aabf9ed144b": true,
-      "e1af1ee0022236a3e40fd1ea": true,
-      "b0dea39166d73e01db02815f": true,
-      "2f623c809c123ff01707a93d": true
-    },
     "2026-06-12": {
       "2308be1630fbe9ea926b0338": true,
       "1729cec1d25c829f84875a69": true,
@@ -4445,6 +4487,11 @@
       "9bce21e1bbd4b3dc93bb6a8d": true,
       "d8a57b071a6b747d25d89d09": true,
       "83610662ef511c261948a339": true
+    },
+    "2026-06-18": {
+      "ee8c958409391bcaf0b282b3": true,
+      "574bc345a453706c1a24016e": true,
+      "9fc61ef72d05e8a82d2f74f3": true
     }
   }
 }
