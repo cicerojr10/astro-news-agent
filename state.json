@@ -4027,6 +4027,14 @@
       "link": "https://www.nasa.gov/centers-and-facilities/kennedy/from-suriname-to-space-rohit-goeptars-shares-his-journey-to-nasa/",
       "score": 4.0,
       "published_utc": "2026-06-18T19:06:26+00:00"
+    },
+    "caa00b04bf659cfa52458a71": {
+      "ts": 1781825224,
+      "source": "NASASpaceflight",
+      "title": "Canadarm2 repairs planned as CRS-34 departs ISS",
+      "link": "https://www.nasaspaceflight.com/2026/06/iss-roundup-061826/",
+      "score": 3.6,
+      "published_utc": "2026-06-18T22:34:45+00:00"
     }
   },
   "digest_queue": [
@@ -4281,114 +4289,6 @@
       "day_brt": "2026-06-17",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Announces Public-Private Partnership to Advance Mars Science Jessica Taveau Jun 17, 2026 RELEASE 26-050 NASA Headquarters NASA Administrator Jared Isaacman announces a public-private partnership to advance Mars science during an event at Relativity Space on June 17, 2026. Credit: Relativity Space NASA Wednesday announced a new public‑private partnership to advance Mars science by combining the agency’s scientific leadership with commercial innovation.",
       "queued_ts": 1781748858
-    },
-    {
-      "fp": "ee8c958409391bcaf0b282b3",
-      "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
-      "link": "https://spaceflightnow.com/2026/06/18/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-2/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-06-18T13:13:12+00:00",
-      "day_brt": "2026-06-18",
-      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office June 18, 2026 Will Robinson-Smith File: SpaceX’s Falcon 9 rocket stands at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base ahead of the Starlink 9-10 mission on Nov. Image: SpaceX SpaceX is preparing to launch its third mission this year supporting the National Reconnaissance Office’s constellation of intelligence-gathering satellites.",
-      "queued_ts": 1781790852
-    },
-    {
-      "fp": "574bc345a453706c1a24016e",
-      "title": "Hubble Glimpses Merging Galaxy Clusters",
-      "link": "https://science.nasa.gov/missions/hubble/hubble-glimpses-merging-galaxy-clusters/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-18T11:36:55+00:00",
-      "day_brt": "2026-06-18",
-      "resumo_pt": "Resumo (PT-BR): Explore Hubble Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space? Hubble by the Numbers At the Museum FAQs Impact & Benefits Hubble's Impact & Benefits Science Impacts Cultural Impact Technology Benefits Impact on Human Spaceflight Astro Community Impacts Science Hubble Science Science Themes Science Highlights Science Behind Discoveries Universe Uncovered Hubble's Partners in Science Hubble & Citizen Science AI & Hubble Science Explore the Night Sky Observatory Hubble Observatory Hubble Design Mission Operations Science Operations Astronaut Missions to Hubble Hubble vs Webb Team Hubble Team Career Aspirations Hubble Astronauts Multimedia Images Videos Online Activities e-Books Sonifications Podcasts 3D Hubble Models Lithographs Fact Sheets Posters Hubble on the NASA App Glossary News Hubble News Social Media Media Resources 35th Anniversary More Online Activities 2 min read Hubble Glimpses Merging Galaxy Clusters NASA Hubble Mission Team Goddard Space Flight Center Jun 18, 2026 Article This NASA Hubble Space Telescope image features a swarm of galaxies in the galaxy cluster called CL0016+1609 or MACS J0018.5+1626.",
-      "queued_ts": 1781790852
-    },
-    {
-      "fp": "9fc61ef72d05e8a82d2f74f3",
-      "title": "El Niño Is Underway",
-      "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-18T04:00:00+00:00",
-      "day_brt": "2026-06-18",
-      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory El Niño Is Underway Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 4 min read El Niño Is Underway Image of the Day for June 18, 2026 Satellite observations of sea surface height indicated that the 2026 event continued to strengthen in early June. NASA Earth Observatory Jun 18, 2026 Article View more Images of the Day: Jun 17, 2026 Instruments: Sentinel-6 Michael Freilich Topics: El Nino Southern Oscillation Sea Surface Topography Higher-than-normal sea surfaces (red) are visible in the central and eastern Pacific on June 8, 2026, a few days before El Niño was declared.",
-      "queued_ts": 1781790852
-    },
-    {
-      "fp": "f6b5e525e1d4b838964830f3",
-      "title": "From Suriname to Space: Rohit Goeptar’s Shares his Journey to NASA",
-      "link": "https://www.nasa.gov/centers-and-facilities/kennedy/from-suriname-to-space-rohit-goeptars-shares-his-journey-to-nasa/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-18T19:06:26+00:00",
-      "day_brt": "2026-06-18",
-      "resumo_pt": "Resumo (PT-BR): 5 min read From Suriname to Space: Rohit Goeptar’s Shares his Journey to NASA NASA Communications Jun 18, 2026 Article Rohit Goeptar, an electromagnetic/radio frequency analyst with NASA’s Launch Services Program at the agency’s Kennedy Space Center in Florida, reviews a radio frequency link budget analysis for NASA’s Nancy Grace Roman Space Telescope from his office. Goeptar is among the engineers and technicians sworn in as new NASA civil servants as part of NASA Administrator Jared Isaacman’s workforce directive to restore technical core competencies within the civil servants ranks.",
-      "queued_ts": 1781812328
-    },
-    {
-      "fp": "a6be6fc3a685cda2b887441f",
-      "title": "Desert Field Test With NASA Advanced Rover Prototype",
-      "link": "https://science.nasa.gov/photojournal/desert-field-test-with-nasa-advanced-rover-prototype/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-18T18:29:50+00:00",
-      "day_brt": "2026-06-18",
-      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal Desert Field Test With NASA... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 2 Min Read Desert Field Test With NASA Advanced Rover Prototype PIA26701 Credits: NASA/JPL-Caltech Image Addition Date: 06/18/2026 Downloads Desert Field Test With NASA Advanced Rover Prototype PNG (27.94 MB) PIA26701 Figure A JPEG (26.03 MB) PIA26701 Figure B JPEG (951.75 KB) PIA26701 Figure C JPEG (16.03 MB) PIA26701 Figure D JPEG (16.46 MB) Description A prototype four-wheel rover developed at NASA’s Jet Propulsion Laboratory with advanced mobility and robotic autonomy capabilities trundled across the Colorado Desert near Plaster City, California, during a field test in March 2026.",
-      "queued_ts": 1781812328
-    },
-    {
-      "fp": "9c51f2dab71892ded2b604d3",
-      "title": "NASA’s Lucy Reveals Wobbling, Peanut-Shaped Asteroid",
-      "link": "https://science.nasa.gov/missions/nasas-lucy-reveals-wobbling-peanut-shaped-asteroid/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-18T18:04:41+00:00",
-      "day_brt": "2026-06-18",
-      "resumo_pt": "Resumo (PT-BR): 6 min read NASA’s Lucy Reveals Wobbling, Peanut-Shaped Asteroid Lonnie Shekhtman Senior Science Writer Jun 18, 2026 Article Contents Wobbling rotation Peanut shape Fleeting water Compare, contrast About Lucy: Media Contacts: Even small asteroids lead complex lives. During its flyby of the asteroid Donaldjohanson last year, NASA’s Lucy spacecraft revealed the asteroid to be a wobbly, peanut-shaped body that has undergone a lot of activity in its relatively short history.",
-      "queued_ts": 1781812328
-    },
-    {
-      "fp": "1cab834a58d1735d2991b52a",
-      "title": "NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere",
-      "link": "https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-18T21:33:07+00:00",
-      "day_brt": "2026-06-18",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere Lauren E. Low Jun 18, 2026 RELEASE 26-049 NASA Headquarters Artist’s rendition of the DAPHNE (Dynamic Atmosphere-Ionosphere Explorer) mission concept.",
-      "queued_ts": 1781819686
-    },
-    {
-      "fp": "5e6172c2d8fec1a7acf43006",
-      "title": "NASA Awards Contract for Commercial Satellite Data Acquisition",
-      "link": "https://www.nasa.gov/news-release/nasa-awards-contract-for-commercial-satellite-data-acquisition/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-18T20:13:41+00:00",
-      "day_brt": "2026-06-18",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Awards Contract for Commercial Satellite Data Acquisition Jessica Taveau Jun 18, 2026 CONTRACT RELEASE C26-007 NASA Headquarters Credit: NASA NASA has selected eight new companies and will acquire new data products from six existing Commercial Satellite Data Acquisition contract holders to expand the range of commercial satellite data available to researchers, civil agencies, and decision-makers. Such measurements supplement NASA’s Earth satellites by contributing high-resolution and frequent observations to enhance the agency’s set of data.",
-      "queued_ts": 1781819686
-    },
-    {
-      "fp": "44b1b568ec6ac272d4fe9e34",
-      "title": "From Suriname to Space: Rohit Goeptar Shares His Journey to NASA",
-      "link": "https://www.nasa.gov/centers-and-facilities/kennedy/from-suriname-to-space-rohit-goeptars-shares-his-journey-to-nasa/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-18T19:06:26+00:00",
-      "day_brt": "2026-06-18",
-      "resumo_pt": "Resumo (PT-BR): 5 min read From Suriname to Space: Rohit Goeptar Shares His Journey to NASA Amanda Griffin Supervisory Public Affairs Specialist Jun 18, 2026 Article Rohit Goeptar, an electromagnetic/radio frequency analyst with NASA’s Launch Services Program at the agency’s Kennedy Space Center in Florida, reviews a radio frequency link budget analysis for NASA’s Nancy Grace Roman Space Telescope from his office. Goeptar is among the engineers and technicians sworn in as new NASA civil servants as part of NASA Administrator Jared Isaacman’s workforce directive to restore technical core competencies within the civil servants ranks.",
-      "queued_ts": 1781819686
     }
   ],
   "digests_sent": {
@@ -4575,7 +4475,8 @@
       "night": true
     },
     "2026-06-18": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -4625,7 +4526,8 @@
       "9c51f2dab71892ded2b604d3": true,
       "1cab834a58d1735d2991b52a": true,
       "5e6172c2d8fec1a7acf43006": true,
-      "44b1b568ec6ac272d4fe9e34": true
+      "44b1b568ec6ac272d4fe9e34": true,
+      "caa00b04bf659cfa52458a71": true
     }
   }
 }
