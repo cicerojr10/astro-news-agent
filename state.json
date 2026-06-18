@@ -3905,6 +3905,14 @@
       "score": 0.0,
       "published_utc": "2026-06-16T12:00:00+00:00",
       "note": "not_today"
+    },
+    "83610662ef511c261948a339": {
+      "ts": 1781748854,
+      "source": "NASA Breaking News",
+      "title": "NASA Announces Public-Private Partnership to Advance Mars Science",
+      "link": "https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/",
+      "score": 4.0,
+      "published_utc": "2026-06-17T22:29:09+00:00"
     }
   },
   "digest_queue": [
@@ -4147,6 +4155,18 @@
       "day_brt": "2026-06-13",
       "resumo_pt": "Resumo (PT-BR): Booster 20 Completes Cryo, As Ship 40 Nears Static Fire by Ryan Weber June 13, 2026 written by Ryan Weber June 13, 2026 1 With the completion of Flight 12 about three weeks ago, all focus is now on Flight 13 and its vehicles, Booster 20 and Ship 40. To date, both have completed cryogenic proof testing and are now set up to complete static fire testing next.",
       "queued_ts": 1781403175
+    },
+    {
+      "fp": "83610662ef511c261948a339",
+      "title": "NASA Announces Public-Private Partnership to Advance Mars Science",
+      "link": "https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-17T22:29:09+00:00",
+      "day_brt": "2026-06-17",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Announces Public-Private Partnership to Advance Mars Science Jessica Taveau Jun 17, 2026 RELEASE 26-050 NASA Headquarters NASA Administrator Jared Isaacman announces a public-private partnership to advance Mars science during an event at Relativity Space on June 17, 2026. Credit: Relativity Space NASA Wednesday announced a new public‑private partnership to advance Mars science by combining the agency’s scientific leadership with commercial innovation.",
+      "queued_ts": 1781748858
     }
   ],
   "digests_sent": {
@@ -4403,7 +4423,8 @@
       "c540b93fb7daa4a5c38a4621": true,
       "3eddc2b96ad1cd9f97d0e0b9": true,
       "9bce21e1bbd4b3dc93bb6a8d": true,
-      "d8a57b071a6b747d25d89d09": true
+      "d8a57b071a6b747d25d89d09": true,
+      "83610662ef511c261948a339": true
     }
   }
 }
