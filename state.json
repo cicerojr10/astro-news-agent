@@ -4003,6 +4003,30 @@
       "link": "https://science.nasa.gov/missions/nasas-lucy-reveals-wobbling-peanut-shaped-asteroid/",
       "score": 4.0,
       "published_utc": "2026-06-18T18:04:41+00:00"
+    },
+    "1cab834a58d1735d2991b52a": {
+      "ts": 1781819682,
+      "source": "NASA Breaking News",
+      "title": "NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere",
+      "link": "https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/",
+      "score": 4.0,
+      "published_utc": "2026-06-18T21:33:07+00:00"
+    },
+    "5e6172c2d8fec1a7acf43006": {
+      "ts": 1781819682,
+      "source": "NASA Breaking News",
+      "title": "NASA Awards Contract for Commercial Satellite Data Acquisition",
+      "link": "https://www.nasa.gov/news-release/nasa-awards-contract-for-commercial-satellite-data-acquisition/",
+      "score": 4.0,
+      "published_utc": "2026-06-18T20:13:41+00:00"
+    },
+    "44b1b568ec6ac272d4fe9e34": {
+      "ts": 1781819682,
+      "source": "NASA Breaking News",
+      "title": "From Suriname to Space: Rohit Goeptar Shares His Journey to NASA",
+      "link": "https://www.nasa.gov/centers-and-facilities/kennedy/from-suriname-to-space-rohit-goeptars-shares-his-journey-to-nasa/",
+      "score": 4.0,
+      "published_utc": "2026-06-18T19:06:26+00:00"
     }
   },
   "digest_queue": [
@@ -4329,6 +4353,42 @@
       "day_brt": "2026-06-18",
       "resumo_pt": "Resumo (PT-BR): 6 min read NASA’s Lucy Reveals Wobbling, Peanut-Shaped Asteroid Lonnie Shekhtman Senior Science Writer Jun 18, 2026 Article Contents Wobbling rotation Peanut shape Fleeting water Compare, contrast About Lucy: Media Contacts: Even small asteroids lead complex lives. During its flyby of the asteroid Donaldjohanson last year, NASA’s Lucy spacecraft revealed the asteroid to be a wobbly, peanut-shaped body that has undergone a lot of activity in its relatively short history.",
       "queued_ts": 1781812328
+    },
+    {
+      "fp": "1cab834a58d1735d2991b52a",
+      "title": "NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere",
+      "link": "https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-18T21:33:07+00:00",
+      "day_brt": "2026-06-18",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere Lauren E. Low Jun 18, 2026 RELEASE 26-049 NASA Headquarters Artist’s rendition of the DAPHNE (Dynamic Atmosphere-Ionosphere Explorer) mission concept.",
+      "queued_ts": 1781819686
+    },
+    {
+      "fp": "5e6172c2d8fec1a7acf43006",
+      "title": "NASA Awards Contract for Commercial Satellite Data Acquisition",
+      "link": "https://www.nasa.gov/news-release/nasa-awards-contract-for-commercial-satellite-data-acquisition/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-18T20:13:41+00:00",
+      "day_brt": "2026-06-18",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Awards Contract for Commercial Satellite Data Acquisition Jessica Taveau Jun 18, 2026 CONTRACT RELEASE C26-007 NASA Headquarters Credit: NASA NASA has selected eight new companies and will acquire new data products from six existing Commercial Satellite Data Acquisition contract holders to expand the range of commercial satellite data available to researchers, civil agencies, and decision-makers. Such measurements supplement NASA’s Earth satellites by contributing high-resolution and frequent observations to enhance the agency’s set of data.",
+      "queued_ts": 1781819686
+    },
+    {
+      "fp": "44b1b568ec6ac272d4fe9e34",
+      "title": "From Suriname to Space: Rohit Goeptar Shares His Journey to NASA",
+      "link": "https://www.nasa.gov/centers-and-facilities/kennedy/from-suriname-to-space-rohit-goeptars-shares-his-journey-to-nasa/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-18T19:06:26+00:00",
+      "day_brt": "2026-06-18",
+      "resumo_pt": "Resumo (PT-BR): 5 min read From Suriname to Space: Rohit Goeptar Shares His Journey to NASA Amanda Griffin Supervisory Public Affairs Specialist Jun 18, 2026 Article Rohit Goeptar, an electromagnetic/radio frequency analyst with NASA’s Launch Services Program at the agency’s Kennedy Space Center in Florida, reviews a radio frequency link budget analysis for NASA’s Nancy Grace Roman Space Telescope from his office. Goeptar is among the engineers and technicians sworn in as new NASA civil servants as part of NASA Administrator Jared Isaacman’s workforce directive to restore technical core competencies within the civil servants ranks.",
+      "queued_ts": 1781819686
     }
   ],
   "digests_sent": {
@@ -4562,7 +4622,10 @@
       "9fc61ef72d05e8a82d2f74f3": true,
       "f6b5e525e1d4b838964830f3": true,
       "a6be6fc3a685cda2b887441f": true,
-      "9c51f2dab71892ded2b604d3": true
+      "9c51f2dab71892ded2b604d3": true,
+      "1cab834a58d1735d2991b52a": true,
+      "5e6172c2d8fec1a7acf43006": true,
+      "44b1b568ec6ac272d4fe9e34": true
     }
   }
 }
