@@ -3913,6 +3913,23 @@
       "link": "https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/",
       "score": 4.0,
       "published_utc": "2026-06-17T22:29:09+00:00"
+    },
+    "047c911857d198c9c46341d2": {
+      "ts": 1781781285,
+      "source": "Space.com",
+      "title": "NASA's Perseverance rover just ran a marathon on Mars. Could you do the same?",
+      "link": "https://www.space.com/astronomy/mars/nasas-perseverance-rover-just-ran-a-marathon-on-mars-could-you-do-the-same",
+      "score": 2.8,
+      "published_utc": "2026-06-18T10:00:00+00:00"
+    },
+    "4f2809a4ccece1820029e27d": {
+      "ts": 1781781285,
+      "source": "Space.com",
+      "title": "European rocket launches record-breaking mission with Amazon internet satellites (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ariane-6-rocket-record-breaking-launch-amazon-leo-le-03",
+      "score": 0.0,
+      "published_utc": "2026-06-16T20:01:58+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -4351,6 +4368,9 @@
     "2026-06-17": {
       "morning": true,
       "night": true
+    },
+    "2026-06-18": {
+      "morning": true
     }
   },
   "sent_updates": {
