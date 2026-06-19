@@ -4035,6 +4035,23 @@
       "link": "https://www.nasaspaceflight.com/2026/06/iss-roundup-061826/",
       "score": 3.6,
       "published_utc": "2026-06-18T22:34:45+00:00"
+    },
+    "7890fc4f085889791639823e": {
+      "ts": 1781869665,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
+      "link": "https://spaceflightnow.com/2026/06/18/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-2/",
+      "score": 0.0,
+      "published_utc": "2026-06-18T13:13:12+00:00",
+      "note": "not_today"
+    },
+    "b25eb9d570eab726c47915ec": {
+      "ts": 1781869666,
+      "source": "Space.com",
+      "title": "Juicy new details emerge about an asteroid NASA's Lucy spacecraft flew by last year",
+      "link": "https://www.space.com/astronomy/asteroids/juicy-new-details-emerge-about-an-asteroid-nasas-lucy-spacecraft-flew-by-last-year",
+      "score": 2.8,
+      "published_utc": "2026-06-19T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -4477,6 +4494,9 @@
     "2026-06-18": {
       "morning": true,
       "night": true
+    },
+    "2026-06-19": {
+      "morning": true
     }
   },
   "sent_updates": {
