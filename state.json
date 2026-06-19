@@ -4061,6 +4061,14 @@
       "score": 0.0,
       "published_utc": "2026-06-18T17:00:00+00:00",
       "note": "not_today"
+    },
+    "cacbf30f95315eb13f1ec91f": {
+      "ts": 1781888442,
+      "source": "Space.com",
+      "title": "'No one thought it was going to be possible.' A space telescope is falling out of space. This is NASA's daring plan to save it.",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/no-one-thought-it-was-going-to-be-possible-a-space-telescope-is-falling-out-of-space-this-is-nasas-daring-plan-to-save-it",
+      "score": 2.8,
+      "published_utc": "2026-06-19T16:00:00+00:00"
     }
   },
   "digest_queue": [
