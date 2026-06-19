@@ -4052,6 +4052,15 @@
       "link": "https://www.space.com/astronomy/asteroids/juicy-new-details-emerge-about-an-asteroid-nasas-lucy-spacecraft-flew-by-last-year",
       "score": 2.8,
       "published_utc": "2026-06-19T10:00:00+00:00"
+    },
+    "92c715d76bd2a31f3c6b4b6b": {
+      "ts": 1781877449,
+      "source": "Space.com",
+      "title": "SpaceX launches new batch of US spy satellites from California",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-179-nro",
+      "score": 0.0,
+      "published_utc": "2026-06-18T17:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
