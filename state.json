@@ -4348,18 +4348,6 @@
       "day_brt": "2026-06-17",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Announces Public-Private Partnership to Advance Mars Science Jessica Taveau Jun 17, 2026 RELEASE 26-050 NASA Headquarters NASA Administrator Jared Isaacman announces a public-private partnership to advance Mars science during an event at Relativity Space on June 17, 2026. Credit: Relativity Space NASA Wednesday announced a new public‑private partnership to advance Mars science by combining the agency’s scientific leadership with commercial innovation.",
       "queued_ts": 1781748858
-    },
-    {
-      "fp": "fae12e269440a6f3bb444e8f",
-      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg",
-      "link": "https://spaceflightnow.com/2026/06/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-5/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-06-20T15:07:25+00:00",
-      "day_brt": "2026-06-20",
-      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg June 20, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket is seen in the launch position at Space Launch Complex 4 East at Vandenberg Space Force Base on Jan. 16, 2026, ahead of the launch of the NROL-105 mission for the National Reconnaissance Office.",
-      "queued_ts": 1781968132
     }
   ],
   "digests_sent": {
@@ -4554,7 +4542,8 @@
       "night": true
     },
     "2026-06-20": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
