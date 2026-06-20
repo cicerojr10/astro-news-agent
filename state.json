@@ -4077,6 +4077,15 @@
       "link": "https://www.space.com/space-exploration/missions/a-private-company-will-build-and-launch-nasas-next-mars-orbiter-in-2028-and-its-not-spacex",
       "score": 2.8,
       "published_utc": "2026-06-19T21:00:00+00:00"
+    },
+    "26b372331dee78d1d3b451f2": {
+      "ts": 1781948057,
+      "source": "Space.com",
+      "title": "SpaceX launches new batch of US spy satellites from California (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-179-nro",
+      "score": 0.0,
+      "published_utc": "2026-06-18T17:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
