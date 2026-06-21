@@ -4094,6 +4094,14 @@
       "link": "https://spaceflightnow.com/2026/06/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-5/",
       "score": 4.680000000000001,
       "published_utc": "2026-06-20T15:07:25+00:00"
+    },
+    "9c92add3bed766028f7b5353": {
+      "ts": 1782044852,
+      "source": "Space.com",
+      "title": "A mysterious gamma-ray stream comes from the Milky Way's center. Could dark matter have something to do with it?",
+      "link": "https://www.space.com/astronomy/dark-universe/a-mysterious-gamma-ray-stream-comes-from-the-milky-ways-center-could-dark-matter-have-something-to-do-with-it",
+      "score": 2.8,
+      "published_utc": "2026-06-21T12:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -4544,6 +4552,9 @@
     "2026-06-20": {
       "morning": true,
       "night": true
+    },
+    "2026-06-21": {
+      "morning": true
     }
   },
   "sent_updates": {
