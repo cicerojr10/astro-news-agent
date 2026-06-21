@@ -4102,6 +4102,15 @@
       "link": "https://www.space.com/astronomy/dark-universe/a-mysterious-gamma-ray-stream-comes-from-the-milky-ways-center-could-dark-matter-have-something-to-do-with-it",
       "score": 2.8,
       "published_utc": "2026-06-21T12:00:00+00:00"
+    },
+    "19b19c65403312541974ce30": {
+      "ts": 1782064506,
+      "source": "Spaceflight Now",
+      "title": "SpaceX to launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg",
+      "link": "https://spaceflightnow.com/2026/06/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-5/",
+      "score": 0.0,
+      "published_utc": "2026-06-20T15:07:25+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
