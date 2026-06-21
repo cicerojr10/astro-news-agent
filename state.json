@@ -4111,6 +4111,14 @@
       "score": 0.0,
       "published_utc": "2026-06-20T15:07:25+00:00",
       "note": "not_today"
+    },
+    "9b01549cd2b7591885fa1b62": {
+      "ts": 1782068978,
+      "source": "Space.com",
+      "title": "SpaceX Falcon 9 rocket launches 24 Starlink satellites into low Earth orbit from California",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-28-b1063-vsfb-ocisly",
+      "score": 2.8,
+      "published_utc": "2026-06-21T18:38:10+00:00"
     }
   },
   "digest_queue": [
