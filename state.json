@@ -4127,6 +4127,15 @@
       "link": "https://spaceflightnow.com/2026/06/22/nasas-nancy-grace-roman-space-telescope-arrives-in-florida/",
       "score": 3.6,
       "published_utc": "2026-06-22T00:40:47+00:00"
+    },
+    "f494fda99bc306021e096133": {
+      "ts": 1782113727,
+      "source": "Space.com",
+      "title": "SpaceX Falcon 9 rocket launches 24 Starlink satellites into low Earth orbit from California (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-28-b1063-vsfb-ocisly",
+      "score": 0.0,
+      "published_utc": "2026-06-21T18:38:10+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
