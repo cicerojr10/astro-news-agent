@@ -4136,6 +4136,23 @@
       "score": 0.0,
       "published_utc": "2026-06-21T18:38:10+00:00",
       "note": "not_today"
+    },
+    "53b1b250538adbe1517e09bb": {
+      "ts": 1782133989,
+      "source": "Space.com",
+      "title": "Launch monster: SpaceX has lofted more satellites than everyone else in history, combined",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/launch-monster-spacex-has-lofted-more-satellites-than-everyone-else-in-history-combined",
+      "score": 2.8,
+      "published_utc": "2026-06-22T12:00:00+00:00"
+    },
+    "859e7b98c44bd997b19caa11": {
+      "ts": 1782133989,
+      "source": "Space.com",
+      "title": "'No one thought it was going to be possible.' A space telescope is falling out of space. This is NASA's daring plan to save it. (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/no-one-thought-it-was-going-to-be-possible-a-space-telescope-is-falling-out-of-space-this-is-nasas-daring-plan-to-save-it",
+      "score": 0.0,
+      "published_utc": "2026-06-19T16:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -4602,6 +4619,9 @@
     "2026-06-21": {
       "morning": true,
       "night": true
+    },
+    "2026-06-22": {
+      "morning": true
     }
   },
   "sent_updates": {
