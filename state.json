@@ -4153,6 +4153,22 @@
       "score": 0.0,
       "published_utc": "2026-06-19T16:00:00+00:00",
       "note": "not_today"
+    },
+    "453b5e742e828cca440efeae": {
+      "ts": 1782150629,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Chandra Finds Possible Supernova Remnant",
+      "link": "https://www.nasa.gov/image-article/nasas-chandra-finds-possible-supernova-remnant/",
+      "score": 4.0,
+      "published_utc": "2026-06-22T17:39:37+00:00"
+    },
+    "f1727a61c98c5912c6220c18": {
+      "ts": 1782150629,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Webb Finds Clues to Ancient, Distant Origin of Comet 3I/ATLAS",
+      "link": "https://science.nasa.gov/missions/webb/nasas-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/",
+      "score": 4.0,
+      "published_utc": "2026-06-22T15:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -4419,6 +4435,30 @@
       "day_brt": "2026-06-21",
       "resumo_pt": "Resumo (PT-BR): NASA’s Nancy Grace Roman Space Telescope arrives in Florida June 22, 2026 Will Robinson-Smith NASA’s Nancy Grace Roman Space Telescope, nestled inside its transport container nicknamed ‘the Chariot’, passes by the Vehicle Assembly Building on its way to the Payload Hazardous Servicing Facility at the Kennedy Space Center. Image: Adam Bernstein/Spaceflight Now NASA’s next great observatory, the Nancy Grace Roman Space Telescope, arrived at the Kennedy Space Center aboard the agency’s massive Pegasus barge late Sunday morning.",
       "queued_ts": 1782093923
+    },
+    {
+      "fp": "453b5e742e828cca440efeae",
+      "title": "NASA’s Chandra Finds Possible Supernova Remnant",
+      "link": "https://www.nasa.gov/image-article/nasas-chandra-finds-possible-supernova-remnant/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-22T17:39:37+00:00",
+      "day_brt": "2026-06-22",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA’s Chandra Finds Possible Supernova Remnant Lee Mohon HQ Web Team Jun 22, 2026 Image Article Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy. Zhu et al.; ESA/XMM-Newton; Optical: PanSTARRS; Radio: MeerKAT; Infrared (JWST): NASA/ESA/CSA/STScI; Image Processing: NASA/CXC/SAO/L.",
+      "queued_ts": 1782150632
+    },
+    {
+      "fp": "f1727a61c98c5912c6220c18",
+      "title": "NASA’s Webb Finds Clues to Ancient, Distant Origin of Comet 3I/ATLAS",
+      "link": "https://science.nasa.gov/missions/webb/nasas-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-22T15:00:00+00:00",
+      "day_brt": "2026-06-22",
+      "resumo_pt": "Resumo (PT-BR): Explore Webb Science James Webb Space Telescope (JWST) NASA’s Webb Finds Clues to... Webb News Latest News Latest Images Webb's Blog Awards X (offsite - login reqd) Instagram (offsite - login reqd) Facebook (offsite- login reqd) Youtube (offsite) Overview About Who is James Webb?",
+      "queued_ts": 1782150632
     }
   ],
   "digests_sent": {
@@ -4679,6 +4719,10 @@
     },
     "2026-06-21": {
       "f34d337d6944a0313f30493f": true
+    },
+    "2026-06-22": {
+      "453b5e742e828cca440efeae": true,
+      "f1727a61c98c5912c6220c18": true
     }
   }
 }
