@@ -4201,6 +4201,38 @@
       "link": "https://www.space.com/astronomy/stars/this-ball-of-stars-named-terzan-5-may-be-one-of-the-milky-ways-original-building-blocks",
       "score": 2.8,
       "published_utc": "2026-06-22T21:00:00+00:00"
+    },
+    "c32685ba266ac3a3aeb5bab3": {
+      "ts": 1782172028,
+      "source": "NASA Breaking News",
+      "title": "NASA Awards Solutions for Federal Enterprise Procurement Contracts",
+      "link": "https://www.nasa.gov/news-release/nasa-awards-solutions-for-federal-enterprise-procurement-contracts/",
+      "score": 4.0,
+      "published_utc": "2026-06-22T21:24:12+00:00"
+    },
+    "e02dc11b76f54d424f43ae79": {
+      "ts": 1782172028,
+      "source": "NASA Breaking News",
+      "title": "NASA Sounding Rocket to Launch Student Experiments",
+      "link": "https://www.nasa.gov/centers-and-facilities/wallops/nasa-sounding-rocket-to-launch-student-experiments/",
+      "score": 4.0,
+      "published_utc": "2026-06-22T20:42:34+00:00"
+    },
+    "cef0cd518e041ea2f4b3e5dd": {
+      "ts": 1782172028,
+      "source": "NASA Breaking News",
+      "title": "NASA Invites Media to Botswana Artemis Accords Signing Ceremony",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-botswana-artemis-accords-signing-ceremony/",
+      "score": 4.0,
+      "published_utc": "2026-06-22T19:21:27+00:00"
+    },
+    "aea9ba4cb3b9d992f50cecda": {
+      "ts": 1782172028,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Experimental Fabrication Branch Fuels Aircraft Innovation",
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasas-experimental-fabrication-branch-fuels-aircraft-innovation/",
+      "score": 4.0,
+      "published_utc": "2026-06-22T17:47:00+00:00"
     }
   },
   "digest_queue": [
@@ -4467,42 +4499,6 @@
       "day_brt": "2026-06-21",
       "resumo_pt": "Resumo (PT-BR): NASA’s Nancy Grace Roman Space Telescope arrives in Florida June 22, 2026 Will Robinson-Smith NASA’s Nancy Grace Roman Space Telescope, nestled inside its transport container nicknamed ‘the Chariot’, passes by the Vehicle Assembly Building on its way to the Payload Hazardous Servicing Facility at the Kennedy Space Center. Image: Adam Bernstein/Spaceflight Now NASA’s next great observatory, the Nancy Grace Roman Space Telescope, arrived at the Kennedy Space Center aboard the agency’s massive Pegasus barge late Sunday morning.",
       "queued_ts": 1782093923
-    },
-    {
-      "fp": "453b5e742e828cca440efeae",
-      "title": "NASA’s Chandra Finds Possible Supernova Remnant",
-      "link": "https://www.nasa.gov/image-article/nasas-chandra-finds-possible-supernova-remnant/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-22T17:39:37+00:00",
-      "day_brt": "2026-06-22",
-      "resumo_pt": "Resumo (PT-BR): 1 min read NASA’s Chandra Finds Possible Supernova Remnant Lee Mohon HQ Web Team Jun 22, 2026 Image Article Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy. Zhu et al.; ESA/XMM-Newton; Optical: PanSTARRS; Radio: MeerKAT; Infrared (JWST): NASA/ESA/CSA/STScI; Image Processing: NASA/CXC/SAO/L.",
-      "queued_ts": 1782150632
-    },
-    {
-      "fp": "f1727a61c98c5912c6220c18",
-      "title": "NASA’s Webb Finds Clues to Ancient, Distant Origin of Comet 3I/ATLAS",
-      "link": "https://science.nasa.gov/missions/webb/nasas-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-22T15:00:00+00:00",
-      "day_brt": "2026-06-22",
-      "resumo_pt": "Resumo (PT-BR): Explore Webb Science James Webb Space Telescope (JWST) NASA’s Webb Finds Clues to... Webb News Latest News Latest Images Webb's Blog Awards X (offsite - login reqd) Instagram (offsite - login reqd) Facebook (offsite- login reqd) Youtube (offsite) Overview About Who is James Webb?",
-      "queued_ts": 1782150632
-    },
-    {
-      "fp": "83fcfa0e45c6c1520ca42bc4",
-      "title": "SpaceX to test upcoming Starfall reentry vehicle with demonstration mission on Tuesday",
-      "link": "https://www.nasaspaceflight.com/2026/06/starfall-demo/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-06-22T21:06:30+00:00",
-      "day_brt": "2026-06-22",
-      "resumo_pt": "Resumo (PT-BR): SpaceX to test upcoming Starfall reentry vehicle with demonstration mission on Tuesday by Haygen Warren & Bastiaan Vellekoop June 22, 2026 written by Haygen Warren & Bastiaan Vellekoop June 22, 2026 4 SpaceX is set to launch a demonstration mission for its Starfall reentry vehicle early on Tuesday morning. Falcon 9 is scheduled to liftoff at 6:43 AM EDT (10:43 UTC) from Space Launch Complex 40 (SLC-40) at the Cape Canaveral Space Force Station in Florida.",
-      "queued_ts": 1782166874
     }
   ],
   "digests_sent": {
@@ -4705,7 +4701,8 @@
       "night": true
     },
     "2026-06-22": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -4767,7 +4764,10 @@
     "2026-06-22": {
       "453b5e742e828cca440efeae": true,
       "f1727a61c98c5912c6220c18": true,
-      "83fcfa0e45c6c1520ca42bc4": true
+      "83fcfa0e45c6c1520ca42bc4": true,
+      "c32685ba266ac3a3aeb5bab3": true,
+      "e02dc11b76f54d424f43ae79": true,
+      "cef0cd518e041ea2f4b3e5dd": true
     }
   }
 }
