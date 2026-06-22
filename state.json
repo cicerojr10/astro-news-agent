@@ -4119,6 +4119,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-28-b1063-vsfb-ocisly",
       "score": 2.8,
       "published_utc": "2026-06-21T18:38:10+00:00"
+    },
+    "f34d337d6944a0313f30493f": {
+      "ts": 1782093921,
+      "source": "Spaceflight Now",
+      "title": "NASA’s Nancy Grace Roman Space Telescope arrives in Florida",
+      "link": "https://spaceflightnow.com/2026/06/22/nasas-nancy-grace-roman-space-telescope-arrives-in-florida/",
+      "score": 3.6,
+      "published_utc": "2026-06-22T00:40:47+00:00"
     }
   },
   "digest_queue": [
@@ -4373,6 +4381,18 @@
       "day_brt": "2026-06-17",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Announces Public-Private Partnership to Advance Mars Science Jessica Taveau Jun 17, 2026 RELEASE 26-050 NASA Headquarters NASA Administrator Jared Isaacman announces a public-private partnership to advance Mars science during an event at Relativity Space on June 17, 2026. Credit: Relativity Space NASA Wednesday announced a new public‑private partnership to advance Mars science by combining the agency’s scientific leadership with commercial innovation.",
       "queued_ts": 1781748858
+    },
+    {
+      "fp": "f34d337d6944a0313f30493f",
+      "title": "NASA’s Nancy Grace Roman Space Telescope arrives in Florida",
+      "link": "https://spaceflightnow.com/2026/06/22/nasas-nancy-grace-roman-space-telescope-arrives-in-florida/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-06-22T00:40:47+00:00",
+      "day_brt": "2026-06-21",
+      "resumo_pt": "Resumo (PT-BR): NASA’s Nancy Grace Roman Space Telescope arrives in Florida June 22, 2026 Will Robinson-Smith NASA’s Nancy Grace Roman Space Telescope, nestled inside its transport container nicknamed ‘the Chariot’, passes by the Vehicle Assembly Building on its way to the Payload Hazardous Servicing Facility at the Kennedy Space Center. Image: Adam Bernstein/Spaceflight Now NASA’s next great observatory, the Nancy Grace Roman Space Telescope, arrived at the Kennedy Space Center aboard the agency’s massive Pegasus barge late Sunday morning.",
+      "queued_ts": 1782093923
     }
   ],
   "digests_sent": {
@@ -4627,6 +4647,9 @@
     },
     "2026-06-20": {
       "fae12e269440a6f3bb444e8f": true
+    },
+    "2026-06-21": {
+      "f34d337d6944a0313f30493f": true
     }
   }
 }
