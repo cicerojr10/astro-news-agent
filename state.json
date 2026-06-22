@@ -4177,6 +4177,30 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-arrives-in-florida-ahead-of-spacex-falcon-heavy-launch-this-summer",
       "score": 2.8,
       "published_utc": "2026-06-22T20:00:00+00:00"
+    },
+    "83fcfa0e45c6c1520ca42bc4": {
+      "ts": 1782166873,
+      "source": "NASASpaceflight",
+      "title": "SpaceX to test upcoming Starfall reentry vehicle with demonstration mission on Tuesday",
+      "link": "https://www.nasaspaceflight.com/2026/06/starfall-demo/",
+      "score": 3.6,
+      "published_utc": "2026-06-22T21:06:30+00:00"
+    },
+    "126ce484616ece7885f1964f": {
+      "ts": 1782166873,
+      "source": "Space.com",
+      "title": "SpaceX launching its 1st 'Starfall' reentry capsule early on June 23: Watch it live",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-its-1st-starfall-reentry-capsule-early-on-june-23-watch-it-live",
+      "score": 2.8,
+      "published_utc": "2026-06-22T22:00:00+00:00"
+    },
+    "dc5b99e3159e5e1a9db690e6": {
+      "ts": 1782166874,
+      "source": "Space.com",
+      "title": "This ball of stars named Terzan 5 may be one of the Milky Way's original building blocks",
+      "link": "https://www.space.com/astronomy/stars/this-ball-of-stars-named-terzan-5-may-be-one-of-the-milky-ways-original-building-blocks",
+      "score": 2.8,
+      "published_utc": "2026-06-22T21:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -4467,6 +4491,18 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Explore Webb Science James Webb Space Telescope (JWST) NASA’s Webb Finds Clues to... Webb News Latest News Latest Images Webb's Blog Awards X (offsite - login reqd) Instagram (offsite - login reqd) Facebook (offsite- login reqd) Youtube (offsite) Overview About Who is James Webb?",
       "queued_ts": 1782150632
+    },
+    {
+      "fp": "83fcfa0e45c6c1520ca42bc4",
+      "title": "SpaceX to test upcoming Starfall reentry vehicle with demonstration mission on Tuesday",
+      "link": "https://www.nasaspaceflight.com/2026/06/starfall-demo/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-06-22T21:06:30+00:00",
+      "day_brt": "2026-06-22",
+      "resumo_pt": "Resumo (PT-BR): SpaceX to test upcoming Starfall reentry vehicle with demonstration mission on Tuesday by Haygen Warren & Bastiaan Vellekoop June 22, 2026 written by Haygen Warren & Bastiaan Vellekoop June 22, 2026 4 SpaceX is set to launch a demonstration mission for its Starfall reentry vehicle early on Tuesday morning. Falcon 9 is scheduled to liftoff at 6:43 AM EDT (10:43 UTC) from Space Launch Complex 40 (SLC-40) at the Cape Canaveral Space Force Station in Florida.",
+      "queued_ts": 1782166874
     }
   ],
   "digests_sent": {
@@ -4730,7 +4766,8 @@
     },
     "2026-06-22": {
       "453b5e742e828cca440efeae": true,
-      "f1727a61c98c5912c6220c18": true
+      "f1727a61c98c5912c6220c18": true,
+      "83fcfa0e45c6c1520ca42bc4": true
     }
   }
 }
