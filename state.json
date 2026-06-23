@@ -4365,6 +4365,30 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-space-plane-appears-to-have-released-a-mystery-object-in-orbit",
       "score": 2.8,
       "published_utc": "2026-06-23T16:52:28+00:00"
+    },
+    "19aa462c4e1ae3744d46e000": {
+      "ts": 1782246589,
+      "source": "NASA Breaking News",
+      "title": "CSDA Selects Eight Commercial Satellite Data Providers for On-Ramp 2 Contract Awards",
+      "link": "https://science.nasa.gov/science-research/earth-science/csda-selects-eight-commercial-satellite-data-providers-for-on-ramp-2-contract-awards/",
+      "score": 4.0,
+      "published_utc": "2026-06-23T18:57:16+00:00"
+    },
+    "2ea9bde7c0f8c4f287221fe7": {
+      "ts": 1782246589,
+      "source": "NASA Breaking News",
+      "title": "58th Girl Scouts Unite Event",
+      "link": "https://science.nasa.gov/earth/58th-girl-scouts-unite-event/",
+      "score": 4.0,
+      "published_utc": "2026-06-23T18:51:47+00:00"
+    },
+    "67b5fb40c75aaa57beb7128d": {
+      "ts": 1782246591,
+      "source": "Space.com",
+      "title": "Space.com just launched an app! Get your inside scoop on space exploration",
+      "link": "https://www.space.com/space-exploration/space-com-just-launched-an-app-get-your-inside-scoop-on-space-exploration",
+      "score": 2.8,
+      "published_utc": "2026-06-23T20:04:52+00:00"
     }
   },
   "digest_queue": [
@@ -4715,6 +4739,30 @@
       "day_brt": "2026-06-23",
       "resumo_pt": "Resumo (PT-BR): 2 min read 2026 ALA Hyperwall Schedule NASA Jun 23, 2026 Article American Library Association (ALA) Annual Conference, June 25-29, 2026 Join NASA in the Exhibit Hall (Booth #2243) for Hyperwall Storytelling by NASA experts. —— Peter Sooy 6:00 PM —— NASA's Next Flagship is Launching Soon!",
       "queued_ts": 1782239201
+    },
+    {
+      "fp": "19aa462c4e1ae3744d46e000",
+      "title": "CSDA Selects Eight Commercial Satellite Data Providers for On-Ramp 2 Contract Awards",
+      "link": "https://science.nasa.gov/science-research/earth-science/csda-selects-eight-commercial-satellite-data-providers-for-on-ramp-2-contract-awards/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-23T18:57:16+00:00",
+      "day_brt": "2026-06-23",
+      "resumo_pt": "Resumo (PT-BR): 4 min read CSDA Selects Eight Commercial Satellite Data Providers for On-Ramp 2 Contract Awards Joseph Smith Jun 23, 2026 Article Contents The Vendor Selection Process About the CSDA Program Become an Authorized Data User NASA’s Commercial Satellite Data Acquisition program (CSDA) announced contract awards with eight commercial satellite data providers offering a range of data types to support the agency’s Earth science research and application goals. The CSDA program On-Ramp 2 Multiple Award contract is a firm-fixed-price indefinite-delivery/indefinite-quantity (IDIQ) multiple-award contract with a maximum cumulative value of $476 million and a performance period through November 2028.",
+      "queued_ts": 1782246592
+    },
+    {
+      "fp": "2ea9bde7c0f8c4f287221fe7",
+      "title": "58th Girl Scouts Unite Event",
+      "link": "https://science.nasa.gov/earth/58th-girl-scouts-unite-event/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-23T18:51:47+00:00",
+      "day_brt": "2026-06-23",
+      "resumo_pt": "Resumo (PT-BR): 1 min read 58th Girl Scouts Unite Event NASA Jun 23, 2026 Article 58th Girl Scouts Unite Event, July 23-25, 2026 Join NASA in the Exhibit Hall (Booth #206) for Hyperwall Storytelling by NASA experts. Thursday, July 23 11:00AM - 11:15 AM From Daisy to NASA Engineer Barbara Hilton 11:15AM - 11:30 AM Exploring Mars, The Planet Next Door Lindsay Hays 11:30AM - 11:45 AM Get Ready With Me: Going to the Moon Naoma McCall 11:45Am - 12:00 PM NASA Is for Everyone!",
+      "queued_ts": 1782246592
     }
   ],
   "digests_sent": {
@@ -4972,7 +5020,9 @@
       "092ab790fea4e7fa2f645344": true,
       "c7318d9dc63e96c2420eeb69": true,
       "54c2dde0ac4e9868d8c1b457": true,
-      "b0a7abf3cfa5a0378217ad6a": true
+      "b0a7abf3cfa5a0378217ad6a": true,
+      "19aa462c4e1ae3744d46e000": true,
+      "2ea9bde7c0f8c4f287221fe7": true
     }
   }
 }
