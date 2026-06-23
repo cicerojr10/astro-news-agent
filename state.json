@@ -4333,6 +4333,38 @@
       "link": "https://www.space.com/space-exploration/international-space-station/nasa-wants-to-dump-the-iss-in-the-sea-experts-say-the-plan-raises-serious-concerns-for-ocean-health",
       "score": 2.8,
       "published_utc": "2026-06-23T16:00:00+00:00"
+    },
+    "b0a7abf3cfa5a0378217ad6a": {
+      "ts": 1782239197,
+      "source": "NASA Breaking News",
+      "title": "2026 ALA Hyperwall Schedule",
+      "link": "https://science.nasa.gov/earth/2026-ala-hyperwall-schedule/",
+      "score": 4.0,
+      "published_utc": "2026-06-23T16:23:22+00:00"
+    },
+    "e1b1e5968e373c3c8c5af839": {
+      "ts": 1782239199,
+      "source": "Space.com",
+      "title": "Rocket Lab launches US Space Force mission with less than 17 hours' notice — a new record",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-us-space-force-mission-with-less-than-17-hours-notice-a-new-record",
+      "score": 2.8,
+      "published_utc": "2026-06-23T18:00:00+00:00"
+    },
+    "54c2dde0ac4e9868d8c1b457": {
+      "ts": 1782239199,
+      "source": "Space.com",
+      "title": "A 'new' star could finally appear in the night sky this week, thanks to a once-in-a-lifetime explosion",
+      "link": "https://www.space.com/stargazing/a-new-star-could-finally-appear-in-the-night-sky-this-week-thanks-to-a-once-in-a-lifetime-explosion",
+      "score": 8.399999999999999,
+      "published_utc": "2026-06-23T17:00:00+00:00"
+    },
+    "b29c0e7cfb99c2f59b0f05d4": {
+      "ts": 1782239200,
+      "source": "Space.com",
+      "title": "China's space plane appears to have released a mystery object in orbit",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-space-plane-appears-to-have-released-a-mystery-object-in-orbit",
+      "score": 2.8,
+      "published_utc": "2026-06-23T16:52:28+00:00"
     }
   },
   "digest_queue": [
@@ -4659,6 +4691,30 @@
       "day_brt": "2026-06-23",
       "resumo_pt": "Resumo (PT-BR): Explore Webb Science James Webb Space Telescope (JWST) NASA’s Webb Pinpoints... Webb News Latest News Latest Images Webb's Blog Awards X (offsite - login reqd) Instagram (offsite - login reqd) Facebook (offsite- login reqd) Youtube (offsite) Overview About Who is James Webb?",
       "queued_ts": 1782232679
+    },
+    {
+      "fp": "54c2dde0ac4e9868d8c1b457",
+      "title": "A 'new' star could finally appear in the night sky this week, thanks to a once-in-a-lifetime explosion",
+      "link": "https://www.space.com/stargazing/a-new-star-could-finally-appear-in-the-night-sky-this-week-thanks-to-a-once-in-a-lifetime-explosion",
+      "source": "Space.com",
+      "score": 8.399999999999999,
+      "is_anomaly": true,
+      "published_utc": "2026-06-23T17:00:00+00:00",
+      "day_brt": "2026-06-23",
+      "resumo_pt": "Resumo (PT-BR): Stargazing A 'new' star could finally appear in the night sky this week, thanks to a once-in-a-lifetime explosion News By Anthony Wood published 23 June 2026 T. Coronae Borealis undergoes a dramatic nova explosion once every 80 years on average, causing it to shine as bright as Polaris, the North Star.",
+      "queued_ts": 1782239201
+    },
+    {
+      "fp": "b0a7abf3cfa5a0378217ad6a",
+      "title": "2026 ALA Hyperwall Schedule",
+      "link": "https://science.nasa.gov/earth/2026-ala-hyperwall-schedule/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-23T16:23:22+00:00",
+      "day_brt": "2026-06-23",
+      "resumo_pt": "Resumo (PT-BR): 2 min read 2026 ALA Hyperwall Schedule NASA Jun 23, 2026 Article American Library Association (ALA) Annual Conference, June 25-29, 2026 Join NASA in the Exhibit Hall (Booth #2243) for Hyperwall Storytelling by NASA experts. —— Peter Sooy 6:00 PM —— NASA's Next Flagship is Launching Soon!",
+      "queued_ts": 1782239201
     }
   ],
   "digests_sent": {
@@ -4914,7 +4970,9 @@
     "2026-06-23": {
       "9f802355ceb5978a9be8a735": true,
       "092ab790fea4e7fa2f645344": true,
-      "c7318d9dc63e96c2420eeb69": true
+      "c7318d9dc63e96c2420eeb69": true,
+      "54c2dde0ac4e9868d8c1b457": true,
+      "b0a7abf3cfa5a0378217ad6a": true
     }
   }
 }
