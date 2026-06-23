@@ -4258,6 +4258,32 @@
       "score": 0.0,
       "published_utc": "2026-06-22T22:00:00+00:00",
       "note": "not_today"
+    },
+    "476bed7cf0a155d7ebc2eaeb": {
+      "ts": 1782221586,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches reentry capsule demo mission called ‘Starfall’",
+      "link": "https://spaceflightnow.com/2026/06/23/live-coverage-spacex-to-launch-reentry-capsule-demo-mission-called-starfall/",
+      "score": 0.0,
+      "published_utc": "2026-06-23T00:50:13+00:00",
+      "note": "not_today"
+    },
+    "fcd7daaf9ffdb4c64b47c465": {
+      "ts": 1782221586,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg",
+      "link": "https://spaceflightnow.com/2026/06/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-5/",
+      "score": 0.0,
+      "published_utc": "2026-06-20T15:07:25+00:00",
+      "note": "not_today"
+    },
+    "af87a6e0e0af1bd9c36c2efd": {
+      "ts": 1782221588,
+      "source": "Space.com",
+      "title": "Searching for alien life: New model could help scientists home in on habitable exoplanets",
+      "link": "https://www.space.com/space-exploration/search-for-life/searching-for-alien-life-new-model-could-help-scientists-home-in-on-habitable-exoplanets",
+      "score": 2.8,
+      "published_utc": "2026-06-23T13:00:00+00:00"
     }
   },
   "digest_queue": [
