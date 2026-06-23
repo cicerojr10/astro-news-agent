@@ -4233,6 +4233,14 @@
       "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasas-experimental-fabrication-branch-fuels-aircraft-innovation/",
       "score": 4.0,
       "published_utc": "2026-06-22T17:47:00+00:00"
+    },
+    "9ba0ac8d234a9662a1ecfb3a": {
+      "ts": 1782179290,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’",
+      "link": "https://spaceflightnow.com/2026/06/23/live-coverage-spacex-to-launch-reentry-capsule-demo-mission-called-starfall/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-06-23T00:50:13+00:00"
     }
   },
   "digest_queue": [
@@ -4499,6 +4507,18 @@
       "day_brt": "2026-06-21",
       "resumo_pt": "Resumo (PT-BR): NASA’s Nancy Grace Roman Space Telescope arrives in Florida June 22, 2026 Will Robinson-Smith NASA’s Nancy Grace Roman Space Telescope, nestled inside its transport container nicknamed ‘the Chariot’, passes by the Vehicle Assembly Building on its way to the Payload Hazardous Servicing Facility at the Kennedy Space Center. Image: Adam Bernstein/Spaceflight Now NASA’s next great observatory, the Nancy Grace Roman Space Telescope, arrived at the Kennedy Space Center aboard the agency’s massive Pegasus barge late Sunday morning.",
       "queued_ts": 1782093923
+    },
+    {
+      "fp": "9ba0ac8d234a9662a1ecfb3a",
+      "title": "Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’",
+      "link": "https://spaceflightnow.com/2026/06/23/live-coverage-spacex-to-launch-reentry-capsule-demo-mission-called-starfall/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-06-23T00:50:13+00:00",
+      "day_brt": "2026-06-22",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
+      "queued_ts": 1782179292
     }
   ],
   "digests_sent": {
@@ -4767,7 +4787,8 @@
       "83fcfa0e45c6c1520ca42bc4": true,
       "c32685ba266ac3a3aeb5bab3": true,
       "e02dc11b76f54d424f43ae79": true,
-      "cef0cd518e041ea2f4b3e5dd": true
+      "cef0cd518e041ea2f4b3e5dd": true,
+      "9ba0ac8d234a9662a1ecfb3a": true
     }
   }
 }
