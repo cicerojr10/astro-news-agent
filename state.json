@@ -4389,6 +4389,30 @@
       "link": "https://www.space.com/space-exploration/space-com-just-launched-an-app-get-your-inside-scoop-on-space-exploration",
       "score": 2.8,
       "published_utc": "2026-06-23T20:04:52+00:00"
+    },
+    "1de946b3f73833be83d93355": {
+      "ts": 1782251808,
+      "source": "NASA Breaking News",
+      "title": "NASA Names Sean Gallagher as Chief Information Officer",
+      "link": "https://www.nasa.gov/news-release/nasa-names-sean-gallagher-as-chief-information-officer/",
+      "score": 4.0,
+      "published_utc": "2026-06-23T21:32:03+00:00"
+    },
+    "724d65aaa3a97f1f87b3fd8c": {
+      "ts": 1782251810,
+      "source": "Spaceflight Now",
+      "title": "NASA, Boeing committed to Stariner-1 launch despite unclear timeline",
+      "link": "https://spaceflightnow.com/2026/06/23/nasa-boeing-committed-to-stariner-1-launch-amid-despite-unclear-timeline/",
+      "score": 3.6,
+      "published_utc": "2026-06-23T21:18:39+00:00"
+    },
+    "00b21d5974d48d5d2e32f2f9": {
+      "ts": 1782251811,
+      "source": "Space.com",
+      "title": "What is Starfall? A look at SpaceX's mysterious new return capsule",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/what-is-starfall-a-look-at-spacexs-mysterious-new-return-capsule",
+      "score": 2.8,
+      "published_utc": "2026-06-23T21:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -4763,6 +4787,30 @@
       "day_brt": "2026-06-23",
       "resumo_pt": "Resumo (PT-BR): 1 min read 58th Girl Scouts Unite Event NASA Jun 23, 2026 Article 58th Girl Scouts Unite Event, July 23-25, 2026 Join NASA in the Exhibit Hall (Booth #206) for Hyperwall Storytelling by NASA experts. Thursday, July 23 11:00AM - 11:15 AM From Daisy to NASA Engineer Barbara Hilton 11:15AM - 11:30 AM Exploring Mars, The Planet Next Door Lindsay Hays 11:30AM - 11:45 AM Get Ready With Me: Going to the Moon Naoma McCall 11:45Am - 12:00 PM NASA Is for Everyone!",
       "queued_ts": 1782246592
+    },
+    {
+      "fp": "1de946b3f73833be83d93355",
+      "title": "NASA Names Sean Gallagher as Chief Information Officer",
+      "link": "https://www.nasa.gov/news-release/nasa-names-sean-gallagher-as-chief-information-officer/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-23T21:32:03+00:00",
+      "day_brt": "2026-06-23",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Names Sean Gallagher as Chief Information Officer Jennifer M. Dooren Jun 23, 2026 RELEASE 26-051 NASA Headquarters Official NASA portrait of Sean Gallagher Credit: NASA NASA has selected Sean Gallagher as the agency’s chief information officer (CIO).",
+      "queued_ts": 1782251812
+    },
+    {
+      "fp": "724d65aaa3a97f1f87b3fd8c",
+      "title": "NASA, Boeing committed to Stariner-1 launch despite unclear timeline",
+      "link": "https://spaceflightnow.com/2026/06/23/nasa-boeing-committed-to-stariner-1-launch-amid-despite-unclear-timeline/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-06-23T21:18:39+00:00",
+      "day_brt": "2026-06-23",
+      "resumo_pt": "Resumo (PT-BR): NASA, Boeing committed to Stariner-1 launch despite unclear timeline June 23, 2026 Will Robinson-Smith Boeing’s Starliner spacecraft that launched NASA’s Crew Flight Test astronauts Butch Wilmore and Suni Williams, seen from a window on the SpaceX Dragon Endeavour spacecraft. More than four months after NASA released a report classifying the 2024 Crew Flight Test of Boeing’s CST-100 Starliner spacecraft as a Type A mishap, the timing of the return to flight mission remains up in the air and could be as far as a year away.",
+      "queued_ts": 1782251812
     }
   ],
   "digests_sent": {
@@ -5022,7 +5070,9 @@
       "54c2dde0ac4e9868d8c1b457": true,
       "b0a7abf3cfa5a0378217ad6a": true,
       "19aa462c4e1ae3744d46e000": true,
-      "2ea9bde7c0f8c4f287221fe7": true
+      "2ea9bde7c0f8c4f287221fe7": true,
+      "1de946b3f73833be83d93355": true,
+      "724d65aaa3a97f1f87b3fd8c": true
     }
   }
 }
