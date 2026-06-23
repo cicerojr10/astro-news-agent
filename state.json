@@ -4413,6 +4413,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/what-is-starfall-a-look-at-spacexs-mysterious-new-return-capsule",
       "score": 2.8,
       "published_utc": "2026-06-23T21:00:00+00:00"
+    },
+    "541619cf25fe2dc918bb8dd8": {
+      "ts": 1782255653,
+      "source": "Spaceflight Now",
+      "title": "NASA, Boeing committed to Starliner-1 launch despite unclear timeline",
+      "link": "https://spaceflightnow.com/2026/06/23/nasa-boeing-committed-to-starliner-1-launch-despite-unclear-timeline/",
+      "score": 3.6,
+      "published_utc": "2026-06-23T21:18:39+00:00"
     }
   },
   "digest_queue": [
@@ -4691,126 +4699,6 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
-    },
-    {
-      "fp": "9f802355ceb5978a9be8a735",
-      "title": "This is How NASA Flight Tests New Technology",
-      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/this-is-how-nasa-flight-tests-new-technology/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-23T16:00:00+00:00",
-      "day_brt": "2026-06-23",
-      "resumo_pt": "Resumo (PT-BR): 3 Min Read This is How NASA Flight Tests New Technology An F-15 aircraft flies above the world’s largest compass rose above NASA’s Armstrong Flight Research Center in Edwards, California, on Monday, April 20, 2026. NASA’s Crossflow Attenuated Natural Laminar Flow (CATNLF) test article is attached to the bottom of the F-15.",
-      "queued_ts": 1782232679
-    },
-    {
-      "fp": "092ab790fea4e7fa2f645344",
-      "title": "ARMD Research Solicitations (Updated June 23)",
-      "link": "https://www.nasa.gov/aeronautics/armd-solicitations/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-23T15:00:00+00:00",
-      "day_brt": "2026-06-23",
-      "resumo_pt": "Resumo (PT-BR): 9 min read ARMD Research Solicitations (Updated June 23) Jim Banke Managing Editor/Senior Writer Jun 23, 2026 Article Contents Upcoming Key Dates Currently Open Solicitations NASA Research Announcement - Development Plan for Open Fan Flight Demonstration - OPEN Aeronautics Innovation Challenges - OPEN Currently Closed Solicitations NASA ARMD Aeronautics Flight Accelerator - CLOSED FY26 NASA Aerospace Skilled Technical Workforce Hubs (NAS_Hub) - CLOSED Advanced Capabilities for Emergency Response Operations RFI - CLOSED Advanced Air Mobility Mission RFI - CLOSED ROA-2025 NRA Amendment 1 - CLOSED NASA Research Opportunities in Aeronautics NASA / Lillian Gipson/Getty Images THIS PAGE WAS UPDATED ON JUNE 23, 2026 This Aeronautics Research Mission Directorate (ARMD) solicitations page compiles the opportunities to collaborate with NASA’s aeronautical innovators and/or contribute to their research to enable new and improved air transportation systems. Most opportunities to participate in research are officially announced through the Web-based NASA Solicitation and Proposal Integrated Review and Evaluation System, better known as NSPIRES.",
-      "queued_ts": 1782232679
-    },
-    {
-      "fp": "c7318d9dc63e96c2420eeb69",
-      "title": "Hubble Details Early Galaxy Transforming Neighborhood",
-      "link": "https://science.nasa.gov/missions/hubble/hubble-details-early-galaxy-transforming-neighborhood/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-23T14:00:40+00:00",
-      "day_brt": "2026-06-23",
-      "resumo_pt": "Resumo (PT-BR): Explore Hubble Science Hubble Space Telescope Hubble Details Early Galaxy... Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space?",
-      "queued_ts": 1782232679
-    },
-    {
-      "fp": "9908d87df64d96ce6230bf96",
-      "title": "NASA’s Webb Pinpoints Millions of Stars Within Cigar Galaxy",
-      "link": "https://science.nasa.gov/missions/webb/nasas-webb-pinpoints-millions-of-stars-within-cigar-galaxy/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-23T14:00:00+00:00",
-      "day_brt": "2026-06-23",
-      "resumo_pt": "Resumo (PT-BR): Explore Webb Science James Webb Space Telescope (JWST) NASA’s Webb Pinpoints... Webb News Latest News Latest Images Webb's Blog Awards X (offsite - login reqd) Instagram (offsite - login reqd) Facebook (offsite- login reqd) Youtube (offsite) Overview About Who is James Webb?",
-      "queued_ts": 1782232679
-    },
-    {
-      "fp": "54c2dde0ac4e9868d8c1b457",
-      "title": "A 'new' star could finally appear in the night sky this week, thanks to a once-in-a-lifetime explosion",
-      "link": "https://www.space.com/stargazing/a-new-star-could-finally-appear-in-the-night-sky-this-week-thanks-to-a-once-in-a-lifetime-explosion",
-      "source": "Space.com",
-      "score": 8.399999999999999,
-      "is_anomaly": true,
-      "published_utc": "2026-06-23T17:00:00+00:00",
-      "day_brt": "2026-06-23",
-      "resumo_pt": "Resumo (PT-BR): Stargazing A 'new' star could finally appear in the night sky this week, thanks to a once-in-a-lifetime explosion News By Anthony Wood published 23 June 2026 T. Coronae Borealis undergoes a dramatic nova explosion once every 80 years on average, causing it to shine as bright as Polaris, the North Star.",
-      "queued_ts": 1782239201
-    },
-    {
-      "fp": "b0a7abf3cfa5a0378217ad6a",
-      "title": "2026 ALA Hyperwall Schedule",
-      "link": "https://science.nasa.gov/earth/2026-ala-hyperwall-schedule/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-23T16:23:22+00:00",
-      "day_brt": "2026-06-23",
-      "resumo_pt": "Resumo (PT-BR): 2 min read 2026 ALA Hyperwall Schedule NASA Jun 23, 2026 Article American Library Association (ALA) Annual Conference, June 25-29, 2026 Join NASA in the Exhibit Hall (Booth #2243) for Hyperwall Storytelling by NASA experts. —— Peter Sooy 6:00 PM —— NASA's Next Flagship is Launching Soon!",
-      "queued_ts": 1782239201
-    },
-    {
-      "fp": "19aa462c4e1ae3744d46e000",
-      "title": "CSDA Selects Eight Commercial Satellite Data Providers for On-Ramp 2 Contract Awards",
-      "link": "https://science.nasa.gov/science-research/earth-science/csda-selects-eight-commercial-satellite-data-providers-for-on-ramp-2-contract-awards/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-23T18:57:16+00:00",
-      "day_brt": "2026-06-23",
-      "resumo_pt": "Resumo (PT-BR): 4 min read CSDA Selects Eight Commercial Satellite Data Providers for On-Ramp 2 Contract Awards Joseph Smith Jun 23, 2026 Article Contents The Vendor Selection Process About the CSDA Program Become an Authorized Data User NASA’s Commercial Satellite Data Acquisition program (CSDA) announced contract awards with eight commercial satellite data providers offering a range of data types to support the agency’s Earth science research and application goals. The CSDA program On-Ramp 2 Multiple Award contract is a firm-fixed-price indefinite-delivery/indefinite-quantity (IDIQ) multiple-award contract with a maximum cumulative value of $476 million and a performance period through November 2028.",
-      "queued_ts": 1782246592
-    },
-    {
-      "fp": "2ea9bde7c0f8c4f287221fe7",
-      "title": "58th Girl Scouts Unite Event",
-      "link": "https://science.nasa.gov/earth/58th-girl-scouts-unite-event/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-23T18:51:47+00:00",
-      "day_brt": "2026-06-23",
-      "resumo_pt": "Resumo (PT-BR): 1 min read 58th Girl Scouts Unite Event NASA Jun 23, 2026 Article 58th Girl Scouts Unite Event, July 23-25, 2026 Join NASA in the Exhibit Hall (Booth #206) for Hyperwall Storytelling by NASA experts. Thursday, July 23 11:00AM - 11:15 AM From Daisy to NASA Engineer Barbara Hilton 11:15AM - 11:30 AM Exploring Mars, The Planet Next Door Lindsay Hays 11:30AM - 11:45 AM Get Ready With Me: Going to the Moon Naoma McCall 11:45Am - 12:00 PM NASA Is for Everyone!",
-      "queued_ts": 1782246592
-    },
-    {
-      "fp": "1de946b3f73833be83d93355",
-      "title": "NASA Names Sean Gallagher as Chief Information Officer",
-      "link": "https://www.nasa.gov/news-release/nasa-names-sean-gallagher-as-chief-information-officer/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-23T21:32:03+00:00",
-      "day_brt": "2026-06-23",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Names Sean Gallagher as Chief Information Officer Jennifer M. Dooren Jun 23, 2026 RELEASE 26-051 NASA Headquarters Official NASA portrait of Sean Gallagher Credit: NASA NASA has selected Sean Gallagher as the agency’s chief information officer (CIO).",
-      "queued_ts": 1782251812
-    },
-    {
-      "fp": "724d65aaa3a97f1f87b3fd8c",
-      "title": "NASA, Boeing committed to Stariner-1 launch despite unclear timeline",
-      "link": "https://spaceflightnow.com/2026/06/23/nasa-boeing-committed-to-stariner-1-launch-amid-despite-unclear-timeline/",
-      "source": "Spaceflight Now",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-06-23T21:18:39+00:00",
-      "day_brt": "2026-06-23",
-      "resumo_pt": "Resumo (PT-BR): NASA, Boeing committed to Stariner-1 launch despite unclear timeline June 23, 2026 Will Robinson-Smith Boeing’s Starliner spacecraft that launched NASA’s Crew Flight Test astronauts Butch Wilmore and Suni Williams, seen from a window on the SpaceX Dragon Endeavour spacecraft. More than four months after NASA released a report classifying the 2024 Crew Flight Test of Boeing’s CST-100 Starliner spacecraft as a Type A mishap, the timing of the return to flight mission remains up in the air and could be as far as a year away.",
-      "queued_ts": 1782251812
     }
   ],
   "digests_sent": {
@@ -5017,7 +4905,8 @@
       "night": true
     },
     "2026-06-23": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -5072,7 +4961,8 @@
       "19aa462c4e1ae3744d46e000": true,
       "2ea9bde7c0f8c4f287221fe7": true,
       "1de946b3f73833be83d93355": true,
-      "724d65aaa3a97f1f87b3fd8c": true
+      "724d65aaa3a97f1f87b3fd8c": true,
+      "541619cf25fe2dc918bb8dd8": true
     }
   }
 }
