@@ -4241,6 +4241,23 @@
       "link": "https://spaceflightnow.com/2026/06/23/live-coverage-spacex-to-launch-reentry-capsule-demo-mission-called-starfall/",
       "score": 4.680000000000001,
       "published_utc": "2026-06-23T00:50:13+00:00"
+    },
+    "2c7d7387dba9ca0ff480abbb": {
+      "ts": 1782215404,
+      "source": "Space.com",
+      "title": "This beginner-friendly travel telescope is the reason I turned into a skywatcher",
+      "link": "https://www.space.com/stargazing/skywatching-kit/this-beginner-friendly-travel-telescope-is-the-reason-i-turned-into-a-skywatcher",
+      "score": 2.8,
+      "published_utc": "2026-06-23T09:51:39+00:00"
+    },
+    "c39fb7d930ebf2d7eff3b9c6": {
+      "ts": 1782215404,
+      "source": "Space.com",
+      "title": "SpaceX launches its 1st 'Starfall' reentry capsule in early morning Falcon 9 liftoff",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-its-1st-starfall-reentry-capsule-early-on-june-23-watch-it-live",
+      "score": 0.0,
+      "published_utc": "2026-06-22T22:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -4723,6 +4740,9 @@
     "2026-06-22": {
       "morning": true,
       "night": true
+    },
+    "2026-06-23": {
+      "morning": true
     }
   },
   "sent_updates": {
