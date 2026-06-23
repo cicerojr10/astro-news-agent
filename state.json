@@ -4284,6 +4284,55 @@
       "link": "https://www.space.com/space-exploration/search-for-life/searching-for-alien-life-new-model-could-help-scientists-home-in-on-habitable-exoplanets",
       "score": 2.8,
       "published_utc": "2026-06-23T13:00:00+00:00"
+    },
+    "9f802355ceb5978a9be8a735": {
+      "ts": 1782232675,
+      "source": "NASA Breaking News",
+      "title": "This is How NASA Flight Tests New Technology",
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/this-is-how-nasa-flight-tests-new-technology/",
+      "score": 4.0,
+      "published_utc": "2026-06-23T16:00:00+00:00"
+    },
+    "092ab790fea4e7fa2f645344": {
+      "ts": 1782232675,
+      "source": "NASA Breaking News",
+      "title": "ARMD Research Solicitations (Updated June 23)",
+      "link": "https://www.nasa.gov/aeronautics/armd-solicitations/",
+      "score": 4.0,
+      "published_utc": "2026-06-23T15:00:00+00:00"
+    },
+    "c7318d9dc63e96c2420eeb69": {
+      "ts": 1782232675,
+      "source": "NASA Breaking News",
+      "title": "Hubble Details Early Galaxy Transforming Neighborhood",
+      "link": "https://science.nasa.gov/missions/hubble/hubble-details-early-galaxy-transforming-neighborhood/",
+      "score": 4.0,
+      "published_utc": "2026-06-23T14:00:40+00:00"
+    },
+    "9908d87df64d96ce6230bf96": {
+      "ts": 1782232676,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Webb Pinpoints Millions of Stars Within Cigar Galaxy",
+      "link": "https://science.nasa.gov/missions/webb/nasas-webb-pinpoints-millions-of-stars-within-cigar-galaxy/",
+      "score": 4.0,
+      "published_utc": "2026-06-23T14:00:00+00:00"
+    },
+    "5412410e95bcc8ffe8c1dff6": {
+      "ts": 1782232677,
+      "source": "NASASpaceflight",
+      "title": "SpaceX tests upcoming Starfall reentry vehicle with demonstration mission on Tuesday",
+      "link": "https://www.nasaspaceflight.com/2026/06/starfall-demo/",
+      "score": 0.0,
+      "published_utc": "2026-06-22T21:06:30+00:00",
+      "note": "not_today"
+    },
+    "442faa9a704f79c869d80b4a": {
+      "ts": 1782232678,
+      "source": "Space.com",
+      "title": "NASA wants to dump the ISS in the sea. Experts say the plan 'raises serious concerns for ocean health'",
+      "link": "https://www.space.com/space-exploration/international-space-station/nasa-wants-to-dump-the-iss-in-the-sea-experts-say-the-plan-raises-serious-concerns-for-ocean-health",
+      "score": 2.8,
+      "published_utc": "2026-06-23T16:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -4562,6 +4611,54 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
+    },
+    {
+      "fp": "9f802355ceb5978a9be8a735",
+      "title": "This is How NASA Flight Tests New Technology",
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/this-is-how-nasa-flight-tests-new-technology/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-23T16:00:00+00:00",
+      "day_brt": "2026-06-23",
+      "resumo_pt": "Resumo (PT-BR): 3 Min Read This is How NASA Flight Tests New Technology An F-15 aircraft flies above the world’s largest compass rose above NASA’s Armstrong Flight Research Center in Edwards, California, on Monday, April 20, 2026. NASA’s Crossflow Attenuated Natural Laminar Flow (CATNLF) test article is attached to the bottom of the F-15.",
+      "queued_ts": 1782232679
+    },
+    {
+      "fp": "092ab790fea4e7fa2f645344",
+      "title": "ARMD Research Solicitations (Updated June 23)",
+      "link": "https://www.nasa.gov/aeronautics/armd-solicitations/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-23T15:00:00+00:00",
+      "day_brt": "2026-06-23",
+      "resumo_pt": "Resumo (PT-BR): 9 min read ARMD Research Solicitations (Updated June 23) Jim Banke Managing Editor/Senior Writer Jun 23, 2026 Article Contents Upcoming Key Dates Currently Open Solicitations NASA Research Announcement - Development Plan for Open Fan Flight Demonstration - OPEN Aeronautics Innovation Challenges - OPEN Currently Closed Solicitations NASA ARMD Aeronautics Flight Accelerator - CLOSED FY26 NASA Aerospace Skilled Technical Workforce Hubs (NAS_Hub) - CLOSED Advanced Capabilities for Emergency Response Operations RFI - CLOSED Advanced Air Mobility Mission RFI - CLOSED ROA-2025 NRA Amendment 1 - CLOSED NASA Research Opportunities in Aeronautics NASA / Lillian Gipson/Getty Images THIS PAGE WAS UPDATED ON JUNE 23, 2026 This Aeronautics Research Mission Directorate (ARMD) solicitations page compiles the opportunities to collaborate with NASA’s aeronautical innovators and/or contribute to their research to enable new and improved air transportation systems. Most opportunities to participate in research are officially announced through the Web-based NASA Solicitation and Proposal Integrated Review and Evaluation System, better known as NSPIRES.",
+      "queued_ts": 1782232679
+    },
+    {
+      "fp": "c7318d9dc63e96c2420eeb69",
+      "title": "Hubble Details Early Galaxy Transforming Neighborhood",
+      "link": "https://science.nasa.gov/missions/hubble/hubble-details-early-galaxy-transforming-neighborhood/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-23T14:00:40+00:00",
+      "day_brt": "2026-06-23",
+      "resumo_pt": "Resumo (PT-BR): Explore Hubble Science Hubble Space Telescope Hubble Details Early Galaxy... Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space?",
+      "queued_ts": 1782232679
+    },
+    {
+      "fp": "9908d87df64d96ce6230bf96",
+      "title": "NASA’s Webb Pinpoints Millions of Stars Within Cigar Galaxy",
+      "link": "https://science.nasa.gov/missions/webb/nasas-webb-pinpoints-millions-of-stars-within-cigar-galaxy/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-23T14:00:00+00:00",
+      "day_brt": "2026-06-23",
+      "resumo_pt": "Resumo (PT-BR): Explore Webb Science James Webb Space Telescope (JWST) NASA’s Webb Pinpoints... Webb News Latest News Latest Images Webb's Blog Awards X (offsite - login reqd) Instagram (offsite - login reqd) Facebook (offsite- login reqd) Youtube (offsite) Overview About Who is James Webb?",
+      "queued_ts": 1782232679
     }
   ],
   "digests_sent": {
@@ -4772,28 +4869,6 @@
     }
   },
   "sent_updates": {
-    "2026-06-12": {
-      "2308be1630fbe9ea926b0338": true,
-      "1729cec1d25c829f84875a69": true,
-      "f7d900a90a7cd29e0ac712a4": true,
-      "d1b77fe34e38951e49759625": true
-    },
-    "2026-06-13": {
-      "73644c2f8f048718e55dfacf": true
-    },
-    "2026-06-14": {
-      "bfbb004f5110a1e0793a43bc": true
-    },
-    "2026-06-15": {
-      "8dc6a6837ec6d6ac7edee719": true,
-      "6bafb065297efb7a112a2f6f": true,
-      "ff9455dd53d6f914cc4ab1bd": true,
-      "2eb5eeb79b3016d821cad062": true,
-      "c2cc0005db18e498aaf6b799": true,
-      "0dff62b713fa3d8a5ea6af35": true,
-      "13c29c1e281b8ae635ae498c": true,
-      "3ee154d31ff482647325235f": true
-    },
     "2026-06-16": {
       "606eba8070f187013caa5779": true,
       "871917ba35ffd39e9c764d78": true,
@@ -4835,6 +4910,11 @@
       "e02dc11b76f54d424f43ae79": true,
       "cef0cd518e041ea2f4b3e5dd": true,
       "9ba0ac8d234a9662a1ecfb3a": true
+    },
+    "2026-06-23": {
+      "9f802355ceb5978a9be8a735": true,
+      "092ab790fea4e7fa2f645344": true,
+      "c7318d9dc63e96c2420eeb69": true
     }
   }
 }
