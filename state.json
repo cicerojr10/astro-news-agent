@@ -4907,6 +4907,9 @@
     "2026-06-23": {
       "morning": true,
       "night": true
+    },
+    "2026-06-24": {
+      "morning": true
     }
   },
   "sent_updates": {
