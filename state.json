@@ -4469,6 +4469,14 @@
       "link": "https://www.space.com/astronomy/galaxies/this-is-the-largest-and-most-detailed-image-of-our-milky-way-with-over-60-million-stars-and-50-exoplanet-systems",
       "score": 2.8,
       "published_utc": "2026-06-24T21:00:00+00:00"
+    },
+    "e7e860130703c83ef393bf2b": {
+      "ts": 1782342985,
+      "source": "Spaceflight Now",
+      "title": "Live Coverage: West Coast Falcon 9 launch to continue expansion of SpaceX’s Starlink network",
+      "link": "https://spaceflightnow.com/2026/06/24/live-coverage-west-coast-falcon-9-launch-to-continue-expansion-of-spacexs-starlink-network/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-06-24T23:10:20+00:00"
     }
   },
   "digest_queue": [
@@ -4747,42 +4755,6 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
-    },
-    {
-      "fp": "0956da41a9dd712334c2469f",
-      "title": "Roman Telescope Comes to Kennedy",
-      "link": "https://www.nasa.gov/image-article/roman-telescope-comes-to-kennedy/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-24T19:42:34+00:00",
-      "day_brt": "2026-06-24",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Roman Telescope Comes to Kennedy HQ Web Team Jun 24, 2026 Image Article NASA/Amber Jean Notvest In this June 21, 2026, photo, NASA’s Nancy Grace Roman Space Telescope arrives at the agency’s Kennedy Space Center in Florida aboard NASA’s Pegasus barge . After offloading and transportation to the spaceport’s Payload Hazardous Servicing Facility, Roman will undergo processing ahead of launch, targeted no earlier than Sunday, Aug.",
-      "queued_ts": 1782334382
-    },
-    {
-      "fp": "4f28ea3f078d1a6f060ff464",
-      "title": "NASA’s HiRISE Captures Perseverance Marking a Milestone on Mars",
-      "link": "https://science.nasa.gov/photojournal/nasas-hirise-captures-perseverance-marking-a-milestone-on-mars/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-24T18:55:28+00:00",
-      "day_brt": "2026-06-24",
-      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NASA’s HiRISE Captures... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 2 Min Read NASA’s HiRISE Captures Perseverance Marking a Milestone on Mars PIA26726 Credits: NASA/JPL-Caltech/University of Arizona Image Addition Date: 06/24/2026 Downloads NASA’s HiRISE Captures Perseverance Marking a Milestone on Mars JPEG (492.31 KB) PIA26726 Figure A PNG (12.89 MB) Description NASA’s Perseverance rover appears as a green speck on the Martian surface on June 13, 2026, a day before the robotic explorer marked a distance milestone, having traveled a full marathon (26.2 miles, or 42.195 kilometers) on the Red Planet.",
-      "queued_ts": 1782334382
-    },
-    {
-      "fp": "a030559cbb3660abdb18dd21",
-      "title": "La NASA compartirá los últimos avances del programa Base Lunar",
-      "link": "https://www.nasa.gov/news-release/la-nasa-compartira-los-ultimos-avances-del-programa-base-lunar/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-24T21:17:40+00:00",
-      "day_brt": "2026-06-24",
-      "resumo_pt": "Resumo (PT-BR): 2 min read La NASA compartirá los últimos avances del programa Base Lunar María José Viñas Jun 24, 2026 MEDIA ADVISORY M26-050 NASA Headquarters Representación digital de la región del Polo Sur lunar. Los puntos de luz brillantes esparcidos por la superficie lunar representan los componentes en superficie que apoyan las operaciones sostenidas con seres humanos y robots cerca del Polo Sur.",
-      "queued_ts": 1782338699
     }
   ],
   "digests_sent": {
@@ -4993,7 +4965,8 @@
       "night": true
     },
     "2026-06-24": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -5054,7 +5027,8 @@
     "2026-06-24": {
       "0956da41a9dd712334c2469f": true,
       "4f28ea3f078d1a6f060ff464": true,
-      "a030559cbb3660abdb18dd21": true
+      "a030559cbb3660abdb18dd21": true,
+      "e7e860130703c83ef393bf2b": true
     }
   }
 }
