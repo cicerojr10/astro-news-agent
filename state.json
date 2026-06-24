@@ -4453,6 +4453,22 @@
       "link": "https://science.nasa.gov/photojournal/nasas-hirise-captures-perseverance-marking-a-milestone-on-mars/",
       "score": 4.0,
       "published_utc": "2026-06-24T18:55:28+00:00"
+    },
+    "a030559cbb3660abdb18dd21": {
+      "ts": 1782338696,
+      "source": "NASA Breaking News",
+      "title": "La NASA compartirá los últimos avances del programa Base Lunar",
+      "link": "https://www.nasa.gov/news-release/la-nasa-compartira-los-ultimos-avances-del-programa-base-lunar/",
+      "score": 4.0,
+      "published_utc": "2026-06-24T21:17:40+00:00"
+    },
+    "ba1677ad52497800fb941f53": {
+      "ts": 1782338698,
+      "source": "Space.com",
+      "title": "This is the largest and most detailed image of our Milky Way — with over 60 million stars and 50 exoplanet systems",
+      "link": "https://www.space.com/astronomy/galaxies/this-is-the-largest-and-most-detailed-image-of-our-milky-way-with-over-60-million-stars-and-50-exoplanet-systems",
+      "score": 2.8,
+      "published_utc": "2026-06-24T21:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -4755,6 +4771,18 @@
       "day_brt": "2026-06-24",
       "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NASA’s HiRISE Captures... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 2 Min Read NASA’s HiRISE Captures Perseverance Marking a Milestone on Mars PIA26726 Credits: NASA/JPL-Caltech/University of Arizona Image Addition Date: 06/24/2026 Downloads NASA’s HiRISE Captures Perseverance Marking a Milestone on Mars JPEG (492.31 KB) PIA26726 Figure A PNG (12.89 MB) Description NASA’s Perseverance rover appears as a green speck on the Martian surface on June 13, 2026, a day before the robotic explorer marked a distance milestone, having traveled a full marathon (26.2 miles, or 42.195 kilometers) on the Red Planet.",
       "queued_ts": 1782334382
+    },
+    {
+      "fp": "a030559cbb3660abdb18dd21",
+      "title": "La NASA compartirá los últimos avances del programa Base Lunar",
+      "link": "https://www.nasa.gov/news-release/la-nasa-compartira-los-ultimos-avances-del-programa-base-lunar/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-24T21:17:40+00:00",
+      "day_brt": "2026-06-24",
+      "resumo_pt": "Resumo (PT-BR): 2 min read La NASA compartirá los últimos avances del programa Base Lunar María José Viñas Jun 24, 2026 MEDIA ADVISORY M26-050 NASA Headquarters Representación digital de la región del Polo Sur lunar. Los puntos de luz brillantes esparcidos por la superficie lunar representan los componentes en superficie que apoyan las operaciones sostenidas con seres humanos y robots cerca del Polo Sur.",
+      "queued_ts": 1782338699
     }
   ],
   "digests_sent": {
@@ -5025,7 +5053,8 @@
     },
     "2026-06-24": {
       "0956da41a9dd712334c2469f": true,
-      "4f28ea3f078d1a6f060ff464": true
+      "4f28ea3f078d1a6f060ff464": true,
+      "a030559cbb3660abdb18dd21": true
     }
   }
 }
