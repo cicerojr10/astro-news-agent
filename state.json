@@ -4495,6 +4495,23 @@
       "score": 0.0,
       "published_utc": "2026-06-24T23:10:20+00:00",
       "note": "not_today"
+    },
+    "e0c7c21218ab2d1d42ae2c8b": {
+      "ts": 1782376610,
+      "source": "Space.com",
+      "title": "My nephew still uses this kids' star projector every night — get it for just $15 at Amazon on Prime Day",
+      "link": "https://www.space.com/stargazing/skywatching-kit/my-nephew-still-uses-this-kids-star-projector-every-night-get-it-for-just-15-dollars-at-amazon-on-prime-day",
+      "score": 2.8,
+      "published_utc": "2026-06-25T07:17:35+00:00"
+    },
+    "0bed70bfff642a999c124733": {
+      "ts": 1782376610,
+      "source": "Space.com",
+      "title": "SpaceX launches 24 Starlink satellites to orbit from California (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-17-45-launch-ocisly",
+      "score": 0.0,
+      "published_utc": "2026-06-24T17:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
