@@ -4576,6 +4576,14 @@
       "link": "https://www.space.com/astronomy/exoplanets/two-super-puff-cotton-candy-exoplanets-are-the-lightest-gas-giants-ever-discovered",
       "score": 2.8,
       "published_utc": "2026-06-25T21:00:00+00:00"
+    },
+    "92e5f771c7bdbbf6a4955a75": {
+      "ts": 1782428707,
+      "source": "NASA Breaking News",
+      "title": "Expedition 73 Crew Reflects on Science, Teamwork, and Life in Orbit",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/expedition-73-crew-reflects-on-science-teamwork-and-life-in-orbit/",
+      "score": 4.0,
+      "published_utc": "2026-06-25T21:30:32+00:00"
     }
   },
   "digest_queue": [
@@ -4854,66 +4862,6 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
-    },
-    {
-      "fp": "10bd90b4d7375bb121fd9807",
-      "title": "Space Shuttle Endeavour displayed vertically in new exhibit at California Science Center",
-      "link": "https://www.nasaspaceflight.com/2026/06/endeavour-exhibit-reveal/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-06-25T14:07:05+00:00",
-      "day_brt": "2026-06-25",
-      "resumo_pt": "Resumo (PT-BR): Space Shuttle Endeavour displayed vertically in new exhibit at California Science Center by Sawyer Rosenstein June 25, 2026 written by Sawyer Rosenstein June 25, 2026 6 After 25 flights, Space Shuttle Endeavour is set to complete its next mission of education. On June 25, the California Science Center unveiled the shuttle in its final display configuration, poised vertically for “launch” with an attached external tank (ET) and twin solid rocket boosters (SRBs).",
-      "queued_ts": 1782403147
-    },
-    {
-      "fp": "cd4d9df87f7b8b125cb2670b",
-      "title": "Millions of Stars in Cigar Galaxy",
-      "link": "https://www.nasa.gov/image-article/millions-of-stars-in-cigar-galaxy/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-25T16:24:23+00:00",
-      "day_brt": "2026-06-25",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Millions of Stars in Cigar Galaxy HQ Web Team Jun 25, 2026 Image Article NASA, ESA, CSA, Adam Smercina (STScI, Tufts), Thomas Williams (University of Manchester); Image processing: Alyssa Pagan (STScI) NASA’s James Webb Space Telescope recently observed edge-on starburst galaxy Messier 82 (M82), nicknamed the Cigar Galaxy. Webb’s new view of M82, added to archival data from NASA’s Hubble Space Telescope, gives us a more complete picture of this starburst galaxy.",
-      "queued_ts": 1782410885
-    },
-    {
-      "fp": "93821b34bdc5c8ee1b5ce398",
-      "title": "NASA, US Small Business Administration to Announce Partnership",
-      "link": "https://www.nasa.gov/news-release/nasa-us-small-business-administration-to-announce-partnership/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-25T21:10:38+00:00",
-      "day_brt": "2026-06-25",
-      "resumo_pt": "Resumo (PT-BR): 1 min read NASA, US Small Business Administration to Announce Partnership Jessica Taveau Jun 25, 2026 MEDIA ADVISORY M26-049 NASA Headquarters Credit: NASA NASA and the U.S. Small Business Administration will sign a memorandum of agreement during a ceremony at 1 p.m.",
-      "queued_ts": 1782424462
-    },
-    {
-      "fp": "31f2143c8f071738f50e231f",
-      "title": "NASA Welcomes Botswana as 68th Artemis Accords Signatory",
-      "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-botswana-as-68th-artemis-accords-signatory/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-25T21:09:42+00:00",
-      "day_brt": "2026-06-25",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Welcomes Botswana as 68th Artemis Accords Signatory Jennifer M. Dooren Jun 25, 2026 Article From left to right, Senior Advisor on Space for the Bureau of Oceans and International Environmental and Scientific Affairs Greg Autry, NASA Deputy Administrator Matt Anderson, Minister of Communications and Innovation David Tshere, and Acting Ambassador of the Republic of Botswana to the United States Mabedi Ngwenya pose for a photo following an Artemis Accords signing ceremony with the Republic of Botswana Thursday, June 25, 2026, at the Mary W.",
-      "queued_ts": 1782424462
-    },
-    {
-      "fp": "f5bbe359c4dd82f19534599d",
-      "title": "NASA Selects Rocket Lab to Launch Sun, Earth Science Missions",
-      "link": "https://www.nasa.gov/missions/tsis-2/nasa-selects-rocket-lab-to-launch-sun-earth-science-missions/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-25T20:06:40+00:00",
-      "day_brt": "2026-06-25",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Selects Rocket Lab to Launch Sun, Earth Science Missions Leejay Lockhart Jun 25, 2026 Article NASA has selected Rocket Lab to provide the launch service for both the agency’s PolSIR (Polarized Submillimeter Ice-cloud Radiometer) and Total and Spectral Solar Irradiance Sensor-2 (TSIS-2) missions. The two selections are part of NASA’s Venture-Class Acquisition of Dedicated and Rideshare (VADR) launch services contract.",
-      "queued_ts": 1782424462
     }
   ],
   "digests_sent": {
@@ -5128,7 +5076,8 @@
       "night": true
     },
     "2026-06-25": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -5197,7 +5146,8 @@
       "cd4d9df87f7b8b125cb2670b": true,
       "93821b34bdc5c8ee1b5ce398": true,
       "31f2143c8f071738f50e231f": true,
-      "f5bbe359c4dd82f19534599d": true
+      "f5bbe359c4dd82f19534599d": true,
+      "92e5f771c7bdbbf6a4955a75": true
     }
   }
 }
