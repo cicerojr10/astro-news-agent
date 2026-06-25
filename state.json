@@ -4512,6 +4512,14 @@
       "score": 0.0,
       "published_utc": "2026-06-24T17:00:00+00:00",
       "note": "not_today"
+    },
+    "8c7112411363e4bea50b095c": {
+      "ts": 1782392916,
+      "source": "Space.com",
+      "title": "Another 'Star' is born: SpaceX names AI megaconstellation 'Starmind'",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/another-star-is-born-spacex-names-ai-megaconstellation-starmind",
+      "score": 2.8,
+      "published_utc": "2026-06-25T13:00:00+00:00"
     }
   },
   "digest_queue": [
