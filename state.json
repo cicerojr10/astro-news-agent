@@ -4528,6 +4528,22 @@
       "link": "https://www.nasaspaceflight.com/2026/06/endeavour-exhibit-reveal/",
       "score": 3.6,
       "published_utc": "2026-06-25T14:07:05+00:00"
+    },
+    "cd4d9df87f7b8b125cb2670b": {
+      "ts": 1782410882,
+      "source": "NASA Breaking News",
+      "title": "Millions of Stars in Cigar Galaxy",
+      "link": "https://www.nasa.gov/image-article/millions-of-stars-in-cigar-galaxy/",
+      "score": 4.0,
+      "published_utc": "2026-06-25T16:24:23+00:00"
+    },
+    "8e9cc8cc3f2a2d949efb62d5": {
+      "ts": 1782410885,
+      "source": "Space.com",
+      "title": "I got a sneak peek at space shuttle Endeavour's new home in California, and it's breathtaking (photos)",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/i-got-a-sneak-peek-at-space-shuttle-endeavours-new-home-and-its-breathtaking",
+      "score": 2.8,
+      "published_utc": "2026-06-25T17:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -4818,6 +4834,18 @@
       "day_brt": "2026-06-25",
       "resumo_pt": "Resumo (PT-BR): Space Shuttle Endeavour displayed vertically in new exhibit at California Science Center by Sawyer Rosenstein June 25, 2026 written by Sawyer Rosenstein June 25, 2026 6 After 25 flights, Space Shuttle Endeavour is set to complete its next mission of education. On June 25, the California Science Center unveiled the shuttle in its final display configuration, poised vertically for “launch” with an attached external tank (ET) and twin solid rocket boosters (SRBs).",
       "queued_ts": 1782403147
+    },
+    {
+      "fp": "cd4d9df87f7b8b125cb2670b",
+      "title": "Millions of Stars in Cigar Galaxy",
+      "link": "https://www.nasa.gov/image-article/millions-of-stars-in-cigar-galaxy/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-25T16:24:23+00:00",
+      "day_brt": "2026-06-25",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Millions of Stars in Cigar Galaxy HQ Web Team Jun 25, 2026 Image Article NASA, ESA, CSA, Adam Smercina (STScI, Tufts), Thomas Williams (University of Manchester); Image processing: Alyssa Pagan (STScI) NASA’s James Webb Space Telescope recently observed edge-on starburst galaxy Messier 82 (M82), nicknamed the Cigar Galaxy. Webb’s new view of M82, added to archival data from NASA’s Hubble Space Telescope, gives us a more complete picture of this starburst galaxy.",
+      "queued_ts": 1782410885
     }
   ],
   "digests_sent": {
@@ -5097,7 +5125,8 @@
       "e7e860130703c83ef393bf2b": true
     },
     "2026-06-25": {
-      "10bd90b4d7375bb121fd9807": true
+      "10bd90b4d7375bb121fd9807": true,
+      "cd4d9df87f7b8b125cb2670b": true
     }
   }
 }
