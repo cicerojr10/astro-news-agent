@@ -4544,6 +4544,38 @@
       "link": "https://www.space.com/space-exploration/human-spaceflight/i-got-a-sneak-peek-at-space-shuttle-endeavours-new-home-and-its-breathtaking",
       "score": 2.8,
       "published_utc": "2026-06-25T17:00:00+00:00"
+    },
+    "93821b34bdc5c8ee1b5ce398": {
+      "ts": 1782424458,
+      "source": "NASA Breaking News",
+      "title": "NASA, US Small Business Administration to Announce Partnership",
+      "link": "https://www.nasa.gov/news-release/nasa-us-small-business-administration-to-announce-partnership/",
+      "score": 4.0,
+      "published_utc": "2026-06-25T21:10:38+00:00"
+    },
+    "31f2143c8f071738f50e231f": {
+      "ts": 1782424458,
+      "source": "NASA Breaking News",
+      "title": "NASA Welcomes Botswana as 68th Artemis Accords Signatory",
+      "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-botswana-as-68th-artemis-accords-signatory/",
+      "score": 4.0,
+      "published_utc": "2026-06-25T21:09:42+00:00"
+    },
+    "f5bbe359c4dd82f19534599d": {
+      "ts": 1782424458,
+      "source": "NASA Breaking News",
+      "title": "NASA Selects Rocket Lab to Launch Sun, Earth Science Missions",
+      "link": "https://www.nasa.gov/missions/tsis-2/nasa-selects-rocket-lab-to-launch-sun-earth-science-missions/",
+      "score": 4.0,
+      "published_utc": "2026-06-25T20:06:40+00:00"
+    },
+    "f4a6b2f216e2ea8f42d9150a": {
+      "ts": 1782424460,
+      "source": "Space.com",
+      "title": "Two 'super-puff' cotton candy exoplanets are the lightest gas giants ever discovered",
+      "link": "https://www.space.com/astronomy/exoplanets/two-super-puff-cotton-candy-exoplanets-are-the-lightest-gas-giants-ever-discovered",
+      "score": 2.8,
+      "published_utc": "2026-06-25T21:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -4846,6 +4878,42 @@
       "day_brt": "2026-06-25",
       "resumo_pt": "Resumo (PT-BR): 1 min read Millions of Stars in Cigar Galaxy HQ Web Team Jun 25, 2026 Image Article NASA, ESA, CSA, Adam Smercina (STScI, Tufts), Thomas Williams (University of Manchester); Image processing: Alyssa Pagan (STScI) NASA’s James Webb Space Telescope recently observed edge-on starburst galaxy Messier 82 (M82), nicknamed the Cigar Galaxy. Webb’s new view of M82, added to archival data from NASA’s Hubble Space Telescope, gives us a more complete picture of this starburst galaxy.",
       "queued_ts": 1782410885
+    },
+    {
+      "fp": "93821b34bdc5c8ee1b5ce398",
+      "title": "NASA, US Small Business Administration to Announce Partnership",
+      "link": "https://www.nasa.gov/news-release/nasa-us-small-business-administration-to-announce-partnership/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-25T21:10:38+00:00",
+      "day_brt": "2026-06-25",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA, US Small Business Administration to Announce Partnership Jessica Taveau Jun 25, 2026 MEDIA ADVISORY M26-049 NASA Headquarters Credit: NASA NASA and the U.S. Small Business Administration will sign a memorandum of agreement during a ceremony at 1 p.m.",
+      "queued_ts": 1782424462
+    },
+    {
+      "fp": "31f2143c8f071738f50e231f",
+      "title": "NASA Welcomes Botswana as 68th Artemis Accords Signatory",
+      "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-botswana-as-68th-artemis-accords-signatory/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-25T21:09:42+00:00",
+      "day_brt": "2026-06-25",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Welcomes Botswana as 68th Artemis Accords Signatory Jennifer M. Dooren Jun 25, 2026 Article From left to right, Senior Advisor on Space for the Bureau of Oceans and International Environmental and Scientific Affairs Greg Autry, NASA Deputy Administrator Matt Anderson, Minister of Communications and Innovation David Tshere, and Acting Ambassador of the Republic of Botswana to the United States Mabedi Ngwenya pose for a photo following an Artemis Accords signing ceremony with the Republic of Botswana Thursday, June 25, 2026, at the Mary W.",
+      "queued_ts": 1782424462
+    },
+    {
+      "fp": "f5bbe359c4dd82f19534599d",
+      "title": "NASA Selects Rocket Lab to Launch Sun, Earth Science Missions",
+      "link": "https://www.nasa.gov/missions/tsis-2/nasa-selects-rocket-lab-to-launch-sun-earth-science-missions/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-25T20:06:40+00:00",
+      "day_brt": "2026-06-25",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Selects Rocket Lab to Launch Sun, Earth Science Missions Leejay Lockhart Jun 25, 2026 Article NASA has selected Rocket Lab to provide the launch service for both the agency’s PolSIR (Polarized Submillimeter Ice-cloud Radiometer) and Total and Spectral Solar Irradiance Sensor-2 (TSIS-2) missions. The two selections are part of NASA’s Venture-Class Acquisition of Dedicated and Rideshare (VADR) launch services contract.",
+      "queued_ts": 1782424462
     }
   ],
   "digests_sent": {
@@ -5126,7 +5194,10 @@
     },
     "2026-06-25": {
       "10bd90b4d7375bb121fd9807": true,
-      "cd4d9df87f7b8b125cb2670b": true
+      "cd4d9df87f7b8b125cb2670b": true,
+      "93821b34bdc5c8ee1b5ce398": true,
+      "31f2143c8f071738f50e231f": true,
+      "f5bbe359c4dd82f19534599d": true
     }
   }
 }
