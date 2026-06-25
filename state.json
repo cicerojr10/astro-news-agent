@@ -4520,6 +4520,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/another-star-is-born-spacex-names-ai-megaconstellation-starmind",
       "score": 2.8,
       "published_utc": "2026-06-25T13:00:00+00:00"
+    },
+    "10bd90b4d7375bb121fd9807": {
+      "ts": 1782403146,
+      "source": "NASASpaceflight",
+      "title": "Space Shuttle Endeavour displayed vertically in new exhibit at California Science Center",
+      "link": "https://www.nasaspaceflight.com/2026/06/endeavour-exhibit-reveal/",
+      "score": 3.6,
+      "published_utc": "2026-06-25T14:07:05+00:00"
     }
   },
   "digest_queue": [
@@ -4798,6 +4806,18 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
+    },
+    {
+      "fp": "10bd90b4d7375bb121fd9807",
+      "title": "Space Shuttle Endeavour displayed vertically in new exhibit at California Science Center",
+      "link": "https://www.nasaspaceflight.com/2026/06/endeavour-exhibit-reveal/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-06-25T14:07:05+00:00",
+      "day_brt": "2026-06-25",
+      "resumo_pt": "Resumo (PT-BR): Space Shuttle Endeavour displayed vertically in new exhibit at California Science Center by Sawyer Rosenstein June 25, 2026 written by Sawyer Rosenstein June 25, 2026 6 After 25 flights, Space Shuttle Endeavour is set to complete its next mission of education. On June 25, the California Science Center unveiled the shuttle in its final display configuration, poised vertically for “launch” with an attached external tank (ET) and twin solid rocket boosters (SRBs).",
+      "queued_ts": 1782403147
     }
   ],
   "digests_sent": {
@@ -5075,6 +5095,9 @@
       "4f28ea3f078d1a6f060ff464": true,
       "a030559cbb3660abdb18dd21": true,
       "e7e860130703c83ef393bf2b": true
+    },
+    "2026-06-25": {
+      "10bd90b4d7375bb121fd9807": true
     }
   }
 }
