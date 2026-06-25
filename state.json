@@ -4477,6 +4477,24 @@
       "link": "https://spaceflightnow.com/2026/06/24/live-coverage-west-coast-falcon-9-launch-to-continue-expansion-of-spacexs-starlink-network/",
       "score": 4.680000000000001,
       "published_utc": "2026-06-24T23:10:20+00:00"
+    },
+    "e9a92ca70881215a21f374e5": {
+      "ts": 1782365809,
+      "source": "NASA Breaking News",
+      "title": "NASA’s TESS Mission Reveals the “Puffiest” Planets Ever Found",
+      "link": "https://science.nasa.gov/missions/tess/nasas-tess-mission-reveals-the-puffiest-planets-ever-found/",
+      "score": 0.0,
+      "published_utc": "2026-06-25T01:04:16+00:00",
+      "note": "not_today"
+    },
+    "f60db1c33e904d09bbab6eb3": {
+      "ts": 1782365811,
+      "source": "Spaceflight Now",
+      "title": "West Coast Falcon 9 launch continues expansion of SpaceX’s Starlink network",
+      "link": "https://spaceflightnow.com/2026/06/24/live-coverage-west-coast-falcon-9-launch-to-continue-expansion-of-spacexs-starlink-network/",
+      "score": 0.0,
+      "published_utc": "2026-06-24T23:10:20+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
