@@ -4680,6 +4680,30 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-ten-owl-of-ten-mission-for-synspective-launch",
       "score": 2.8,
       "published_utc": "2026-06-26T05:07:08+00:00"
+    },
+    "f26510c3c5172ed375e7bab9": {
+      "ts": 1782507097,
+      "source": "NASA Breaking News",
+      "title": "NASA Announces Winners for 2026 Human Lander Challenge",
+      "link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/",
+      "score": 4.0,
+      "published_utc": "2026-06-26T19:44:48+00:00"
+    },
+    "bf12539409a93d915737b490": {
+      "ts": 1782507097,
+      "source": "NASA Breaking News",
+      "title": "NASA Tests New Refuel Device for Future In-Space Refueling Missions",
+      "link": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/",
+      "score": 4.0,
+      "published_utc": "2026-06-26T18:44:07+00:00"
+    },
+    "4a51ef03617f4a4bca080513": {
+      "ts": 1782507099,
+      "source": "NASASpaceflight",
+      "title": "Ship 40 completes single-engine static fire; Booster 20 and Pad 2 see new work",
+      "link": "https://www.nasaspaceflight.com/2026/06/ship-40-single-engine/",
+      "score": 3.6,
+      "published_utc": "2026-06-26T19:33:26+00:00"
     }
   },
   "digest_queue": [
@@ -5030,6 +5054,42 @@
       "day_brt": "2026-06-26",
       "resumo_pt": "Resumo (PT-BR): 5 min read Partners, NASA Ready for June Launch of Swift Boost Mission Jeanette Kazmierczak Jun 26, 2026 Article NASA is on a mission to lift its Neil Gehrels Swift Observatory along with partners Katalyst Space and Northrop Grumman. Credit: NASA’s Goddard Space Flight Center/Katalyst Space/Northrop Grumman A mission to raise the orbit of NASA’s Neil Gehrels Swift Observatory is poised for launch no earlier than Tuesday, June 30, 6:23 a.m.",
       "queued_ts": 1782500838
+    },
+    {
+      "fp": "f26510c3c5172ed375e7bab9",
+      "title": "NASA Announces Winners for 2026 Human Lander Challenge",
+      "link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-26T19:44:48+00:00",
+      "day_brt": "2026-06-26",
+      "resumo_pt": "Resumo (PT-BR): 3 Min Read NASA Announces Winners for 2026 Human Lander Challenge Beverly Perry Communications Strategist Jun 26, 2026 Article NASA has announced the top student-developed solutions for environmental control and life support systems in future crewed lunar landers from participants in the 2026 Human Lander Challenge. The announcement marks the culmination of months of research by university teams working to advance technologies supporting the agency’s Artemis program that will return American astronauts to the Moon in 2028.",
+      "queued_ts": 1782507101
+    },
+    {
+      "fp": "bf12539409a93d915737b490",
+      "title": "NASA Tests New Refuel Device for Future In-Space Refueling Missions",
+      "link": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-26T18:44:07+00:00",
+      "day_brt": "2026-06-26",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Tests New Refuel Device for Future In-Space Refueling Missions Daniel Boyette Communications Specialist Jun 26, 2026 Article To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video Engineers from NASA’s Marshall Space Flight Center in Huntsville, Alabama, and L3Harris con-duct operational testing on a developmental cryocoupler, a vital technology for future in-orbit spacecraft refueling. NASA/Tyson Eason For NASA’s next generation of deep space exploration missions, spacecraft may need to refuel in Earth orbit before pushing farther into the solar system.",
+      "queued_ts": 1782507101
+    },
+    {
+      "fp": "4a51ef03617f4a4bca080513",
+      "title": "Ship 40 completes single-engine static fire; Booster 20 and Pad 2 see new work",
+      "link": "https://www.nasaspaceflight.com/2026/06/ship-40-single-engine/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-06-26T19:33:26+00:00",
+      "day_brt": "2026-06-26",
+      "resumo_pt": "Resumo (PT-BR): Ship 40 completes single-engine static fire; Booster 20 and Pad 2 see new work by Ryan Weber June 26, 2026 written by Ryan Weber June 26, 2026 2 SpaceX rolled out Ship 40 for engine testing, but after completing only a single engine test and what appeared to be an abort, it was rolled back to Mega Bay 2. The full test of all of Ship 40’s engines has yet to be completed, though time remains as Booster 20 appears to still be weeks away from a 33-engine static fire.",
+      "queued_ts": 1782507101
     }
   ],
   "digests_sent": {
@@ -5325,7 +5385,10 @@
       "2f11ba4fd1b2bc4b0716d232": true,
       "88a5a72c31e6c19e309a068b": true,
       "20a30c0f9cf9da6e74394e7b": true,
-      "d9481ac7cf8595c460ec033e": true
+      "d9481ac7cf8595c460ec033e": true,
+      "f26510c3c5172ed375e7bab9": true,
+      "bf12539409a93d915737b490": true,
+      "4a51ef03617f4a4bca080513": true
     }
   }
 }
