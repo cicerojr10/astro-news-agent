@@ -4592,6 +4592,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-ten-owl-of-ten-mission-for-synspective-launch",
       "score": 2.8,
       "published_utc": "2026-06-26T05:07:08+00:00"
+    },
+    "4985358af9fbdd7a75619be5": {
+      "ts": 1782478890,
+      "source": "Space.com",
+      "title": "NASA's canceled Artemis hardware contracts reached $5.9 billion, audit finds",
+      "link": "https://www.space.com/space-exploration/artemis/nasa-spent-usd5-9-billion-on-artemis-program-hardware-it-may-never-use",
+      "score": 7.0,
+      "published_utc": "2026-06-26T13:00:00+00:00"
+    },
+    "c8622cdefdcb6330327fd620": {
+      "ts": 1782478890,
+      "source": "Space.com",
+      "title": "NASA is paying $30 million for a 1st-of-its-kind rescue mission to the aging Swift telescope before it falls from space. Is it worth it?",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasa-is-paying-usd30-million-for-a-1st-of-its-kind-rescue-mission-to-the-aging-swift-telescope-before-it-falls-from-space-is-it-worth-it",
+      "score": 2.8,
+      "published_utc": "2026-06-26T12:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -4870,6 +4886,18 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
+    },
+    {
+      "fp": "4985358af9fbdd7a75619be5",
+      "title": "NASA's canceled Artemis hardware contracts reached $5.9 billion, audit finds",
+      "link": "https://www.space.com/space-exploration/artemis/nasa-spent-usd5-9-billion-on-artemis-program-hardware-it-may-never-use",
+      "source": "Space.com",
+      "score": 7.0,
+      "is_anomaly": true,
+      "published_utc": "2026-06-26T13:00:00+00:00",
+      "day_brt": "2026-06-26",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Missions Artemis NASA's canceled Artemis hardware contracts reached $5.9 billion, audit finds News By Josh Dinner published 26 June 2026 NASA was on track to pay nearly half a billion dollars for a stage adapter. When you purchase through links on our site, we may earn an affiliate commission.",
+      "queued_ts": 1782478891
     }
   ],
   "digests_sent": {
@@ -5159,6 +5187,9 @@
       "31f2143c8f071738f50e231f": true,
       "f5bbe359c4dd82f19534599d": true,
       "92e5f771c7bdbbf6a4955a75": true
+    },
+    "2026-06-26": {
+      "4985358af9fbdd7a75619be5": true
     }
   }
 }
