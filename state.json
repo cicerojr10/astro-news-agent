@@ -4608,6 +4608,46 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/nasa-is-paying-usd30-million-for-a-1st-of-its-kind-rescue-mission-to-the-aging-swift-telescope-before-it-falls-from-space-is-it-worth-it",
       "score": 2.8,
       "published_utc": "2026-06-26T12:00:00+00:00"
+    },
+    "2f11ba4fd1b2bc4b0716d232": {
+      "ts": 1782494310,
+      "source": "NASA Breaking News",
+      "title": "Euclid Sees Heart of Milky Way",
+      "link": "https://www.nasa.gov/image-article/euclid-sees-heart-of-milky-way/",
+      "score": 4.0,
+      "published_utc": "2026-06-26T15:21:18+00:00"
+    },
+    "88a5a72c31e6c19e309a068b": {
+      "ts": 1782494310,
+      "source": "NASA Breaking News",
+      "title": "Bringing Signals to NASA",
+      "link": "https://www.nasa.gov/centers-and-facilities/kennedy/bringing-signals-to-nasa/",
+      "score": 4.0,
+      "published_utc": "2026-06-26T14:28:57+00:00"
+    },
+    "20a30c0f9cf9da6e74394e7b": {
+      "ts": 1782494310,
+      "source": "NASA Breaking News",
+      "title": "NASA’s PACE Mission Studies Smoke, Fires",
+      "link": "https://science.nasa.gov/earth/nasas-pace-mission-studies-smoke-fires/",
+      "score": 4.0,
+      "published_utc": "2026-06-26T14:00:00+00:00"
+    },
+    "0a93e1af4c7b73d8d92100a8": {
+      "ts": 1782494310,
+      "source": "NASA Breaking News",
+      "title": "Hubble Spies Starry Chandelier",
+      "link": "https://science.nasa.gov/missions/hubble/hubble-spies-starry-chandelier/",
+      "score": 4.0,
+      "published_utc": "2026-06-26T13:40:12+00:00"
+    },
+    "11f55cf9806d9241a0223563": {
+      "ts": 1782494312,
+      "source": "Space.com",
+      "title": "Watch out for the giant scorpion hiding in the summer sky",
+      "link": "https://www.space.com/stargazing/constellations/watch-out-for-the-giant-scorpion-hiding-in-the-summer-sky",
+      "score": 2.8,
+      "published_utc": "2026-06-26T16:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -4898,6 +4938,54 @@
       "day_brt": "2026-06-26",
       "resumo_pt": "Resumo (PT-BR): Space Exploration Missions Artemis NASA's canceled Artemis hardware contracts reached $5.9 billion, audit finds News By Josh Dinner published 26 June 2026 NASA was on track to pay nearly half a billion dollars for a stage adapter. When you purchase through links on our site, we may earn an affiliate commission.",
       "queued_ts": 1782478891
+    },
+    {
+      "fp": "2f11ba4fd1b2bc4b0716d232",
+      "title": "Euclid Sees Heart of Milky Way",
+      "link": "https://www.nasa.gov/image-article/euclid-sees-heart-of-milky-way/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-26T15:21:18+00:00",
+      "day_brt": "2026-06-26",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Euclid Sees Heart of Milky Way HQ Web Team Jun 26, 2026 Image Article This image by ESA’s (European Space Agency) Euclid (with color added using ground-based images) provides an earlier snapshot of a region of our galaxy that NASA’s Nancy Grace Roman Space Telescope will repeatedly observe during the upcoming years. ESA/Euclid/Euclid Consortium/NASA, CFHT, image processing by J.-C.",
+      "queued_ts": 1782494314
+    },
+    {
+      "fp": "88a5a72c31e6c19e309a068b",
+      "title": "Bringing Signals to NASA",
+      "link": "https://www.nasa.gov/centers-and-facilities/kennedy/bringing-signals-to-nasa/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-26T14:28:57+00:00",
+      "day_brt": "2026-06-26",
+      "resumo_pt": "Resumo (PT-BR): 5 min read Bringing Signals to NASA Leejay Lockhart Jun 26, 2026 Article At Vandenberg Space Force Base in California, Eric Fernandez stands in front of Building 836, where he performs work as a telemetry engineer for NASA. NASA/Brandon Satterthwaite Growing up on the central California coast, watching rocket launches with his father was part of Eric Fernandez’s childhood routine.",
+      "queued_ts": 1782494314
+    },
+    {
+      "fp": "20a30c0f9cf9da6e74394e7b",
+      "title": "NASA’s PACE Mission Studies Smoke, Fires",
+      "link": "https://science.nasa.gov/earth/nasas-pace-mission-studies-smoke-fires/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-26T14:00:00+00:00",
+      "day_brt": "2026-06-26",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA’s PACE Mission Studies Smoke, Fires Erica McNamee Science Writer Jun 26, 2026 Article With the North American fire season underway, and a record number of acres already burned nationwide, NASA’s Plankton, Aerosol, Cloud, and ocean Ecosystem (PACE) satellite’s three instruments are observing vegetation precursors to fires, along with plumes of smoke and their movement. This data will help scientists piece together clues that deepen their understanding of wildfires.",
+      "queued_ts": 1782494314
+    },
+    {
+      "fp": "0a93e1af4c7b73d8d92100a8",
+      "title": "Hubble Spies Starry Chandelier",
+      "link": "https://science.nasa.gov/missions/hubble/hubble-spies-starry-chandelier/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-26T13:40:12+00:00",
+      "day_brt": "2026-06-26",
+      "resumo_pt": "Resumo (PT-BR): Explore Hubble Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space? Hubble by the Numbers At the Museum FAQs Impact & Benefits Hubble's Impact & Benefits Science Impacts Cultural Impact Technology Benefits Impact on Human Spaceflight Astro Community Impacts Science Hubble Science Science Themes Science Highlights Science Behind Discoveries Universe Uncovered Hubble's Partners in Science Hubble & Citizen Science AI & Hubble Science Explore the Night Sky Observatory Hubble Observatory Hubble Design Mission Operations Science Operations Astronaut Missions to Hubble Hubble vs Webb Team Hubble Team Career Aspirations Hubble Astronauts Multimedia Images Videos Online Activities e-Books Sonifications Podcasts 3D Hubble Models Lithographs Fact Sheets Posters Hubble on the NASA App Glossary News Hubble News Social Media Media Resources 35th Anniversary More Online Activities 3 min read Hubble Spies Starry Chandelier NASA Hubble Mission Team Goddard Space Flight Center Jun 26, 2026 Article This NASA/ESA Hubble Space Telescope image features the globular cluster NGC 6723, sometimes called the Chandelier Cluster.",
+      "queued_ts": 1782494314
     }
   ],
   "digests_sent": {
@@ -5189,7 +5277,10 @@
       "92e5f771c7bdbbf6a4955a75": true
     },
     "2026-06-26": {
-      "4985358af9fbdd7a75619be5": true
+      "4985358af9fbdd7a75619be5": true,
+      "2f11ba4fd1b2bc4b0716d232": true,
+      "88a5a72c31e6c19e309a068b": true,
+      "20a30c0f9cf9da6e74394e7b": true
     }
   }
 }
