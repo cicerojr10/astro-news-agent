@@ -4648,6 +4648,38 @@
       "link": "https://www.space.com/stargazing/constellations/watch-out-for-the-giant-scorpion-hiding-in-the-summer-sky",
       "score": 2.8,
       "published_utc": "2026-06-26T16:00:00+00:00"
+    },
+    "d9481ac7cf8595c460ec033e": {
+      "ts": 1782500835,
+      "source": "NASA Breaking News",
+      "title": "Partners, NASA Ready for June Launch of Swift Boost Mission",
+      "link": "https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/",
+      "score": 4.0,
+      "published_utc": "2026-06-26T17:16:22+00:00"
+    },
+    "7ce14e96fd9e9993cebafea4": {
+      "ts": 1782500837,
+      "source": "Space.com",
+      "title": "SpaceX's next Starship breathes fire for 1st time in prelaunch test (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-starship-breathes-fire-for-1st-time-in-prelaunch-test-video",
+      "score": 2.8,
+      "published_utc": "2026-06-26T19:00:00+00:00"
+    },
+    "0cb292e1bdfc9142416925b0": {
+      "ts": 1782500838,
+      "source": "Space.com",
+      "title": "China plans to double the size of its Tiangong space station while the ISS nears its end",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/china-plans-to-double-the-size-of-its-tiangong-space-station-while-the-iss-nears-its-end",
+      "score": 2.8,
+      "published_utc": "2026-06-26T18:00:00+00:00"
+    },
+    "859fb975280c3f6071271ef4": {
+      "ts": 1782500838,
+      "source": "Space.com",
+      "title": "Rocket Lab launches 'Ten Owl of Ten' mission, sending up Japanese Earth-observing radar satellite (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-ten-owl-of-ten-mission-for-synspective-launch",
+      "score": 2.8,
+      "published_utc": "2026-06-26T05:07:08+00:00"
     }
   },
   "digest_queue": [
@@ -4986,6 +5018,18 @@
       "day_brt": "2026-06-26",
       "resumo_pt": "Resumo (PT-BR): Explore Hubble Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space? Hubble by the Numbers At the Museum FAQs Impact & Benefits Hubble's Impact & Benefits Science Impacts Cultural Impact Technology Benefits Impact on Human Spaceflight Astro Community Impacts Science Hubble Science Science Themes Science Highlights Science Behind Discoveries Universe Uncovered Hubble's Partners in Science Hubble & Citizen Science AI & Hubble Science Explore the Night Sky Observatory Hubble Observatory Hubble Design Mission Operations Science Operations Astronaut Missions to Hubble Hubble vs Webb Team Hubble Team Career Aspirations Hubble Astronauts Multimedia Images Videos Online Activities e-Books Sonifications Podcasts 3D Hubble Models Lithographs Fact Sheets Posters Hubble on the NASA App Glossary News Hubble News Social Media Media Resources 35th Anniversary More Online Activities 3 min read Hubble Spies Starry Chandelier NASA Hubble Mission Team Goddard Space Flight Center Jun 26, 2026 Article This NASA/ESA Hubble Space Telescope image features the globular cluster NGC 6723, sometimes called the Chandelier Cluster.",
       "queued_ts": 1782494314
+    },
+    {
+      "fp": "d9481ac7cf8595c460ec033e",
+      "title": "Partners, NASA Ready for June Launch of Swift Boost Mission",
+      "link": "https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-26T17:16:22+00:00",
+      "day_brt": "2026-06-26",
+      "resumo_pt": "Resumo (PT-BR): 5 min read Partners, NASA Ready for June Launch of Swift Boost Mission Jeanette Kazmierczak Jun 26, 2026 Article NASA is on a mission to lift its Neil Gehrels Swift Observatory along with partners Katalyst Space and Northrop Grumman. Credit: NASA’s Goddard Space Flight Center/Katalyst Space/Northrop Grumman A mission to raise the orbit of NASA’s Neil Gehrels Swift Observatory is poised for launch no earlier than Tuesday, June 30, 6:23 a.m.",
+      "queued_ts": 1782500838
     }
   ],
   "digests_sent": {
@@ -5280,7 +5324,8 @@
       "4985358af9fbdd7a75619be5": true,
       "2f11ba4fd1b2bc4b0716d232": true,
       "88a5a72c31e6c19e309a068b": true,
-      "20a30c0f9cf9da6e74394e7b": true
+      "20a30c0f9cf9da6e74394e7b": true,
+      "d9481ac7cf8595c460ec033e": true
     }
   }
 }
