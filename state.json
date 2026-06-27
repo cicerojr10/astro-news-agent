@@ -4712,6 +4712,22 @@
       "link": "https://www.space.com/technology/nasa-just-used-a-drone-to-deliver-a-human-kidney-is-this-the-future-of-transplant-transport",
       "score": 2.8,
       "published_utc": "2026-06-27T12:00:00+00:00"
+    },
+    "bda889f0bc95c06bdd2b8fc8": {
+      "ts": 1782569339,
+      "source": "Space.com",
+      "title": "SpaceCamp at 40: A wish-fulfillment fantasy brought down to earth by NASA's real-life disaster",
+      "link": "https://www.space.com/entertainment/space-movies-shows/spacecamp-at-40-a-wish-fulfillment-fantasy-brought-down-to-earth-by-nasas-real-life-disaster",
+      "score": 2.8,
+      "published_utc": "2026-06-27T14:00:00+00:00"
+    },
+    "ece6b960e95115ed6aae7707": {
+      "ts": 1782569339,
+      "source": "Space.com",
+      "title": "Blue Origin plans to fly New Glenn rocket again this year despite massive rocket explosion (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-working-around-the-clock-to-repair-damaged-launch-pad-after-new-glenn-rocket-explosion-video",
+      "score": 11.2,
+      "published_utc": "2026-06-27T13:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -4990,6 +5006,18 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
+    },
+    {
+      "fp": "ece6b960e95115ed6aae7707",
+      "title": "Blue Origin plans to fly New Glenn rocket again this year despite massive rocket explosion (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-working-around-the-clock-to-repair-damaged-launch-pad-after-new-glenn-rocket-explosion-video",
+      "source": "Space.com",
+      "score": 11.2,
+      "is_anomaly": true,
+      "published_utc": "2026-06-27T13:00:00+00:00",
+      "day_brt": "2026-06-27",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft Blue Origin plans to fly New Glenn rocket again this year despite massive rocket explosion (video) News By Josh Dinner published 27 June 2026 Is that a fresh New Glenn booster by the pad? When you purchase through links on our site, we may earn an affiliate commission.",
+      "queued_ts": 1782569340
     }
   ],
   "digests_sent": {
@@ -5216,36 +5244,6 @@
     }
   },
   "sent_updates": {
-    "2026-06-16": {
-      "606eba8070f187013caa5779": true,
-      "871917ba35ffd39e9c764d78": true,
-      "a8dc77c01471bc4dd23b4d4c": true,
-      "68e28722ac00ed72497dcb7c": true,
-      "57000594918b0bacee610e8d": true
-    },
-    "2026-06-17": {
-      "4dc8492194047f7e65bf0c85": true,
-      "c540b93fb7daa4a5c38a4621": true,
-      "3eddc2b96ad1cd9f97d0e0b9": true,
-      "9bce21e1bbd4b3dc93bb6a8d": true,
-      "d8a57b071a6b747d25d89d09": true,
-      "83610662ef511c261948a339": true
-    },
-    "2026-06-18": {
-      "ee8c958409391bcaf0b282b3": true,
-      "574bc345a453706c1a24016e": true,
-      "9fc61ef72d05e8a82d2f74f3": true,
-      "f6b5e525e1d4b838964830f3": true,
-      "a6be6fc3a685cda2b887441f": true,
-      "9c51f2dab71892ded2b604d3": true,
-      "1cab834a58d1735d2991b52a": true,
-      "5e6172c2d8fec1a7acf43006": true,
-      "44b1b568ec6ac272d4fe9e34": true,
-      "caa00b04bf659cfa52458a71": true
-    },
-    "2026-06-20": {
-      "fae12e269440a6f3bb444e8f": true
-    },
     "2026-06-21": {
       "f34d337d6944a0313f30493f": true
     },
@@ -5293,6 +5291,9 @@
       "f26510c3c5172ed375e7bab9": true,
       "bf12539409a93d915737b490": true,
       "4a51ef03617f4a4bca080513": true
+    },
+    "2026-06-27": {
+      "ece6b960e95115ed6aae7707": true
     }
   }
 }
