@@ -5006,18 +5006,6 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
-    },
-    {
-      "fp": "ece6b960e95115ed6aae7707",
-      "title": "Blue Origin plans to fly New Glenn rocket again this year despite massive rocket explosion (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-working-around-the-clock-to-repair-damaged-launch-pad-after-new-glenn-rocket-explosion-video",
-      "source": "Space.com",
-      "score": 11.2,
-      "is_anomaly": true,
-      "published_utc": "2026-06-27T13:00:00+00:00",
-      "day_brt": "2026-06-27",
-      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft Blue Origin plans to fly New Glenn rocket again this year despite massive rocket explosion (video) News By Josh Dinner published 27 June 2026 Is that a fresh New Glenn booster by the pad? When you purchase through links on our site, we may earn an affiliate commission.",
-      "queued_ts": 1782569340
     }
   ],
   "digests_sent": {
@@ -5240,7 +5228,8 @@
       "night": true
     },
     "2026-06-27": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
