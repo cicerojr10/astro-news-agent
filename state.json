@@ -5202,6 +5202,9 @@
     "2026-06-26": {
       "morning": true,
       "night": true
+    },
+    "2026-06-27": {
+      "morning": true
     }
   },
   "sent_updates": {
