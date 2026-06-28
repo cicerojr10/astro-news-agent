@@ -4761,6 +4761,15 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-40-b1088-vsfb-ocisly",
       "score": 2.8,
       "published_utc": "2026-06-28T16:21:56+00:00"
+    },
+    "abc5c79c28cb517bf885f278": {
+      "ts": 1782668977,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches Starlink satellites from Vandenberg Space Force Base",
+      "link": "https://spaceflightnow.com/2026/06/28/live-coverage-spacex-plans-sunday-starlink-launch-from-vandenberg-space-force-base/",
+      "score": 0.0,
+      "published_utc": "2026-06-28T01:17:03+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
