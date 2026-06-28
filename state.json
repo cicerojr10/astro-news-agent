@@ -4786,6 +4786,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-40-b1088-vsfb-ocisly",
       "score": 2.8,
       "published_utc": "2026-06-28T16:21:56+00:00"
+    },
+    "b849dedd03411555d3b21209": {
+      "ts": 1782684896,
+      "source": "NASASpaceflight",
+      "title": "Euclid studies Milky Way center, supports future Roman observations",
+      "link": "https://www.nasaspaceflight.com/2026/06/euclid-galactic-bulge-survey/",
+      "score": 3.6,
+      "published_utc": "2026-06-28T21:42:13+00:00"
     }
   },
   "digest_queue": [
@@ -5076,6 +5084,18 @@
       "day_brt": "2026-06-28",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 7.5-ton SiriusXM satellite as part of constellation refresh June 28, 2026 Will Robinson-Smith SiriusXM’s SXM-11 satellite is shown inside a clean room. Image: SiriusXM A SpaceX Falcon 9 rocket is scheduled for launch Sunday carrying a multi-ton, radio-broadcasting satellite for SiriusXM’s to replace two aging satellites in geostationary Earth orbit.",
       "queued_ts": 1782672852
+    },
+    {
+      "fp": "b849dedd03411555d3b21209",
+      "title": "Euclid studies Milky Way center, supports future Roman observations",
+      "link": "https://www.nasaspaceflight.com/2026/06/euclid-galactic-bulge-survey/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-06-28T21:42:13+00:00",
+      "day_brt": "2026-06-28",
+      "resumo_pt": "Resumo (PT-BR): Euclid studies Milky Way center, supports future Roman observations by Martijn Luinstra June 28, 2026 written by Martijn Luinstra June 28, 2026 1 The European Space Agency (ESA) recently released a new picture of the center of the Milky Way galaxy, an area known as the galactic bulge. Containing over 60 million stars, the picture, taken by ESA’s Euclid space telescope, represents the largest and most detailed photo of this region to date.",
+      "queued_ts": 1782684897
     }
   ],
   "digests_sent": {
@@ -5358,7 +5378,8 @@
       "ece6b960e95115ed6aae7707": true
     },
     "2026-06-28": {
-      "b597b459fb22130297c7b3ab": true
+      "b597b459fb22130297c7b3ab": true,
+      "b849dedd03411555d3b21209": true
     }
   }
 }
