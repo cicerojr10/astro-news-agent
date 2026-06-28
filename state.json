@@ -4745,6 +4745,14 @@
       "link": "https://www.space.com/technology/could-future-astronauts-use-oysters-as-water-filters-heres-why-one-company-thinks-so",
       "score": 2.8,
       "published_utc": "2026-06-28T10:00:00+00:00"
+    },
+    "5b00e3e1709eab9b8e978891": {
+      "ts": 1782648344,
+      "source": "Space.com",
+      "title": "Watch SpaceX launch 15,000-pound SiriusXM satellite to orbit tonight",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-sirius-sxm-11-satellite-launch-falcon-9",
+      "score": 2.8,
+      "published_utc": "2026-06-28T12:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -5247,6 +5255,9 @@
     "2026-06-27": {
       "morning": true,
       "night": true
+    },
+    "2026-06-28": {
+      "morning": true
     }
   },
   "sent_updates": {
