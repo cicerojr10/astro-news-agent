@@ -4770,6 +4770,22 @@
       "score": 0.0,
       "published_utc": "2026-06-28T01:17:03+00:00",
       "note": "not_today"
+    },
+    "b597b459fb22130297c7b3ab": {
+      "ts": 1782672850,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 7.5-ton SiriusXM satellite as part of constellation refresh",
+      "link": "https://spaceflightnow.com/2026/06/28/live-coverage-spacex-to-launch-7-5-ton-siriusxm-satellite-as-part-of-constellation-refresh/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-06-28T18:37:19+00:00"
+    },
+    "0cb565deb982391f9eced0e1": {
+      "ts": 1782672851,
+      "source": "Space.com",
+      "title": "SpaceX sends 24 Starlink satellites into Earth orbit on Falcon 9 launch from California (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-40-b1088-vsfb-ocisly",
+      "score": 2.8,
+      "published_utc": "2026-06-28T16:21:56+00:00"
     }
   },
   "digest_queue": [
@@ -5048,6 +5064,18 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
+    },
+    {
+      "fp": "b597b459fb22130297c7b3ab",
+      "title": "Live coverage: SpaceX to launch 7.5-ton SiriusXM satellite as part of constellation refresh",
+      "link": "https://spaceflightnow.com/2026/06/28/live-coverage-spacex-to-launch-7-5-ton-siriusxm-satellite-as-part-of-constellation-refresh/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-06-28T18:37:19+00:00",
+      "day_brt": "2026-06-28",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 7.5-ton SiriusXM satellite as part of constellation refresh June 28, 2026 Will Robinson-Smith SiriusXM’s SXM-11 satellite is shown inside a clean room. Image: SiriusXM A SpaceX Falcon 9 rocket is scheduled for launch Sunday carrying a multi-ton, radio-broadcasting satellite for SiriusXM’s to replace two aging satellites in geostationary Earth orbit.",
+      "queued_ts": 1782672852
     }
   ],
   "digests_sent": {
@@ -5328,6 +5356,9 @@
     },
     "2026-06-27": {
       "ece6b960e95115ed6aae7707": true
+    },
+    "2026-06-28": {
+      "b597b459fb22130297c7b3ab": true
     }
   }
 }
