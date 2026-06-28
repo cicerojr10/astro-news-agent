@@ -4753,6 +4753,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-sirius-sxm-11-satellite-launch-falcon-9",
       "score": 2.8,
       "published_utc": "2026-06-28T12:00:00+00:00"
+    },
+    "ab2faf811851b549f995941b": {
+      "ts": 1782665119,
+      "source": "Space.com",
+      "title": "SpaceX sends 24 Starlink satellites into Earth orbit on Falcon 9 launch from California",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-40-b1088-vsfb-ocisly",
+      "score": 2.8,
+      "published_utc": "2026-06-28T16:21:56+00:00"
     }
   },
   "digest_queue": [
