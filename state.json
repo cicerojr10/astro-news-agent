@@ -5072,30 +5072,6 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
-    },
-    {
-      "fp": "b597b459fb22130297c7b3ab",
-      "title": "Live coverage: SpaceX to launch 7.5-ton SiriusXM satellite as part of constellation refresh",
-      "link": "https://spaceflightnow.com/2026/06/28/live-coverage-spacex-to-launch-7-5-ton-siriusxm-satellite-as-part-of-constellation-refresh/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-06-28T18:37:19+00:00",
-      "day_brt": "2026-06-28",
-      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 7.5-ton SiriusXM satellite as part of constellation refresh June 28, 2026 Will Robinson-Smith SiriusXM’s SXM-11 satellite is shown inside a clean room. Image: SiriusXM A SpaceX Falcon 9 rocket is scheduled for launch Sunday carrying a multi-ton, radio-broadcasting satellite for SiriusXM’s to replace two aging satellites in geostationary Earth orbit.",
-      "queued_ts": 1782672852
-    },
-    {
-      "fp": "b849dedd03411555d3b21209",
-      "title": "Euclid studies Milky Way center, supports future Roman observations",
-      "link": "https://www.nasaspaceflight.com/2026/06/euclid-galactic-bulge-survey/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-06-28T21:42:13+00:00",
-      "day_brt": "2026-06-28",
-      "resumo_pt": "Resumo (PT-BR): Euclid studies Milky Way center, supports future Roman observations by Martijn Luinstra June 28, 2026 written by Martijn Luinstra June 28, 2026 1 The European Space Agency (ESA) recently released a new picture of the center of the Milky Way galaxy, an area known as the galactic bulge. Containing over 60 million stars, the picture, taken by ESA’s Euclid space telescope, represents the largest and most detailed photo of this region to date.",
-      "queued_ts": 1782684897
     }
   ],
   "digests_sent": {
@@ -5322,7 +5298,8 @@
       "night": true
     },
     "2026-06-28": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
