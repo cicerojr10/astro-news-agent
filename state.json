@@ -4803,6 +4803,15 @@
       "score": 0.0,
       "published_utc": "2026-06-28T18:37:19+00:00",
       "note": "not_today"
+    },
+    "03d55bcb5d23e88faa76585c": {
+      "ts": 1782732515,
+      "source": "Space.com",
+      "title": "SpaceX launches 15,000-pound SiriusXM satellite to orbit from Florida",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-sirius-sxm-11-satellite-launch-falcon-9",
+      "score": 0.0,
+      "published_utc": "2026-06-28T12:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -5309,6 +5318,9 @@
     "2026-06-28": {
       "morning": true,
       "night": true
+    },
+    "2026-06-29": {
+      "morning": true
     }
   },
   "sent_updates": {
