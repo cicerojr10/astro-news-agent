@@ -4868,6 +4868,30 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/the-start-of-a-new-era-rocket-lab-buying-satellite-communications-company-iridium-for-usd8-billion",
       "score": 2.8,
       "published_utc": "2026-06-29T22:00:00+00:00"
+    },
+    "c8cf052980016e9c5394b10d": {
+      "ts": 1782774994,
+      "source": "NASA Breaking News",
+      "title": "Northwest Earth and Space Science Pathways Project Celebrates Student Innovation Through ROADS from Earth to Venus National Challenge",
+      "link": "https://science.nasa.gov/learning-resources/science-activation/northwest-earth-and-space-science-pathways-project-celebrates-student-innovation-through-roads-from-earth-to-venus-national-challenge/",
+      "score": 4.0,
+      "published_utc": "2026-06-29T22:05:58+00:00"
+    },
+    "82d2e805f25e15826d1922fe": {
+      "ts": 1782774994,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Newest Wind Tunnel Builds on Legacy of Innovation",
+      "link": "https://www.nasa.gov/centers-and-facilities/langley/nasas-newest-wind-tunnel-builds-on-legacy-of-innovation/",
+      "score": 4.0,
+      "published_utc": "2026-06-29T20:38:23+00:00"
+    },
+    "abe425d0f46155bdee49d903": {
+      "ts": 1782774996,
+      "source": "NASASpaceflight",
+      "title": "Pegasus XL set to air launch Swift Boost Mission to save NASA space telescope",
+      "link": "https://www.nasaspaceflight.com/2026/06/swift-boost-mission-launch/",
+      "score": 3.6,
+      "published_utc": "2026-06-29T22:51:43+00:00"
     }
   },
   "digest_queue": [
@@ -5146,42 +5170,6 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
-    },
-    {
-      "fp": "6e4586f0755f37d661e836e6",
-      "title": "NextSTEP-3 A: Lunar Enabling Technology",
-      "link": "https://www.nasa.gov/directorates/stmd/nextstep-3-a-lunar-enabling-technology/",
-      "source": "NASA Breaking News",
-      "score": 10.0,
-      "is_anomaly": true,
-      "published_utc": "2026-06-29T14:56:54+00:00",
-      "day_brt": "2026-06-29",
-      "resumo_pt": "Resumo (PT-BR): 1 min read NextSTEP-3 A: Lunar Enabling Technology Loura Hall Jun 29, 2026 Article Solicitation Number: 80GRC026R0008 May 19, 2026 – Synopsis issued June 29, 2026 – Draft BAA and Appendix A Issued | News Release Artistic concept of lunar surface technologies and infrastructure capabilities, including in-situ resource utilization oxygen production systems, surface power systems, in‑space manufacturing tools, and advanced nanomaterials production. NASA NASA issued a draft Broad Agency Announcement under NextSTEP‑3, Appendix A, on June 29, 2026, to advance concepts that accelerate the technological readiness of critical systems for lunar surface and cislunar architecture.",
-      "queued_ts": 1782754249
-    },
-    {
-      "fp": "bf6ab7f8d5c465ce2c90cc36",
-      "title": "NASA Astronaut Chris Williams Preps for Spacewalk",
-      "link": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-preps-for-spacewalk/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-29T15:18:43+00:00",
-      "day_brt": "2026-06-29",
-      "resumo_pt": "Resumo (PT-BR): 1 min read NASA Astronaut Chris Williams Preps for Spacewalk HQ Web Team Jun 29, 2026 Image Article X-ray: NASA/CXC/SAO; Optical: NASA/ESA/STScI/AURA; IR:NASA/JPL/Caltech; Image Processing: NASA/CXC/SAO/N. Wolk Flight engineer Sophie Adenot of ESA (European Space Agency) helps flight engineer Chris Williams of NASA as he tries on his spacesuit on June 23, 2026, testing its comfort and mobility as well as its communications and life support systems inside the International Space Station’s Quest airlock.",
-      "queued_ts": 1782754249
-    },
-    {
-      "fp": "2afb8fcc9ef9a92bb91f3402",
-      "title": "Mapping Earth’s Observations, featuring Betsy Ford",
-      "link": "https://www.nasa.gov/general/mapping-earths-observations-featuring-betsy-ford/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-29T15:16:44+00:00",
-      "day_brt": "2026-06-29",
-      "resumo_pt": "Resumo (PT-BR): 6 min read Mapping Earth’s Observations, featuring Betsy Ford Sondra Woodward Jun 29, 2026 Article Contents A Detour Through Detroit Finding the Story in the Data Ground Truth Growing the Team On Ford's Sci-Fi Shelf NASA’s Earth-observing satellites track an enormous range of phenomena: how aerosols move through the atmosphere, how moisture descends through soil, how land-cover shifts over decades. It’s some of the most consequential data NASA produces, informing science, policy, agriculture, and climate research around the world.",
-      "queued_ts": 1782754249
     }
   ],
   "digests_sent": {
@@ -5412,7 +5400,8 @@
       "night": true
     },
     "2026-06-29": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -5474,7 +5463,10 @@
     "2026-06-29": {
       "6e4586f0755f37d661e836e6": true,
       "bf6ab7f8d5c465ce2c90cc36": true,
-      "2afb8fcc9ef9a92bb91f3402": true
+      "2afb8fcc9ef9a92bb91f3402": true,
+      "c8cf052980016e9c5394b10d": true,
+      "82d2e805f25e15826d1922fe": true,
+      "abe425d0f46155bdee49d903": true
     }
   }
 }
