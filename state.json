@@ -4794,6 +4794,15 @@
       "link": "https://www.nasaspaceflight.com/2026/06/euclid-galactic-bulge-survey/",
       "score": 3.6,
       "published_utc": "2026-06-28T21:42:13+00:00"
+    },
+    "0951444344d3123445b6d5f5": {
+      "ts": 1782714061,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches 7.5-ton SiriusXM satellite as part of constellation refresh",
+      "link": "https://spaceflightnow.com/2026/06/28/live-coverage-spacex-to-launch-7-5-ton-siriusxm-satellite-as-part-of-constellation-refresh/",
+      "score": 0.0,
+      "published_utc": "2026-06-28T18:37:19+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
