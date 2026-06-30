@@ -4974,6 +4974,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-starts-rebuilding-launch-pad-damaged-by-new-glenn-rocket-explosion-and-it-will-look-very-different-when-its-done",
       "score": 11.2,
       "published_utc": "2026-06-30T21:00:00+00:00"
+    },
+    "3a73218cfe0ca74dfcae7aeb": {
+      "ts": 1782862893,
+      "source": "Spaceflight Now",
+      "title": "Blue Origin outlines return to flight logistics for its New Glenn rockets",
+      "link": "https://spaceflightnow.com/2026/06/30/blue-origin-outlines-return-to-flight-logistics-for-its-new-glenn-rockets/",
+      "score": 14.4,
+      "published_utc": "2026-06-30T22:50:01+00:00"
     }
   },
   "digest_queue": [
@@ -5252,54 +5260,6 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
-    },
-    {
-      "fp": "4a1ea5129f4605d95daef5b3",
-      "title": "Starry Chandelier Cluster",
-      "link": "https://www.nasa.gov/image-article/starry-chandelier-cluster/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-30T15:02:59+00:00",
-      "day_brt": "2026-06-30",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Starry Chandelier Cluster HQ Web Team Jun 30, 2026 Image Article ESA/Hubble & NASA, A. Piotto This image released on June 26, 2026, features the globular cluster NGC 6723, sometimes called the Chandelier Cluster.",
-      "queued_ts": 1782840554
-    },
-    {
-      "fp": "9422b0181763df932f2902e7",
-      "title": "Blue Origin starts rebuilding launch pad damaged by New Glenn rocket explosion — and it will look very different when it's done",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-starts-rebuilding-launch-pad-damaged-by-new-glenn-rocket-explosion-and-it-will-look-very-different-when-its-done",
-      "source": "Space.com",
-      "score": 11.2,
-      "is_anomaly": true,
-      "published_utc": "2026-06-30T21:00:00+00:00",
-      "day_brt": "2026-06-30",
-      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft Blue Origin starts rebuilding launch pad damaged by New Glenn rocket explosion — and it will look very different when it's done News By Mike Wall published 30 June 2026 \"We're not rebuilding the same pad for New Glenn.\" When you purchase through links on our site, we may earn an affiliate commission. Click for next article Blue Origin plans to use a crane to lift its New Glenn rocket onto its rebuilt launch pad at Cape Canaveral Space Force Station in Florida.",
-      "queued_ts": 1782853637
-    },
-    {
-      "fp": "b9585b42f53c5e6b3e252039",
-      "title": "A Day of Flight Testing at NASA Armstrong",
-      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/a-day-of-flight-testing-at-nasa-armstrong/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-30T19:27:13+00:00",
-      "day_brt": "2026-06-30",
-      "resumo_pt": "Resumo (PT-BR): 3 min read A Day of Flight Testing at NASA Armstrong Teresa Whiting NASA Armstrong Public Affairs Specialist Jun 30, 2026 Article Contents 5 a.m. — Data download, second flight prep NASA flight test engineer A.J.",
-      "queued_ts": 1782853637
-    },
-    {
-      "fp": "ce61968759b563f10ba965cb",
-      "title": "La NASA adjudica nuevas misiones científicas para Base Lunar y adelanta nuevas oportunidades",
-      "link": "https://www.nasa.gov/news-release/la-nasa-adjudica-nuevas-misiones-cientificas-para-base-lunar-y-adelanta-nuevas-oportunidades/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-06-30T19:04:43+00:00",
-      "day_brt": "2026-06-30",
-      "resumo_pt": "Resumo (PT-BR): 7 min read La NASA adjudica nuevas misiones científicas para Base Lunar y adelanta nuevas oportunidades María José Viñas Jun 30, 2026 RELEASE 26-053 NASA Headquarters Tres representaciones digitales muestran módulos de aterrizaje lunar comerciales de Astrobotic, Intuitive Machines y Firefly en la Luna. La NASA anunció el 30 de junio que estos módulos de aterrizaje entregarán más investigaciones científicas y demostraciones tecnológicas de la NASA en la superficie lunar para el programa Base Lunar de la agencia.",
-      "queued_ts": 1782853637
     }
   ],
   "digests_sent": {
@@ -5534,7 +5494,8 @@
       "night": true
     },
     "2026-06-30": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -5606,7 +5567,8 @@
       "4a1ea5129f4605d95daef5b3": true,
       "9422b0181763df932f2902e7": true,
       "b9585b42f53c5e6b3e252039": true,
-      "ce61968759b563f10ba965cb": true
+      "ce61968759b563f10ba965cb": true,
+      "3a73218cfe0ca74dfcae7aeb": true
     }
   }
 }
