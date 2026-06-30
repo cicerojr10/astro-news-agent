@@ -4918,6 +4918,14 @@
       "score": 0.0,
       "published_utc": "2026-06-29T18:00:00+00:00",
       "note": "not_today"
+    },
+    "4d5f5c57f86f85cc9bc88290": {
+      "ts": 1782834275,
+      "source": "Space.com",
+      "title": "America 250: How has telescope technology evolved since the dawn of the U.S.?",
+      "link": "https://www.space.com/technology/america-250-how-has-telescope-technology-evolved-since-the-dawn-of-the-u-s",
+      "score": 2.8,
+      "published_utc": "2026-06-30T15:00:00+00:00"
     }
   },
   "digest_queue": [
