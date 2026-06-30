@@ -4892,6 +4892,15 @@
       "link": "https://www.nasaspaceflight.com/2026/06/swift-boost-mission-launch/",
       "score": 3.6,
       "published_utc": "2026-06-29T22:51:43+00:00"
+    },
+    "1b74d57510d506be9fbfcdc9": {
+      "ts": 1782808979,
+      "source": "Space.com",
+      "title": "Watch 2 NASA astronauts fix ISS' huge robotic arm during spacewalk today",
+      "link": "https://www.space.com/space-exploration/international-space-station/watch-2-nasa-astronauts-fix-iss-huge-robotic-arm-during-june-30-spacewalk",
+      "score": 0.0,
+      "published_utc": "2026-06-29T20:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
