@@ -4901,6 +4901,23 @@
       "score": 0.0,
       "published_utc": "2026-06-29T20:00:00+00:00",
       "note": "not_today"
+    },
+    "b6b6c70c990850bc7dad94ed": {
+      "ts": 1782819167,
+      "source": "NASA Breaking News",
+      "title": "Ames Science Stars of the Month July 2026",
+      "link": "https://www.nasa.gov/general/ames-stars-of-the-month-july-2026/",
+      "score": 4.0,
+      "published_utc": "2026-06-30T09:12:44+00:00"
+    },
+    "39f1a6df6e28edd68cba7c58": {
+      "ts": 1782819169,
+      "source": "Space.com",
+      "title": "NASA to launch rescue mission July 1 to save Swift space telescope from burning up in Earth's atmosphere",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasa-to-launch-ambitious-mission-to-save-a-space-telescope-from-burning-up-in-earths-atmosphere",
+      "score": 0.0,
+      "published_utc": "2026-06-29T18:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -5411,6 +5428,9 @@
     "2026-06-29": {
       "morning": true,
       "night": true
+    },
+    "2026-06-30": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -5476,6 +5496,9 @@
       "c8cf052980016e9c5394b10d": true,
       "82d2e805f25e15826d1922fe": true,
       "abe425d0f46155bdee49d903": true
+    },
+    "2026-06-30": {
+      "b6b6c70c990850bc7dad94ed": true
     }
   }
 }
