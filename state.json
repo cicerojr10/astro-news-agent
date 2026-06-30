@@ -4934,6 +4934,14 @@
       "link": "https://www.nasa.gov/image-article/starry-chandelier-cluster/",
       "score": 4.0,
       "published_utc": "2026-06-30T15:02:59+00:00"
+    },
+    "89fb4c0e50c41b3c62874c81": {
+      "ts": 1782847073,
+      "source": "Space.com",
+      "title": "Mars may have once been filled with seas of magma that made the Red Planet habitable",
+      "link": "https://www.space.com/astronomy/mars/mars-may-have-once-been-filled-with-seas-of-magma-that-made-the-red-planet-habitable",
+      "score": 2.8,
+      "published_utc": "2026-06-30T18:00:00+00:00"
     }
   },
   "digest_queue": [
