@@ -4926,6 +4926,14 @@
       "link": "https://www.space.com/technology/america-250-how-has-telescope-technology-evolved-since-the-dawn-of-the-u-s",
       "score": 2.8,
       "published_utc": "2026-06-30T15:00:00+00:00"
+    },
+    "4a1ea5129f4605d95daef5b3": {
+      "ts": 1782840550,
+      "source": "NASA Breaking News",
+      "title": "Starry Chandelier Cluster",
+      "link": "https://www.nasa.gov/image-article/starry-chandelier-cluster/",
+      "score": 4.0,
+      "published_utc": "2026-06-30T15:02:59+00:00"
     }
   },
   "digest_queue": [
@@ -5204,6 +5212,18 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
+    },
+    {
+      "fp": "4a1ea5129f4605d95daef5b3",
+      "title": "Starry Chandelier Cluster",
+      "link": "https://www.nasa.gov/image-article/starry-chandelier-cluster/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-06-30T15:02:59+00:00",
+      "day_brt": "2026-06-30",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Starry Chandelier Cluster HQ Web Team Jun 30, 2026 Image Article ESA/Hubble & NASA, A. Piotto This image released on June 26, 2026, features the globular cluster NGC 6723, sometimes called the Chandelier Cluster.",
+      "queued_ts": 1782840554
     }
   ],
   "digests_sent": {
@@ -5506,7 +5526,8 @@
       "abe425d0f46155bdee49d903": true
     },
     "2026-06-30": {
-      "b6b6c70c990850bc7dad94ed": true
+      "b6b6c70c990850bc7dad94ed": true,
+      "4a1ea5129f4605d95daef5b3": true
     }
   }
 }
