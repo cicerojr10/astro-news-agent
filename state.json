@@ -5295,18 +5295,6 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
-    },
-    {
-      "fp": "c9d13a54a010787e9982cf40",
-      "title": "NASA audit puts Boeing's Starliner under an even bigger microscope: When will it fly astronauts again?",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/nasa-audit-puts-boeings-starliner-under-an-even-bigger-microscope-when-will-it-fly-astronauts-again",
-      "source": "Space.com",
-      "score": 7.0,
-      "is_anomaly": true,
-      "published_utc": "2026-07-01T10:00:00+00:00",
-      "day_brt": "2026-07-01",
-      "resumo_pt": "Resumo (PT-BR): Space Exploration Human Spaceflight NASA audit puts Boeing's Starliner under an even bigger microscope: When will it fly astronauts again? News By Elizabeth Howell published 1 July 2026 \"NASA is uncertain as to when … human-rating certification for the Starliner will be obtained.\" When you purchase through links on our site, we may earn an affiliate commission.",
-      "queued_ts": 1782900997
     }
   ],
   "digests_sent": {
@@ -5543,6 +5531,9 @@
     "2026-06-30": {
       "morning": true,
       "night": true
+    },
+    "2026-07-01": {
+      "morning": true
     }
   },
   "sent_updates": {
