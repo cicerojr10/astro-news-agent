@@ -4991,6 +4991,32 @@
       "score": 0.0,
       "published_utc": "2026-06-30T21:01:30+00:00",
       "note": "not_today"
+    },
+    "c9d13a54a010787e9982cf40": {
+      "ts": 1782900996,
+      "source": "Space.com",
+      "title": "NASA audit puts Boeing's Starliner under an even bigger microscope: When will it fly astronauts again?",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/nasa-audit-puts-boeings-starliner-under-an-even-bigger-microscope-when-will-it-fly-astronauts-again",
+      "score": 7.0,
+      "published_utc": "2026-07-01T10:00:00+00:00"
+    },
+    "c829fe0ee2e33ce7fe932f84": {
+      "ts": 1782900996,
+      "source": "Space.com",
+      "title": "NASA to launch rescue mission July 2 to save Swift space telescope from burning up in Earth's atmosphere",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasa-to-launch-ambitious-mission-to-save-a-space-telescope-from-burning-up-in-earths-atmosphere",
+      "score": 0.0,
+      "published_utc": "2026-06-29T18:00:00+00:00",
+      "note": "not_today"
+    },
+    "bcde2e29ac67c78784a6bf5a": {
+      "ts": 1782900996,
+      "source": "Space.com",
+      "title": "SpaceX launches 15,000-pound SiriusXM satellite to orbit from Florida (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-sirius-sxm-11-satellite-launch-falcon-9",
+      "score": 0.0,
+      "published_utc": "2026-06-28T12:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -5269,6 +5295,18 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
+    },
+    {
+      "fp": "c9d13a54a010787e9982cf40",
+      "title": "NASA audit puts Boeing's Starliner under an even bigger microscope: When will it fly astronauts again?",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/nasa-audit-puts-boeings-starliner-under-an-even-bigger-microscope-when-will-it-fly-astronauts-again",
+      "source": "Space.com",
+      "score": 7.0,
+      "is_anomaly": true,
+      "published_utc": "2026-07-01T10:00:00+00:00",
+      "day_brt": "2026-07-01",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Human Spaceflight NASA audit puts Boeing's Starliner under an even bigger microscope: When will it fly astronauts again? News By Elizabeth Howell published 1 July 2026 \"NASA is uncertain as to when … human-rating certification for the Starliner will be obtained.\" When you purchase through links on our site, we may earn an affiliate commission.",
+      "queued_ts": 1782900997
     }
   ],
   "digests_sent": {
@@ -5508,36 +5546,6 @@
     }
   },
   "sent_updates": {
-    "2026-06-21": {
-      "f34d337d6944a0313f30493f": true
-    },
-    "2026-06-22": {
-      "453b5e742e828cca440efeae": true,
-      "f1727a61c98c5912c6220c18": true,
-      "83fcfa0e45c6c1520ca42bc4": true,
-      "c32685ba266ac3a3aeb5bab3": true,
-      "e02dc11b76f54d424f43ae79": true,
-      "cef0cd518e041ea2f4b3e5dd": true,
-      "9ba0ac8d234a9662a1ecfb3a": true
-    },
-    "2026-06-23": {
-      "9f802355ceb5978a9be8a735": true,
-      "092ab790fea4e7fa2f645344": true,
-      "c7318d9dc63e96c2420eeb69": true,
-      "54c2dde0ac4e9868d8c1b457": true,
-      "b0a7abf3cfa5a0378217ad6a": true,
-      "19aa462c4e1ae3744d46e000": true,
-      "2ea9bde7c0f8c4f287221fe7": true,
-      "1de946b3f73833be83d93355": true,
-      "724d65aaa3a97f1f87b3fd8c": true,
-      "541619cf25fe2dc918bb8dd8": true
-    },
-    "2026-06-24": {
-      "0956da41a9dd712334c2469f": true,
-      "4f28ea3f078d1a6f060ff464": true,
-      "a030559cbb3660abdb18dd21": true,
-      "e7e860130703c83ef393bf2b": true
-    },
     "2026-06-25": {
       "10bd90b4d7375bb121fd9807": true,
       "cd4d9df87f7b8b125cb2670b": true,
@@ -5578,6 +5586,9 @@
       "b9585b42f53c5e6b3e252039": true,
       "ce61968759b563f10ba965cb": true,
       "3a73218cfe0ca74dfcae7aeb": true
+    },
+    "2026-07-01": {
+      "c9d13a54a010787e9982cf40": true
     }
   }
 }
