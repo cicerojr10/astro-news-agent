@@ -5089,6 +5089,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-amazon-leo-8-internet-satellite-launch",
       "score": 2.8,
       "published_utc": "2026-07-01T20:00:00+00:00"
+    },
+    "18923808392dde45f543beb0": {
+      "ts": 1782949478,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: ULA to launch final Atlas 5 rocket supporting Amazon Leo’s broadband internet satellite constellation",
+      "link": "https://spaceflightnow.com/2026/07/01/live-coverage-ula-to-launch-final-atlas-5-rocket-supporting-amazon-leos-broadband-internet-satellite-constellation/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-07-01T23:20:40+00:00"
     }
   },
   "digest_queue": [
@@ -5367,90 +5375,6 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
-    },
-    {
-      "fp": "c3faa2ae8adf9008b5ab0db1",
-      "title": "Blue Origin accelerates LC-36 recovery via hybrid plan",
-      "link": "https://www.nasaspaceflight.com/2026/07/blue-origin-lc-36-recovery-hybrid-plan/",
-      "source": "NASASpaceflight",
-      "score": 9.0,
-      "is_anomaly": true,
-      "published_utc": "2026-07-01T13:20:57+00:00",
-      "day_brt": "2026-07-01",
-      "resumo_pt": "Resumo (PT-BR): Blue Origin accelerates LC-36 recovery via hybrid plan by Ryan Caton July 1, 2026 written by Ryan Caton July 1, 2026 1 One month after the New Glenn anomaly that severely damaged Launch Complex-36 at Cape Canaveral Space Force Station, Blue Origin has conducted an intensive cleanup and recovery effort at the site. Despite widespread predictions of a 12- to 18-month stand-down, CEO Dave Limp continues to assert that the company aims to return the vehicle to flight before the end of 2026.",
-      "queued_ts": 1782912607
-    },
-    {
-      "fp": "521f2267e095888e3dd1dafe",
-      "title": "LINK Spacecraft Set for Mission to Boost NASA’s Swift Observatory",
-      "link": "https://www.nasa.gov/image-article/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-01T15:20:29+00:00",
-      "day_brt": "2026-07-01",
-      "resumo_pt": "Resumo (PT-BR): 1 min read LINK Spacecraft Set for Mission to Boost NASA’s Swift Observatory HQ Web Team Jul 01, 2026 Image Article A Katalyst engineer runs tests on LINK while the satellite is inside the Pegasus XL rocket attached to the Stargazer aircraft at NASA’s Wallops Flight Facility. NASA/Ron Beard A first-of-its-kind mission to raise the orbit of NASA’s Neil Gehrels Swift Observatory is poised for launch no earlier than Thursday, July 2, 5:09 a.m.",
-      "queued_ts": 1782919842
-    },
-    {
-      "fp": "e37fc333966e8279ac107f03",
-      "title": "NASA’s Webb Studies How Planet Survived Death of its Star",
-      "link": "https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-01T15:00:00+00:00",
-      "day_brt": "2026-07-01",
-      "resumo_pt": "Resumo (PT-BR): Explore Webb Science James Webb Space Telescope (JWST) NASA’s Webb Studies How... Webb News Latest News Latest Images Webb's Blog Awards X (offsite - login reqd) Instagram (offsite - login reqd) Facebook (offsite- login reqd) Youtube (offsite) Overview About Who is James Webb?",
-      "queued_ts": 1782919842
-    },
-    {
-      "fp": "e059254e9061b15a15c53080",
-      "title": "Curiosity Blog, Sols 4934-4940: In the Land of the Polygons",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4934-4940-in-the-land-of-the-polygons/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-01T14:41:46+00:00",
-      "day_brt": "2026-07-01",
-      "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 2 min read Curiosity Blog, Sols 4934-4940: In the Land of the Polygons Mars Science Laboratory Mission Team Members Jul 01, 2026 Article NASA’s Mars rover Curiosity acquired this image of polygonal structures using its Mast Camera (Mastcam) on June 21, 2026 — Sol 4932, or Martian day 4,932 of the Mars Science Laboratory mission — at 14:57:55 UTC.",
-      "queued_ts": 1782919842
-    },
-    {
-      "fp": "2569e713c02e2933a95b4afb",
-      "title": "Caltech Welcomes Astrophysicist Ray Jayawardhana as New President",
-      "link": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-welcomes-astrophysicist-ray-jayawardhana-as-new-president/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-01T14:16:28+00:00",
-      "day_brt": "2026-07-01",
-      "resumo_pt": "Resumo (PT-BR): 5 min read Caltech Welcomes Astrophysicist Ray Jayawardhana as New President Jet Propulsion Laboratory Jul 01, 2026 Article Ray Jayawardhana, Caltech’s 10th president, spoke at JPL on Jan. NASA/JPL-Caltech Ray Jayawardhana begins his tenure today as the 10th president of the California Institute of Technology.",
-      "queued_ts": 1782919842
-    },
-    {
-      "fp": "043b546cdf17839e2431a13a",
-      "title": "NASA’s TESS Mission Finds Planetary System in New Way",
-      "link": "https://science.nasa.gov/missions/tess/nasas-tess-mission-finds-planetary-system-in-new-way/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-01T12:43:34+00:00",
-      "day_brt": "2026-07-01",
-      "resumo_pt": "Resumo (PT-BR): 5 Min Read NASA’s TESS Mission Finds Planetary System in New Way This artist’s concept visualizes a super-Jupiter orbiting an orange dwarf star at a distance similar to Jupiter’s distance from the Sun. Credits: NASA’s Goddard Space Flight Center Ashley Balzer Jul 01, 2026 Article For the first time, NASA’s TESS (Transiting Exoplanet Survey Satellite) mission has identified a planet orbiting a distant star thanks to ripples in space-time.",
-      "queued_ts": 1782919842
-    },
-    {
-      "fp": "4cc4de6c8b3b5b0bbb2921fe",
-      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
-      "link": "https://spaceflightnow.com/2026/07/01/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-9/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-07-01T17:12:31+00:00",
-      "day_brt": "2026-07-01",
-      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB July 1, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket stands in launch position at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base at sunset. Image: SpaceX SpaceX is getting ready to kick off the back half of 2026 with a Falcon 9 launch from Vandenberg Space Force Base Wednesday night.",
-      "queued_ts": 1782927078
     }
   ],
   "digests_sent": {
@@ -5689,7 +5613,8 @@
       "night": true
     },
     "2026-07-01": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -5740,7 +5665,8 @@
       "521f2267e095888e3dd1dafe": true,
       "e37fc333966e8279ac107f03": true,
       "e059254e9061b15a15c53080": true,
-      "4cc4de6c8b3b5b0bbb2921fe": true
+      "4cc4de6c8b3b5b0bbb2921fe": true,
+      "18923808392dde45f543beb0": true
     }
   }
 }
