@@ -5017,6 +5017,14 @@
       "score": 0.0,
       "published_utc": "2026-06-28T12:00:00+00:00",
       "note": "not_today"
+    },
+    "c3faa2ae8adf9008b5ab0db1": {
+      "ts": 1782912606,
+      "source": "NASASpaceflight",
+      "title": "Blue Origin accelerates LC-36 recovery via hybrid plan",
+      "link": "https://www.nasaspaceflight.com/2026/07/blue-origin-lc-36-recovery-hybrid-plan/",
+      "score": 9.0,
+      "published_utc": "2026-07-01T13:20:57+00:00"
     }
   },
   "digest_queue": [
@@ -5295,6 +5303,18 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
+    },
+    {
+      "fp": "c3faa2ae8adf9008b5ab0db1",
+      "title": "Blue Origin accelerates LC-36 recovery via hybrid plan",
+      "link": "https://www.nasaspaceflight.com/2026/07/blue-origin-lc-36-recovery-hybrid-plan/",
+      "source": "NASASpaceflight",
+      "score": 9.0,
+      "is_anomaly": true,
+      "published_utc": "2026-07-01T13:20:57+00:00",
+      "day_brt": "2026-07-01",
+      "resumo_pt": "Resumo (PT-BR): Blue Origin accelerates LC-36 recovery via hybrid plan by Ryan Caton July 1, 2026 written by Ryan Caton July 1, 2026 1 One month after the New Glenn anomaly that severely damaged Launch Complex-36 at Cape Canaveral Space Force Station, Blue Origin has conducted an intensive cleanup and recovery effort at the site. Despite widespread predictions of a 12- to 18-month stand-down, CEO Dave Limp continues to assert that the company aims to return the vehicle to flight before the end of 2026.",
+      "queued_ts": 1782912607
     }
   ],
   "digests_sent": {
@@ -5579,7 +5599,8 @@
       "3a73218cfe0ca74dfcae7aeb": true
     },
     "2026-07-01": {
-      "c9d13a54a010787e9982cf40": true
+      "c9d13a54a010787e9982cf40": true,
+      "c3faa2ae8adf9008b5ab0db1": true
     }
   }
 }
