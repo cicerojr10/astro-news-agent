@@ -4982,6 +4982,15 @@
       "link": "https://spaceflightnow.com/2026/06/30/blue-origin-outlines-return-to-flight-logistics-for-its-new-glenn-rockets/",
       "score": 14.4,
       "published_utc": "2026-06-30T22:50:01+00:00"
+    },
+    "c62a59625968ce49ca6e5c3a": {
+      "ts": 1782886681,
+      "source": "Space.com",
+      "title": "Rocket Lab aborts launch of Japanese Earth-observing radar satellite at last second",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-iqps-radar-satellite-grain-goddess-provides",
+      "score": 0.0,
+      "published_utc": "2026-06-30T21:01:30+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
