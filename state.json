@@ -5025,6 +5025,46 @@
       "link": "https://www.nasaspaceflight.com/2026/07/blue-origin-lc-36-recovery-hybrid-plan/",
       "score": 9.0,
       "published_utc": "2026-07-01T13:20:57+00:00"
+    },
+    "521f2267e095888e3dd1dafe": {
+      "ts": 1782919838,
+      "source": "NASA Breaking News",
+      "title": "LINK Spacecraft Set for Mission to Boost NASA’s Swift Observatory",
+      "link": "https://www.nasa.gov/image-article/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/",
+      "score": 4.0,
+      "published_utc": "2026-07-01T15:20:29+00:00"
+    },
+    "e37fc333966e8279ac107f03": {
+      "ts": 1782919838,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Webb Studies How Planet Survived Death of its Star",
+      "link": "https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star/",
+      "score": 4.0,
+      "published_utc": "2026-07-01T15:00:00+00:00"
+    },
+    "e059254e9061b15a15c53080": {
+      "ts": 1782919838,
+      "source": "NASA Breaking News",
+      "title": "Curiosity Blog, Sols 4934-4940: In the Land of the Polygons",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4934-4940-in-the-land-of-the-polygons/",
+      "score": 4.0,
+      "published_utc": "2026-07-01T14:41:46+00:00"
+    },
+    "2569e713c02e2933a95b4afb": {
+      "ts": 1782919838,
+      "source": "NASA Breaking News",
+      "title": "Caltech Welcomes Astrophysicist Ray Jayawardhana as New President",
+      "link": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-welcomes-astrophysicist-ray-jayawardhana-as-new-president/",
+      "score": 4.0,
+      "published_utc": "2026-07-01T14:16:28+00:00"
+    },
+    "043b546cdf17839e2431a13a": {
+      "ts": 1782919838,
+      "source": "NASA Breaking News",
+      "title": "NASA’s TESS Mission Finds Planetary System in New Way",
+      "link": "https://science.nasa.gov/missions/tess/nasas-tess-mission-finds-planetary-system-in-new-way/",
+      "score": 4.0,
+      "published_utc": "2026-07-01T12:43:34+00:00"
     }
   },
   "digest_queue": [
@@ -5315,6 +5355,66 @@
       "day_brt": "2026-07-01",
       "resumo_pt": "Resumo (PT-BR): Blue Origin accelerates LC-36 recovery via hybrid plan by Ryan Caton July 1, 2026 written by Ryan Caton July 1, 2026 1 One month after the New Glenn anomaly that severely damaged Launch Complex-36 at Cape Canaveral Space Force Station, Blue Origin has conducted an intensive cleanup and recovery effort at the site. Despite widespread predictions of a 12- to 18-month stand-down, CEO Dave Limp continues to assert that the company aims to return the vehicle to flight before the end of 2026.",
       "queued_ts": 1782912607
+    },
+    {
+      "fp": "521f2267e095888e3dd1dafe",
+      "title": "LINK Spacecraft Set for Mission to Boost NASA’s Swift Observatory",
+      "link": "https://www.nasa.gov/image-article/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-01T15:20:29+00:00",
+      "day_brt": "2026-07-01",
+      "resumo_pt": "Resumo (PT-BR): 1 min read LINK Spacecraft Set for Mission to Boost NASA’s Swift Observatory HQ Web Team Jul 01, 2026 Image Article A Katalyst engineer runs tests on LINK while the satellite is inside the Pegasus XL rocket attached to the Stargazer aircraft at NASA’s Wallops Flight Facility. NASA/Ron Beard A first-of-its-kind mission to raise the orbit of NASA’s Neil Gehrels Swift Observatory is poised for launch no earlier than Thursday, July 2, 5:09 a.m.",
+      "queued_ts": 1782919842
+    },
+    {
+      "fp": "e37fc333966e8279ac107f03",
+      "title": "NASA’s Webb Studies How Planet Survived Death of its Star",
+      "link": "https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-01T15:00:00+00:00",
+      "day_brt": "2026-07-01",
+      "resumo_pt": "Resumo (PT-BR): Explore Webb Science James Webb Space Telescope (JWST) NASA’s Webb Studies How... Webb News Latest News Latest Images Webb's Blog Awards X (offsite - login reqd) Instagram (offsite - login reqd) Facebook (offsite- login reqd) Youtube (offsite) Overview About Who is James Webb?",
+      "queued_ts": 1782919842
+    },
+    {
+      "fp": "e059254e9061b15a15c53080",
+      "title": "Curiosity Blog, Sols 4934-4940: In the Land of the Polygons",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4934-4940-in-the-land-of-the-polygons/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-01T14:41:46+00:00",
+      "day_brt": "2026-07-01",
+      "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 2 min read Curiosity Blog, Sols 4934-4940: In the Land of the Polygons Mars Science Laboratory Mission Team Members Jul 01, 2026 Article NASA’s Mars rover Curiosity acquired this image of polygonal structures using its Mast Camera (Mastcam) on June 21, 2026 — Sol 4932, or Martian day 4,932 of the Mars Science Laboratory mission — at 14:57:55 UTC.",
+      "queued_ts": 1782919842
+    },
+    {
+      "fp": "2569e713c02e2933a95b4afb",
+      "title": "Caltech Welcomes Astrophysicist Ray Jayawardhana as New President",
+      "link": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-welcomes-astrophysicist-ray-jayawardhana-as-new-president/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-01T14:16:28+00:00",
+      "day_brt": "2026-07-01",
+      "resumo_pt": "Resumo (PT-BR): 5 min read Caltech Welcomes Astrophysicist Ray Jayawardhana as New President Jet Propulsion Laboratory Jul 01, 2026 Article Ray Jayawardhana, Caltech’s 10th president, spoke at JPL on Jan. NASA/JPL-Caltech Ray Jayawardhana begins his tenure today as the 10th president of the California Institute of Technology.",
+      "queued_ts": 1782919842
+    },
+    {
+      "fp": "043b546cdf17839e2431a13a",
+      "title": "NASA’s TESS Mission Finds Planetary System in New Way",
+      "link": "https://science.nasa.gov/missions/tess/nasas-tess-mission-finds-planetary-system-in-new-way/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-01T12:43:34+00:00",
+      "day_brt": "2026-07-01",
+      "resumo_pt": "Resumo (PT-BR): 5 Min Read NASA’s TESS Mission Finds Planetary System in New Way This artist’s concept visualizes a super-Jupiter orbiting an orange dwarf star at a distance similar to Jupiter’s distance from the Sun. Credits: NASA’s Goddard Space Flight Center Ashley Balzer Jul 01, 2026 Article For the first time, NASA’s TESS (Transiting Exoplanet Survey Satellite) mission has identified a planet orbiting a distant star thanks to ripples in space-time.",
+      "queued_ts": 1782919842
     }
   ],
   "digests_sent": {
@@ -5600,7 +5700,10 @@
     },
     "2026-07-01": {
       "c9d13a54a010787e9982cf40": true,
-      "c3faa2ae8adf9008b5ab0db1": true
+      "c3faa2ae8adf9008b5ab0db1": true,
+      "521f2267e095888e3dd1dafe": true,
+      "e37fc333966e8279ac107f03": true,
+      "e059254e9061b15a15c53080": true
     }
   }
 }
