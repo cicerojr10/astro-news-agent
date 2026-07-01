@@ -5065,6 +5065,22 @@
       "link": "https://science.nasa.gov/missions/tess/nasas-tess-mission-finds-planetary-system-in-new-way/",
       "score": 4.0,
       "published_utc": "2026-07-01T12:43:34+00:00"
+    },
+    "4cc4de6c8b3b5b0bbb2921fe": {
+      "ts": 1782927076,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/07/01/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-9/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-07-01T17:12:31+00:00"
+    },
+    "9a69163d69ab3f7428de96bb": {
+      "ts": 1782927077,
+      "source": "Space.com",
+      "title": "The growing number of satellites in orbit could soon make telescopes obsolete. 'For astronomy, this would obviously be catastrophic'",
+      "link": "https://www.space.com/astronomy/the-growing-number-of-satellites-in-orbit-could-soon-make-telescopes-obsolete-for-astronomy-this-would-obviously-be-catastrophic",
+      "score": 2.8,
+      "published_utc": "2026-07-01T16:56:49+00:00"
     }
   },
   "digest_queue": [
@@ -5415,6 +5431,18 @@
       "day_brt": "2026-07-01",
       "resumo_pt": "Resumo (PT-BR): 5 Min Read NASA’s TESS Mission Finds Planetary System in New Way This artist’s concept visualizes a super-Jupiter orbiting an orange dwarf star at a distance similar to Jupiter’s distance from the Sun. Credits: NASA’s Goddard Space Flight Center Ashley Balzer Jul 01, 2026 Article For the first time, NASA’s TESS (Transiting Exoplanet Survey Satellite) mission has identified a planet orbiting a distant star thanks to ripples in space-time.",
       "queued_ts": 1782919842
+    },
+    {
+      "fp": "4cc4de6c8b3b5b0bbb2921fe",
+      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/07/01/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-9/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-07-01T17:12:31+00:00",
+      "day_brt": "2026-07-01",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB July 1, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket stands in launch position at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base at sunset. Image: SpaceX SpaceX is getting ready to kick off the back half of 2026 with a Falcon 9 launch from Vandenberg Space Force Base Wednesday night.",
+      "queued_ts": 1782927078
     }
   ],
   "digests_sent": {
@@ -5703,7 +5731,8 @@
       "c3faa2ae8adf9008b5ab0db1": true,
       "521f2267e095888e3dd1dafe": true,
       "e37fc333966e8279ac107f03": true,
-      "e059254e9061b15a15c53080": true
+      "e059254e9061b15a15c53080": true,
+      "4cc4de6c8b3b5b0bbb2921fe": true
     }
   }
 }
