@@ -5141,6 +5141,15 @@
       "score": 0.0,
       "published_utc": "2026-07-01T20:00:00+00:00",
       "note": "not_today"
+    },
+    "4474660207e375f3b1d57abf": {
+      "ts": 1782996721,
+      "source": "Space.com",
+      "title": "Rocket issue delays NASA launch of rescue mission to save Swift space telescope",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasa-to-launch-ambitious-mission-to-save-a-space-telescope-from-burning-up-in-earths-atmosphere",
+      "score": 0.0,
+      "published_utc": "2026-06-29T18:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
