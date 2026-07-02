@@ -5150,6 +5150,30 @@
       "score": 0.0,
       "published_utc": "2026-06-29T18:00:00+00:00",
       "note": "not_today"
+    },
+    "e1fe37d69299b0e73c468565": {
+      "ts": 1783012127,
+      "source": "NASA Breaking News",
+      "title": "Good Morning, Earth!",
+      "link": "https://www.nasa.gov/image-article/good-morning-earth/",
+      "score": 4.0,
+      "published_utc": "2026-07-02T14:41:24+00:00"
+    },
+    "9218f6550ab37db1485468ec": {
+      "ts": 1783012127,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Webb Reveals Stars Sparking to Life in Cosmic Celebration",
+      "link": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/",
+      "score": 4.0,
+      "published_utc": "2026-07-02T14:00:00+00:00"
+    },
+    "ad1cbd661a11b94652a95bab": {
+      "ts": 1783012129,
+      "source": "Space.com",
+      "title": "Astronomers discover a potentially habitable planet just 25 light-years away. 'This one is exciting'",
+      "link": "https://www.space.com/astronomy/exoplanets/astronomers-discover-a-potentially-habitable-planet-just-25-light-years-away-this-one-is-exciting",
+      "score": 2.8,
+      "published_utc": "2026-07-02T16:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -5428,6 +5452,30 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
+    },
+    {
+      "fp": "e1fe37d69299b0e73c468565",
+      "title": "Good Morning, Earth!",
+      "link": "https://www.nasa.gov/image-article/good-morning-earth/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-02T14:41:24+00:00",
+      "day_brt": "2026-07-02",
+      "resumo_pt": "Resumo (PT-BR): HQ Web Team Jul 02, 2026 Image Article A bright orange sunburst illuminates Earth’s atmosphere during an orbital sunrise in this photograph from the International Space Station as it orbited 264 miles above the Caucasus Mountains. NASA/Chris Williams NASA astronaut Chris Williams took this photo of an orbital sunrise from the International Space Station on June 26, 2026.",
+      "queued_ts": 1783012130
+    },
+    {
+      "fp": "9218f6550ab37db1485468ec",
+      "title": "NASA’s Webb Reveals Stars Sparking to Life in Cosmic Celebration",
+      "link": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-02T14:00:00+00:00",
+      "day_brt": "2026-07-02",
+      "resumo_pt": "Resumo (PT-BR): Explore Webb Science James Webb Space Telescope (JWST) NASA’s Webb Reveals Stars... Webb News Latest News Latest Images Webb's Blog Awards X (offsite - login reqd) Instagram (offsite - login reqd) Facebook (offsite- login reqd) Youtube (offsite) Overview About Who is James Webb?",
+      "queued_ts": 1783012130
     }
   ],
   "digests_sent": {
@@ -5723,6 +5771,10 @@
       "e059254e9061b15a15c53080": true,
       "4cc4de6c8b3b5b0bbb2921fe": true,
       "18923808392dde45f543beb0": true
+    },
+    "2026-07-02": {
+      "e1fe37d69299b0e73c468565": true,
+      "9218f6550ab37db1485468ec": true
     }
   }
 }
