@@ -5124,6 +5124,23 @@
       "score": 0.0,
       "published_utc": "2026-07-01T20:00:00+00:00",
       "note": "not_today"
+    },
+    "e9465d314ff508ec5b18469c": {
+      "ts": 1782990755,
+      "source": "Space.com",
+      "title": "Sun fires off 10 solar flares in 24 hours as multiple Earth-bound CMEs raise northern lights hopes for July 4 weekend",
+      "link": "https://www.space.com/stargazing/auroras/sun-fires-off-10-solar-flares-in-24-hours-as-multiple-earth-bound-cmes-raise-northern-lights-hopes-for-july-4-weekend",
+      "score": 2.8,
+      "published_utc": "2026-07-02T09:53:00+00:00"
+    },
+    "ec7a46be76989b120f77203e": {
+      "ts": 1782990755,
+      "source": "Space.com",
+      "title": "Atlas V rocket launches 29 Amazon Leo broadband satellites to orbit from Florida (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-amazon-leo-8-internet-satellite-launch",
+      "score": 0.0,
+      "published_utc": "2026-07-01T20:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -5642,6 +5659,9 @@
     "2026-07-01": {
       "morning": true,
       "night": true
+    },
+    "2026-07-02": {
+      "morning": true
     }
   },
   "sent_updates": {
