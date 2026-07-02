@@ -5198,6 +5198,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-all-6-of-starships-engines-ahead-of-13th-test-flight-video",
       "score": 2.8,
       "published_utc": "2026-07-02T22:00:00+00:00"
+    },
+    "0d1fdb136e3b8daf81f9c8bd": {
+      "ts": 1783035396,
+      "source": "Space.com",
+      "title": "SpaceX Falcon 9 rocket launches 24 Starlink satellites from California",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-46-b1100-vsfb-ocisly",
+      "score": 2.8,
+      "published_utc": "2026-07-02T22:32:50+00:00"
     }
   },
   "digest_queue": [
@@ -5476,30 +5484,6 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
-    },
-    {
-      "fp": "e1fe37d69299b0e73c468565",
-      "title": "Good Morning, Earth!",
-      "link": "https://www.nasa.gov/image-article/good-morning-earth/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-02T14:41:24+00:00",
-      "day_brt": "2026-07-02",
-      "resumo_pt": "Resumo (PT-BR): HQ Web Team Jul 02, 2026 Image Article A bright orange sunburst illuminates Earth’s atmosphere during an orbital sunrise in this photograph from the International Space Station as it orbited 264 miles above the Caucasus Mountains. NASA/Chris Williams NASA astronaut Chris Williams took this photo of an orbital sunrise from the International Space Station on June 26, 2026.",
-      "queued_ts": 1783012130
-    },
-    {
-      "fp": "9218f6550ab37db1485468ec",
-      "title": "NASA’s Webb Reveals Stars Sparking to Life in Cosmic Celebration",
-      "link": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-02T14:00:00+00:00",
-      "day_brt": "2026-07-02",
-      "resumo_pt": "Resumo (PT-BR): Explore Webb Science James Webb Space Telescope (JWST) NASA’s Webb Reveals Stars... Webb News Latest News Latest Images Webb's Blog Awards X (offsite - login reqd) Instagram (offsite - login reqd) Facebook (offsite- login reqd) Youtube (offsite) Overview About Who is James Webb?",
-      "queued_ts": 1783012130
     }
   ],
   "digests_sent": {
@@ -5742,7 +5726,8 @@
       "night": true
     },
     "2026-07-02": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
