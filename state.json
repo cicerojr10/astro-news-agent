@@ -5233,6 +5233,14 @@
       "score": 0.0,
       "published_utc": "2026-06-29T18:00:00+00:00",
       "note": "not_today"
+    },
+    "c28c058c4fc3ffcd0764f028": {
+      "ts": 1783089380,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Hubble Spots Star-Spangled Cosmic Scene",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-spots-star-spangled-cosmic-scene/",
+      "score": 4.0,
+      "published_utc": "2026-07-03T12:42:03+00:00"
     }
   },
   "digest_queue": [
@@ -5511,6 +5519,18 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
+    },
+    {
+      "fp": "c28c058c4fc3ffcd0764f028",
+      "title": "NASA’s Hubble Spots Star-Spangled Cosmic Scene",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-spots-star-spangled-cosmic-scene/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-03T12:42:03+00:00",
+      "day_brt": "2026-07-03",
+      "resumo_pt": "Resumo (PT-BR): Explore Hubble Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space? Hubble by the Numbers At the Museum FAQs Impact & Benefits Hubble's Impact & Benefits Science Impacts Cultural Impact Technology Benefits Impact on Human Spaceflight Astro Community Impacts Science Hubble Science Science Themes Science Highlights Science Behind Discoveries Universe Uncovered Hubble's Partners in Science Hubble & Citizen Science AI & Hubble Science Explore the Night Sky Observatory Hubble Observatory Hubble Design Mission Operations Science Operations Astronaut Missions to Hubble Hubble vs Webb Team Hubble Team Career Aspirations Hubble Astronauts Multimedia Images Videos Online Activities e-Books Sonifications Podcasts 3D Hubble Models Lithographs Fact Sheets Posters Hubble on the NASA App Glossary News Hubble News Social Media Media Resources 35th Anniversary More Online Activities 3 min read NASA’s Hubble Spots Star-Spangled Cosmic Scene NASA Hubble Mission Team Goddard Space Flight Center Jul 03, 2026 Article This image from NASA's Hubble Space Telescope shows Messier 3, a densely packed cluster of stars whose origins may be a merger between globular clusters in the early universe.",
+      "queued_ts": 1783089383
     }
   ],
   "digests_sent": {
@@ -5814,6 +5834,9 @@
     "2026-07-02": {
       "e1fe37d69299b0e73c468565": true,
       "9218f6550ab37db1485468ec": true
+    },
+    "2026-07-03": {
+      "c28c058c4fc3ffcd0764f028": true
     }
   }
 }
