@@ -5224,6 +5224,15 @@
       "score": 0.0,
       "published_utc": "2026-06-29T18:00:00+00:00",
       "note": "not_today"
+    },
+    "22d82dfc077c9ec2519b9fe2": {
+      "ts": 1783081415,
+      "source": "Space.com",
+      "title": "NASA launches rescue mission to save Swift space telescope from burning up in Earth's atmosphere",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasa-successfully-launches-rescue-mission-to-save-swift-space-telescope-from-burning-up-in-earths-atmosphere",
+      "score": 0.0,
+      "published_utc": "2026-06-29T18:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -5746,6 +5755,9 @@
     "2026-07-02": {
       "morning": true,
       "night": true
+    },
+    "2026-07-03": {
+      "morning": true
     }
   },
   "sent_updates": {
