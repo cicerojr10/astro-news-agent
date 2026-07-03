@@ -5241,6 +5241,30 @@
       "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-spots-star-spangled-cosmic-scene/",
       "score": 4.0,
       "published_utc": "2026-07-03T12:42:03+00:00"
+    },
+    "43d54c268c41cd6491dbc63f": {
+      "ts": 1783094955,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/",
+      "score": 4.0,
+      "published_utc": "2026-07-03T15:01:17+00:00"
+    },
+    "6b19332b16408badf9c939a0": {
+      "ts": 1783094957,
+      "source": "Space.com",
+      "title": "1 private spacecraft intercepts another on Space Force's groundbreaking 'Victus Haze' mission",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/1-private-spacecraft-intercepts-another-on-space-forces-groundbreaking-victus-haze-mission",
+      "score": 2.8,
+      "published_utc": "2026-07-03T16:00:00+00:00"
+    },
+    "dc3f6c9a26b754edcbe885e3": {
+      "ts": 1783094957,
+      "source": "Space.com",
+      "title": "Celebrate 250 years of America with the Estes Liberty Star model rocket",
+      "link": "https://www.space.com/stargazing/skywatching-kit/celebrate-250-years-of-america-with-the-estes-liberty-star-model-rocket",
+      "score": 2.8,
+      "published_utc": "2026-07-03T16:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -5531,6 +5555,18 @@
       "day_brt": "2026-07-03",
       "resumo_pt": "Resumo (PT-BR): Explore Hubble Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space? Hubble by the Numbers At the Museum FAQs Impact & Benefits Hubble's Impact & Benefits Science Impacts Cultural Impact Technology Benefits Impact on Human Spaceflight Astro Community Impacts Science Hubble Science Science Themes Science Highlights Science Behind Discoveries Universe Uncovered Hubble's Partners in Science Hubble & Citizen Science AI & Hubble Science Explore the Night Sky Observatory Hubble Observatory Hubble Design Mission Operations Science Operations Astronaut Missions to Hubble Hubble vs Webb Team Hubble Team Career Aspirations Hubble Astronauts Multimedia Images Videos Online Activities e-Books Sonifications Podcasts 3D Hubble Models Lithographs Fact Sheets Posters Hubble on the NASA App Glossary News Hubble News Social Media Media Resources 35th Anniversary More Online Activities 3 min read NASA’s Hubble Spots Star-Spangled Cosmic Scene NASA Hubble Mission Team Goddard Space Flight Center Jul 03, 2026 Article This image from NASA's Hubble Space Telescope shows Messier 3, a densely packed cluster of stars whose origins may be a merger between globular clusters in the early universe.",
       "queued_ts": 1783089383
+    },
+    {
+      "fp": "43d54c268c41cd6491dbc63f",
+      "title": "NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-03T15:01:17+00:00",
+      "day_brt": "2026-07-03",
+      "resumo_pt": "Resumo (PT-BR): Explore Hubble Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space? Hubble by the Numbers At the Museum FAQs Impact & Benefits Hubble's Impact & Benefits Science Impacts Cultural Impact Technology Benefits Impact on Human Spaceflight Astro Community Impacts Science Hubble Science Science Themes Science Highlights Science Behind Discoveries Universe Uncovered Hubble's Partners in Science Hubble & Citizen Science AI & Hubble Science Explore the Night Sky Observatory Hubble Observatory Hubble Design Mission Operations Science Operations Astronaut Missions to Hubble Hubble vs Webb Team Hubble Team Career Aspirations Hubble Astronauts Multimedia Images Videos Online Activities e-Books Sonifications Podcasts 3D Hubble Models Lithographs Fact Sheets Posters Hubble on the NASA App Glossary News Hubble News Social Media Media Resources 35th Anniversary More Online Activities 3 min read NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars NASA Hubble Mission Team Goddard Space Flight Center Jul 03, 2026 Article A glowing landscape of gas and dust is heated and illuminated by a thriving population of young stars in the LH 95 region of the Large Magellanic Cloud.",
+      "queued_ts": 1783094958
     }
   ],
   "digests_sent": {
@@ -5836,7 +5872,8 @@
       "9218f6550ab37db1485468ec": true
     },
     "2026-07-03": {
-      "c28c058c4fc3ffcd0764f028": true
+      "c28c058c4fc3ffcd0764f028": true,
+      "43d54c268c41cd6491dbc63f": true
     }
   }
 }
