@@ -5551,42 +5551,6 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
-    },
-    {
-      "fp": "c28c058c4fc3ffcd0764f028",
-      "title": "NASA’s Hubble Spots Star-Spangled Cosmic Scene",
-      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-spots-star-spangled-cosmic-scene/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-03T12:42:03+00:00",
-      "day_brt": "2026-07-03",
-      "resumo_pt": "Resumo (PT-BR): Explore Hubble Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space? Hubble by the Numbers At the Museum FAQs Impact & Benefits Hubble's Impact & Benefits Science Impacts Cultural Impact Technology Benefits Impact on Human Spaceflight Astro Community Impacts Science Hubble Science Science Themes Science Highlights Science Behind Discoveries Universe Uncovered Hubble's Partners in Science Hubble & Citizen Science AI & Hubble Science Explore the Night Sky Observatory Hubble Observatory Hubble Design Mission Operations Science Operations Astronaut Missions to Hubble Hubble vs Webb Team Hubble Team Career Aspirations Hubble Astronauts Multimedia Images Videos Online Activities e-Books Sonifications Podcasts 3D Hubble Models Lithographs Fact Sheets Posters Hubble on the NASA App Glossary News Hubble News Social Media Media Resources 35th Anniversary More Online Activities 3 min read NASA’s Hubble Spots Star-Spangled Cosmic Scene NASA Hubble Mission Team Goddard Space Flight Center Jul 03, 2026 Article This image from NASA's Hubble Space Telescope shows Messier 3, a densely packed cluster of stars whose origins may be a merger between globular clusters in the early universe.",
-      "queued_ts": 1783089383
-    },
-    {
-      "fp": "43d54c268c41cd6491dbc63f",
-      "title": "NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars",
-      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-03T15:01:17+00:00",
-      "day_brt": "2026-07-03",
-      "resumo_pt": "Resumo (PT-BR): Explore Hubble Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space? Hubble by the Numbers At the Museum FAQs Impact & Benefits Hubble's Impact & Benefits Science Impacts Cultural Impact Technology Benefits Impact on Human Spaceflight Astro Community Impacts Science Hubble Science Science Themes Science Highlights Science Behind Discoveries Universe Uncovered Hubble's Partners in Science Hubble & Citizen Science AI & Hubble Science Explore the Night Sky Observatory Hubble Observatory Hubble Design Mission Operations Science Operations Astronaut Missions to Hubble Hubble vs Webb Team Hubble Team Career Aspirations Hubble Astronauts Multimedia Images Videos Online Activities e-Books Sonifications Podcasts 3D Hubble Models Lithographs Fact Sheets Posters Hubble on the NASA App Glossary News Hubble News Social Media Media Resources 35th Anniversary More Online Activities 3 min read NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars NASA Hubble Mission Team Goddard Space Flight Center Jul 03, 2026 Article A glowing landscape of gas and dust is heated and illuminated by a thriving population of young stars in the LH 95 region of the Large Magellanic Cloud.",
-      "queued_ts": 1783094958
-    },
-    {
-      "fp": "d7fcbcd4eaddfa662e7d0af6",
-      "title": "Starship in Florida pushing for launch this year",
-      "link": "https://www.nasaspaceflight.com/2026/07/starship-florida-pushing-launch/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-07-03T21:26:45+00:00",
-      "day_brt": "2026-07-03",
-      "resumo_pt": "Resumo (PT-BR): Starship in Florida pushing for launch this year by Ryan Weber July 3, 2026 written by Ryan Weber July 3, 2026 1 Starship launches from Cape Canaveral are getting closer and closer as SpaceX and its contractors continue to finish work on LC-39A and the Gigabay at Roberts Road. There has also been significant progress at SLC-37A, the fourth Starship pad to be built.",
-      "queued_ts": 1783117802
     }
   ],
   "digests_sent": {
@@ -5833,7 +5797,8 @@
       "night": true
     },
     "2026-07-03": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
