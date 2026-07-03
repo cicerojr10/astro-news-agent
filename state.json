@@ -5265,6 +5265,14 @@
       "link": "https://www.space.com/stargazing/skywatching-kit/celebrate-250-years-of-america-with-the-estes-liberty-star-model-rocket",
       "score": 2.8,
       "published_utc": "2026-07-03T16:00:00+00:00"
+    },
+    "d7fcbcd4eaddfa662e7d0af6": {
+      "ts": 1783117801,
+      "source": "NASASpaceflight",
+      "title": "Starship in Florida pushing for launch this year",
+      "link": "https://www.nasaspaceflight.com/2026/07/starship-florida-pushing-launch/",
+      "score": 3.6,
+      "published_utc": "2026-07-03T21:26:45+00:00"
     }
   },
   "digest_queue": [
@@ -5567,6 +5575,18 @@
       "day_brt": "2026-07-03",
       "resumo_pt": "Resumo (PT-BR): Explore Hubble Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space? Hubble by the Numbers At the Museum FAQs Impact & Benefits Hubble's Impact & Benefits Science Impacts Cultural Impact Technology Benefits Impact on Human Spaceflight Astro Community Impacts Science Hubble Science Science Themes Science Highlights Science Behind Discoveries Universe Uncovered Hubble's Partners in Science Hubble & Citizen Science AI & Hubble Science Explore the Night Sky Observatory Hubble Observatory Hubble Design Mission Operations Science Operations Astronaut Missions to Hubble Hubble vs Webb Team Hubble Team Career Aspirations Hubble Astronauts Multimedia Images Videos Online Activities e-Books Sonifications Podcasts 3D Hubble Models Lithographs Fact Sheets Posters Hubble on the NASA App Glossary News Hubble News Social Media Media Resources 35th Anniversary More Online Activities 3 min read NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars NASA Hubble Mission Team Goddard Space Flight Center Jul 03, 2026 Article A glowing landscape of gas and dust is heated and illuminated by a thriving population of young stars in the LH 95 region of the Large Magellanic Cloud.",
       "queued_ts": 1783094958
+    },
+    {
+      "fp": "d7fcbcd4eaddfa662e7d0af6",
+      "title": "Starship in Florida pushing for launch this year",
+      "link": "https://www.nasaspaceflight.com/2026/07/starship-florida-pushing-launch/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-07-03T21:26:45+00:00",
+      "day_brt": "2026-07-03",
+      "resumo_pt": "Resumo (PT-BR): Starship in Florida pushing for launch this year by Ryan Weber July 3, 2026 written by Ryan Weber July 3, 2026 1 Starship launches from Cape Canaveral are getting closer and closer as SpaceX and its contractors continue to finish work on LC-39A and the Gigabay at Roberts Road. There has also been significant progress at SLC-37A, the fourth Starship pad to be built.",
+      "queued_ts": 1783117802
     }
   ],
   "digests_sent": {
@@ -5873,7 +5893,8 @@
     },
     "2026-07-03": {
       "c28c058c4fc3ffcd0764f028": true,
-      "43d54c268c41cd6491dbc63f": true
+      "43d54c268c41cd6491dbc63f": true,
+      "d7fcbcd4eaddfa662e7d0af6": true
     }
   }
 }
