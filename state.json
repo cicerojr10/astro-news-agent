@@ -5281,6 +5281,22 @@
       "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/",
       "score": 4.0,
       "published_utc": "2026-07-04T11:15:37+00:00"
+    },
+    "9688a5f7e84a9d104b6dd625": {
+      "ts": 1783204361,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: Semiconductor manufacturing test bed to fly alongside Starlink satellites on Falcon 9 launch",
+      "link": "https://spaceflightnow.com/2026/07/04/live-coverage-semiconductor-manufacturing-test-bed-to-fly-alongside-starlink-satellites-on-falcon-9-launch/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-07-04T21:56:12+00:00"
+    },
+    "f1356d44cfbbbbc02a77af39": {
+      "ts": 1783204362,
+      "source": "NASASpaceflight",
+      "title": "Vast’s Haven-1 continues to advance through milestones ahead of planned 2027 launch",
+      "link": "https://www.nasaspaceflight.com/2026/07/vast-update-070426/",
+      "score": 3.6,
+      "published_utc": "2026-07-04T22:10:06+00:00"
     }
   },
   "digest_queue": [
@@ -5571,6 +5587,30 @@
       "day_brt": "2026-07-04",
       "resumo_pt": "Resumo (PT-BR): Explore Hubble Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space? Hubble by the Numbers At the Museum FAQs Impact & Benefits Hubble's Impact & Benefits Science Impacts Cultural Impact Technology Benefits Impact on Human Spaceflight Astro Community Impacts Science Hubble Science Science Themes Science Highlights Science Behind Discoveries Universe Uncovered Hubble's Partners in Science Hubble & Citizen Science AI & Hubble Science Explore the Night Sky Observatory Hubble Observatory Hubble Design Mission Operations Science Operations Astronaut Missions to Hubble Hubble vs Webb Team Hubble Team Career Aspirations Hubble Astronauts Multimedia Images Videos Online Activities e-Books Sonifications Podcasts 3D Hubble Models Lithographs Fact Sheets Posters Hubble on the NASA App Glossary News Hubble News Social Media Media Resources 35th Anniversary More Online Activities 3 min read NASA’s Hubble Spies Stellar Sparkler for July 4th NASA Hubble Mission Team Goddard Space Flight Center Jul 04, 2026 Article Ancient stars shine in red, white and blue from a globular cluster almost as old as the universe itself in this image from NASA's Hubble Space Telescope.",
       "queued_ts": 1783173486
+    },
+    {
+      "fp": "9688a5f7e84a9d104b6dd625",
+      "title": "Live coverage: Semiconductor manufacturing test bed to fly alongside Starlink satellites on Falcon 9 launch",
+      "link": "https://spaceflightnow.com/2026/07/04/live-coverage-semiconductor-manufacturing-test-bed-to-fly-alongside-starlink-satellites-on-falcon-9-launch/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-07-04T21:56:12+00:00",
+      "day_brt": "2026-07-04",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: Semiconductor manufacturing test bed to fly alongside Starlink satellites on Falcon 9 launch July 4, 2026 Steven Young A Falcon 9 rocket stands ready for launch in this file photo. Two semiconductor fabrication test beds will hitch a sub-orbital ride on the first stage of a SpaceX Falcon 9 rocket that is set to launch another batch of Starlink satellites from Cape Canaveral shortly after sunrise Sunday.",
+      "queued_ts": 1783204363
+    },
+    {
+      "fp": "f1356d44cfbbbbc02a77af39",
+      "title": "Vast’s Haven-1 continues to advance through milestones ahead of planned 2027 launch",
+      "link": "https://www.nasaspaceflight.com/2026/07/vast-update-070426/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-07-04T22:10:06+00:00",
+      "day_brt": "2026-07-04",
+      "resumo_pt": "Resumo (PT-BR): Vast’s Haven-1 continues to advance through milestones ahead of planned 2027 launch by Eleanor Day July 4, 2026 written by Eleanor Day July 4, 2026 10 Vast Space’s Haven-1 station is on track to launch in Q1 2027, having achieved several key development milestones in recent weeks. The company also plans to develop high-power satellite buses and has signed several agreements with European countries to support astronaut missions to the International Space Station and Haven-1.",
+      "queued_ts": 1783204363
     }
   ],
   "digests_sent": {
@@ -5885,7 +5925,9 @@
       "d7fcbcd4eaddfa662e7d0af6": true
     },
     "2026-07-04": {
-      "6830c86bdfbc5a4767d41e07": true
+      "6830c86bdfbc5a4767d41e07": true,
+      "9688a5f7e84a9d104b6dd625": true,
+      "f1356d44cfbbbbc02a77af39": true
     }
   }
 }
