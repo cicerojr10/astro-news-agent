@@ -5273,6 +5273,14 @@
       "link": "https://www.nasaspaceflight.com/2026/07/starship-florida-pushing-launch/",
       "score": 3.6,
       "published_utc": "2026-07-03T21:26:45+00:00"
+    },
+    "6830c86bdfbc5a4767d41e07": {
+      "ts": 1783173483,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Hubble Spies Stellar Sparkler for July 4th",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/",
+      "score": 4.0,
+      "published_utc": "2026-07-04T11:15:37+00:00"
     }
   },
   "digest_queue": [
@@ -5551,6 +5559,18 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
+    },
+    {
+      "fp": "6830c86bdfbc5a4767d41e07",
+      "title": "NASA’s Hubble Spies Stellar Sparkler for July 4th",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-04T11:15:37+00:00",
+      "day_brt": "2026-07-04",
+      "resumo_pt": "Resumo (PT-BR): Explore Hubble Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space? Hubble by the Numbers At the Museum FAQs Impact & Benefits Hubble's Impact & Benefits Science Impacts Cultural Impact Technology Benefits Impact on Human Spaceflight Astro Community Impacts Science Hubble Science Science Themes Science Highlights Science Behind Discoveries Universe Uncovered Hubble's Partners in Science Hubble & Citizen Science AI & Hubble Science Explore the Night Sky Observatory Hubble Observatory Hubble Design Mission Operations Science Operations Astronaut Missions to Hubble Hubble vs Webb Team Hubble Team Career Aspirations Hubble Astronauts Multimedia Images Videos Online Activities e-Books Sonifications Podcasts 3D Hubble Models Lithographs Fact Sheets Posters Hubble on the NASA App Glossary News Hubble News Social Media Media Resources 35th Anniversary More Online Activities 3 min read NASA’s Hubble Spies Stellar Sparkler for July 4th NASA Hubble Mission Team Goddard Space Flight Center Jul 04, 2026 Article Ancient stars shine in red, white and blue from a globular cluster almost as old as the universe itself in this image from NASA's Hubble Space Telescope.",
+      "queued_ts": 1783173486
     }
   ],
   "digests_sent": {
@@ -5863,6 +5883,9 @@
       "c28c058c4fc3ffcd0764f028": true,
       "43d54c268c41cd6491dbc63f": true,
       "d7fcbcd4eaddfa662e7d0af6": true
+    },
+    "2026-07-04": {
+      "6830c86bdfbc5a4767d41e07": true
     }
   }
 }
