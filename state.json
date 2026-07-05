@@ -5297,6 +5297,15 @@
       "link": "https://www.nasaspaceflight.com/2026/07/vast-update-070426/",
       "score": 3.6,
       "published_utc": "2026-07-04T22:10:06+00:00"
+    },
+    "58ad6bca9bc7a0979fbc2118": {
+      "ts": 1783256499,
+      "source": "Spaceflight Now",
+      "title": "Semiconductor manufacturing test bed flies alongside Starlink satellites on Falcon 9 launch",
+      "link": "https://spaceflightnow.com/2026/07/04/live-coverage-semiconductor-manufacturing-test-bed-to-fly-alongside-starlink-satellites-on-falcon-9-launch/",
+      "score": 0.0,
+      "published_utc": "2026-07-04T21:56:12+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
