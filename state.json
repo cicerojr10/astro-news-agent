@@ -5314,6 +5314,22 @@
       "link": "https://www.space.com/space-exploration/nasa-tests-advanced-new-mars-rover-prototype-in-the-california-desert-video",
       "score": 2.8,
       "published_utc": "2026-07-05T14:00:00+00:00"
+    },
+    "12e2bb809622751d63818296": {
+      "ts": 1783341195,
+      "source": "Space.com",
+      "title": "Astronomers discover radio signals coming from rare 'Blue Eye Pulsar' after decades of silence",
+      "link": "https://www.space.com/astronomy/stars/astronomers-discover-radio-signals-coming-from-rare-blue-eye-pulsar-after-decades-of-silence",
+      "score": 2.8,
+      "published_utc": "2026-07-06T12:00:00+00:00"
+    },
+    "e60ed28558cdacb7537b470a": {
+      "ts": 1783341195,
+      "source": "Space.com",
+      "title": "'Once-in-a-millennium' asteroid flyby will be visible to much of the world in 2029",
+      "link": "https://www.space.com/astronomy/asteroids/once-in-a-millennium-asteroid-flyby-will-be-visible-to-much-of-the-world-in-2029",
+      "score": 2.8,
+      "published_utc": "2026-07-06T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -5848,6 +5864,9 @@
     "2026-07-05": {
       "morning": true,
       "night": true
+    },
+    "2026-07-06": {
+      "morning": true
     }
   },
   "sent_updates": {
