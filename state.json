@@ -5362,6 +5362,22 @@
       "link": "https://www.space.com/astronomy/exoplanets/nasa-just-found-a-planet-hiding-in-tess-spacecraft-data-all-thanks-to-einstein",
       "score": 2.8,
       "published_utc": "2026-07-06T19:00:00+00:00"
+    },
+    "9ff5a38ffaa70bf2e31e846d": {
+      "ts": 1783374435,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: Fire detectors, military tech demos, 3D printers among SpaceX rideshare payloads launching on midnight Falcon 9 flight",
+      "link": "https://spaceflightnow.com/2026/07/06/live-coverage-fire-detectors-military-tech-demos-3d-printers-among-spacex-rideshare-payloads-launching-on-midnight-falcon-9-flight/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-07-06T21:36:51+00:00"
+    },
+    "af267ee657b3e6cf13d387c9": {
+      "ts": 1783374437,
+      "source": "Space.com",
+      "title": "Watch SpaceX Falcon 9 rocket launch 81 satellites early on July 7",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-transporter-17-rideshare-launch-81-satellites",
+      "score": 2.8,
+      "published_utc": "2026-07-06T21:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -5652,6 +5668,18 @@
       "day_brt": "2026-07-06",
       "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Examining Algal Blooms in Blue... Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 5 min read Examining Algal Blooms in Blue Mesa Image of the Day for July 6, 2026 Using satellite data, researchers connected harmful algal blooms with warm water and low water levels at one of Colorado's largest reservoirs.",
       "queued_ts": 1783347469
+    },
+    {
+      "fp": "9ff5a38ffaa70bf2e31e846d",
+      "title": "Live coverage: Fire detectors, military tech demos, 3D printers among SpaceX rideshare payloads launching on midnight Falcon 9 flight",
+      "link": "https://spaceflightnow.com/2026/07/06/live-coverage-fire-detectors-military-tech-demos-3d-printers-among-spacex-rideshare-payloads-launching-on-midnight-falcon-9-flight/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-07-06T21:36:51+00:00",
+      "day_brt": "2026-07-06",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: Fire detectors, military tech demos, 3D printers among SpaceX rideshare payloads launching on midnight Falcon 9 flight July 6, 2026 Will Robinson-Smith A Falcon 9 rocket stands poised to launch from the Space Launch Complex 4E at Vandenberg Space Force Base in California. File Photo: SpaceX A SpaceX Falcon 9, launched from California, will ferry dozens of customer satellites from around the world into a Sun-synchronous Earth orbit shortly after midnight local time on Tuesday.",
+      "queued_ts": 1783374437
     }
   ],
   "digests_sent": {
@@ -5954,7 +5982,8 @@
       "f1356d44cfbbbbc02a77af39": true
     },
     "2026-07-06": {
-      "41ae86acda064ec68c48ce82": true
+      "41ae86acda064ec68c48ce82": true,
+      "9ff5a38ffaa70bf2e31e846d": true
     }
   }
 }
