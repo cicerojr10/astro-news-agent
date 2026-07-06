@@ -5656,30 +5656,6 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
-    },
-    {
-      "fp": "41ae86acda064ec68c48ce82",
-      "title": "Examining Algal Blooms in Blue Mesa",
-      "link": "https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-06T04:01:00+00:00",
-      "day_brt": "2026-07-06",
-      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Examining Algal Blooms in Blue... Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 5 min read Examining Algal Blooms in Blue Mesa Image of the Day for July 6, 2026 Using satellite data, researchers connected harmful algal blooms with warm water and low water levels at one of Colorado's largest reservoirs.",
-      "queued_ts": 1783347469
-    },
-    {
-      "fp": "9ff5a38ffaa70bf2e31e846d",
-      "title": "Live coverage: Fire detectors, military tech demos, 3D printers among SpaceX rideshare payloads launching on midnight Falcon 9 flight",
-      "link": "https://spaceflightnow.com/2026/07/06/live-coverage-fire-detectors-military-tech-demos-3d-printers-among-spacex-rideshare-payloads-launching-on-midnight-falcon-9-flight/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-07-06T21:36:51+00:00",
-      "day_brt": "2026-07-06",
-      "resumo_pt": "Resumo (PT-BR): Live coverage: Fire detectors, military tech demos, 3D printers among SpaceX rideshare payloads launching on midnight Falcon 9 flight July 6, 2026 Will Robinson-Smith A Falcon 9 rocket stands poised to launch from the Space Launch Complex 4E at Vandenberg Space Force Base in California. File Photo: SpaceX A SpaceX Falcon 9, launched from California, will ferry dozens of customer satellites from around the world into a Sun-synchronous Earth orbit shortly after midnight local time on Tuesday.",
-      "queued_ts": 1783374437
     }
   ],
   "digests_sent": {
@@ -5938,7 +5914,8 @@
       "night": true
     },
     "2026-07-06": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
