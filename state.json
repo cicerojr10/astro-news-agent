@@ -5330,6 +5330,22 @@
       "link": "https://www.space.com/astronomy/asteroids/once-in-a-millennium-asteroid-flyby-will-be-visible-to-much-of-the-world-in-2029",
       "score": 2.8,
       "published_utc": "2026-07-06T10:00:00+00:00"
+    },
+    "41ae86acda064ec68c48ce82": {
+      "ts": 1783347466,
+      "source": "NASA Breaking News",
+      "title": "Examining Algal Blooms in Blue Mesa",
+      "link": "https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/",
+      "score": 4.0,
+      "published_utc": "2026-07-06T04:01:00+00:00"
+    },
+    "483865c4937b8d8c48d97d8f": {
+      "ts": 1783347469,
+      "source": "Space.com",
+      "title": "NASA will have to find a way to service its new alien-hunting space telescope",
+      "link": "https://www.space.com/space-exploration/nasa-will-have-to-find-a-way-to-service-its-new-alien-hunting-space-telescope",
+      "score": 2.8,
+      "published_utc": "2026-07-06T13:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -5608,6 +5624,18 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
+    },
+    {
+      "fp": "41ae86acda064ec68c48ce82",
+      "title": "Examining Algal Blooms in Blue Mesa",
+      "link": "https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-06T04:01:00+00:00",
+      "day_brt": "2026-07-06",
+      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Examining Algal Blooms in Blue... Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 5 min read Examining Algal Blooms in Blue Mesa Image of the Day for July 6, 2026 Using satellite data, researchers connected harmful algal blooms with warm water and low water levels at one of Colorado's largest reservoirs.",
+      "queued_ts": 1783347469
     }
   ],
   "digests_sent": {
@@ -5870,31 +5898,6 @@
     }
   },
   "sent_updates": {
-    "2026-06-25": {
-      "10bd90b4d7375bb121fd9807": true,
-      "cd4d9df87f7b8b125cb2670b": true,
-      "93821b34bdc5c8ee1b5ce398": true,
-      "31f2143c8f071738f50e231f": true,
-      "f5bbe359c4dd82f19534599d": true,
-      "92e5f771c7bdbbf6a4955a75": true
-    },
-    "2026-06-26": {
-      "4985358af9fbdd7a75619be5": true,
-      "2f11ba4fd1b2bc4b0716d232": true,
-      "88a5a72c31e6c19e309a068b": true,
-      "20a30c0f9cf9da6e74394e7b": true,
-      "d9481ac7cf8595c460ec033e": true,
-      "f26510c3c5172ed375e7bab9": true,
-      "bf12539409a93d915737b490": true,
-      "4a51ef03617f4a4bca080513": true
-    },
-    "2026-06-27": {
-      "ece6b960e95115ed6aae7707": true
-    },
-    "2026-06-28": {
-      "b597b459fb22130297c7b3ab": true,
-      "b849dedd03411555d3b21209": true
-    },
     "2026-06-29": {
       "6e4586f0755f37d661e836e6": true,
       "bf6ab7f8d5c465ce2c90cc36": true,
@@ -5933,6 +5936,9 @@
       "6830c86bdfbc5a4767d41e07": true,
       "9688a5f7e84a9d104b6dd625": true,
       "f1356d44cfbbbbc02a77af39": true
+    },
+    "2026-07-06": {
+      "41ae86acda064ec68c48ce82": true
     }
   }
 }
