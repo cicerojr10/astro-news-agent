@@ -5378,6 +5378,15 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-transporter-17-rideshare-launch-81-satellites",
       "score": 2.8,
       "published_utc": "2026-07-06T21:00:00+00:00"
+    },
+    "73fe962b93bfc1ca164fec74": {
+      "ts": 1783413792,
+      "source": "Space.com",
+      "title": "SpaceX launches 81 satellites to orbit from California, lands rocket on ship at sea",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-transporter-17-rideshare-launch-81-satellites",
+      "score": 0.0,
+      "published_utc": "2026-07-06T21:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
