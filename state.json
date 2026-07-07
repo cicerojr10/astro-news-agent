@@ -5420,6 +5420,22 @@
       "link": "https://www.space.com/space-exploration/how-public-private-partnerships-can-turn-mars-into-an-economic-frontier-op-ed",
       "score": 2.8,
       "published_utc": "2026-07-07T17:00:00+00:00"
+    },
+    "6f1fe9fa75cec25b78ab1ae1": {
+      "ts": 1783455272,
+      "source": "Space.com",
+      "title": "Our Milky Way galaxy might be larger than we thought",
+      "link": "https://www.space.com/science/astrophysics/our-milky-way-galaxy-might-be-larger-than-we-thought",
+      "score": 8.399999999999999,
+      "published_utc": "2026-07-07T20:00:00+00:00"
+    },
+    "8d282b7efc0eb14698cb13a5": {
+      "ts": 1783455273,
+      "source": "Space.com",
+      "title": "'Project Hail Mary' is finally streaming Amazon Prime Video, and we can't wait to watch it again",
+      "link": "https://www.space.com/entertainment/project-hail-mary-is-finally-streaming-amazon-prime-video-and-we-cant-wait-to-watch-it-again",
+      "score": 2.8,
+      "published_utc": "2026-07-07T19:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -5698,6 +5714,18 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
+    },
+    {
+      "fp": "6f1fe9fa75cec25b78ab1ae1",
+      "title": "Our Milky Way galaxy might be larger than we thought",
+      "link": "https://www.space.com/science/astrophysics/our-milky-way-galaxy-might-be-larger-than-we-thought",
+      "source": "Space.com",
+      "score": 8.399999999999999,
+      "is_anomaly": true,
+      "published_utc": "2026-07-07T20:00:00+00:00",
+      "day_brt": "2026-07-07",
+      "resumo_pt": "Resumo (PT-BR): Science Astrophysics Our Milky Way galaxy might be larger than we thought News By Chelsea Gohd Published 7 July 2026 Astronomers used cosmic explosions to find that we may be wrong about our own galaxy. When you purchase through links on our site, we may earn an affiliate commission.",
+      "queued_ts": 1783455273
     }
   ],
   "digests_sent": {
@@ -6006,6 +6034,9 @@
     "2026-07-06": {
       "41ae86acda064ec68c48ce82": true,
       "9ff5a38ffaa70bf2e31e846d": true
+    },
+    "2026-07-07": {
+      "6f1fe9fa75cec25b78ab1ae1": true
     }
   }
 }
