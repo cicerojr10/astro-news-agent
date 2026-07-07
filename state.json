@@ -5746,54 +5746,6 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
-    },
-    {
-      "fp": "6f1fe9fa75cec25b78ab1ae1",
-      "title": "Our Milky Way galaxy might be larger than we thought",
-      "link": "https://www.space.com/science/astrophysics/our-milky-way-galaxy-might-be-larger-than-we-thought",
-      "source": "Space.com",
-      "score": 8.399999999999999,
-      "is_anomaly": true,
-      "published_utc": "2026-07-07T20:00:00+00:00",
-      "day_brt": "2026-07-07",
-      "resumo_pt": "Resumo (PT-BR): Science Astrophysics Our Milky Way galaxy might be larger than we thought News By Chelsea Gohd Published 7 July 2026 Astronomers used cosmic explosions to find that we may be wrong about our own galaxy. When you purchase through links on our site, we may earn an affiliate commission.",
-      "queued_ts": 1783455273
-    },
-    {
-      "fp": "de9fc5991362260661743cf6",
-      "title": "NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge",
-      "link": "https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-07T18:00:00+00:00",
-      "day_brt": "2026-07-07",
-      "resumo_pt": "Resumo (PT-BR): 2 Min Read NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge Following a ceremony on July 7, 2026, officials hold up a U.S. 250th pennant at \"Area 400,\" a 105-acre parcel previously part of NASA's Goddard Space Flight Center in Greenbelt, Md., and now part of the U.S.",
-      "queued_ts": 1783460491
-    },
-    {
-      "fp": "7a137b318e3a7213b90e550e",
-      "title": "NASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health",
-      "link": "https://science.nasa.gov/missions/new-horizons/nasas-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-07T17:48:49+00:00",
-      "day_brt": "2026-07-07",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health NASA Science Editorial Team Jul 07, 2026 Article Following its longest hibernation period ever of nearly a year, NASA’s New Horizons spacecraft has emerged in good health and is ready to begin transmitting science data gathered in the distant Kuiper Belt far beyond Pluto. From left, flight controllers Mark Lahr and Josh Albers, and Mission Operations Manager Alice Bowman, monitor telemetry streaming from NASA's New Horizons spacecraft to the mission operations center at the Johns Hopkins Applied Physics Laboratory in Laurel, Maryland, on June 24, 2026.",
-      "queued_ts": 1783460491
-    },
-    {
-      "fp": "61ab381ec0c58aae43e2c152",
-      "title": "July 2026 Satellite Puzzler",
-      "link": "https://science.nasa.gov/earth/earth-observatory/july-2026-satellite-puzzler/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-07T15:48:16+00:00",
-      "day_brt": "2026-07-07",
-      "resumo_pt": "Resumo (PT-BR): Earth Observatory Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 2 min read July 2026 Satellite Puzzler NASA Earth Observatory Jul 07, 2026 Article Puzzler Previous Satellite Puzzlers Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
-      "queued_ts": 1783460491
     }
   ],
   "digests_sent": {
@@ -6056,7 +6008,8 @@
       "night": true
     },
     "2026-07-07": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
