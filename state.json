@@ -5387,6 +5387,23 @@
       "score": 0.0,
       "published_utc": "2026-07-06T21:00:00+00:00",
       "note": "not_today"
+    },
+    "f19ccd82e7d9fa4cdff361f0": {
+      "ts": 1783423865,
+      "source": "Spaceflight Now",
+      "title": "Fire detectors, military tech demos, 3D printers among SpaceX rideshare payloads launching on midnight Falcon 9 flight",
+      "link": "https://spaceflightnow.com/2026/07/06/live-coverage-fire-detectors-military-tech-demos-3d-printers-among-spacex-rideshare-payloads-launching-on-midnight-falcon-9-flight/",
+      "score": 0.0,
+      "published_utc": "2026-07-06T21:36:51+00:00",
+      "note": "not_today"
+    },
+    "7afe4b82dd484387917481bd": {
+      "ts": 1783423866,
+      "source": "Space.com",
+      "title": "The sun's atmosphere is way hotter than its surface. Scientists may finally know why",
+      "link": "https://www.space.com/astronomy/sun/the-suns-atmosphere-is-way-hotter-than-its-surface-scientists-may-finally-know-why",
+      "score": 2.8,
+      "published_utc": "2026-07-07T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -5925,6 +5942,9 @@
     "2026-07-06": {
       "morning": true,
       "night": true
+    },
+    "2026-07-07": {
+      "morning": true
     }
   },
   "sent_updates": {
