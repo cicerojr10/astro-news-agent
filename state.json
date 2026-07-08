@@ -5468,6 +5468,22 @@
       "link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-celebrates-its-4th-birthday-with-stunning-image-of-a-galaxy-crash-site",
       "score": 2.8,
       "published_utc": "2026-07-07T21:00:00+00:00"
+    },
+    "9f152b3f881d39e998011a59": {
+      "ts": 1783512663,
+      "source": "NASASpaceflight",
+      "title": "Progress at the Cape: New Launch Pads rise for Stoke, Relativity",
+      "link": "https://www.nasaspaceflight.com/2026/07/progress-cape-new-pads-stoke-relativity/",
+      "score": 3.6,
+      "published_utc": "2026-07-08T11:45:19+00:00"
+    },
+    "2dcc91f2d493f814fbc3eab7": {
+      "ts": 1783512664,
+      "source": "Space.com",
+      "title": "NASA's New Horizons probe just woke up from hibernation 6 billion miles away beyond Pluto. What's it doing out there?",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-new-horizon-probe-just-woke-up-from-hibernation-6-billion-miles-away-beyond-pluto-whats-it-doing-out-there",
+      "score": 2.8,
+      "published_utc": "2026-07-08T11:45:53+00:00"
     }
   },
   "digest_queue": [
@@ -5746,6 +5762,18 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
+    },
+    {
+      "fp": "9f152b3f881d39e998011a59",
+      "title": "Progress at the Cape: New Launch Pads rise for Stoke, Relativity",
+      "link": "https://www.nasaspaceflight.com/2026/07/progress-cape-new-pads-stoke-relativity/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-07-08T11:45:19+00:00",
+      "day_brt": "2026-07-08",
+      "resumo_pt": "Resumo (PT-BR): Progress at the Cape: New Launch Pads rise for Stoke, Relativity by Chris Bergin July 8, 2026 written by Chris Bergin July 8, 2026 1 The Space Coast’s rejuvination continues apace, with multiple launch providers advancing new facilities at Cape Canaveral. Construction highlights include Stoke Space’s near-complete pad at LC-14 and Relativity Space’s ongoing work at LC-16 for Terran R.",
+      "queued_ts": 1783512664
     }
   ],
   "digests_sent": {
@@ -6064,6 +6092,9 @@
       "de9fc5991362260661743cf6": true,
       "7a137b318e3a7213b90e550e": true,
       "61ab381ec0c58aae43e2c152": true
+    },
+    "2026-07-08": {
+      "9f152b3f881d39e998011a59": true
     }
   }
 }
