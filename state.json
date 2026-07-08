@@ -5532,6 +5532,14 @@
       "link": "https://www.space.com/astronomy/stars/dance-of-death-between-binary-stars-leads-to-an-unusual-supernova",
       "score": 11.2,
       "published_utc": "2026-07-08T21:00:00+00:00"
+    },
+    "2be061fa59c1a3829046b5c7": {
+      "ts": 1783555056,
+      "source": "Space.com",
+      "title": "Watch a SpaceX Falcon 9 rocket launch for record-breaking 36th time early on July 9",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-36th-time-new-record",
+      "score": 2.8,
+      "published_utc": "2026-07-08T23:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -5810,54 +5818,6 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
-    },
-    {
-      "fp": "9f152b3f881d39e998011a59",
-      "title": "Progress at the Cape: New Launch Pads rise for Stoke, Relativity",
-      "link": "https://www.nasaspaceflight.com/2026/07/progress-cape-new-pads-stoke-relativity/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-07-08T11:45:19+00:00",
-      "day_brt": "2026-07-08",
-      "resumo_pt": "Resumo (PT-BR): Progress at the Cape: New Launch Pads rise for Stoke, Relativity by Chris Bergin July 8, 2026 written by Chris Bergin July 8, 2026 1 The Space Coast’s rejuvination continues apace, with multiple launch providers advancing new facilities at Cape Canaveral. Construction highlights include Stoke Space’s near-complete pad at LC-14 and Relativity Space’s ongoing work at LC-16 for Terran R.",
-      "queued_ts": 1783512664
-    },
-    {
-      "fp": "dfc792e8afb3a3a00cde57ac",
-      "title": "Dance of death between binary stars leads to an unusual supernova",
-      "link": "https://www.space.com/astronomy/stars/dance-of-death-between-binary-stars-leads-to-an-unusual-supernova",
-      "source": "Space.com",
-      "score": 11.2,
-      "is_anomaly": true,
-      "published_utc": "2026-07-08T21:00:00+00:00",
-      "day_brt": "2026-07-08",
-      "resumo_pt": "Resumo (PT-BR): Astronomy Stars Dance of death between binary stars leads to an unusual supernova News By Robert Lea Published 8 July 2026 New research suggests that binary stars don't just live together; they die together too. When you purchase through links on our site, we may earn an affiliate commission.",
-      "queued_ts": 1783547433
-    },
-    {
-      "fp": "7b0386ec4d0ca9f13e273c2b",
-      "title": "Students Connect NASA Science With Indigenous Knowledge to Study Coastal Erosion",
-      "link": "https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-08T21:04:14+00:00",
-      "day_brt": "2026-07-08",
-      "resumo_pt": "Resumo (PT-BR): Explore This Section Science Science Activation Students Connect NASA Science... Overview Resources Opportunities Citizen Science Highlights About Science Activation 3 min read Students Connect NASA Science With Indigenous Knowledge to Study Coastal Erosion NASA Science Editorial Team Jul 08, 2026 Article Students return from fieldwork and sit together in the classroom, examining NASA satellite images to learn about the changes to their community's coastline.",
-      "queued_ts": 1783547433
-    },
-    {
-      "fp": "52f7c7b27737bf6fa57c72ad",
-      "title": "Rocket Lab sees Electron gains, Neutron delays in first half of 2026",
-      "link": "https://www.nasaspaceflight.com/2026/07/rocket-lab-update-072026/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-07-08T21:49:58+00:00",
-      "day_brt": "2026-07-08",
-      "resumo_pt": "Resumo (PT-BR): Rocket Lab sees Electron gains, Neutron delays in first half of 2026 by Sean Yoder July 8, 2026 written by Sean Yoder July 8, 2026 2 Rocket Lab’s Electron rocket has had a record stretch through the first half of 2026, driving a sharp rise in launch contracts and revenue, even as the company’s larger Neutron vehicle continues working through a delayed path to its debut. Electron’s record pace in 2026 ​Rocket Lab closed out the first quarter of 2026 by signing 36 new launch contracts between January and March, comprising 31 Electron and HASTE agreements plus five dedicated Neutron bookings.",
-      "queued_ts": 1783547433
     }
   ],
   "digests_sent": {
@@ -6124,7 +6084,8 @@
       "night": true
     },
     "2026-07-08": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
