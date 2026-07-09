@@ -5548,6 +5548,15 @@
       "link": "https://spaceflightnow.com/2026/07/09/live-coverage-spacex-to-launch-falcon-9-rocket-on-record-breaking-36th-flight/",
       "score": 4.680000000000001,
       "published_utc": "2026-07-09T02:14:49+00:00"
+    },
+    "2fa4c81cb8f9619dc3e1916e": {
+      "ts": 1783591497,
+      "source": "Space.com",
+      "title": "SpaceX Falcon 9 rocket launches for record-breaking 36th time",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-36th-time-new-record",
+      "score": 0.0,
+      "published_utc": "2026-07-08T23:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
