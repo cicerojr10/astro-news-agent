@@ -5591,6 +5591,23 @@
       "link": "https://www.space.com/space-exploration/search-for-life/could-evidence-of-life-on-mars-be-hiding-in-clay-europe-wants-to-send-a-rover-to-check",
       "score": 2.8,
       "published_utc": "2026-07-09T15:00:00+00:00"
+    },
+    "883d7b8e56dc577fd67b326a": {
+      "ts": 1783618350,
+      "source": "NASA Breaking News",
+      "title": "NASA Scientists Take to Air and Space to Study Arctic Sea Ice",
+      "link": "https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/",
+      "score": 4.0,
+      "published_utc": "2026-07-09T15:42:58+00:00"
+    },
+    "0cd80da10a23efe19f8a8e8e": {
+      "ts": 1783618350,
+      "source": "NASA Breaking News",
+      "title": "NASA Awards Contracts for Mars Advanced Surface Mobility Technology",
+      "link": "https://science.nasa.gov/directorates/smd/planetary-science-division/mars-exploration-program/nasa-awards-contracts-for-mars-advanced-surface-mobility-technology/",
+      "score": 0.0,
+      "published_utc": "2026-07-08T16:22:50+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -5881,6 +5898,18 @@
       "day_brt": "2026-07-08",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch Falcon 9 rocket on record-breaking 36th flight July 9, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket with the first stage booster, 1067, stands at Launch Complex 39A on Aug. Image: SpaceX SpaceX is set to break another rocket reuse record Thursday morning when it launches its most-flown Falcon 9 booster for a 36th time.",
       "queued_ts": 1783563888
+    },
+    {
+      "fp": "883d7b8e56dc577fd67b326a",
+      "title": "NASA Scientists Take to Air and Space to Study Arctic Sea Ice",
+      "link": "https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-09T15:42:58+00:00",
+      "day_brt": "2026-07-09",
+      "resumo_pt": "Resumo (PT-BR): 5 min read NASA Scientists Take to Air and Space to Study Arctic Sea Ice Jet Propulsion Laboratory Jul 09, 2026 Article These four views were captured from a World War II-era aircraft in April 2026, when scientists used instruments aboard the plane to study Arctic sea ice. Their flights were timed to coincide with satellites passing overhead so the airborne and orbital data could be combined.",
+      "queued_ts": 1783618353
     }
   ],
   "digests_sent": {
@@ -6210,6 +6239,9 @@
       "7b0386ec4d0ca9f13e273c2b": true,
       "52f7c7b27737bf6fa57c72ad": true,
       "b58170ecaec3d8c946f454da": true
+    },
+    "2026-07-09": {
+      "883d7b8e56dc577fd67b326a": true
     }
   }
 }
