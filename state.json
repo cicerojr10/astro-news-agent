@@ -5540,6 +5540,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-36th-time-new-record",
       "score": 2.8,
       "published_utc": "2026-07-08T23:00:00+00:00"
+    },
+    "b58170ecaec3d8c946f454da": {
+      "ts": 1783563887,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch Falcon 9 rocket on record-breaking 36th flight",
+      "link": "https://spaceflightnow.com/2026/07/09/live-coverage-spacex-to-launch-falcon-9-rocket-on-record-breaking-36th-flight/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-07-09T02:14:49+00:00"
     }
   },
   "digest_queue": [
@@ -5818,6 +5826,18 @@
       "day_brt": "2026-06-22",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’ June 23, 2026 Will Robinson-Smith An artist’s interpretation of SpaceX’s Starfall reentry capsule. Graphic: SpaceX via FAA SpaceX plans to fly a demonstration of a new uncrewed reentry capsule named ‘Starfall’ on a Falcon 9 rocket from Cape Canaveral Space Force Station early Tuesday morning.",
       "queued_ts": 1782179292
+    },
+    {
+      "fp": "b58170ecaec3d8c946f454da",
+      "title": "Live coverage: SpaceX to launch Falcon 9 rocket on record-breaking 36th flight",
+      "link": "https://spaceflightnow.com/2026/07/09/live-coverage-spacex-to-launch-falcon-9-rocket-on-record-breaking-36th-flight/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-07-09T02:14:49+00:00",
+      "day_brt": "2026-07-08",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch Falcon 9 rocket on record-breaking 36th flight July 9, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket with the first stage booster, 1067, stands at Launch Complex 39A on Aug. Image: SpaceX SpaceX is set to break another rocket reuse record Thursday morning when it launches its most-flown Falcon 9 booster for a 36th time.",
+      "queued_ts": 1783563888
     }
   ],
   "digests_sent": {
@@ -6142,7 +6162,8 @@
       "9f152b3f881d39e998011a59": true,
       "dfc792e8afb3a3a00cde57ac": true,
       "7b0386ec4d0ca9f13e273c2b": true,
-      "52f7c7b27737bf6fa57c72ad": true
+      "52f7c7b27737bf6fa57c72ad": true,
+      "b58170ecaec3d8c946f454da": true
     }
   }
 }
