@@ -5624,6 +5624,22 @@
       "link": "https://www.space.com/astronomy/black-holes/scientists-have-discovered-the-oldest-quasar-ever-seen-and-it-shines-with-the-light-of-a-trillion-suns",
       "score": 2.8,
       "published_utc": "2026-07-09T21:00:00+00:00"
+    },
+    "a7687cfe8f9c4df8c5ae5351": {
+      "ts": 1783640183,
+      "source": "NASA Breaking News",
+      "title": "NASA Sets Coverage for Astronaut Anil Menon Launch to Space Station",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/",
+      "score": 4.0,
+      "published_utc": "2026-07-09T22:09:27+00:00"
+    },
+    "266da1d08348e16e96745dbb": {
+      "ts": 1783640183,
+      "source": "NASA Breaking News",
+      "title": "NASA Space Telescope Maps Magnetic Fields of ‘Lighthouse’ Pulsar",
+      "link": "https://science.nasa.gov/missions/ixpe/nasa-space-telescope-maps-magnetic-fields-of-lighthouse-pulsar/",
+      "score": 4.0,
+      "published_utc": "2026-07-09T20:08:35+00:00"
     }
   },
   "digest_queue": [
@@ -5914,18 +5930,6 @@
       "day_brt": "2026-07-08",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch Falcon 9 rocket on record-breaking 36th flight July 9, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket with the first stage booster, 1067, stands at Launch Complex 39A on Aug. Image: SpaceX SpaceX is set to break another rocket reuse record Thursday morning when it launches its most-flown Falcon 9 booster for a 36th time.",
       "queued_ts": 1783563888
-    },
-    {
-      "fp": "883d7b8e56dc577fd67b326a",
-      "title": "NASA Scientists Take to Air and Space to Study Arctic Sea Ice",
-      "link": "https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-09T15:42:58+00:00",
-      "day_brt": "2026-07-09",
-      "resumo_pt": "Resumo (PT-BR): 5 min read NASA Scientists Take to Air and Space to Study Arctic Sea Ice Jet Propulsion Laboratory Jul 09, 2026 Article These four views were captured from a World War II-era aircraft in April 2026, when scientists used instruments aboard the plane to study Arctic sea ice. Their flights were timed to coincide with satellites passing overhead so the airborne and orbital data could be combined.",
-      "queued_ts": 1783618353
     }
   ],
   "digests_sent": {
@@ -6196,7 +6200,8 @@
       "night": true
     },
     "2026-07-09": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -6257,7 +6262,9 @@
       "b58170ecaec3d8c946f454da": true
     },
     "2026-07-09": {
-      "883d7b8e56dc577fd67b326a": true
+      "883d7b8e56dc577fd67b326a": true,
+      "a7687cfe8f9c4df8c5ae5351": true,
+      "266da1d08348e16e96745dbb": true
     }
   }
 }
