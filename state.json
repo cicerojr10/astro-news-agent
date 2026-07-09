@@ -5575,6 +5575,14 @@
       "score": 0.0,
       "published_utc": "2026-07-07T19:00:00+00:00",
       "note": "not_today"
+    },
+    "0159c1e93cdfc9b33c29c890": {
+      "ts": 1783604426,
+      "source": "Space.com",
+      "title": "The US wants to build offshore rocket launch sites. Critics say 'our coasts deserve better'",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-us-wants-to-build-offshore-rocket-launch-sites-critics-say-our-coasts-deserve-better",
+      "score": 2.8,
+      "published_utc": "2026-07-09T13:00:00+00:00"
     }
   },
   "digest_queue": [
