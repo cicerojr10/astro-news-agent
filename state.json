@@ -5557,6 +5557,24 @@
       "score": 0.0,
       "published_utc": "2026-07-08T23:00:00+00:00",
       "note": "not_today"
+    },
+    "0968a7890e5ed4b025c3da01": {
+      "ts": 1783600868,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches Falcon 9 rocket on record-breaking 36th flight",
+      "link": "https://spaceflightnow.com/2026/07/09/live-coverage-spacex-to-launch-falcon-9-rocket-on-record-breaking-36th-flight/",
+      "score": 0.0,
+      "published_utc": "2026-07-09T02:14:49+00:00",
+      "note": "not_today"
+    },
+    "3d7456db406031482ff8e553": {
+      "ts": 1783600869,
+      "source": "Space.com",
+      "title": "'Project Hail Mary' is finally streaming on Amazon Prime Video, and we can't wait to watch it again",
+      "link": "https://www.space.com/entertainment/project-hail-mary-is-finally-streaming-amazon-prime-video-and-we-cant-wait-to-watch-it-again",
+      "score": 0.0,
+      "published_utc": "2026-07-07T19:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -6115,6 +6133,9 @@
     "2026-07-08": {
       "morning": true,
       "night": true
+    },
+    "2026-07-09": {
+      "morning": true
     }
   },
   "sent_updates": {
