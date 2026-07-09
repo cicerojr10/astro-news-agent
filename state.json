@@ -5608,6 +5608,14 @@
       "score": 0.0,
       "published_utc": "2026-07-08T16:22:50+00:00",
       "note": "not_today"
+    },
+    "e19d8356c6fc33ed587d7102": {
+      "ts": 1783630474,
+      "source": "Space.com",
+      "title": "SpaceX wants to launch 100,000 Starlink satellites to orbit",
+      "link": "https://www.space.com/space-exploration/satellites/spacex-wants-to-launch-100-000-starlink-satellites-to-orbit",
+      "score": 2.8,
+      "published_utc": "2026-07-09T19:28:45+00:00"
     }
   },
   "digest_queue": [
