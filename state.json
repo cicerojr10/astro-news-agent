@@ -6011,54 +6011,6 @@
       "day_brt": "2026-07-08",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch Falcon 9 rocket on record-breaking 36th flight July 9, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket with the first stage booster, 1067, stands at Launch Complex 39A on Aug. Image: SpaceX SpaceX is set to break another rocket reuse record Thursday morning when it launches its most-flown Falcon 9 booster for a 36th time.",
       "queued_ts": 1783563888
-    },
-    {
-      "fp": "fd2879867fb7c18c082f1ea8",
-      "title": "Early Career Faculty (ECF) 2025 Awards",
-      "link": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-10T19:23:55+00:00",
-      "day_brt": "2026-07-10",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Early Career Faculty (ECF) 2025 Awards Loura Hall Jul 10, 2026 Article Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Damiano Baccarella University of Tennessee, Knoxville Application of Resonance Enhanced Multi-Photon Ionization Diagnostics to the Characterization of Arcjet Flows​ Ciprian Dumitrache Colorado State University Ultrafast Laser Diagnostics for Nonequilibrium Flowfields Characterization in Atmospheric Entry Studies​ Dan Fries University of Kentucky, Lexington Multiplexed Polarization Spectroscopy for Single-Shot Multi-Species Diagnostics in High-Enthalpy Flows​ Yi Mazumdar Georgia Institute of Technology Simultaneous Temperature, Species, and Velocity Measurements using Ultrafast Laser Diagnostics for Ground Testing of Spacecraft Atmospheric Entry Systems​ Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation, and Control Glen Chou Colorado School of Mines Robust Real-Time Hierarchical Neural Planning and Control with System-Level Guarantees Roshan Eapen University of California, Berkeley Hamilton-Jacobi aided Planning and Reasoning for Intelligent Spacecraft Maneuvers (HJ-PRISM) Bin Hu Stanford University Safety-Enabled and Efficient Onboard Planning for Autonomous Spacecraft via Physics-Informed Reinforcement Learning",
-      "queued_ts": 1783714388
-    },
-    {
-      "fp": "81b564ba8843bef4cc9742ce",
-      "title": "NASA Volunteers Help Zooniverse Reach 1 Billion Classifications",
-      "link": "https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-10T19:00:53+00:00",
-      "day_brt": "2026-07-10",
-      "resumo_pt": "Resumo (PT-BR): Explore This Section Science Citizen Science NASA Volunteers Help... Overview Resources Opportunities Citizen Science Highlights About Science Activation 2 min read NASA Volunteers Help Zooniverse Reach 1 Billion Classifications NASA Science Editorial Team Jul 10, 2026 Article The Zooniverse, a NASA grantee that runs the world’s largest platform for online people-powered research, has reached an extraordinary milestone: 1 billion classifications contributed by volunteers around the world.",
-      "queued_ts": 1783714388
-    },
-    {
-      "fp": "a24811d04dd3bf53017f27c5",
-      "title": "Booster 20 completes record duration Static Fire",
-      "link": "https://www.nasaspaceflight.com/2026/07/booster-20-record-static-fire/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-07-10T19:46:17+00:00",
-      "day_brt": "2026-07-10",
-      "resumo_pt": "Resumo (PT-BR): Booster 20 completes record duration Static Fire by Ryan Weber July 10, 2026 written by Ryan Weber July 10, 2026 1 With the 33 engine static fire completed for Booster 20, SpaceX is pushing hard to fly Flight 13 as soon as possible, with notices popping up for next week and the week after. The final component is the Ship 40 rollout if Booster 20 stays at the launch site.",
-      "queued_ts": 1783714388
-    },
-    {
-      "fp": "80e57725c6c96467917cb0c9",
-      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
-      "link": "https://spaceflightnow.com/2026/07/10/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-10/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-07-10T20:59:39+00:00",
-      "day_brt": "2026-07-10",
-      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB July 10, 2026 Will Robinson-Smith A Falcon 9 rocket stands poised to launch from the Space Launch Complex 4E at Vandenberg Space Force Base in California. File Photo: SpaceX SpaceX aims to launch its latest batch of Starlink satellites Friday night from Vandenberg Space Force Base using its second most-flown Falcon 9 first stage booster.",
-      "queued_ts": 1783718402
     }
   ],
   "digests_sent": {
@@ -6333,7 +6285,8 @@
       "night": true
     },
     "2026-07-10": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
