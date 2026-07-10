@@ -5673,6 +5673,14 @@
       "score": 0.0,
       "published_utc": "2026-07-06T16:00:00+00:00",
       "note": "not_today"
+    },
+    "a248265d1b22dbee77648496": {
+      "ts": 1783704435,
+      "source": "Space.com",
+      "title": "SpaceX ignites all 33 powerful engines on Starship booster ahead of Flight 13 launch",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-ignites-all-33-powerful-engines-on-starship-booster-test-ahead-of-flight-13-test-launch",
+      "score": 2.8,
+      "published_utc": "2026-07-10T16:13:48+00:00"
     }
   },
   "digest_queue": [
