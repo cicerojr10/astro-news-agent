@@ -5648,6 +5648,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/making-history-china-lands-rocket-during-an-orbital-launch-for-1st-time-ever",
       "score": 2.8,
       "published_utc": "2026-07-10T06:55:44+00:00"
+    },
+    "ddb7b23f90ecb8998c6e335d": {
+      "ts": 1783682861,
+      "source": "Space.com",
+      "title": "Astronomers may have heard the 1st 'whispers' of ghost particles created by supernova explosions",
+      "link": "https://www.space.com/astronomy/stars/cosmic-ghost-neutrinos-may-be-the-whispers-of-stars-that-died-in-supernova-explosions",
+      "score": 8.399999999999999,
+      "published_utc": "2026-07-10T10:00:00+00:00"
+    },
+    "429556b757d2d70e90434cf8": {
+      "ts": 1783682861,
+      "source": "Space.com",
+      "title": "Making history! China lands rocket during an orbital launch for 1st time ever (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/making-history-china-lands-rocket-during-an-orbital-launch-for-1st-time-ever",
+      "score": 2.8,
+      "published_utc": "2026-07-10T06:55:44+00:00"
     }
   },
   "digest_queue": [
@@ -6210,38 +6226,12 @@
     "2026-07-09": {
       "morning": true,
       "night": true
+    },
+    "2026-07-10": {
+      "morning": true
     }
   },
   "sent_updates": {
-    "2026-06-29": {
-      "6e4586f0755f37d661e836e6": true,
-      "bf6ab7f8d5c465ce2c90cc36": true,
-      "2afb8fcc9ef9a92bb91f3402": true,
-      "c8cf052980016e9c5394b10d": true,
-      "82d2e805f25e15826d1922fe": true,
-      "abe425d0f46155bdee49d903": true
-    },
-    "2026-06-30": {
-      "b6b6c70c990850bc7dad94ed": true,
-      "4a1ea5129f4605d95daef5b3": true,
-      "9422b0181763df932f2902e7": true,
-      "b9585b42f53c5e6b3e252039": true,
-      "ce61968759b563f10ba965cb": true,
-      "3a73218cfe0ca74dfcae7aeb": true
-    },
-    "2026-07-01": {
-      "c9d13a54a010787e9982cf40": true,
-      "c3faa2ae8adf9008b5ab0db1": true,
-      "521f2267e095888e3dd1dafe": true,
-      "e37fc333966e8279ac107f03": true,
-      "e059254e9061b15a15c53080": true,
-      "4cc4de6c8b3b5b0bbb2921fe": true,
-      "18923808392dde45f543beb0": true
-    },
-    "2026-07-02": {
-      "e1fe37d69299b0e73c468565": true,
-      "9218f6550ab37db1485468ec": true
-    },
     "2026-07-03": {
       "c28c058c4fc3ffcd0764f028": true,
       "43d54c268c41cd6491dbc63f": true,
@@ -6273,6 +6263,9 @@
       "883d7b8e56dc577fd67b326a": true,
       "a7687cfe8f9c4df8c5ae5351": true,
       "266da1d08348e16e96745dbb": true
+    },
+    "2026-07-10": {
+      "ddb7b23f90ecb8998c6e335d": true
     }
   }
 }
