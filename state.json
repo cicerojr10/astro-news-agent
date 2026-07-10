@@ -5664,6 +5664,15 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/making-history-china-lands-rocket-during-an-orbital-launch-for-1st-time-ever",
       "score": 2.8,
       "published_utc": "2026-07-10T06:55:44+00:00"
+    },
+    "24c2794016485ac4fbd1615b": {
+      "ts": 1783698145,
+      "source": "Space.com",
+      "title": "'Acceleration without fuel:' Revolutionary superconducting device harnesses Earth's magnetic field to move a spacecraft",
+      "link": "https://www.space.com/technology/acceleration-without-fuel-revolutionary-superconducting-thruster-harnesses-earths-magnetic-field-in-1st-orbital-test",
+      "score": 0.0,
+      "published_utc": "2026-07-06T16:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
