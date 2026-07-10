@@ -5713,6 +5713,14 @@
       "link": "https://www.nasaspaceflight.com/2026/07/booster-20-record-static-fire/",
       "score": 3.6,
       "published_utc": "2026-07-10T19:46:17+00:00"
+    },
+    "80e57725c6c96467917cb0c9": {
+      "ts": 1783718400,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/07/10/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-10/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-07-10T20:59:39+00:00"
     }
   },
   "digest_queue": [
@@ -6039,6 +6047,18 @@
       "day_brt": "2026-07-10",
       "resumo_pt": "Resumo (PT-BR): Booster 20 completes record duration Static Fire by Ryan Weber July 10, 2026 written by Ryan Weber July 10, 2026 1 With the 33 engine static fire completed for Booster 20, SpaceX is pushing hard to fly Flight 13 as soon as possible, with notices popping up for next week and the week after. The final component is the Ship 40 rollout if Booster 20 stays at the launch site.",
       "queued_ts": 1783714388
+    },
+    {
+      "fp": "80e57725c6c96467917cb0c9",
+      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/07/10/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-10/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-07-10T20:59:39+00:00",
+      "day_brt": "2026-07-10",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB July 10, 2026 Will Robinson-Smith A Falcon 9 rocket stands poised to launch from the Space Launch Complex 4E at Vandenberg Space Force Base in California. File Photo: SpaceX SpaceX aims to launch its latest batch of Starlink satellites Friday night from Vandenberg Space Force Base using its second most-flown Falcon 9 first stage booster.",
+      "queued_ts": 1783718402
     }
   ],
   "digests_sent": {
@@ -6353,7 +6373,8 @@
       "ddb7b23f90ecb8998c6e335d": true,
       "fd2879867fb7c18c082f1ea8": true,
       "81b564ba8843bef4cc9742ce": true,
-      "a24811d04dd3bf53017f27c5": true
+      "a24811d04dd3bf53017f27c5": true,
+      "80e57725c6c96467917cb0c9": true
     }
   }
 }
