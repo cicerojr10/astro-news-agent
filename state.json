@@ -5721,6 +5721,23 @@
       "link": "https://spaceflightnow.com/2026/07/10/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-10/",
       "score": 4.680000000000001,
       "published_utc": "2026-07-10T20:59:39+00:00"
+    },
+    "1a7d561d4944693b546c1031": {
+      "ts": 1783750130,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/07/10/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-10/",
+      "score": 0.0,
+      "published_utc": "2026-07-10T20:59:39+00:00",
+      "note": "not_today"
+    },
+    "b5ee90887fc88c597bcb5630": {
+      "ts": 1783750132,
+      "source": "Space.com",
+      "title": "SpaceX Falcon 9 rocket launches for 35th time, hauls Starlink satellites to orbit (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-35th-mission-starlink-launch",
+      "score": 2.8,
+      "published_utc": "2026-07-11T04:02:20+00:00"
     }
   },
   "digest_queue": [
