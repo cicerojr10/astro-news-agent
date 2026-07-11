@@ -5738,6 +5738,15 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-35th-mission-starlink-launch",
       "score": 2.8,
       "published_utc": "2026-07-11T04:02:20+00:00"
+    },
+    "c776c350c6f7dad768c7718f": {
+      "ts": 1783757403,
+      "source": "Space.com",
+      "title": "SpaceX ignites all 33 powerful engines on Starship booster ahead of Flight 13 launch (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-ignites-all-33-powerful-engines-on-starship-booster-test-ahead-of-flight-13-test-launch",
+      "score": 0.0,
+      "published_utc": "2026-07-10T16:13:48+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
