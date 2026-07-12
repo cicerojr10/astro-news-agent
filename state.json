@@ -5763,6 +5763,14 @@
       "link": "https://www.space.com/technology/space-medicine-breakthrough-kidney-and-liver-tissue-bioprinted-off-earth-for-1st-time-ever",
       "score": 4.199999999999999,
       "published_utc": "2026-07-12T12:05:00+00:00"
+    },
+    "4b618f425c8abea2e7a051d1": {
+      "ts": 1783890775,
+      "source": "NASASpaceflight",
+      "title": "NASA’s Roman telescope into prelaunch servicing following arrival in Florida",
+      "link": "https://www.nasaspaceflight.com/2026/07/roman-prelaunch-update/",
+      "score": 3.6,
+      "published_utc": "2026-07-12T20:46:22+00:00"
     }
   },
   "digest_queue": [
@@ -6065,6 +6073,18 @@
       "day_brt": "2026-07-12",
       "resumo_pt": "Resumo (PT-BR): Kidney and liver tissue bioprinted off Earth for 1st time ever News By Julian Dossett Published 12 July 2026 \"This mission marks an exciting step forward for in-space biomanufacturing.\" When you purchase through links on our site, we may earn an affiliate commission. (Image credit: NASA) Copy link Facebook X Whatsapp Reddit Pinterest Flipboard Email Share this article 0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter A company just produced kidney and liver tissue in space for the first time, using a method called bioprinting, which 3D-prints living tissue.",
       "queued_ts": 1783858240
+    },
+    {
+      "fp": "4b618f425c8abea2e7a051d1",
+      "title": "NASA’s Roman telescope into prelaunch servicing following arrival in Florida",
+      "link": "https://www.nasaspaceflight.com/2026/07/roman-prelaunch-update/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-07-12T20:46:22+00:00",
+      "day_brt": "2026-07-12",
+      "resumo_pt": "Resumo (PT-BR): NASA’s Roman telescope into prelaunch servicing following arrival in Florida by Haygen Warren July 12, 2026 written by Haygen Warren July 12, 2026 2 NASA’s next space telescope, the Nancy Grace Roman Space Telescope, arrived at Kennedy Space Center in late June ahead of its scheduled launch on Aug. Since its arrival at the Cape, the telescope has achieved several launch-processing milestones, including being moved to the Payload Hazardous Servicing Facility and flipped vertical.",
+      "queued_ts": 1783890776
     }
   ],
   "digests_sent": {
@@ -6391,7 +6411,8 @@
       "80e57725c6c96467917cb0c9": true
     },
     "2026-07-12": {
-      "e40963f1c37df25ced52df6d": true
+      "e40963f1c37df25ced52df6d": true,
+      "4b618f425c8abea2e7a051d1": true
     }
   }
 }
