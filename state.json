@@ -5843,6 +5843,14 @@
       "link": "https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-6/",
       "score": 4.680000000000001,
       "published_utc": "2026-07-13T18:37:21+00:00"
+    },
+    "c54372ee4043f0e0b0617638": {
+      "ts": 1783973101,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch a flight-proven Falcon booster for 600th time",
+      "link": "https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-a-flight-proven-falcon-booster-for-600th-time/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-07-13T19:53:23+00:00"
     }
   },
   "digest_queue": [
@@ -6169,6 +6177,18 @@
       "day_brt": "2026-07-13",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg July 13, 2026 Will Robinson-Smith File photo of a Falcon 9 fueled for launch at Vandenberg Space Force Base in California. SpaceX will launch another batch of Starlink V2 Mini satellites into low Earth orbit Monday evening on a Falcon 9 rocket flying from Vandenberg Space Force Base.",
       "queued_ts": 1783968798
+    },
+    {
+      "fp": "c54372ee4043f0e0b0617638",
+      "title": "Live coverage: SpaceX to launch a flight-proven Falcon booster for 600th time",
+      "link": "https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-a-flight-proven-falcon-booster-for-600th-time/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-07-13T19:53:23+00:00",
+      "day_brt": "2026-07-13",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch a flight-proven Falcon booster for 600th time July 13, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket stands at Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station. Image: Adam Bernstein/Spaceflight Now SpaceX will perform the 600th reuse of one of its Falcon rocket boosters when it launches the Starlink 10-45 mission from Cape Canaveral Space Force Station Tuesday morning.",
+      "queued_ts": 1783973102
     }
   ],
   "digests_sent": {
@@ -6505,7 +6525,8 @@
     "2026-07-13": {
       "4493ae238c45c2cbd43eb684": true,
       "59817a5a700d8945116719fb": true,
-      "162ccfbcd350de45d35b4c41": true
+      "162ccfbcd350de45d35b4c41": true,
+      "c54372ee4043f0e0b0617638": true
     }
   }
 }
