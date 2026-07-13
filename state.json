@@ -6157,54 +6157,6 @@
       "day_brt": "2026-07-08",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch Falcon 9 rocket on record-breaking 36th flight July 9, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket with the first stage booster, 1067, stands at Launch Complex 39A on Aug. Image: SpaceX SpaceX is set to break another rocket reuse record Thursday morning when it launches its most-flown Falcon 9 booster for a 36th time.",
       "queued_ts": 1783563888
-    },
-    {
-      "fp": "4493ae238c45c2cbd43eb684",
-      "title": "NASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes",
-      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-discovers-first-of-star-clusters-missing-black-holes/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-13T14:00:00+00:00",
-      "day_brt": "2026-07-13",
-      "resumo_pt": "Resumo (PT-BR): Explore Hubble Science Hubble Space Telescope NASA’s Hubble Discovers... Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space?",
-      "queued_ts": 1783956043
-    },
-    {
-      "fp": "59817a5a700d8945116719fb",
-      "title": "NASA Astronaut Anil Menon",
-      "link": "https://www.nasa.gov/image-article/nasa-astronaut-anil-menon/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-13T15:11:16+00:00",
-      "day_brt": "2026-07-13",
-      "resumo_pt": "Resumo (PT-BR): 1 min read NASA Astronaut Anil Menon HQ Web Team Jul 13, 2026 Image Article NASA/Robert Markowitz NASA astronaut Anil Menon poses in a spacesuit for a portrait at NASA’s Johnson Space Center in Houston, Texas on Jan. Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft to the International Space Station on Tuesday, July 14, accompanied by cosmonauts Pyotr Dubrov and Anna Kikina, where they will join the Expedition 74 crew advancing scientific research.",
-      "queued_ts": 1783963574
-    },
-    {
-      "fp": "162ccfbcd350de45d35b4c41",
-      "title": "Live coverage: SpaceX to launch  24 Starlink satellites on Falcon 9 rocket from Vandenberg",
-      "link": "https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-6/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-07-13T18:37:21+00:00",
-      "day_brt": "2026-07-13",
-      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg July 13, 2026 Will Robinson-Smith File photo of a Falcon 9 fueled for launch at Vandenberg Space Force Base in California. SpaceX will launch another batch of Starlink V2 Mini satellites into low Earth orbit Monday evening on a Falcon 9 rocket flying from Vandenberg Space Force Base.",
-      "queued_ts": 1783968798
-    },
-    {
-      "fp": "c54372ee4043f0e0b0617638",
-      "title": "Live coverage: SpaceX to launch a flight-proven Falcon booster for 600th time",
-      "link": "https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-a-flight-proven-falcon-booster-for-600th-time/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-07-13T19:53:23+00:00",
-      "day_brt": "2026-07-13",
-      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch a flight-proven Falcon booster for 600th time July 13, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket stands at Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station. Image: Adam Bernstein/Spaceflight Now SpaceX will perform the 600th reuse of one of its Falcon rocket boosters when it launches the Starlink 10-45 mission from Cape Canaveral Space Force Station Tuesday morning.",
-      "queued_ts": 1783973102
     }
   ],
   "digests_sent": {
@@ -6491,7 +6443,8 @@
       "night": true
     },
     "2026-07-13": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
