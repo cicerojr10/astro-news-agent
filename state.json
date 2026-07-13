@@ -5811,6 +5811,30 @@
       "link": "https://www.space.com/space-exploration/satellites/reflect-orbital-just-got-permission-to-launch-its-1st-space-mirror-to-orbit-tens-of-thousands-more-could-follow",
       "score": 2.8,
       "published_utc": "2026-07-13T10:00:00+00:00"
+    },
+    "59817a5a700d8945116719fb": {
+      "ts": 1783963571,
+      "source": "NASA Breaking News",
+      "title": "NASA Astronaut Anil Menon",
+      "link": "https://www.nasa.gov/image-article/nasa-astronaut-anil-menon/",
+      "score": 4.0,
+      "published_utc": "2026-07-13T15:11:16+00:00"
+    },
+    "fc92e61d6da431887704b10e": {
+      "ts": 1783963573,
+      "source": "Space.com",
+      "title": "NASA begins stacking rocket ahead of 2027 Artemis III astronaut launch (photos)",
+      "link": "https://www.space.com/space-exploration/artemis/nasa-begins-stacking-rocket-ahead-of-2027-artemis-iii-astronaut-launch-photos",
+      "score": 2.8,
+      "published_utc": "2026-07-13T16:43:47+00:00"
+    },
+    "bfe1669393334c3a530a5b74": {
+      "ts": 1783963573,
+      "source": "Space.com",
+      "title": "SpaceX targets July 16 for Starship Flight 13, reveals what went wrong on previous launch",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-targets-july-16-for-starship-flight-13-reveals-what-went-wrong-on-previous-launch",
+      "score": 2.8,
+      "published_utc": "2026-07-13T16:00:04+00:00"
     }
   },
   "digest_queue": [
@@ -6113,6 +6137,18 @@
       "day_brt": "2026-07-13",
       "resumo_pt": "Resumo (PT-BR): Explore Hubble Science Hubble Space Telescope NASA’s Hubble Discovers... Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space?",
       "queued_ts": 1783956043
+    },
+    {
+      "fp": "59817a5a700d8945116719fb",
+      "title": "NASA Astronaut Anil Menon",
+      "link": "https://www.nasa.gov/image-article/nasa-astronaut-anil-menon/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-13T15:11:16+00:00",
+      "day_brt": "2026-07-13",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA Astronaut Anil Menon HQ Web Team Jul 13, 2026 Image Article NASA/Robert Markowitz NASA astronaut Anil Menon poses in a spacesuit for a portrait at NASA’s Johnson Space Center in Houston, Texas on Jan. Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft to the International Space Station on Tuesday, July 14, accompanied by cosmonauts Pyotr Dubrov and Anna Kikina, where they will join the Expedition 74 crew advancing scientific research.",
+      "queued_ts": 1783963574
     }
   ],
   "digests_sent": {
@@ -6447,7 +6483,8 @@
       "4b618f425c8abea2e7a051d1": true
     },
     "2026-07-13": {
-      "4493ae238c45c2cbd43eb684": true
+      "4493ae238c45c2cbd43eb684": true,
+      "59817a5a700d8945116719fb": true
     }
   }
 }
