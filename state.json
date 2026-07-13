@@ -5795,6 +5795,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/getting-vikram-1-to-orbit-inside-skyroot-aerospaces-coming-bid-to-make-spaceflight-history",
       "score": 2.8,
       "published_utc": "2026-07-13T13:00:00+00:00"
+    },
+    "4493ae238c45c2cbd43eb684": {
+      "ts": 1783956040,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-discovers-first-of-star-clusters-missing-black-holes/",
+      "score": 4.0,
+      "published_utc": "2026-07-13T14:00:00+00:00"
+    },
+    "1771efddae7a68e5804a8623": {
+      "ts": 1783956043,
+      "source": "Space.com",
+      "title": "The FCC just gave Reflect Orbital permission to launch its 1st space mirror to orbit. Tens of thousands more could follow",
+      "link": "https://www.space.com/space-exploration/satellites/reflect-orbital-just-got-permission-to-launch-its-1st-space-mirror-to-orbit-tens-of-thousands-more-could-follow",
+      "score": 2.8,
+      "published_utc": "2026-07-13T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -6085,6 +6101,18 @@
       "day_brt": "2026-07-08",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch Falcon 9 rocket on record-breaking 36th flight July 9, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket with the first stage booster, 1067, stands at Launch Complex 39A on Aug. Image: SpaceX SpaceX is set to break another rocket reuse record Thursday morning when it launches its most-flown Falcon 9 booster for a 36th time.",
       "queued_ts": 1783563888
+    },
+    {
+      "fp": "4493ae238c45c2cbd43eb684",
+      "title": "NASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-discovers-first-of-star-clusters-missing-black-holes/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-13T14:00:00+00:00",
+      "day_brt": "2026-07-13",
+      "resumo_pt": "Resumo (PT-BR): Explore Hubble Science Hubble Space Telescope NASA’s Hubble Discovers... Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space?",
+      "queued_ts": 1783956043
     }
   ],
   "digests_sent": {
@@ -6417,6 +6445,9 @@
     "2026-07-12": {
       "e40963f1c37df25ced52df6d": true,
       "4b618f425c8abea2e7a051d1": true
+    },
+    "2026-07-13": {
+      "4493ae238c45c2cbd43eb684": true
     }
   }
 }
