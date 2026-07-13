@@ -5771,6 +5771,22 @@
       "link": "https://www.nasaspaceflight.com/2026/07/roman-prelaunch-update/",
       "score": 3.6,
       "published_utc": "2026-07-12T20:46:22+00:00"
+    },
+    "af434129d6824e9a824ce517": {
+      "ts": 1783945745,
+      "source": "Space.com",
+      "title": "Space junk debris cloud discovered in high-traffic orbit 'is a potential minefield' for the costliest satellites",
+      "link": "https://www.space.com/space-exploration/satellites/space-junk-debris-cloud-discovered-in-high-traffic-orbit-is-a-potential-minefield-for-the-costliest-satellites",
+      "score": 2.8,
+      "published_utc": "2026-07-13T12:00:00+00:00"
+    },
+    "8990b3a69a344946c3141b40": {
+      "ts": 1783945745,
+      "source": "Space.com",
+      "title": "Reflect Orbital just got permission to launch its 1st space mirror to orbit. Tens of thousands more could follow",
+      "link": "https://www.space.com/space-exploration/satellites/reflect-orbital-just-got-permission-to-launch-its-1st-space-mirror-to-orbit-tens-of-thousands-more-could-follow",
+      "score": 2.8,
+      "published_utc": "2026-07-13T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -6345,6 +6361,9 @@
     "2026-07-12": {
       "morning": true,
       "night": true
+    },
+    "2026-07-13": {
+      "morning": true
     }
   },
   "sent_updates": {
