@@ -5867,6 +5867,14 @@
       "link": "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-13-2026",
       "score": 2.8,
       "published_utc": "2026-07-13T21:10:26+00:00"
+    },
+    "d2bc3003985ca69e78586ed1": {
+      "ts": 1783986923,
+      "source": "NASA Breaking News",
+      "title": "NASA Study Points to Smoother Air Taxi Rides",
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
+      "score": 4.0,
+      "published_utc": "2026-07-13T21:46:11+00:00"
     }
   },
   "digest_queue": [
@@ -6157,6 +6165,18 @@
       "day_brt": "2026-07-08",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch Falcon 9 rocket on record-breaking 36th flight July 9, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket with the first stage booster, 1067, stands at Launch Complex 39A on Aug. Image: SpaceX SpaceX is set to break another rocket reuse record Thursday morning when it launches its most-flown Falcon 9 booster for a 36th time.",
       "queued_ts": 1783563888
+    },
+    {
+      "fp": "d2bc3003985ca69e78586ed1",
+      "title": "NASA Study Points to Smoother Air Taxi Rides",
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-13T21:46:11+00:00",
+      "day_brt": "2026-07-13",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Study Points to Smoother Air Taxi Rides Teresa Whiting NASA Armstrong Public Affairs Specialist Jul 13, 2026 Article Matt Kamlet, an employee at NASA’s Armstrong Flight Research Center in Edwards, California, sits atop the virtual reality passenger ride quality simulator during a study of air taxi motion Monday, Dec. NASA recently completed a multi-year study to understand how large, sudden air taxi motion affects ride comfort.",
+      "queued_ts": 1783986927
     }
   ],
   "digests_sent": {
@@ -6495,7 +6515,8 @@
       "4493ae238c45c2cbd43eb684": true,
       "59817a5a700d8945116719fb": true,
       "162ccfbcd350de45d35b4c41": true,
-      "c54372ee4043f0e0b0617638": true
+      "c54372ee4043f0e0b0617638": true,
+      "d2bc3003985ca69e78586ed1": true
     }
   }
 }
