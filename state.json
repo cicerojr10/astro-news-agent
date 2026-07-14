@@ -6001,6 +6001,23 @@
       "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-serbia-artemis-accords-signing-ceremony/",
       "score": 4.0,
       "published_utc": "2026-07-14T21:03:29+00:00"
+    },
+    "746fef8aa162fc8f1966e3da": {
+      "ts": 1784066986,
+      "source": "Space.com",
+      "title": "SpaceX launches flight-proven rocket for 600th time, sending Starlink satellites to orbit",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-15-14-b1093-vsfb-ocisly-10-45-b1080-ccsfs-asog",
+      "score": 2.8,
+      "published_utc": "2026-07-14T22:00:00+00:00"
+    },
+    "3ef5200dbe5fb264efc1ddd0": {
+      "ts": 1784066986,
+      "source": "Space.com",
+      "title": "Russia launches NASA astronaut Anil Menon and 2 cosmonauts to the International Space Station (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/soyuz-ms-29-astronaut-launch-international-space-station-anil-menon",
+      "score": 0.0,
+      "published_utc": "2026-07-13T21:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
