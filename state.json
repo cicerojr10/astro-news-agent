@@ -5918,6 +5918,24 @@
       "link": "https://www.nasaspaceflight.com/2026/07/soyuz-ms-29-launch/",
       "score": 3.6,
       "published_utc": "2026-07-14T13:49:14+00:00"
+    },
+    "2ea9e3e8078f7d5f452861e2": {
+      "ts": 1784043933,
+      "source": "Space.com",
+      "title": "SpaceX Starship Flight 13 launch updates: Super Heavy booster rolled back for final checkouts",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-14-2026",
+      "score": 0.0,
+      "published_utc": "2026-07-13T21:10:26+00:00",
+      "note": "not_today"
+    },
+    "c140057838b67a42f77daa90": {
+      "ts": 1784043933,
+      "source": "Space.com",
+      "title": "Russia launches a NASA astronaut and 2 cosmonauts to the International Space Station",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/soyuz-ms-29-astronaut-launch-international-space-station-anil-menon",
+      "score": 0.0,
+      "published_utc": "2026-07-13T21:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
