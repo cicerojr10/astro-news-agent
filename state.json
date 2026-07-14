@@ -5985,6 +5985,14 @@
       "score": 0.0,
       "published_utc": "2026-07-13T21:00:00+00:00",
       "note": "not_today"
+    },
+    "12efd045371923e629344abf": {
+      "ts": 1784059565,
+      "source": "Space.com",
+      "title": "The 1st of 10,000 'missing' black holes in the Omega Centauri star cluster has been found by the Hubble and James Webb space telescopes",
+      "link": "https://www.space.com/astronomy/black-holes/the-1st-of-10-000-missing-black-holes-in-the-omega-centauri-star-cluster-has-been-found-by-the-hubble-and-james-webb-space-telescopes",
+      "score": 2.8,
+      "published_utc": "2026-07-14T20:00:00+00:00"
     }
   },
   "digest_queue": [
