@@ -5902,6 +5902,14 @@
       "score": 0.0,
       "published_utc": "2026-07-13T19:53:23+00:00",
       "note": "not_today"
+    },
+    "0d775724385f186a8821958c": {
+      "ts": 1784030614,
+      "source": "Space.com",
+      "title": "How to watch SpaceX launch Starship Flight 13 on July 16",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/how-to-watch-spacex-launch-starship-flight-13-on-july-16",
+      "score": 2.8,
+      "published_utc": "2026-07-14T12:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -6492,6 +6500,9 @@
     "2026-07-13": {
       "morning": true,
       "night": true
+    },
+    "2026-07-14": {
+      "morning": true
     }
   },
   "sent_updates": {
