@@ -5875,6 +5875,24 @@
       "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
       "score": 4.0,
       "published_utc": "2026-07-13T21:46:11+00:00"
+    },
+    "5658e274b608396fc525d1c3": {
+      "ts": 1783999351,
+      "source": "NASA Breaking News",
+      "title": "Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/",
+      "score": 0.0,
+      "published_utc": "2026-07-14T01:04:04+00:00",
+      "note": "not_today"
+    },
+    "943cbd9ba0900c2ee66c608d": {
+      "ts": 1783999353,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches 27 Starlink satellites on Falcon 9 rocket from Vandenberg",
+      "link": "https://spaceflightnow.com/2026/07/13/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-6/",
+      "score": 0.0,
+      "published_utc": "2026-07-13T18:37:21+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
