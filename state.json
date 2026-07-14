@@ -5960,6 +5960,31 @@
       "link": "https://www.nasaspaceflight.com/2026/07/soyuz-ms-29-launch/",
       "score": 3.6,
       "published_utc": "2026-07-14T13:49:14+00:00"
+    },
+    "44b81d4eb388397f2bdf83f8": {
+      "ts": 1784055446,
+      "source": "NASA Breaking News",
+      "title": "NASA Astronaut Anil Menon, Crewmates Arrive at Space Station",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-crewmates-arrive-at-space-station/",
+      "score": 4.0,
+      "published_utc": "2026-07-14T18:26:02+00:00"
+    },
+    "512d1c6290c857ba2607a41b": {
+      "ts": 1784055446,
+      "source": "NASA Breaking News",
+      "title": "Hubble Sees Crimson Cloud and Stars",
+      "link": "https://www.nasa.gov/image-article/hubble-sees-crimson-cloud-and-stars/",
+      "score": 4.0,
+      "published_utc": "2026-07-14T18:06:33+00:00"
+    },
+    "7066a6e2869caca2cd321a66": {
+      "ts": 1784055448,
+      "source": "Space.com",
+      "title": "Russia launches NASA astronaut Anil Menon and 2 cosmonauts to the International Space Station",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/soyuz-ms-29-astronaut-launch-international-space-station-anil-menon",
+      "score": 0.0,
+      "published_utc": "2026-07-13T21:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -6310,6 +6335,30 @@
       "day_brt": "2026-07-14",
       "resumo_pt": "Resumo (PT-BR): Soyuz MS-29 launches new crew to ISS from Baikonur by Justin Davenport July 14, 2026 written by Justin Davenport July 14, 2026 28 The next crew launch to the International Space Station took place on Tuesday, July 14, at 14:47 UTC from Site 31/6 at the Baikonur Cosmodrome in Kazakhstan. The Soyuz MS-29 spacecraft, carrying a crew of three, launched successfully atop a Soyuz 2.1a rocket and followed a northeastern trajectory into a low-Earth orbit.",
       "queued_ts": 1784051681
+    },
+    {
+      "fp": "44b81d4eb388397f2bdf83f8",
+      "title": "NASA Astronaut Anil Menon, Crewmates Arrive at Space Station",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-crewmates-arrive-at-space-station/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-14T18:26:02+00:00",
+      "day_brt": "2026-07-14",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Astronaut Anil Menon, Crewmates Arrive at Space Station Jessica Taveau Jul 14, 2026 RELEASE 26-056 NASA Headquarters The Soyuz rocket launches to the International Space Station with NASA astronaut Anil Menon and Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina onboard, Tuesday, July 14, 2026, at the Baikonur Cosmodrome in Kazakhstan. Credit: NASA/Bill Ingalls NASA astronaut Anil Menon, along with Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, arrived safely at the International Space Station Tuesday, bringing the orbiting laboratory’s crew to 10 for about the next two weeks.",
+      "queued_ts": 1784055449
+    },
+    {
+      "fp": "512d1c6290c857ba2607a41b",
+      "title": "Hubble Sees Crimson Cloud and Stars",
+      "link": "https://www.nasa.gov/image-article/hubble-sees-crimson-cloud-and-stars/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-14T18:06:33+00:00",
+      "day_brt": "2026-07-14",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Hubble Sees Crimson Cloud and Stars HQ Web Team Jul 14, 2026 Image Article A glowing landscape of gas and dust is heated and illuminated by a thriving population of young stars in the LH 95 region of the Large Magellanic Cloud. Gouliermis (Universitat Heidelberg); Processing: Gladys Kober (NASA/Catholic University of America) Blue and white stars shine brilliantly against a crimson background of glowing gas in this July 3, 2026, image of stellar nursery LH 95 from NASA’s Hubble Space Telescope .",
+      "queued_ts": 1784055449
     }
   ],
   "digests_sent": {
@@ -6658,7 +6707,9 @@
       "c25c66a431c8de02513b53d0": true,
       "18a04159338bfd36e6fffea3": true,
       "741dc6aab9abd600ab088297": true,
-      "2a3269e9385adf797304e4a0": true
+      "2a3269e9385adf797304e4a0": true,
+      "44b81d4eb388397f2bdf83f8": true,
+      "512d1c6290c857ba2607a41b": true
     }
   }
 }
