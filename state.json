@@ -5910,6 +5910,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/how-to-watch-spacex-launch-starship-flight-13-on-july-16",
       "score": 2.8,
       "published_utc": "2026-07-14T12:00:00+00:00"
+    },
+    "c25c66a431c8de02513b53d0": {
+      "ts": 1784038429,
+      "source": "NASASpaceflight",
+      "title": "Soyuz MS-29 set to launch new crew to ISS from Russia",
+      "link": "https://www.nasaspaceflight.com/2026/07/soyuz-ms-29-launch/",
+      "score": 3.6,
+      "published_utc": "2026-07-14T13:49:14+00:00"
     }
   },
   "digest_queue": [
@@ -6212,6 +6220,18 @@
       "day_brt": "2026-07-13",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Study Points to Smoother Air Taxi Rides Teresa Whiting NASA Armstrong Public Affairs Specialist Jul 13, 2026 Article Matt Kamlet, an employee at NASA’s Armstrong Flight Research Center in Edwards, California, sits atop the virtual reality passenger ride quality simulator during a study of air taxi motion Monday, Dec. NASA recently completed a multi-year study to understand how large, sudden air taxi motion affects ride comfort.",
       "queued_ts": 1783986927
+    },
+    {
+      "fp": "c25c66a431c8de02513b53d0",
+      "title": "Soyuz MS-29 set to launch new crew to ISS from Russia",
+      "link": "https://www.nasaspaceflight.com/2026/07/soyuz-ms-29-launch/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-07-14T13:49:14+00:00",
+      "day_brt": "2026-07-14",
+      "resumo_pt": "Resumo (PT-BR): Soyuz MS-29 set to launch new crew to ISS from Russia by Justin Davenport July 14, 2026 written by Justin Davenport July 14, 2026 2 The next crew launch to the International Space Station is scheduled for Tuesday, July 14, at 14:47 UTC from Site 31/6 at the Baikonur Cosmodrome in Kazakhstan. The Soyuz MS-29 spacecraft, carrying a crew of three, will launch atop a Soyuz 2.1a rocket and follow a northeastern trajectory into a low-Earth orbit.",
+      "queued_ts": 1784038430
     }
   ],
   "digests_sent": {
@@ -6555,6 +6575,9 @@
       "162ccfbcd350de45d35b4c41": true,
       "c54372ee4043f0e0b0617638": true,
       "d2bc3003985ca69e78586ed1": true
+    },
+    "2026-07-14": {
+      "c25c66a431c8de02513b53d0": true
     }
   }
 }
