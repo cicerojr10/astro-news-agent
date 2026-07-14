@@ -5993,6 +5993,14 @@
       "link": "https://www.space.com/astronomy/black-holes/the-1st-of-10-000-missing-black-holes-in-the-omega-centauri-star-cluster-has-been-found-by-the-hubble-and-james-webb-space-telescopes",
       "score": 2.8,
       "published_utc": "2026-07-14T20:00:00+00:00"
+    },
+    "c00d78590b6206f5f9ef1f3e": {
+      "ts": 1784063389,
+      "source": "NASA Breaking News",
+      "title": "NASA Invites Media to Serbia Artemis Accords Signing Ceremony",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-serbia-artemis-accords-signing-ceremony/",
+      "score": 4.0,
+      "published_utc": "2026-07-14T21:03:29+00:00"
     }
   },
   "digest_queue": [
@@ -6367,6 +6375,18 @@
       "day_brt": "2026-07-14",
       "resumo_pt": "Resumo (PT-BR): 1 min read Hubble Sees Crimson Cloud and Stars HQ Web Team Jul 14, 2026 Image Article A glowing landscape of gas and dust is heated and illuminated by a thriving population of young stars in the LH 95 region of the Large Magellanic Cloud. Gouliermis (Universitat Heidelberg); Processing: Gladys Kober (NASA/Catholic University of America) Blue and white stars shine brilliantly against a crimson background of glowing gas in this July 3, 2026, image of stellar nursery LH 95 from NASA’s Hubble Space Telescope .",
       "queued_ts": 1784055449
+    },
+    {
+      "fp": "c00d78590b6206f5f9ef1f3e",
+      "title": "NASA Invites Media to Serbia Artemis Accords Signing Ceremony",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-serbia-artemis-accords-signing-ceremony/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-14T21:03:29+00:00",
+      "day_brt": "2026-07-14",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Invites Media to Serbia Artemis Accords Signing Ceremony Elizabeth Shaw Jul 14, 2026 MEDIA ADVISORY M26-052 NASA Headquarters Credit: NASA The Republic of Serbia will sign the Artemis Accords at 5 p.m. EDT Thursday, July 16, during a ceremony at NASA Headquarters in Washington.",
+      "queued_ts": 1784063392
     }
   ],
   "digests_sent": {
@@ -6717,7 +6737,8 @@
       "741dc6aab9abd600ab088297": true,
       "2a3269e9385adf797304e4a0": true,
       "44b81d4eb388397f2bdf83f8": true,
-      "512d1c6290c857ba2607a41b": true
+      "512d1c6290c857ba2607a41b": true,
+      "c00d78590b6206f5f9ef1f3e": true
     }
   }
 }
