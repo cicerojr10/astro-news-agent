@@ -6076,6 +6076,14 @@
       "link": "https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-reads-record-of-ancient-mars-impacts/",
       "score": 4.0,
       "published_utc": "2026-07-15T15:30:04+00:00"
+    },
+    "ea2ebd4bef2e1ccb574c50e5": {
+      "ts": 1784144339,
+      "source": "NASASpaceflight",
+      "title": "China’s first recovered booster returns to port as LandSpace aims for first land recovery",
+      "link": "https://www.nasaspaceflight.com/2026/07/china-update-20261507/",
+      "score": 3.6,
+      "published_utc": "2026-07-15T18:57:14+00:00"
     }
   },
   "digest_queue": [
@@ -6402,6 +6410,18 @@
       "day_brt": "2026-07-15",
       "resumo_pt": "Resumo (PT-BR): 5 min read NASA’s Perseverance Rover Reads Record of Ancient Mars Impacts Jet Propulsion Laboratory Jul 15, 2026 Article Contents Reading between layers Cosmic one-two punch More about Perseverance NASA’s Perseverance took this selfie at “Witch Hazel Hill” on Jezero Crater’s rim on May 10, 2025. The small dark hole in the rock in front of the rover is the borehole made when the rover collected the “Bell Island” sample.",
       "queued_ts": 1784131134
+    },
+    {
+      "fp": "ea2ebd4bef2e1ccb574c50e5",
+      "title": "China’s first recovered booster returns to port as LandSpace aims for first land recovery",
+      "link": "https://www.nasaspaceflight.com/2026/07/china-update-20261507/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-07-15T18:57:14+00:00",
+      "day_brt": "2026-07-15",
+      "resumo_pt": "Resumo (PT-BR): China’s first recovered booster returns to port as LandSpace aims for first land recovery by Martin Smith July 15, 2026 written by Martin Smith July 15, 2026 4 China reached a major milestone less than a week ago with the first successful recovery of an orbital-class booster, using a novel cable-net catch system at sea. Two years ago this week, LandSpace set a different record when its ZhuQue-2 became the first methane-powered launcher to reach orbit.",
+      "queued_ts": 1784144340
     }
   ],
   "digests_sent": {
@@ -6742,7 +6762,8 @@
     "2026-07-15": {
       "7b6fc59647d6ac16ca081639": true,
       "576ddac26ac5453d37e0b3e2": true,
-      "b78f79c755d39634c3f7a8e2": true
+      "b78f79c755d39634c3f7a8e2": true,
+      "ea2ebd4bef2e1ccb574c50e5": true
     }
   }
 }
