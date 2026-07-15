@@ -6043,6 +6043,23 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-13-launch-what-time",
       "score": 2.8,
       "published_utc": "2026-07-15T10:00:00+00:00"
+    },
+    "33773f38002b0c14211e30d0": {
+      "ts": 1784117291,
+      "source": "Space.com",
+      "title": "Every SpaceX Starlink satellite has to dodge a collision almost weekly, and experts fear the worst",
+      "link": "https://www.space.com/space-exploration/satellites/every-spacex-starlink-satellite-has-to-dodge-a-collision-almost-weekly-and-experts-fear-the-worst",
+      "score": 2.8,
+      "published_utc": "2026-07-15T12:00:00+00:00"
+    },
+    "971967ae736e63f1b157cc85": {
+      "ts": 1784117291,
+      "source": "Space.com",
+      "title": "SpaceX Starship Flight 13 launch updates: Starship undergoing preparations to launch tomorrow",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-15-2026",
+      "score": 0.0,
+      "published_utc": "2026-07-13T21:10:26+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
