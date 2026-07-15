@@ -6092,6 +6092,38 @@
       "link": "https://www.space.com/space-exploration/watch-archimedes-burn-rocket-lab-fires-up-engine-for-its-powerful-next-gen-neutron-launcher-video",
       "score": 2.8,
       "published_utc": "2026-07-15T20:00:00+00:00"
+    },
+    "a6777cccfd4997fa2c4e7c12": {
+      "ts": 1784158429,
+      "source": "NASA Breaking News",
+      "title": "NASA Uses Subscale Aircraft to Accelerate Flight Innovation",
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-subscale-aircraft-to-accelerate-flight-innovation/",
+      "score": 4.0,
+      "published_utc": "2026-07-15T21:56:38+00:00"
+    },
+    "5a910ab6c681a950317fed93": {
+      "ts": 1784158429,
+      "source": "NASA Breaking News",
+      "title": "Anil Menon Launches to Space Station",
+      "link": "https://www.nasa.gov/image-article/anil-menon-launches-to-space-station/",
+      "score": 4.0,
+      "published_utc": "2026-07-15T18:48:36+00:00"
+    },
+    "d2060ab1eb766f3f57c1f786": {
+      "ts": 1784158429,
+      "source": "NASA Breaking News",
+      "title": "Curiosity Finds Evidence of an Ancient Sandstorm",
+      "link": "https://science.nasa.gov/photojournal/curiosity-finds-evidence-of-an-ancient-sandstorm/",
+      "score": 4.0,
+      "published_utc": "2026-07-15T18:16:45+00:00"
+    },
+    "779d81c75e0aac772cf07ea5": {
+      "ts": 1784158429,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Perseverance Rover Provides Sweeping View of Broom Point",
+      "link": "https://science.nasa.gov/photojournal/nasas-perseverance-rover-provides-sweeping-view-of-broom-point/",
+      "score": 4.0,
+      "published_utc": "2026-07-15T17:59:50+00:00"
     }
   },
   "digest_queue": [
@@ -6394,42 +6426,6 @@
       "day_brt": "2026-07-13",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Study Points to Smoother Air Taxi Rides Teresa Whiting NASA Armstrong Public Affairs Specialist Jul 13, 2026 Article Matt Kamlet, an employee at NASA’s Armstrong Flight Research Center in Edwards, California, sits atop the virtual reality passenger ride quality simulator during a study of air taxi motion Monday, Dec. NASA recently completed a multi-year study to understand how large, sudden air taxi motion affects ride comfort.",
       "queued_ts": 1783986927
-    },
-    {
-      "fp": "576ddac26ac5453d37e0b3e2",
-      "title": "NASA’s Webb Discovers Hidden Planet in Famous Star System",
-      "link": "https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-15T12:00:00+00:00",
-      "day_brt": "2026-07-15",
-      "resumo_pt": "Resumo (PT-BR): Explore Webb Science James Webb Space Telescope (JWST) NASA’s Webb Discovers Hidden... Webb News Latest News Latest Images Webb's Blog Awards X (offsite - login reqd) Instagram (offsite - login reqd) Facebook (offsite- login reqd) Youtube (offsite) Overview About Who is James Webb?",
-      "queued_ts": 1784119353
-    },
-    {
-      "fp": "b78f79c755d39634c3f7a8e2",
-      "title": "NASA’s Perseverance Rover Reads Record of Ancient Mars Impacts",
-      "link": "https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-reads-record-of-ancient-mars-impacts/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-15T15:30:04+00:00",
-      "day_brt": "2026-07-15",
-      "resumo_pt": "Resumo (PT-BR): 5 min read NASA’s Perseverance Rover Reads Record of Ancient Mars Impacts Jet Propulsion Laboratory Jul 15, 2026 Article Contents Reading between layers Cosmic one-two punch More about Perseverance NASA’s Perseverance took this selfie at “Witch Hazel Hill” on Jezero Crater’s rim on May 10, 2025. The small dark hole in the rock in front of the rover is the borehole made when the rover collected the “Bell Island” sample.",
-      "queued_ts": 1784131134
-    },
-    {
-      "fp": "ea2ebd4bef2e1ccb574c50e5",
-      "title": "China’s first recovered booster returns to port as LandSpace aims for first land recovery",
-      "link": "https://www.nasaspaceflight.com/2026/07/china-update-20261507/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-07-15T18:57:14+00:00",
-      "day_brt": "2026-07-15",
-      "resumo_pt": "Resumo (PT-BR): China’s first recovered booster returns to port as LandSpace aims for first land recovery by Martin Smith July 15, 2026 written by Martin Smith July 15, 2026 4 China reached a major milestone less than a week ago with the first successful recovery of an orbital-class booster, using a novel cable-net catch system at sea. Two years ago this week, LandSpace set a different record when its ZhuQue-2 became the first methane-powered launcher to reach orbit.",
-      "queued_ts": 1784144340
     }
   ],
   "digests_sent": {
@@ -6724,7 +6720,8 @@
       "night": true
     },
     "2026-07-15": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -6771,7 +6768,10 @@
       "7b6fc59647d6ac16ca081639": true,
       "576ddac26ac5453d37e0b3e2": true,
       "b78f79c755d39634c3f7a8e2": true,
-      "ea2ebd4bef2e1ccb574c50e5": true
+      "ea2ebd4bef2e1ccb574c50e5": true,
+      "a6777cccfd4997fa2c4e7c12": true,
+      "5a910ab6c681a950317fed93": true,
+      "d2060ab1eb766f3f57c1f786": true
     }
   }
 }
