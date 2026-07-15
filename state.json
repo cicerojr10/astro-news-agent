@@ -6027,6 +6027,22 @@
       "score": 0.0,
       "published_utc": "2026-07-14T22:00:00+00:00",
       "note": "not_today"
+    },
+    "7b6fc59647d6ac16ca081639": {
+      "ts": 1784113938,
+      "source": "NASA Breaking News",
+      "title": "Curiosity Blog, Sols 4947-4953: Gale Crater Then and Now",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4947-4953-gale-crater-then-and-now/",
+      "score": 4.0,
+      "published_utc": "2026-07-15T05:25:30+00:00"
+    },
+    "a6ce114a98e5231c50f2ee94": {
+      "ts": 1784113941,
+      "source": "Space.com",
+      "title": "What time is SpaceX's Starship Flight 13 launch on July 16? (Full mission timeline)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-13-launch-what-time",
+      "score": 2.8,
+      "published_utc": "2026-07-15T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -6621,29 +6637,12 @@
     "2026-07-14": {
       "morning": true,
       "night": true
+    },
+    "2026-07-15": {
+      "morning": true
     }
   },
   "sent_updates": {
-    "2026-07-03": {
-      "c28c058c4fc3ffcd0764f028": true,
-      "43d54c268c41cd6491dbc63f": true,
-      "d7fcbcd4eaddfa662e7d0af6": true
-    },
-    "2026-07-04": {
-      "6830c86bdfbc5a4767d41e07": true,
-      "9688a5f7e84a9d104b6dd625": true,
-      "f1356d44cfbbbbc02a77af39": true
-    },
-    "2026-07-06": {
-      "41ae86acda064ec68c48ce82": true,
-      "9ff5a38ffaa70bf2e31e846d": true
-    },
-    "2026-07-07": {
-      "6f1fe9fa75cec25b78ab1ae1": true,
-      "de9fc5991362260661743cf6": true,
-      "7a137b318e3a7213b90e550e": true,
-      "61ab381ec0c58aae43e2c152": true
-    },
     "2026-07-08": {
       "9f152b3f881d39e998011a59": true,
       "dfc792e8afb3a3a00cde57ac": true,
@@ -6682,6 +6681,9 @@
       "44b81d4eb388397f2bdf83f8": true,
       "512d1c6290c857ba2607a41b": true,
       "c00d78590b6206f5f9ef1f3e": true
+    },
+    "2026-07-15": {
+      "7b6fc59647d6ac16ca081639": true
     }
   }
 }
