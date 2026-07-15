@@ -6060,6 +6060,14 @@
       "score": 0.0,
       "published_utc": "2026-07-13T21:10:26+00:00",
       "note": "not_today"
+    },
+    "576ddac26ac5453d37e0b3e2": {
+      "ts": 1784119350,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Webb Discovers Hidden Planet in Famous Star System",
+      "link": "https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/",
+      "score": 4.0,
+      "published_utc": "2026-07-15T12:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -6362,6 +6370,18 @@
       "day_brt": "2026-07-13",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Study Points to Smoother Air Taxi Rides Teresa Whiting NASA Armstrong Public Affairs Specialist Jul 13, 2026 Article Matt Kamlet, an employee at NASA’s Armstrong Flight Research Center in Edwards, California, sits atop the virtual reality passenger ride quality simulator during a study of air taxi motion Monday, Dec. NASA recently completed a multi-year study to understand how large, sudden air taxi motion affects ride comfort.",
       "queued_ts": 1783986927
+    },
+    {
+      "fp": "576ddac26ac5453d37e0b3e2",
+      "title": "NASA’s Webb Discovers Hidden Planet in Famous Star System",
+      "link": "https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-15T12:00:00+00:00",
+      "day_brt": "2026-07-15",
+      "resumo_pt": "Resumo (PT-BR): Explore Webb Science James Webb Space Telescope (JWST) NASA’s Webb Discovers Hidden... Webb News Latest News Latest Images Webb's Blog Awards X (offsite - login reqd) Instagram (offsite - login reqd) Facebook (offsite- login reqd) Youtube (offsite) Overview About Who is James Webb?",
+      "queued_ts": 1784119353
     }
   ],
   "digests_sent": {
@@ -6700,7 +6720,8 @@
       "c00d78590b6206f5f9ef1f3e": true
     },
     "2026-07-15": {
-      "7b6fc59647d6ac16ca081639": true
+      "7b6fc59647d6ac16ca081639": true,
+      "576ddac26ac5453d37e0b3e2": true
     }
   }
 }
