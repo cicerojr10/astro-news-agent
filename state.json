@@ -6068,6 +6068,14 @@
       "link": "https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/",
       "score": 4.0,
       "published_utc": "2026-07-15T12:00:00+00:00"
+    },
+    "b78f79c755d39634c3f7a8e2": {
+      "ts": 1784131132,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Perseverance Rover Reads Record of Ancient Mars Impacts",
+      "link": "https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-reads-record-of-ancient-mars-impacts/",
+      "score": 4.0,
+      "published_utc": "2026-07-15T15:30:04+00:00"
     }
   },
   "digest_queue": [
@@ -6382,6 +6390,18 @@
       "day_brt": "2026-07-15",
       "resumo_pt": "Resumo (PT-BR): Explore Webb Science James Webb Space Telescope (JWST) NASA’s Webb Discovers Hidden... Webb News Latest News Latest Images Webb's Blog Awards X (offsite - login reqd) Instagram (offsite - login reqd) Facebook (offsite- login reqd) Youtube (offsite) Overview About Who is James Webb?",
       "queued_ts": 1784119353
+    },
+    {
+      "fp": "b78f79c755d39634c3f7a8e2",
+      "title": "NASA’s Perseverance Rover Reads Record of Ancient Mars Impacts",
+      "link": "https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-reads-record-of-ancient-mars-impacts/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-15T15:30:04+00:00",
+      "day_brt": "2026-07-15",
+      "resumo_pt": "Resumo (PT-BR): 5 min read NASA’s Perseverance Rover Reads Record of Ancient Mars Impacts Jet Propulsion Laboratory Jul 15, 2026 Article Contents Reading between layers Cosmic one-two punch More about Perseverance NASA’s Perseverance took this selfie at “Witch Hazel Hill” on Jezero Crater’s rim on May 10, 2025. The small dark hole in the rock in front of the rover is the borehole made when the rover collected the “Bell Island” sample.",
+      "queued_ts": 1784131134
     }
   ],
   "digests_sent": {
@@ -6721,7 +6741,8 @@
     },
     "2026-07-15": {
       "7b6fc59647d6ac16ca081639": true,
-      "576ddac26ac5453d37e0b3e2": true
+      "576ddac26ac5453d37e0b3e2": true,
+      "b78f79c755d39634c3f7a8e2": true
     }
   }
 }
