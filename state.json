@@ -6183,6 +6183,14 @@
       "score": 0.0,
       "published_utc": "2026-07-13T21:10:26+00:00",
       "note": "not_today"
+    },
+    "18bdac8a0424a92a2823f2c4": {
+      "ts": 1784217112,
+      "source": "NASA Breaking News",
+      "title": "Young Galaxy Cluster",
+      "link": "https://www.nasa.gov/image-article/young-galaxy-cluster/",
+      "score": 4.0,
+      "published_utc": "2026-07-16T14:35:46+00:00"
     }
   },
   "digest_queue": [
@@ -6509,6 +6517,18 @@
       "day_brt": "2026-07-15",
       "resumo_pt": "Resumo (PT-BR): SpaceX to deploy first Starlink V3 satellites on suborbital Starship-Super Heavy flight July 16, 2026 Will Robinson-Smith Super Heavy Booster 20 stands ready to receive the Ship upper stage ahead of the 13th test flight of SpaceX’s Starship vehicle. SpaceX will debut its long-promised Starlink Version 3 satellites during a suborbital test flight of its Starship rocket on Thursday evening.",
       "queued_ts": 1784163708
+    },
+    {
+      "fp": "18bdac8a0424a92a2823f2c4",
+      "title": "Young Galaxy Cluster",
+      "link": "https://www.nasa.gov/image-article/young-galaxy-cluster/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-16T14:35:46+00:00",
+      "day_brt": "2026-07-16",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Young Galaxy Cluster HQ Web Team Jul 16, 2026 Image Article ESA/Webb, NASA & CSA, S. Fujimoto NASA’s James Webb Space Telescope takes us 4.4 billion years in the past with this July 3, 2026, image of a young galaxy cluster, MACS J0553.4-3342.",
+      "queued_ts": 1784217115
     }
   ],
   "digests_sent": {
@@ -6860,6 +6880,9 @@
       "d2060ab1eb766f3f57c1f786": true,
       "3733e4b0841df267d1faa51b": true,
       "b50fa7939d5e2a23578997a9": true
+    },
+    "2026-07-16": {
+      "18bdac8a0424a92a2823f2c4": true
     }
   }
 }
