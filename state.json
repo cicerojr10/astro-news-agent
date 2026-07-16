@@ -6157,6 +6157,32 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-13-starlink-v3-satellites",
       "score": 2.8,
       "published_utc": "2026-07-16T10:00:00+00:00"
+    },
+    "5fb28387a077b9d2006b966b": {
+      "ts": 1784203836,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to deploy first Starlink V3 satellites on suborbital Starship-Super Heavy flight",
+      "link": "https://spaceflightnow.com/2026/07/16/live-coverage-spacex-to-deploy-first-starlink-v3-satellites-on-suborbital-starship-super-heavy-flight/",
+      "score": 0.0,
+      "published_utc": "2026-07-16T00:44:24+00:00",
+      "note": "not_today"
+    },
+    "afdaf5a06ac5b7fb437a4575": {
+      "ts": 1784203838,
+      "source": "Space.com",
+      "title": "Watch SpaceX launch 21 'data transport' satellites for US military today",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-sda-titl-3-military-satellites",
+      "score": 2.8,
+      "published_utc": "2026-07-16T12:00:00+00:00"
+    },
+    "91341d311997023d46aeb6c5": {
+      "ts": 1784203838,
+      "source": "Space.com",
+      "title": "SpaceX Starship Flight 13 launch updates: Rocket stages stacked and ready for liftoff today",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-16-2026",
+      "score": 0.0,
+      "published_utc": "2026-07-13T21:10:26+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -6779,6 +6805,9 @@
     "2026-07-15": {
       "morning": true,
       "night": true
+    },
+    "2026-07-16": {
+      "morning": true
     }
   },
   "sent_updates": {
