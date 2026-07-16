@@ -6124,6 +6124,22 @@
       "link": "https://science.nasa.gov/photojournal/nasas-perseverance-rover-provides-sweeping-view-of-broom-point/",
       "score": 4.0,
       "published_utc": "2026-07-15T17:59:50+00:00"
+    },
+    "b50fa7939d5e2a23578997a9": {
+      "ts": 1784163705,
+      "source": "Spaceflight Now",
+      "title": "SpaceX to deploy first Starlink V3 satellites on suborbital Starship-Super Heavy flight",
+      "link": "https://spaceflightnow.com/2026/07/16/live-coverage-spacex-to-deploy-first-starlink-v3-satellites-on-suborbital-starship-super-heavy-flight/",
+      "score": 3.6,
+      "published_utc": "2026-07-16T00:44:24+00:00"
+    },
+    "3733e4b0841df267d1faa51b": {
+      "ts": 1784163705,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 21 communications satellites for the Space Development Agency",
+      "link": "https://spaceflightnow.com/2026/07/16/live-coverage-spacex-to-launch-21-communications-satellites-for-the-space-development-agency/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-07-16T00:12:34+00:00"
     }
   },
   "digest_queue": [
@@ -6426,6 +6442,30 @@
       "day_brt": "2026-07-13",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Study Points to Smoother Air Taxi Rides Teresa Whiting NASA Armstrong Public Affairs Specialist Jul 13, 2026 Article Matt Kamlet, an employee at NASA’s Armstrong Flight Research Center in Edwards, California, sits atop the virtual reality passenger ride quality simulator during a study of air taxi motion Monday, Dec. NASA recently completed a multi-year study to understand how large, sudden air taxi motion affects ride comfort.",
       "queued_ts": 1783986927
+    },
+    {
+      "fp": "3733e4b0841df267d1faa51b",
+      "title": "Live coverage: SpaceX to launch 21 communications satellites for the Space Development Agency",
+      "link": "https://spaceflightnow.com/2026/07/16/live-coverage-spacex-to-launch-21-communications-satellites-for-the-space-development-agency/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-07-16T00:12:34+00:00",
+      "day_brt": "2026-07-15",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 21 communications satellites for the Space Development Agency July 16, 2026 Will Robinson-Smith A batch of 21 satellites manufactured by York Space Systems are prepared for encapsulation in a SpaceX Falcon 9 payload fairing ahead of launching the Space Development Agency’s Tranche 1 Transport Layer E (T1TL-E) mission. Image: SpaceX The Space Development Agency is set to launch its third batch of operational satellites designed to improve secure communications between members of the U.S.",
+      "queued_ts": 1784163708
+    },
+    {
+      "fp": "b50fa7939d5e2a23578997a9",
+      "title": "SpaceX to deploy first Starlink V3 satellites on suborbital Starship-Super Heavy flight",
+      "link": "https://spaceflightnow.com/2026/07/16/live-coverage-spacex-to-deploy-first-starlink-v3-satellites-on-suborbital-starship-super-heavy-flight/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-07-16T00:44:24+00:00",
+      "day_brt": "2026-07-15",
+      "resumo_pt": "Resumo (PT-BR): SpaceX to deploy first Starlink V3 satellites on suborbital Starship-Super Heavy flight July 16, 2026 Will Robinson-Smith Super Heavy Booster 20 stands ready to receive the Ship upper stage ahead of the 13th test flight of SpaceX’s Starship vehicle. SpaceX will debut its long-promised Starlink Version 3 satellites during a suborbital test flight of its Starship rocket on Thursday evening.",
+      "queued_ts": 1784163708
     }
   ],
   "digests_sent": {
@@ -6771,7 +6811,9 @@
       "ea2ebd4bef2e1ccb574c50e5": true,
       "a6777cccfd4997fa2c4e7c12": true,
       "5a910ab6c681a950317fed93": true,
-      "d2060ab1eb766f3f57c1f786": true
+      "d2060ab1eb766f3f57c1f786": true,
+      "3733e4b0841df267d1faa51b": true,
+      "b50fa7939d5e2a23578997a9": true
     }
   }
 }
