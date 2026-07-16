@@ -6191,6 +6191,14 @@
       "link": "https://www.nasa.gov/image-article/young-galaxy-cluster/",
       "score": 4.0,
       "published_utc": "2026-07-16T14:35:46+00:00"
+    },
+    "4b87dfdeb7aac9372e26b7e7": {
+      "ts": 1784221166,
+      "source": "Space.com",
+      "title": "Stephen Hawking's famous 'leaky' black hole theory gets much-needed update",
+      "link": "https://www.space.com/astronomy/black-holes/stephen-hawkings-famous-leaky-black-hole-theory-gets-much-needed-update",
+      "score": 4.199999999999999,
+      "published_utc": "2026-07-16T16:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -6529,6 +6537,18 @@
       "day_brt": "2026-07-16",
       "resumo_pt": "Resumo (PT-BR): 1 min read Young Galaxy Cluster HQ Web Team Jul 16, 2026 Image Article ESA/Webb, NASA & CSA, S. Fujimoto NASA’s James Webb Space Telescope takes us 4.4 billion years in the past with this July 3, 2026, image of a young galaxy cluster, MACS J0553.4-3342.",
       "queued_ts": 1784217115
+    },
+    {
+      "fp": "4b87dfdeb7aac9372e26b7e7",
+      "title": "Stephen Hawking's famous 'leaky' black hole theory gets much-needed update",
+      "link": "https://www.space.com/astronomy/black-holes/stephen-hawkings-famous-leaky-black-hole-theory-gets-much-needed-update",
+      "source": "Space.com",
+      "score": 4.199999999999999,
+      "is_anomaly": true,
+      "published_utc": "2026-07-16T16:00:00+00:00",
+      "day_brt": "2026-07-16",
+      "resumo_pt": "Resumo (PT-BR): Astronomy Black Holes Stephen Hawking's famous 'leaky' black hole theory gets much-needed update News By Robert Lea Published 16 July 2026 \"Hawking's laws of black hole mechanics provided a satisfying connection between extreme and ordinary physics and have been the paradigm for 50 years, but they have a serious limitation.\" When you purchase through links on our site, we may earn an affiliate commission. Click for next article An illustration shows a an influx of energy causing a black hole growing.",
+      "queued_ts": 1784221166
     }
   ],
   "digests_sent": {
@@ -6882,7 +6902,8 @@
       "b50fa7939d5e2a23578997a9": true
     },
     "2026-07-16": {
-      "18bdac8a0424a92a2823f2c4": true
+      "18bdac8a0424a92a2823f2c4": true,
+      "4b87dfdeb7aac9372e26b7e7": true
     }
   }
 }
