@@ -6223,6 +6223,23 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-sda-titl-3-military-satellites",
       "score": 2.8,
       "published_utc": "2026-07-16T12:00:00+00:00"
+    },
+    "0272bc8af160eac8bff5e917": {
+      "ts": 1784240139,
+      "source": "Space.com",
+      "title": "SpaceX launches 21 'data transport' satellites for US military (video, photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-sda-titl-3-military-satellites",
+      "score": 2.8,
+      "published_utc": "2026-07-16T12:00:00+00:00"
+    },
+    "6bae31031f5d28df78380afa": {
+      "ts": 1784240139,
+      "source": "Space.com",
+      "title": "SpaceX Starship Flight 13 launch updates: Countdown to launch has begun!",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-16-2026",
+      "score": 0.0,
+      "published_utc": "2026-07-13T21:10:26+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
