@@ -6402,6 +6402,14 @@
       "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/",
       "score": 4.0,
       "published_utc": "2026-07-17T18:00:57+00:00"
+    },
+    "9b698369240f3a67607bdb42": {
+      "ts": 1784323517,
+      "source": "NASA Breaking News",
+      "title": "NASA Awards Facilities Support Services Contract for Ames Research Center",
+      "link": "https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/",
+      "score": 4.0,
+      "published_utc": "2026-07-17T20:34:59+00:00"
     }
   },
   "digest_queue": [
@@ -6788,6 +6796,18 @@
       "day_brt": "2026-07-17",
       "resumo_pt": "Resumo (PT-BR): 2 min read NASA Invites Media to Roman Space Telescope, Crew-13 Launches Lauren E. Low Jul 17, 2026 MEDIA ADVISORY M26-054 NASA Headquarters Kennedy Space Center Credit: NASA Media accreditation now is open for the launch of NASA’s Nancy Grace Roman Space Telescope and the agency’s SpaceX Crew-13 missions, both targeting launch in the coming months.",
       "queued_ts": 1784317644
+    },
+    {
+      "fp": "9b698369240f3a67607bdb42",
+      "title": "NASA Awards Facilities Support Services Contract for Ames Research Center",
+      "link": "https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-17T20:34:59+00:00",
+      "day_brt": "2026-07-17",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Awards Facilities Support Services Contract for Ames Research Center Jeanne Neal Jul 17, 2026 Article CONTRACT RELEASE NASA has selected Chugach Intelligence Solutions LLC to provide comprehensive operations, maintenance, and repair services for NASA’s Ames Research Center in California’s Silicon Valley. The Ames Facilities Support Services II contract ensures that the center’s historic and specialized facilities are properly maintained, fully operational, and capable of supporting the agency’s missions and tenant partners in the NASA Research Park.",
+      "queued_ts": 1784323520
     }
   ],
   "digests_sent": {
@@ -7153,7 +7173,8 @@
     "2026-07-17": {
       "094383e1590ea761db2ed2f8": true,
       "ca5fcc71df4cefe7e5c82473": true,
-      "70449d1d14dba330a51c105e": true
+      "70449d1d14dba330a51c105e": true,
+      "9b698369240f3a67607bdb42": true
     }
   }
 }
