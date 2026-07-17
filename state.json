@@ -6386,6 +6386,22 @@
       "score": 0.0,
       "published_utc": "2026-07-13T21:10:26+00:00",
       "note": "not_today"
+    },
+    "ca5fcc71df4cefe7e5c82473": {
+      "ts": 1784317640,
+      "source": "NASA Breaking News",
+      "title": "La NASA invita a los medios de comunicación al lanzamiento del telescopio espacial Roman",
+      "link": "https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-de-comunicacion-al-lanzamiento-del-telescopio-espacial-roman/",
+      "score": 4.0,
+      "published_utc": "2026-07-17T19:27:06+00:00"
+    },
+    "70449d1d14dba330a51c105e": {
+      "ts": 1784317640,
+      "source": "NASA Breaking News",
+      "title": "NASA Invites Media to Roman Space Telescope, Crew-13 Launches",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/",
+      "score": 4.0,
+      "published_utc": "2026-07-17T18:00:57+00:00"
     }
   },
   "digest_queue": [
@@ -6748,6 +6764,30 @@
       "day_brt": "2026-07-17",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Welcomes Mauritius as 70th Artemis Accords Signatory Elizabeth Shaw Jul 17, 2026 Article Credit: NASA The Republic of Mauritius has officially joined the global coalition committed to responsible space exploration, becoming the newest signatory and seventh African country to join the Artemis Accords. NASA’s Deputy Administrator Matt Anderson contributed video remarks for a signing ceremony on Friday, in the island nation’s city of Ébène.",
       "queued_ts": 1784303094
+    },
+    {
+      "fp": "ca5fcc71df4cefe7e5c82473",
+      "title": "La NASA invita a los medios de comunicación al lanzamiento del telescopio espacial Roman",
+      "link": "https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-de-comunicacion-al-lanzamiento-del-telescopio-espacial-roman/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-17T19:27:06+00:00",
+      "day_brt": "2026-07-17",
+      "resumo_pt": "Resumo (PT-BR): 2 min read La NASA invita a los medios de comunicación al lanzamiento del telescopio espacial Roman Lauren E. Low Jul 17, 2026 RELEASE Aquí puede verse el telescopio espacial Nancy Grace Roman de la NASA en la sala limpia del Centro de Vuelo Espacial Goddard de la agencia en Greenbelt, Maryland, donde este observatorio fue construido y sometido a pruebas.",
+      "queued_ts": 1784317644
+    },
+    {
+      "fp": "70449d1d14dba330a51c105e",
+      "title": "NASA Invites Media to Roman Space Telescope, Crew-13 Launches",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-17T18:00:57+00:00",
+      "day_brt": "2026-07-17",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Invites Media to Roman Space Telescope, Crew-13 Launches Lauren E. Low Jul 17, 2026 MEDIA ADVISORY M26-054 NASA Headquarters Kennedy Space Center Credit: NASA Media accreditation now is open for the launch of NASA’s Nancy Grace Roman Space Telescope and the agency’s SpaceX Crew-13 missions, both targeting launch in the coming months.",
+      "queued_ts": 1784317644
     }
   ],
   "digests_sent": {
@@ -7111,7 +7151,9 @@
       "44ebbec0b247a3c83e888ea8": true
     },
     "2026-07-17": {
-      "094383e1590ea761db2ed2f8": true
+      "094383e1590ea761db2ed2f8": true,
+      "ca5fcc71df4cefe7e5c82473": true,
+      "70449d1d14dba330a51c105e": true
     }
   }
 }
