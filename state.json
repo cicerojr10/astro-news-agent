@@ -6317,6 +6317,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/astronauts-just-launched-on-a-soyuz-rocket-with-an-energy-drink-ad-on-it-continuing-a-russian-tradition",
       "score": 2.8,
       "published_utc": "2026-07-17T12:00:00+00:00"
+    },
+    "094383e1590ea761db2ed2f8": {
+      "ts": 1784303091,
+      "source": "NASA Breaking News",
+      "title": "NASA Welcomes Mauritius as 70th Artemis Accords Signatory",
+      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-mauritius-as-70th-artemis-accords-signatory/",
+      "score": 4.0,
+      "published_utc": "2026-07-17T14:48:27+00:00"
+    },
+    "d2f523f9533191a887f0040d": {
+      "ts": 1784303094,
+      "source": "Space.com",
+      "title": "'The Starry Night' in space: Dark Energy Camera channels a cosmic Van Gogh (video)",
+      "link": "https://www.space.com/astronomy/stars/the-starry-night-in-space-dark-energy-camera-channels-a-cosmic-van-gogh-video",
+      "score": 2.8,
+      "published_utc": "2026-07-17T15:00:29+00:00"
     }
   },
   "digest_queue": [
@@ -6667,6 +6683,18 @@
       "day_brt": "2026-07-16",
       "resumo_pt": "Resumo (PT-BR): 4 min read NASA Welcomes Serbia as Newest Artemis Accords Signatory Lauren E. Low Jul 16, 2026 Article Serbia’s Minister of Foreign Affairs Marko Đurić, right, shakes hands with NASA Deputy Administrator Matt Anderson, left, after signing the Artemis Accords Thursday, July 16, at NASA Headquarters in Washington.",
       "queued_ts": 1784246444
+    },
+    {
+      "fp": "094383e1590ea761db2ed2f8",
+      "title": "NASA Welcomes Mauritius as 70th Artemis Accords Signatory",
+      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-mauritius-as-70th-artemis-accords-signatory/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-17T14:48:27+00:00",
+      "day_brt": "2026-07-17",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Welcomes Mauritius as 70th Artemis Accords Signatory Elizabeth Shaw Jul 17, 2026 Article Credit: NASA The Republic of Mauritius has officially joined the global coalition committed to responsible space exploration, becoming the newest signatory and seventh African country to join the Artemis Accords. NASA’s Deputy Administrator Matt Anderson contributed video remarks for a signing ceremony on Friday, in the island nation’s city of Ébène.",
+      "queued_ts": 1784303094
     }
   ],
   "digests_sent": {
@@ -7028,6 +7056,9 @@
       "4b87dfdeb7aac9372e26b7e7": true,
       "7d426e83848bfd93a0412879": true,
       "44ebbec0b247a3c83e888ea8": true
+    },
+    "2026-07-17": {
+      "094383e1590ea761db2ed2f8": true
     }
   }
 }
