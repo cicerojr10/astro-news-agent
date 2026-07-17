@@ -6283,6 +6283,15 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-flight-13-test-launch-aborts-at-last-second-video",
       "score": 9.1,
       "published_utc": "2026-07-16T23:12:01+00:00"
+    },
+    "0014bc34ca1c51c19a5d51ab": {
+      "ts": 1784247144,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches 21 communications satellites for the Space Development Agency",
+      "link": "https://spaceflightnow.com/2026/07/16/live-coverage-spacex-to-launch-21-communications-satellites-for-the-space-development-agency/",
+      "score": 0.0,
+      "published_utc": "2026-07-16T00:12:34+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
