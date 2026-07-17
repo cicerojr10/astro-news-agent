@@ -6249,6 +6249,40 @@
       "score": 0.0,
       "published_utc": "2026-07-13T21:10:26+00:00",
       "note": "not_today"
+    },
+    "44ebbec0b247a3c83e888ea8": {
+      "ts": 1784246440,
+      "source": "NASA Breaking News",
+      "title": "NASA Welcomes Serbia as Newest Artemis Accords Signatory",
+      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-serbia-as-newest-artemis-accords-signatory/",
+      "score": 4.0,
+      "published_utc": "2026-07-16T22:37:19+00:00"
+    },
+    "60cb93d26846bbff1eb6f8de": {
+      "ts": 1784246441,
+      "source": "Spaceflight Now",
+      "title": "Post-ignition anomaly causes abort of SpaceX’s Starship Flight 13",
+      "link": "https://spaceflightnow.com/2026/07/16/live-coverage-spacex-to-deploy-first-starlink-v3-satellites-on-suborbital-starship-super-heavy-flight/",
+      "score": 0.0,
+      "published_utc": "2026-07-16T00:44:24+00:00",
+      "note": "not_today"
+    },
+    "4a7766100fa045982f076b35": {
+      "ts": 1784246442,
+      "source": "NASASpaceflight",
+      "title": "Starship Flight 13: Booster 20 Aborts During Iginition",
+      "link": "https://www.nasaspaceflight.com/2026/07/starship-flight-13-flight/",
+      "score": 0.0,
+      "published_utc": "2026-07-16T02:43:59+00:00",
+      "note": "not_today"
+    },
+    "7d426e83848bfd93a0412879": {
+      "ts": 1784246442,
+      "source": "Space.com",
+      "title": "SpaceX's Starship Flight 13 test launch aborts at last second (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-flight-13-test-launch-aborts-at-last-second-video",
+      "score": 9.1,
+      "published_utc": "2026-07-16T23:12:01+00:00"
     }
   },
   "digest_queue": [
@@ -6575,6 +6609,30 @@
       "day_brt": "2026-07-15",
       "resumo_pt": "Resumo (PT-BR): SpaceX to deploy first Starlink V3 satellites on suborbital Starship-Super Heavy flight July 16, 2026 Will Robinson-Smith Super Heavy Booster 20 stands ready to receive the Ship upper stage ahead of the 13th test flight of SpaceX’s Starship vehicle. SpaceX will debut its long-promised Starlink Version 3 satellites during a suborbital test flight of its Starship rocket on Thursday evening.",
       "queued_ts": 1784163708
+    },
+    {
+      "fp": "7d426e83848bfd93a0412879",
+      "title": "SpaceX's Starship Flight 13 test launch aborts at last second (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-flight-13-test-launch-aborts-at-last-second-video",
+      "source": "Space.com",
+      "score": 9.1,
+      "is_anomaly": true,
+      "published_utc": "2026-07-16T23:12:01+00:00",
+      "day_brt": "2026-07-16",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft SpaceX's Starship Flight 13 test launch aborts at last second (video) News By Mike Wall Published 16 July 2026 \"Hopefully, we'll be back real soon for Flight 13 and another attempt to get Starship off the pad.\" When you purchase through links on our site, we may earn an affiliate commission. Click for next article Copy link Facebook X Whatsapp Reddit Pinterest Flipboard Email Share this article 0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter Starship wasn't quite ready to fly today (July 16).",
+      "queued_ts": 1784246444
+    },
+    {
+      "fp": "44ebbec0b247a3c83e888ea8",
+      "title": "NASA Welcomes Serbia as Newest Artemis Accords Signatory",
+      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-serbia-as-newest-artemis-accords-signatory/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-16T22:37:19+00:00",
+      "day_brt": "2026-07-16",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA Welcomes Serbia as Newest Artemis Accords Signatory Lauren E. Low Jul 16, 2026 Article Serbia’s Minister of Foreign Affairs Marko Đurić, right, shakes hands with NASA Deputy Administrator Matt Anderson, left, after signing the Artemis Accords Thursday, July 16, at NASA Headquarters in Washington.",
+      "queued_ts": 1784246444
     }
   ],
   "digests_sent": {
@@ -6930,7 +6988,9 @@
     },
     "2026-07-16": {
       "18bdac8a0424a92a2823f2c4": true,
-      "4b87dfdeb7aac9372e26b7e7": true
+      "4b87dfdeb7aac9372e26b7e7": true,
+      "7d426e83848bfd93a0412879": true,
+      "44ebbec0b247a3c83e888ea8": true
     }
   }
 }
