@@ -6410,6 +6410,14 @@
       "link": "https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/",
       "score": 4.0,
       "published_utc": "2026-07-17T20:34:59+00:00"
+    },
+    "2913872b869f7e3b1735e026": {
+      "ts": 1784332428,
+      "source": "NASA Breaking News",
+      "title": "NASA Pushes New Wing Design to Find Structural Limits",
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
+      "score": 4.0,
+      "published_utc": "2026-07-17T23:08:33+00:00"
     }
   },
   "digest_queue": [
@@ -6760,6 +6768,18 @@
       "day_brt": "2026-07-16",
       "resumo_pt": "Resumo (PT-BR): 4 min read NASA Welcomes Serbia as Newest Artemis Accords Signatory Lauren E. Low Jul 16, 2026 Article Serbia’s Minister of Foreign Affairs Marko Đurić, right, shakes hands with NASA Deputy Administrator Matt Anderson, left, after signing the Artemis Accords Thursday, July 16, at NASA Headquarters in Washington.",
       "queued_ts": 1784246444
+    },
+    {
+      "fp": "2913872b869f7e3b1735e026",
+      "title": "NASA Pushes New Wing Design to Find Structural Limits",
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-17T23:08:33+00:00",
+      "day_brt": "2026-07-17",
+      "resumo_pt": "Resumo (PT-BR): 3 Min Read NASA Pushes New Wing Design to Find Structural Limits The 15-foot Structural Wing Experiment Evaluating Truss-bracing test article is fully installed in the Flight Loads Laboratory at NASA’s Armstrong Flight Research Center in Edwards, California, on Wednesday, May 20, 2026. The model is part of NASA’s research to develop technologies for future ultra-efficient aircraft.",
+      "queued_ts": 1784332431
     }
   ],
   "digests_sent": {
@@ -7127,7 +7147,8 @@
       "094383e1590ea761db2ed2f8": true,
       "ca5fcc71df4cefe7e5c82473": true,
       "70449d1d14dba330a51c105e": true,
-      "9b698369240f3a67607bdb42": true
+      "9b698369240f3a67607bdb42": true,
+      "2913872b869f7e3b1735e026": true
     }
   }
 }
