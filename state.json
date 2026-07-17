@@ -6300,6 +6300,15 @@
       "link": "https://www.space.com/astronomy/sun/are-we-underestimating-the-threat-of-solar-storms-a-once-in-a-thousand-year-disaster-is-worth-considering-scientists-say",
       "score": 2.8,
       "published_utc": "2026-07-17T10:00:00+00:00"
+    },
+    "50bee54d716f1cd2f829be53": {
+      "ts": 1784288448,
+      "source": "NASASpaceflight",
+      "title": "Starship Flight 13: Booster 20 Aborts During Ignition",
+      "link": "https://www.nasaspaceflight.com/2026/07/starship-flight-13-flight/",
+      "score": 0.0,
+      "published_utc": "2026-07-16T02:43:59+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -6950,6 +6959,9 @@
     "2026-07-16": {
       "morning": true,
       "night": true
+    },
+    "2026-07-17": {
+      "morning": true
     }
   },
   "sent_updates": {
