@@ -6309,6 +6309,14 @@
       "score": 0.0,
       "published_utc": "2026-07-16T02:43:59+00:00",
       "note": "not_today"
+    },
+    "a8b85ae2a0fc3a45cb2fc030": {
+      "ts": 1784292486,
+      "source": "Space.com",
+      "title": "Astronauts just launched on a Soyuz rocket with an energy-drink ad on it, continuing a Russian tradition",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/astronauts-just-launched-on-a-soyuz-rocket-with-an-energy-drink-ad-on-it-continuing-a-russian-tradition",
+      "score": 2.8,
+      "published_utc": "2026-07-17T12:00:00+00:00"
     }
   },
   "digest_queue": [
