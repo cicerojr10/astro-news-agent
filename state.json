@@ -6292,6 +6292,14 @@
       "score": 0.0,
       "published_utc": "2026-07-16T00:12:34+00:00",
       "note": "not_today"
+    },
+    "67b58923150742febe704e56": {
+      "ts": 1784283277,
+      "source": "Space.com",
+      "title": "Are we underestimating the threat of solar storms? A 'once-in-a-thousand-year' disaster is worth considering, scientists say",
+      "link": "https://www.space.com/astronomy/sun/are-we-underestimating-the-threat-of-solar-storms-a-once-in-a-thousand-year-disaster-is-worth-considering-scientists-say",
+      "score": 2.8,
+      "published_utc": "2026-07-17T10:00:00+00:00"
     }
   },
   "digest_queue": [
