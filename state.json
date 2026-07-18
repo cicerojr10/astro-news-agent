@@ -6427,6 +6427,14 @@
       "score": 0.0,
       "published_utc": "2026-07-17T16:00:00+00:00",
       "note": "not_today"
+    },
+    "095657ec23b0a5da4a87d102": {
+      "ts": 1784385530,
+      "source": "Space.com",
+      "title": "Another reusable rocket? Japan launches, lands RV-X  prototype (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/another-reusable-rocket-coming-japan-launches-lands-rv-x-prototype-video",
+      "score": 2.8,
+      "published_utc": "2026-07-18T14:00:00+00:00"
     }
   },
   "digest_queue": [
