@@ -6517,6 +6517,14 @@
       "score": 0.0,
       "published_utc": "2026-07-16T17:07:18+00:00",
       "note": "not_today"
+    },
+    "c7f65af6a0b5ab69ed6313e8": {
+      "ts": 1784577530,
+      "source": "NASASpaceflight",
+      "title": "Making Progress: Relativity’s Terran R, Rocket Lab’s Neutron, and PLD Space’s Miura 5",
+      "link": "https://www.nasaspaceflight.com/2026/07/making-progress-terran-r-neutron-miura/",
+      "score": 3.6,
+      "published_utc": "2026-07-20T19:18:54+00:00"
     }
   },
   "digest_queue": [
@@ -6915,6 +6923,18 @@
       "day_brt": "2026-07-20",
       "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft Twice in a row: SpaceX rocket aborts launch at last second again (video) News By Mike Wall Published 20 July 2026 This time, it was a Falcon 9 trying to loft a batch of Starlink satellites. When you purchase through links on our site, we may earn an affiliate commission.",
       "queued_ts": 1784571571
+    },
+    {
+      "fp": "c7f65af6a0b5ab69ed6313e8",
+      "title": "Making Progress: Relativity’s Terran R, Rocket Lab’s Neutron, and PLD Space’s Miura 5",
+      "link": "https://www.nasaspaceflight.com/2026/07/making-progress-terran-r-neutron-miura/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-07-20T19:18:54+00:00",
+      "day_brt": "2026-07-20",
+      "resumo_pt": "Resumo (PT-BR): Making Progress: Relativity’s Terran R, Rocket Lab’s Neutron, and PLD Space’s Miura 5 by Martijn Luinstra and Chris Bergin July 20, 2026 written by Martijn Luinstra and Chris Bergin July 20, 2026 1 While the focus of late has been on Starship’s test program, three companies developing new orbital rockets — Relativity Space, Rocket Lab, and PLD Space — announced key testing milestones for vehicles targeted for debut flights later in 2026. These updates highlight ongoing qualification efforts across structural, propulsion, and ground infrastructure domains as the programs move closer to integrated vehicle testing and eventual launch.",
+      "queued_ts": 1784577532
     }
   ],
   "digests_sent": {
@@ -7299,7 +7319,8 @@
     "2026-07-20": {
       "18c6f816523224ea378e2f80": true,
       "b229f202e26b9e241ce85b07": true,
-      "05fec392a4ba37fe11a7643c": true
+      "05fec392a4ba37fe11a7643c": true,
+      "c7f65af6a0b5ab69ed6313e8": true
     }
   }
 }
