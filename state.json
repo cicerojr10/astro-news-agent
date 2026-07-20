@@ -6452,6 +6452,14 @@
       "score": 0.0,
       "published_utc": "2026-07-16T10:00:00+00:00",
       "note": "not_today"
+    },
+    "c436199208c76e1f02504993": {
+      "ts": 1784550498,
+      "source": "Space.com",
+      "title": "Did Viking 1 find life on Mars 50 years ago? Here's why the debate continues",
+      "link": "https://www.space.com/astronomy/mars/did-viking-1-find-life-on-mars-50-years-ago-heres-why-the-debate-continues",
+      "score": 2.8,
+      "published_utc": "2026-07-20T12:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -7126,6 +7134,9 @@
     "2026-07-19": {
       "morning": true,
       "night": true
+    },
+    "2026-07-20": {
+      "morning": true
     }
   },
   "sent_updates": {
