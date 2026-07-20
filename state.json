@@ -6476,6 +6476,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-launch-costs-have-dropped-96-percent-since-1960-how-low-can-they-go",
       "score": 2.8,
       "published_utc": "2026-07-20T13:00:00+00:00"
+    },
+    "b229f202e26b9e241ce85b07": {
+      "ts": 1784563854,
+      "source": "Spaceflight Now",
+      "title": "SpaceX suffers rare, last-second Falcon 9 rocket launch abort",
+      "link": "https://spaceflightnow.com/2026/07/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-11/",
+      "score": 11.700000000000001,
+      "published_utc": "2026-07-20T12:38:44+00:00"
+    },
+    "d8b5d06fe12a761d748e9e71": {
+      "ts": 1784563855,
+      "source": "Space.com",
+      "title": "Four astronauts, 3 spacecraft, 2 weeks in orbit: Artemis III will be NASA's most complicated mission ever",
+      "link": "https://www.space.com/space-exploration/artemis/four-astronauts-3-spacecraft-2-weeks-in-orbit-artemis-iii-will-be-nasas-most-complicated-mission-ever",
+      "score": 2.8,
+      "published_utc": "2026-07-20T16:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -6850,6 +6866,18 @@
       "day_brt": "2026-07-20",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB July 20, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket stands ready to launch the Starlink 7-14 mission from Vandenberg Space Force Base. Image: SpaceX SpaceX will add another two dozen of its Starlink V2 Mini broadband internet satellites to its massive low Earth orbit constellation Monday morning with a Falcon 9 rocket launch from Vandenberg Space Force Base.",
       "queued_ts": 1784552328
+    },
+    {
+      "fp": "b229f202e26b9e241ce85b07",
+      "title": "SpaceX suffers rare, last-second Falcon 9 rocket launch abort",
+      "link": "https://spaceflightnow.com/2026/07/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-11/",
+      "source": "Spaceflight Now",
+      "score": 11.700000000000001,
+      "is_anomaly": true,
+      "published_utc": "2026-07-20T12:38:44+00:00",
+      "day_brt": "2026-07-20",
+      "resumo_pt": "Resumo (PT-BR): SpaceX suffers rare, last-second Falcon 9 rocket launch abort July 20, 2026 Will Robinson-Smith The nine Merlin engines on SpaceX’s Falcon 9 rocket ignite briefly before shutting down during a rare, post-ignition abort on Monday, July 20, 2026. SpaceX suffered its second launch scrub in less than a week after its Falcon 9 rocket failed to launch from Vandenberg Space Force Base on Monday.",
+      "queued_ts": 1784563856
     }
   ],
   "digests_sent": {
@@ -7232,7 +7260,8 @@
       "2913872b869f7e3b1735e026": true
     },
     "2026-07-20": {
-      "18c6f816523224ea378e2f80": true
+      "18c6f816523224ea378e2f80": true,
+      "b229f202e26b9e241ce85b07": true
     }
   }
 }
