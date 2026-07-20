@@ -6460,6 +6460,14 @@
       "link": "https://www.space.com/astronomy/mars/did-viking-1-find-life-on-mars-50-years-ago-heres-why-the-debate-continues",
       "score": 2.8,
       "published_utc": "2026-07-20T12:00:00+00:00"
+    },
+    "18c6f816523224ea378e2f80": {
+      "ts": 1784552326,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/07/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-11/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-07-20T12:38:44+00:00"
     }
   },
   "digest_queue": [
@@ -6822,6 +6830,18 @@
       "day_brt": "2026-07-17",
       "resumo_pt": "Resumo (PT-BR): 3 Min Read NASA Pushes New Wing Design to Find Structural Limits The 15-foot Structural Wing Experiment Evaluating Truss-bracing test article is fully installed in the Flight Loads Laboratory at NASA’s Armstrong Flight Research Center in Edwards, California, on Wednesday, May 20, 2026. The model is part of NASA’s research to develop technologies for future ultra-efficient aircraft.",
       "queued_ts": 1784332431
+    },
+    {
+      "fp": "18c6f816523224ea378e2f80",
+      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/07/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-11/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-07-20T12:38:44+00:00",
+      "day_brt": "2026-07-20",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB July 20, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket stands ready to launch the Starlink 7-14 mission from Vandenberg Space Force Base. Image: SpaceX SpaceX will add another two dozen of its Starlink V2 Mini broadband internet satellites to its massive low Earth orbit constellation Monday morning with a Falcon 9 rocket launch from Vandenberg Space Force Base.",
+      "queued_ts": 1784552328
     }
   ],
   "digests_sent": {
@@ -7202,6 +7222,9 @@
       "70449d1d14dba330a51c105e": true,
       "9b698369240f3a67607bdb42": true,
       "2913872b869f7e3b1735e026": true
+    },
+    "2026-07-20": {
+      "18c6f816523224ea378e2f80": true
     }
   }
 }
