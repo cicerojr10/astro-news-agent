@@ -6492,6 +6492,31 @@
       "link": "https://www.space.com/space-exploration/artemis/four-astronauts-3-spacecraft-2-weeks-in-orbit-artemis-iii-will-be-nasas-most-complicated-mission-ever",
       "score": 2.8,
       "published_utc": "2026-07-20T16:00:00+00:00"
+    },
+    "c9cc36855f51ca735e45242a": {
+      "ts": 1784571570,
+      "source": "Space.com",
+      "title": "50 years after Viking 1's historic Mars landing, NASA is looking to the Red Planet's skies",
+      "link": "https://www.space.com/astronomy/mars/50-years-after-viking-1s-historic-mars-landing-nasa-is-looking-to-the-red-planets-skies",
+      "score": 2.8,
+      "published_utc": "2026-07-20T18:00:00+00:00"
+    },
+    "05fec392a4ba37fe11a7643c": {
+      "ts": 1784571570,
+      "source": "Space.com",
+      "title": "Twice in a row: SpaceX rocket aborts launch at last second again (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-abort-falcon-9-starlink-satellites-vandenberg",
+      "score": 9.1,
+      "published_utc": "2026-07-20T16:09:40+00:00"
+    },
+    "06ca578f72aa145a6994dd6b": {
+      "ts": 1784571570,
+      "source": "Space.com",
+      "title": "SpaceX stacks massive Starship rocket ahead of July 23's Flight 13 test launch (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-stacks-massive-starship-rocket-ahead-of-todays-flight-13-test-launch-video",
+      "score": 0.0,
+      "published_utc": "2026-07-16T17:07:18+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -6878,6 +6903,18 @@
       "day_brt": "2026-07-20",
       "resumo_pt": "Resumo (PT-BR): SpaceX suffers rare, last-second Falcon 9 rocket launch abort July 20, 2026 Will Robinson-Smith The nine Merlin engines on SpaceX’s Falcon 9 rocket ignite briefly before shutting down during a rare, post-ignition abort on Monday, July 20, 2026. SpaceX suffered its second launch scrub in less than a week after its Falcon 9 rocket failed to launch from Vandenberg Space Force Base on Monday.",
       "queued_ts": 1784563856
+    },
+    {
+      "fp": "05fec392a4ba37fe11a7643c",
+      "title": "Twice in a row: SpaceX rocket aborts launch at last second again (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-abort-falcon-9-starlink-satellites-vandenberg",
+      "source": "Space.com",
+      "score": 9.1,
+      "is_anomaly": true,
+      "published_utc": "2026-07-20T16:09:40+00:00",
+      "day_brt": "2026-07-20",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft Twice in a row: SpaceX rocket aborts launch at last second again (video) News By Mike Wall Published 20 July 2026 This time, it was a Falcon 9 trying to loft a batch of Starlink satellites. When you purchase through links on our site, we may earn an affiliate commission.",
+      "queued_ts": 1784571571
     }
   ],
   "digests_sent": {
@@ -7261,7 +7298,8 @@
     },
     "2026-07-20": {
       "18c6f816523224ea378e2f80": true,
-      "b229f202e26b9e241ce85b07": true
+      "b229f202e26b9e241ce85b07": true,
+      "05fec392a4ba37fe11a7643c": true
     }
   }
 }
