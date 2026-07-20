@@ -6533,6 +6533,38 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-targets-july-23-for-crucial-starship-flight-13-test-launch-after-abort",
       "score": 9.1,
       "published_utc": "2026-07-20T21:00:00+00:00"
+    },
+    "17028939b4cc4debd842e747": {
+      "ts": 1784585432,
+      "source": "NASA Breaking News",
+      "title": "NASA Sets Briefings for SpaceX Crew-13 Mission to Space Station",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/",
+      "score": 4.0,
+      "published_utc": "2026-07-20T20:00:52+00:00"
+    },
+    "29e685ce2045fc88d1067305": {
+      "ts": 1784585432,
+      "source": "NASA Breaking News",
+      "title": "New NASA Earth Missions Gear Up to Start Science Flights",
+      "link": "https://science.nasa.gov/earth/new-nasa-earth-missions-gear-up-to-start-science-flights/",
+      "score": 4.0,
+      "published_utc": "2026-07-20T18:25:11+00:00"
+    },
+    "e671812af322a061319e24bc": {
+      "ts": 1784585432,
+      "source": "NASA Breaking News",
+      "title": "From Hampton to Mars: How NASA Langley Helped Land on the Red Planet",
+      "link": "https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/",
+      "score": 4.0,
+      "published_utc": "2026-07-20T15:47:15+00:00"
+    },
+    "6680dd201f42986e7f562920": {
+      "ts": 1784585432,
+      "source": "NASA Breaking News",
+      "title": "Our First View of the Surface of Mars",
+      "link": "https://www.nasa.gov/image-article/our-first-view-of-the-surface-of-mars/",
+      "score": 4.0,
+      "published_utc": "2026-07-20T15:38:29+00:00"
     }
   },
   "digest_queue": [
@@ -6955,6 +6987,54 @@
       "day_brt": "2026-07-20",
       "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft SpaceX targets July 23 for crucial Starship Flight 13 test launch after abort News By Mike Wall Published 20 July 2026 Liftoff is scheduled for 6:45 p.m. When you purchase through links on our site, we may earn an affiliate commission.",
       "queued_ts": 1784581748
+    },
+    {
+      "fp": "17028939b4cc4debd842e747",
+      "title": "NASA Sets Briefings for SpaceX Crew-13 Mission to Space Station",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-20T20:00:52+00:00",
+      "day_brt": "2026-07-20",
+      "resumo_pt": "Resumo (PT-BR): 5 min read NASA Sets Briefings for SpaceX Crew-13 Mission to Space Station Jessica Taveau Jul 20, 2026 MEDIA ADVISORY M26-055 NASA Headquarters Johnson Space Center NASA’s SpaceX Crew-13 members are pictured in their pressure suits seated inside a mockup Dragon spacecraft during a preflight training session at the company’s headquarters in Hawthorne, California. From left are Roscosmos Sergey Teteryatnikov, NASA astronauts Luke Delaney and Jessica Watkins, and CSA (Canadian Space Agency) astronaut Joshua Kutryk.",
+      "queued_ts": 1784585436
+    },
+    {
+      "fp": "29e685ce2045fc88d1067305",
+      "title": "New NASA Earth Missions Gear Up to Start Science Flights",
+      "link": "https://science.nasa.gov/earth/new-nasa-earth-missions-gear-up-to-start-science-flights/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-20T18:25:11+00:00",
+      "day_brt": "2026-07-20",
+      "resumo_pt": "Resumo (PT-BR): Earth (ESD) Earth Explore Explore Earth Science Agriculture Air Quality Climate Change Freshwater Life on Earth Severe Storms Snow and Ice The Global Ocean Science at Work Earth Science at Work Technology and Innovation Powering Business Multimedia Image Collections Videos Data For Researchers About Us 6 Min Read New NASA Earth Missions Gear Up to Start Science Flights Satellite imagery captured wildfires burning hot enough to generate pyrocumulonimbus clouds north of Lake Superior in July 2026. NASA aircraft will help scientists study the powerful storms as they develop.",
+      "queued_ts": 1784585436
+    },
+    {
+      "fp": "e671812af322a061319e24bc",
+      "title": "From Hampton to Mars: How NASA Langley Helped Land on the Red Planet",
+      "link": "https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-20T15:47:15+00:00",
+      "day_brt": "2026-07-20",
+      "resumo_pt": "Resumo (PT-BR): 3 min read From Hampton to Mars: How NASA Langley Helped Land on the Red Planet Joe Atkinson Public Affairs Officer, NASA Langley Research Center Charles G. Hatfield Science Public Affairs Officer, NASA Langley Research Center Jul 20, 2026 Article Contents Building the Blueprint for Mars Entry, Descent, and Landing Science and Safety, Hand in Hand A Mission Reborn: From Voyager to Viking A Legacy That Endures This historic image — the first from the surface of Mars — confirmed that NASA’s Viking 1 lander had become the first spacecraft to touch down on the Red Planet on July 20, 1976.",
+      "queued_ts": 1784585436
+    },
+    {
+      "fp": "6680dd201f42986e7f562920",
+      "title": "Our First View of the Surface of Mars",
+      "link": "https://www.nasa.gov/image-article/our-first-view-of-the-surface-of-mars/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-20T15:38:29+00:00",
+      "day_brt": "2026-07-20",
+      "resumo_pt": "Resumo (PT-BR): 2 min read Our First View of the Surface of Mars Michele Ostovar NASA History Communications Lead Jul 20, 2026 Image Article On the morning of July 20, 1976, roughly 40 minutes after mission controllers received word that the Viking 1 lander had successfully touched down on the surface of Mars, this photo gave us our first view from the surface of another planet. PDT, July 20, 1976, mission controllers at NASA’s Jet Propulsion Laboratory erupted in cheers as they learned that the Viking 1 lander had survived its descent through the thin Martian atmosphere.",
+      "queued_ts": 1784585436
     }
   ],
   "digests_sent": {
@@ -7341,7 +7421,10 @@
       "b229f202e26b9e241ce85b07": true,
       "05fec392a4ba37fe11a7643c": true,
       "c7f65af6a0b5ab69ed6313e8": true,
-      "9122ae9b3bfc8791b6b6f234": true
+      "9122ae9b3bfc8791b6b6f234": true,
+      "17028939b4cc4debd842e747": true,
+      "29e685ce2045fc88d1067305": true,
+      "e671812af322a061319e24bc": true
     }
   }
 }
