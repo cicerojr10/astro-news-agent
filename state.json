@@ -6525,6 +6525,14 @@
       "link": "https://www.nasaspaceflight.com/2026/07/making-progress-terran-r-neutron-miura/",
       "score": 3.6,
       "published_utc": "2026-07-20T19:18:54+00:00"
+    },
+    "9122ae9b3bfc8791b6b6f234": {
+      "ts": 1784581747,
+      "source": "Space.com",
+      "title": "SpaceX targets July 23 for crucial Starship Flight 13 test launch after abort",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-targets-july-23-for-crucial-starship-flight-13-test-launch-after-abort",
+      "score": 9.1,
+      "published_utc": "2026-07-20T21:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -6935,6 +6943,18 @@
       "day_brt": "2026-07-20",
       "resumo_pt": "Resumo (PT-BR): Making Progress: Relativity’s Terran R, Rocket Lab’s Neutron, and PLD Space’s Miura 5 by Martijn Luinstra and Chris Bergin July 20, 2026 written by Martijn Luinstra and Chris Bergin July 20, 2026 1 While the focus of late has been on Starship’s test program, three companies developing new orbital rockets — Relativity Space, Rocket Lab, and PLD Space — announced key testing milestones for vehicles targeted for debut flights later in 2026. These updates highlight ongoing qualification efforts across structural, propulsion, and ground infrastructure domains as the programs move closer to integrated vehicle testing and eventual launch.",
       "queued_ts": 1784577532
+    },
+    {
+      "fp": "9122ae9b3bfc8791b6b6f234",
+      "title": "SpaceX targets July 23 for crucial Starship Flight 13 test launch after abort",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-targets-july-23-for-crucial-starship-flight-13-test-launch-after-abort",
+      "source": "Space.com",
+      "score": 9.1,
+      "is_anomaly": true,
+      "published_utc": "2026-07-20T21:00:00+00:00",
+      "day_brt": "2026-07-20",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft SpaceX targets July 23 for crucial Starship Flight 13 test launch after abort News By Mike Wall Published 20 July 2026 Liftoff is scheduled for 6:45 p.m. When you purchase through links on our site, we may earn an affiliate commission.",
+      "queued_ts": 1784581748
     }
   ],
   "digests_sent": {
@@ -7320,7 +7340,8 @@
       "18c6f816523224ea378e2f80": true,
       "b229f202e26b9e241ce85b07": true,
       "05fec392a4ba37fe11a7643c": true,
-      "c7f65af6a0b5ab69ed6313e8": true
+      "c7f65af6a0b5ab69ed6313e8": true,
+      "9122ae9b3bfc8791b6b6f234": true
     }
   }
 }
