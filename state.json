@@ -6435,6 +6435,23 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/another-reusable-rocket-coming-japan-launches-lands-rv-x-prototype-video",
       "score": 2.8,
       "published_utc": "2026-07-18T14:00:00+00:00"
+    },
+    "931861a39d1bcbe04e2037b1": {
+      "ts": 1784542937,
+      "source": "Space.com",
+      "title": "An artificial 'Saturn's ring' of satellites could soon fill the sky, astronomers warn",
+      "link": "https://www.space.com/space-exploration/satellites/an-artificial-saturns-ring-of-satellites-could-soon-fill-the-sky-astronomers-warn",
+      "score": 2.8,
+      "published_utc": "2026-07-20T10:00:00+00:00"
+    },
+    "24551e9b4ef090a46992d0b1": {
+      "ts": 1784542937,
+      "source": "Space.com",
+      "title": "SpaceX will launch Starship, the world's largest rocket, on critical Flight 13 test on July 23. Here's what to expect.",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-13-starlink-v3-satellites",
+      "score": 0.0,
+      "published_utc": "2026-07-16T10:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
