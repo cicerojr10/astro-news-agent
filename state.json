@@ -6613,6 +6613,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-northrop-grumman-mrv-mep-satellite-servicing-mission",
       "score": 2.8,
       "published_utc": "2026-07-21T13:00:00+00:00"
+    },
+    "7a0d309d848cc5b234ab264e": {
+      "ts": 1784649468,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches Starlink mission from California a day after last-second abort",
+      "link": "https://spaceflightnow.com/2026/07/21/live-coverage-spacex-tries-again-to-launch-starlink-mission-from-california-following-abort/",
+      "score": 11.700000000000001,
+      "published_utc": "2026-07-21T10:49:41+00:00"
     }
   },
   "digest_queue": [
@@ -6999,6 +7007,18 @@
       "day_brt": "2026-07-21",
       "resumo_pt": "Resumo (PT-BR): 5 min read A New Compact Instrument Enables High-Fidelity Measurements of Energetic Particles on CubeSats NASA Science Editorial Team Jul 21, 2026 Article A team of NASA-sponsored scientists and engineers has developed a novel approach to observing high-energy particles in the near-Earth space environment, incorporating miniaturized sensors into a compact, multi-view particle detection instrument unlike any before it. Built for NASA’s Relativistic Electron Atmospheric Loss (REAL) CubeSat mission, the innovative instrument (also called REAL) enables more complete measurements of how energetic particles are transported and lost in Earth’s radiation environment, opening the door to improved understanding of space weather effects in low Earth orbit (LEO) while also making these unparalleled observations accessible to future small, low-cost spacecraft.",
       "queued_ts": 1784643718
+    },
+    {
+      "fp": "7a0d309d848cc5b234ab264e",
+      "title": "SpaceX launches Starlink mission from California a day after last-second abort",
+      "link": "https://spaceflightnow.com/2026/07/21/live-coverage-spacex-tries-again-to-launch-starlink-mission-from-california-following-abort/",
+      "source": "Spaceflight Now",
+      "score": 11.700000000000001,
+      "is_anomaly": true,
+      "published_utc": "2026-07-21T10:49:41+00:00",
+      "day_brt": "2026-07-21",
+      "resumo_pt": "Resumo (PT-BR): SpaceX launches Starlink mission from California a day after last-second abort July 21, 2026 Will Robinson-Smith The Starlink 17-39 mission lifts off from Space Launch Complex 4E at Vandenberg Space Force Base in California on July 21, 2026. A SpaceX Falcon 9 rocket launched two dozen Starlink V2 Mini broadband internet satellites to its massive low Earth orbit constellation on Tuesday, a day after liftoff was scrubbed by a rare abort during engine ignition.",
+      "queued_ts": 1784649471
     }
   ],
   "digests_sent": {
@@ -7375,7 +7395,8 @@
       "19c4e49fb2c283586c15ef7d": true,
       "9939bf635d7493850a31ab80": true,
       "c11ee0f68e1b9e67a96a2944": true,
-      "598ddcd67d0c0c32fdb649f3": true
+      "598ddcd67d0c0c32fdb649f3": true,
+      "7a0d309d848cc5b234ab264e": true
     }
   }
 }
