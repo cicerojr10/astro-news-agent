@@ -6693,6 +6693,38 @@
       "link": "https://www.space.com/space-exploration/artemis/artemis-iii-astronauts-will-beam-4k-video-from-orion-to-earth-using-spacex-starlink-lasers",
       "score": 2.8,
       "published_utc": "2026-07-21T17:00:00+00:00"
+    },
+    "6ffb2c6fb3633161b9dce2ae": {
+      "ts": 1784659202,
+      "source": "NASA Breaking News",
+      "title": "US-India Satellite Delivers Data, Reveals ‘Hummingbird’ in Antarctica",
+      "link": "https://www.nasa.gov/missions/nisar/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica/",
+      "score": 4.0,
+      "published_utc": "2026-07-21T18:14:52+00:00"
+    },
+    "99709f353969bb2b4f02e037": {
+      "ts": 1784659202,
+      "source": "NASA Breaking News",
+      "title": "NASA Langley Celebrates Community through Music with ‘Symphony Under the Stars’ Event",
+      "link": "https://www.nasa.gov/general/nasa-langley-celebrates-community-through-music-with-symphony-under-the-stars-event/",
+      "score": 4.0,
+      "published_utc": "2026-07-21T18:00:43+00:00"
+    },
+    "178c03c6c61deedc335cce14": {
+      "ts": 1784659205,
+      "source": "NASASpaceflight",
+      "title": "Falcon 9 to launch MRV-1 robotic servicing spacecraft for Northrop Grumman",
+      "link": "https://www.nasaspaceflight.com/2026/07/mrv-1-launch/",
+      "score": 3.6,
+      "published_utc": "2026-07-21T18:30:58+00:00"
+    },
+    "abe4e3f57a0635c8d605fa21": {
+      "ts": 1784659206,
+      "source": "Space.com",
+      "title": "SpaceX Falcon 9 rocket sends Starlink satellites to orbit a day after rare launch abort",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-39-b1082-vsfb-ocisly",
+      "score": 9.1,
+      "published_utc": "2026-07-21T18:30:00+00:00"
     }
   },
   "digest_queue": [
@@ -7187,6 +7219,54 @@
       "day_brt": "2026-07-21",
       "resumo_pt": "Resumo (PT-BR): 2 min read Plasmon-Enhanced Radioisotope Thermophotovoltaic (PRTPV) Power Generation for Interstellar Missions Loura Hall Jul 21, 2026 Article Graphic depiction of the PRTPV concept. Keunhan Park Keunhan Park University of Utah This proposal seeks to develop a transformative energy system — the plasmon-enhanced radioisotope Thermophotovoltaic (PRTPV) generator — that significantly surpasses the performance of current radioisotope thermoelectric generators (RTGs) in both specific power and efficiency.",
       "queued_ts": 1784653865
+    },
+    {
+      "fp": "abe4e3f57a0635c8d605fa21",
+      "title": "SpaceX Falcon 9 rocket sends Starlink satellites to orbit a day after rare launch abort",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-39-b1082-vsfb-ocisly",
+      "source": "Space.com",
+      "score": 9.1,
+      "is_anomaly": true,
+      "published_utc": "2026-07-21T18:30:00+00:00",
+      "day_brt": "2026-07-21",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft SpaceX Falcon 9 rocket sends Starlink satellites to orbit a day after rare launch abort News By Robert Z. Pearlman Published 21 July 2026 SpaceX did not state a reason for the July 20 launch abort.",
+      "queued_ts": 1784659209
+    },
+    {
+      "fp": "6ffb2c6fb3633161b9dce2ae",
+      "title": "US-India Satellite Delivers Data, Reveals ‘Hummingbird’ in Antarctica",
+      "link": "https://www.nasa.gov/missions/nisar/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-21T18:14:52+00:00",
+      "day_brt": "2026-07-21",
+      "resumo_pt": "Resumo (PT-BR): 5 min read US-India Satellite Delivers Data, Reveals ‘Hummingbird’ in Antarctica Jet Propulsion Laboratory Jul 21, 2026 Article Contents Story in magenta, green Access to data More about NISAR Main Figure A Scientists used data from the L-band radar aboard the U.S.-India Earth-orbiting NISAR satellite to produce this image of Nunatak Zaterjavshijsja, a mountaintop in East Antarctica, poking out amid a stream of ice flowing northeast to the ocean. NASA/JPL-Caltech The image shows Nunatak Zaterjavshijsja at center-left, surrounded by ice fractured with crevasses, which are shown as sharp, green lines.",
+      "queued_ts": 1784659209
+    },
+    {
+      "fp": "99709f353969bb2b4f02e037",
+      "title": "NASA Langley Celebrates Community through Music with ‘Symphony Under the Stars’ Event",
+      "link": "https://www.nasa.gov/general/nasa-langley-celebrates-community-through-music-with-symphony-under-the-stars-event/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-21T18:00:43+00:00",
+      "day_brt": "2026-07-21",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Langley Celebrates Community through Music with ‘Symphony Under the Stars’ Event Brandon Ingram Jul 21, 2026 Article To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video Scenes and sounds from the July 16 “Stars, Stripes, and Supernovas – Symphony Under the Stars” event at NASA Langley. NASA/Joe Atkinson NASA Langley’s “Stars, Stripes, and Supernovas – Symphony Under the Stars” event brought employees, families, and community members together for an evening filled with music, connection, and celebration.",
+      "queued_ts": 1784659209
+    },
+    {
+      "fp": "178c03c6c61deedc335cce14",
+      "title": "Falcon 9 to launch MRV-1 robotic servicing spacecraft for Northrop Grumman",
+      "link": "https://www.nasaspaceflight.com/2026/07/mrv-1-launch/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-07-21T18:30:58+00:00",
+      "day_brt": "2026-07-21",
+      "resumo_pt": "Resumo (PT-BR): Falcon 9 to launch MRV-1 robotic servicing spacecraft for Northrop Grumman by Eleanor Day July 21, 2026 written by Eleanor Day July 21, 2026 7 SpaceX’s Falcon 9 is set to launch the Mission Robotic Vehicle (MRV-1) mission from Florida on Tuesday evening. The MRV-1 vehicle, developed by Northrop Grumman, is a robotic servicing spacecraft capable of extending the life of satellites by attaching Mission Extension Pods (MEPs).",
+      "queued_ts": 1784659209
     }
   ],
   "digests_sent": {
@@ -7567,7 +7647,10 @@
       "7a0d309d848cc5b234ab264e": true,
       "5e59dceea1735443712d6b60": true,
       "a0df1d4c0bd50c246b48b8cc": true,
-      "bdbd1f4ad639cef649f0056f": true
+      "bdbd1f4ad639cef649f0056f": true,
+      "abe4e3f57a0635c8d605fa21": true,
+      "6ffb2c6fb3633161b9dce2ae": true,
+      "99709f353969bb2b4f02e037": true
     }
   }
 }
