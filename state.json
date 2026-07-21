@@ -6573,6 +6573,22 @@
       "link": "https://www.space.com/astronomy/galaxies/galaxy-clusters-magnetic-field-reconstructed-for-1st-time-with-record-breaking-astronomy-map",
       "score": 2.8,
       "published_utc": "2026-07-21T10:00:00+00:00"
+    },
+    "9939bf635d7493850a31ab80": {
+      "ts": 1784635969,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch novel geosynchronous robotic servicing satellite on decade-long mission",
+      "link": "https://spaceflightnow.com/2026/07/21/live-coverage-spacex-to-launch-novel-geosynchronous-robotic-servicing-satellite-on-decade-long-mission/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-07-21T11:46:14+00:00"
+    },
+    "19c4e49fb2c283586c15ef7d": {
+      "ts": 1784635969,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX tries again to launch Starlink mission from California following abort",
+      "link": "https://spaceflightnow.com/2026/07/21/live-coverage-spacex-tries-again-to-launch-starlink-mission-from-california-following-abort/",
+      "score": 12.78,
+      "published_utc": "2026-07-21T10:49:41+00:00"
     }
   },
   "digest_queue": [
@@ -7251,32 +7267,12 @@
     "2026-07-20": {
       "morning": true,
       "night": true
+    },
+    "2026-07-21": {
+      "morning": true
     }
   },
   "sent_updates": {
-    "2026-07-08": {
-      "9f152b3f881d39e998011a59": true,
-      "dfc792e8afb3a3a00cde57ac": true,
-      "7b0386ec4d0ca9f13e273c2b": true,
-      "52f7c7b27737bf6fa57c72ad": true,
-      "b58170ecaec3d8c946f454da": true
-    },
-    "2026-07-09": {
-      "883d7b8e56dc577fd67b326a": true,
-      "a7687cfe8f9c4df8c5ae5351": true,
-      "266da1d08348e16e96745dbb": true
-    },
-    "2026-07-10": {
-      "ddb7b23f90ecb8998c6e335d": true,
-      "fd2879867fb7c18c082f1ea8": true,
-      "81b564ba8843bef4cc9742ce": true,
-      "a24811d04dd3bf53017f27c5": true,
-      "80e57725c6c96467917cb0c9": true
-    },
-    "2026-07-12": {
-      "e40963f1c37df25ced52df6d": true,
-      "4b618f425c8abea2e7a051d1": true
-    },
     "2026-07-13": {
       "4493ae238c45c2cbd43eb684": true,
       "59817a5a700d8945116719fb": true,
@@ -7326,6 +7322,10 @@
       "17028939b4cc4debd842e747": true,
       "29e685ce2045fc88d1067305": true,
       "e671812af322a061319e24bc": true
+    },
+    "2026-07-21": {
+      "19c4e49fb2c283586c15ef7d": true,
+      "9939bf635d7493850a31ab80": true
     }
   }
 }
