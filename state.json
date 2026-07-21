@@ -6589,6 +6589,30 @@
       "link": "https://spaceflightnow.com/2026/07/21/live-coverage-spacex-tries-again-to-launch-starlink-mission-from-california-following-abort/",
       "score": 12.78,
       "published_utc": "2026-07-21T10:49:41+00:00"
+    },
+    "c11ee0f68e1b9e67a96a2944": {
+      "ts": 1784643714,
+      "source": "NASA Breaking News",
+      "title": "Establishing Crew Exposure Limits of Martian Dust",
+      "link": "https://www.nasa.gov/general/establishing-crew-exposure-limits-of-martian-dust/",
+      "score": 4.0,
+      "published_utc": "2026-07-21T14:03:16+00:00"
+    },
+    "598ddcd67d0c0c32fdb649f3": {
+      "ts": 1784643714,
+      "source": "NASA Breaking News",
+      "title": "A New Compact Instrument Enables High-Fidelity Measurements of Energetic Particles on CubeSats",
+      "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/a-new-compact-instrument-enables-high-fidelity-measurements-of-energetic-particles-on-cubesats/",
+      "score": 4.0,
+      "published_utc": "2026-07-21T13:00:00+00:00"
+    },
+    "69b1aa37813384fb25aae4bd": {
+      "ts": 1784643716,
+      "source": "Space.com",
+      "title": "SpaceX will launch a satellite repair drone with robot arms to Earth orbit today: How to watch it live",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-northrop-grumman-mrv-mep-satellite-servicing-mission",
+      "score": 2.8,
+      "published_utc": "2026-07-21T13:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -6951,6 +6975,30 @@
       "day_brt": "2026-07-17",
       "resumo_pt": "Resumo (PT-BR): 3 Min Read NASA Pushes New Wing Design to Find Structural Limits The 15-foot Structural Wing Experiment Evaluating Truss-bracing test article is fully installed in the Flight Loads Laboratory at NASA’s Armstrong Flight Research Center in Edwards, California, on Wednesday, May 20, 2026. The model is part of NASA’s research to develop technologies for future ultra-efficient aircraft.",
       "queued_ts": 1784332431
+    },
+    {
+      "fp": "c11ee0f68e1b9e67a96a2944",
+      "title": "Establishing Crew Exposure Limits of Martian Dust",
+      "link": "https://www.nasa.gov/general/establishing-crew-exposure-limits-of-martian-dust/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-21T14:03:16+00:00",
+      "day_brt": "2026-07-21",
+      "resumo_pt": "Resumo (PT-BR): 5 min read Establishing Crew Exposure Limits of Martian Dust Kim Lowe Human Systems Standards Integrator Jul 21, 2026 Article Contents Background The Martian Dust Limit Working Group Primary Goals Evaluate NASA’s proposed derivation of this initial standard Identify chemical constituents requiring further scrutiny Weigh the merits of an overall dust limit versus separate SMACs Refine the standard’s technical language for operational use Martian Dust Contamination Limits Conclusions This image taken by NASA’s Perseverance rover on Sept. NASA/SP-20260005907 – Martian Dust Exposure Limits: Permissible Exposure Limits (PELs), toxicological risks, and health standards for Martian dust as discussed by the Mars dust working group (February 20 and 27, 2026) Background Human exploration of Mars will expose crews to a persistent, fine particulate environment whose physicochemical properties and health implications remain only partly understood.",
+      "queued_ts": 1784643718
+    },
+    {
+      "fp": "598ddcd67d0c0c32fdb649f3",
+      "title": "A New Compact Instrument Enables High-Fidelity Measurements of Energetic Particles on CubeSats",
+      "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/a-new-compact-instrument-enables-high-fidelity-measurements-of-energetic-particles-on-cubesats/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-21T13:00:00+00:00",
+      "day_brt": "2026-07-21",
+      "resumo_pt": "Resumo (PT-BR): 5 min read A New Compact Instrument Enables High-Fidelity Measurements of Energetic Particles on CubeSats NASA Science Editorial Team Jul 21, 2026 Article A team of NASA-sponsored scientists and engineers has developed a novel approach to observing high-energy particles in the near-Earth space environment, incorporating miniaturized sensors into a compact, multi-view particle detection instrument unlike any before it. Built for NASA’s Relativistic Electron Atmospheric Loss (REAL) CubeSat mission, the innovative instrument (also called REAL) enables more complete measurements of how energetic particles are transported and lost in Earth’s radiation environment, opening the door to improved understanding of space weather effects in low Earth orbit (LEO) while also making these unparalleled observations accessible to future small, low-cost spacecraft.",
+      "queued_ts": 1784643718
     }
   ],
   "digests_sent": {
@@ -7325,7 +7373,9 @@
     },
     "2026-07-21": {
       "19c4e49fb2c283586c15ef7d": true,
-      "9939bf635d7493850a31ab80": true
+      "9939bf635d7493850a31ab80": true,
+      "c11ee0f68e1b9e67a96a2944": true,
+      "598ddcd67d0c0c32fdb649f3": true
     }
   }
 }
