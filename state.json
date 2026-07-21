@@ -6621,6 +6621,78 @@
       "link": "https://spaceflightnow.com/2026/07/21/live-coverage-spacex-tries-again-to-launch-starlink-mission-from-california-following-abort/",
       "score": 11.700000000000001,
       "published_utc": "2026-07-21T10:49:41+00:00"
+    },
+    "a0df1d4c0bd50c246b48b8cc": {
+      "ts": 1784653859,
+      "source": "NASA Breaking News",
+      "title": "NIAC 2026 Selections",
+      "link": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/niac-2026-selections/",
+      "score": 4.0,
+      "published_utc": "2026-07-21T15:30:15+00:00"
+    },
+    "bdbd1f4ad639cef649f0056f": {
+      "ts": 1784653859,
+      "source": "NASA Breaking News",
+      "title": "Precision Astrometry Using Optically Independent Spacecraft for Graviational Wave Detection",
+      "link": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/",
+      "score": 4.0,
+      "published_utc": "2026-07-21T15:23:54+00:00"
+    },
+    "8c2875639ef824f79800203b": {
+      "ts": 1784653859,
+      "source": "NASA Breaking News",
+      "title": "Mapping Alien Continents: Achieving Optical VLBI for Exoplanet Imaging",
+      "link": "https://www.nasa.gov/directorates/stmd/mapping-alien-continents-achieving-optical-vlbi-for-exoplanet-imaging/",
+      "score": 4.0,
+      "published_utc": "2026-07-21T15:23:51+00:00"
+    },
+    "354737639417895c27aa1421": {
+      "ts": 1784653860,
+      "source": "NASA Breaking News",
+      "title": "Robotically Assembled Electromagnetic Metamaterials for Long-Range Space Situational Awareness",
+      "link": "https://www.nasa.gov/directorates/stmd/niac/robotically-assembled-electromagnetic-metamaterials-for-long-range-space-situational-awareness/",
+      "score": 4.0,
+      "published_utc": "2026-07-21T15:23:46+00:00"
+    },
+    "9da9921b0450aaa14e362d6c": {
+      "ts": 1784653860,
+      "source": "NASA Breaking News",
+      "title": "Photophoretic Tracers for Near-Space Remote Sensing at 30-100 km Altitudes",
+      "link": "https://www.nasa.gov/directorates/stmd/photophoretic-tracers-for-near-space-remote-sensing-at-30-100-km-altitudes/",
+      "score": 4.0,
+      "published_utc": "2026-07-21T15:23:43+00:00"
+    },
+    "5e59dceea1735443712d6b60": {
+      "ts": 1784653860,
+      "source": "NASA Breaking News",
+      "title": "Actively Steerable Femtosat Constellations for In-situ Exploration of Saturn’s Rings, Atmosphere, and Magnetosphere",
+      "link": "https://www.nasa.gov/directorates/stmd/niac/actively-steerable-femtosat-constellations-for-in-situ-exploration-of-saturns-rings-atmosphere-and-magnetosphere/",
+      "score": 15.0,
+      "published_utc": "2026-07-21T15:23:41+00:00"
+    },
+    "fb1c289d47c68d2af639d5e5": {
+      "ts": 1784653860,
+      "source": "NASA Breaking News",
+      "title": "PRAXIS: Planetary Rings Autonomous EXploration with In-situ Sampling",
+      "link": "https://www.nasa.gov/directorates/stmd/niac/praxis-planetary-rings-autonomous-exploration-with-in-situ-sampling/",
+      "score": 4.0,
+      "published_utc": "2026-07-21T15:23:38+00:00"
+    },
+    "812645212647d7c5b13848a1": {
+      "ts": 1784653860,
+      "source": "NASA Breaking News",
+      "title": "Plasmon-Enhanced Radioisotope Thermophotovoltaic (PRTPV) Power Generation for Interstellar Missions",
+      "link": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/plasmon-enhanced-radioisotope-thermophotovoltaic-prtpv-power-generation-for-interstellar-missions/",
+      "score": 4.0,
+      "published_utc": "2026-07-21T15:23:33+00:00"
+    },
+    "38571f4d43412fe4eaaa7781": {
+      "ts": 1784653863,
+      "source": "Space.com",
+      "title": "Artemis III astronauts will beam 4k video from Orion to Earth using SpaceX Starlink lasers",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-iii-astronauts-will-beam-4k-video-from-orion-to-earth-using-spacex-starlink-lasers",
+      "score": 2.8,
+      "published_utc": "2026-07-21T17:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -7019,6 +7091,102 @@
       "day_brt": "2026-07-21",
       "resumo_pt": "Resumo (PT-BR): SpaceX launches Starlink mission from California a day after last-second abort July 21, 2026 Will Robinson-Smith The Starlink 17-39 mission lifts off from Space Launch Complex 4E at Vandenberg Space Force Base in California on July 21, 2026. A SpaceX Falcon 9 rocket launched two dozen Starlink V2 Mini broadband internet satellites to its massive low Earth orbit constellation on Tuesday, a day after liftoff was scrubbed by a rare abort during engine ignition.",
       "queued_ts": 1784649471
+    },
+    {
+      "fp": "5e59dceea1735443712d6b60",
+      "title": "Actively Steerable Femtosat Constellations for In-situ Exploration of Saturn’s Rings, Atmosphere, and Magnetosphere",
+      "link": "https://www.nasa.gov/directorates/stmd/niac/actively-steerable-femtosat-constellations-for-in-situ-exploration-of-saturns-rings-atmosphere-and-magnetosphere/",
+      "source": "NASA Breaking News",
+      "score": 15.0,
+      "is_anomaly": true,
+      "published_utc": "2026-07-21T15:23:41+00:00",
+      "day_brt": "2026-07-21",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Actively Steerable Femtosat Constellations for In-situ Exploration of Saturn’s Rings, Atmosphere, and Magnetosphere Loura Hall Jul 21, 2026 Article Graphic depiction of the Actively Steerable Femtosat Constellations concept. Michael Rubenstein Michael Rubenstein Northwestern University, Chicago We propose a mission to use ~10,000 actively steerable femtosats to map the ring composition, atmospheric composition and density, and the magnetic field distribution of Saturn.",
+      "queued_ts": 1784653865
+    },
+    {
+      "fp": "a0df1d4c0bd50c246b48b8cc",
+      "title": "NIAC 2026 Selections",
+      "link": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/niac-2026-selections/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-21T15:30:15+00:00",
+      "day_brt": "2026-07-21",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NIAC 2026 Selections Loura Hall Jul 21, 2026 Article A collage of artist concepts highlighting the novel approaches proposed by the 2026 NIAC awardees for possible future missions. NASA/Left to Right: Keunhan Park, Michael Rubenstein, Austin Phoenix, Benjamin Schafer, A.C.",
+      "queued_ts": 1784653865
+    },
+    {
+      "fp": "bdbd1f4ad639cef649f0056f",
+      "title": "Precision Astrometry Using Optically Independent Spacecraft for Graviational Wave Detection",
+      "link": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-21T15:23:54+00:00",
+      "day_brt": "2026-07-21",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Precision Astrometry Using Optically Independent Spacecraft for Graviational Wave Detection Loura Hall Jul 21, 2026 Article Graphic depiction of the Graviational Wave Detection concept. Paul Stankus Paul Stankus Brookhaven Science Associates The scientific goal is to enable a new method for observing gravitational waves at low frequencies, based on the astrometric GW signature — gravitational waves passing by the Earth will cause a (very small) coordinated apparent motion of all sky objects.",
+      "queued_ts": 1784653865
+    },
+    {
+      "fp": "8c2875639ef824f79800203b",
+      "title": "Mapping Alien Continents: Achieving Optical VLBI for Exoplanet Imaging",
+      "link": "https://www.nasa.gov/directorates/stmd/mapping-alien-continents-achieving-optical-vlbi-for-exoplanet-imaging/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-21T15:23:51+00:00",
+      "day_brt": "2026-07-21",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Mapping Alien Continents: Achieving Optical VLBI for Exoplanet Imaging Loura Hall Jul 21, 2026 Article Graphic depiction of the Mapping Alien Continents concept. Paul Stankus Paul Stankus Brookhaven Science Associates The scientific goal of the proposed work will be reconstructing the image, ie resolving surface features, of an Earth-like exoplanet around a nearby star as seen in visible light.",
+      "queued_ts": 1784653865
+    },
+    {
+      "fp": "354737639417895c27aa1421",
+      "title": "Robotically Assembled Electromagnetic Metamaterials for Long-Range Space Situational Awareness",
+      "link": "https://www.nasa.gov/directorates/stmd/niac/robotically-assembled-electromagnetic-metamaterials-for-long-range-space-situational-awareness/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-21T15:23:46+00:00",
+      "day_brt": "2026-07-21",
+      "resumo_pt": "Resumo (PT-BR): 3 min read Robotically Assembled Electromagnetic Metamaterials for Long-Range Space Situational Awareness Loura Hall Jul 21, 2026 Article Graphic depiction of the Robotically Assembled Electromagnetic Metamaterials concept. David Smith David Smith Duke University The increasing population of spacefaring vehicles and satellites motivates increasingly powerful technologies for space situational awareness (SSA).",
+      "queued_ts": 1784653865
+    },
+    {
+      "fp": "9da9921b0450aaa14e362d6c",
+      "title": "Photophoretic Tracers for Near-Space Remote Sensing at 30-100 km Altitudes",
+      "link": "https://www.nasa.gov/directorates/stmd/photophoretic-tracers-for-near-space-remote-sensing-at-30-100-km-altitudes/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-21T15:23:43+00:00",
+      "day_brt": "2026-07-21",
+      "resumo_pt": "Resumo (PT-BR): 3 min read Photophoretic Tracers for Near-Space Remote Sensing at 30-100 km Altitudes Loura Hall Jul 21, 2026 Article Graphic depiction of the Stacked Solar Sails for Very High delta-V Missions concept. Benjamin Schafer Benjamin Schafer Rarified Technologies, Inc.",
+      "queued_ts": 1784653865
+    },
+    {
+      "fp": "fb1c289d47c68d2af639d5e5",
+      "title": "PRAXIS: Planetary Rings Autonomous EXploration with In-situ Sampling",
+      "link": "https://www.nasa.gov/directorates/stmd/niac/praxis-planetary-rings-autonomous-exploration-with-in-situ-sampling/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-21T15:23:38+00:00",
+      "day_brt": "2026-07-21",
+      "resumo_pt": "Resumo (PT-BR): 3 min read PRAXIS: Planetary Rings Autonomous EXploration with In-situ Sampling Loura Hall Jul 21, 2026 Article Graphic depiction of the PRAXIS concept. Marco Quadrelli Marco Quadrelli NASA Jet Propulsion Laboratory Humanity has never touched the particles of a planetary ring, but if we were able to get close enough and sample them, it will transform understanding of ring structure and origins for Saturn (dense), Uranus and Neptune (tenuous), rings of other objects such as Centaurs Chariklo and Chiron, and even early protoplanetary and circumstellar disks.",
+      "queued_ts": 1784653865
+    },
+    {
+      "fp": "812645212647d7c5b13848a1",
+      "title": "Plasmon-Enhanced Radioisotope Thermophotovoltaic (PRTPV) Power Generation for Interstellar Missions",
+      "link": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/plasmon-enhanced-radioisotope-thermophotovoltaic-prtpv-power-generation-for-interstellar-missions/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-21T15:23:33+00:00",
+      "day_brt": "2026-07-21",
+      "resumo_pt": "Resumo (PT-BR): 2 min read Plasmon-Enhanced Radioisotope Thermophotovoltaic (PRTPV) Power Generation for Interstellar Missions Loura Hall Jul 21, 2026 Article Graphic depiction of the PRTPV concept. Keunhan Park Keunhan Park University of Utah This proposal seeks to develop a transformative energy system — the plasmon-enhanced radioisotope Thermophotovoltaic (PRTPV) generator — that significantly surpasses the performance of current radioisotope thermoelectric generators (RTGs) in both specific power and efficiency.",
+      "queued_ts": 1784653865
     }
   ],
   "digests_sent": {
@@ -7396,7 +7564,10 @@
       "9939bf635d7493850a31ab80": true,
       "c11ee0f68e1b9e67a96a2944": true,
       "598ddcd67d0c0c32fdb649f3": true,
-      "7a0d309d848cc5b234ab264e": true
+      "7a0d309d848cc5b234ab264e": true,
+      "5e59dceea1735443712d6b60": true,
+      "a0df1d4c0bd50c246b48b8cc": true,
+      "bdbd1f4ad639cef649f0056f": true
     }
   }
 }
