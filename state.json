@@ -6749,6 +6749,15 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-northrop-grumman-mrv-mep-satellite-servicing-mission",
       "score": 2.8,
       "published_utc": "2026-07-21T13:00:00+00:00"
+    },
+    "6685efba67b5d575f99cc8ee": {
+      "ts": 1784691970,
+      "source": "NASA Breaking News",
+      "title": "NISAR’s L-Band Radar Reveals ‘Hummingbird’ in Antarctica",
+      "link": "https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/",
+      "score": 0.0,
+      "published_utc": "2026-07-22T00:33:08+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
