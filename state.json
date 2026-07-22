@@ -6807,6 +6807,38 @@
       "link": "https://www.space.com/astronomy/comets/after-nearly-30-years-nasa-realized-this-near-earth-asteroid-is-actually-a-comet-the-discovery-may-help-us-defend-the-planet-some-day",
       "score": 2.8,
       "published_utc": "2026-07-22T19:00:00+00:00"
+    },
+    "4b34cf0994ce4b15d62a64be": {
+      "ts": 1784756743,
+      "source": "NASA Breaking News",
+      "title": "Robotic Servicing Mission Launches with NASA Support",
+      "link": "https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/",
+      "score": 4.0,
+      "published_utc": "2026-07-22T18:04:15+00:00"
+    },
+    "64945bfb2fd5e9f544537044": {
+      "ts": 1784756743,
+      "source": "NASA Breaking News",
+      "title": "NASA Sets Coverage for Astronaut Chris Williams, Crewmates Return",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-chris-williams-crewmates-return/",
+      "score": 4.0,
+      "published_utc": "2026-07-22T17:17:43+00:00"
+    },
+    "5a2603df5170fdbad6c62ec1": {
+      "ts": 1784756744,
+      "source": "NASA Breaking News",
+      "title": "A New Look – and Sound – for Messier 94",
+      "link": "https://www.nasa.gov/image-article/a-new-look-and-sound-for-messier-94/",
+      "score": 4.0,
+      "published_utc": "2026-07-22T16:45:52+00:00"
+    },
+    "378a64c96b1ebe7df4e6292e": {
+      "ts": 1784756747,
+      "source": "Space.com",
+      "title": "China's record-breaking Gravity-1 rocket launches 9 satellites from a ship at sea (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-record-breaking-gravity-1-rocket-launches-9-satellites-from-a-ship-at-sea-video",
+      "score": 2.8,
+      "published_utc": "2026-07-22T21:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -7205,6 +7237,42 @@
       "day_brt": "2026-07-22",
       "resumo_pt": "Resumo (PT-BR): Path to Starship Flight 13 requires additional Booster 20 test by Chris Bergin July 22, 2026 written by Chris Bergin July 22, 2026 2 SpaceX continues to target no earlier than Thursday, July 23, for the next attempt to launch Starship on its 13th flight. Preparations include swapping out engines on Booster 20, with a potential standalone test at Pad 2 on Wednesday before returning to full stack countdown operations.",
       "queued_ts": 1784735814
+    },
+    {
+      "fp": "4b34cf0994ce4b15d62a64be",
+      "title": "Robotic Servicing Mission Launches with NASA Support",
+      "link": "https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-22T18:04:15+00:00",
+      "day_brt": "2026-07-22",
+      "resumo_pt": "Resumo (PT-BR): 2 min read Robotic Servicing Mission Launches with NASA Support Goddard Digital Team Jul 22, 2026 Article Following its liftoff from Cape Canaveral on July 21 aboard a SpaceX Falcon 9 rocket, the Mission Robotic Vehicle (MRV) hosting the NASA-supported Robotic Servicing of Geosynchronous Satellites (RSGS) payload is now en route to geosynchronous Earth orbit, where it will use its advanced robotics to service spacecraft. RSGS leverages in-space robotics expertise from NASA, aligned with the agency’s broader goals to advance U.S.",
+      "queued_ts": 1784756748
+    },
+    {
+      "fp": "64945bfb2fd5e9f544537044",
+      "title": "NASA Sets Coverage for Astronaut Chris Williams, Crewmates Return",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-chris-williams-crewmates-return/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-22T17:17:43+00:00",
+      "day_brt": "2026-07-22",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Sets Coverage for Astronaut Chris Williams, Crewmates Return Lauren E. Low Jul 22, 2026 MEDIA ADVISORY M26-057 NASA Headquarters The Roscosmos Soyuz MS 28 spacecraft is pictured in November 2025 shortly after docking to the International Space Station’s Rassvet module.",
+      "queued_ts": 1784756748
+    },
+    {
+      "fp": "5a2603df5170fdbad6c62ec1",
+      "title": "A New Look – and Sound – for Messier 94",
+      "link": "https://www.nasa.gov/image-article/a-new-look-and-sound-for-messier-94/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-22T16:45:52+00:00",
+      "day_brt": "2026-07-22",
+      "resumo_pt": "Resumo (PT-BR): 1 min read A New Look – and Sound – for Messier 94 HQ Web Team Jul 22, 2026 Image Article X-ray: NASA/CXC/SAO; Optical:Brian Brennan and Remi Lacasse; Image Processing: NASA/CXC/SAO/L. Arcand NASA’s Chandra X-ray Observatory unveiled this new look at the galaxy NGC 4736, also known as Messier 94, on June 30, 2026.",
+      "queued_ts": 1784756748
     }
   ],
   "digests_sent": {
@@ -7597,7 +7665,10 @@
     "2026-07-22": {
       "f1212528e0b326a8fe083ebb": true,
       "fec4f930eda053a65a42582f": true,
-      "58492a986eb29a1a30a133c9": true
+      "58492a986eb29a1a30a133c9": true,
+      "4b34cf0994ce4b15d62a64be": true,
+      "64945bfb2fd5e9f544537044": true,
+      "5a2603df5170fdbad6c62ec1": true
     }
   }
 }
