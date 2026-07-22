@@ -6839,6 +6839,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-record-breaking-gravity-1-rocket-launches-9-satellites-from-a-ship-at-sea-video",
       "score": 2.8,
       "published_utc": "2026-07-22T21:00:00+00:00"
+    },
+    "5c24295002dcb8d6f7d8145c": {
+      "ts": 1784763734,
+      "source": "NASASpaceflight",
+      "title": "Soyuz MS-29 crew arrives at ISS, U.S. EVA completes Canadarm2 repairs",
+      "link": "https://www.nasaspaceflight.com/2026/07/iss-roundup-072226/",
+      "score": 3.6,
+      "published_utc": "2026-07-22T22:59:06+00:00"
     }
   },
   "digest_queue": [
@@ -7201,78 +7209,6 @@
       "day_brt": "2026-07-17",
       "resumo_pt": "Resumo (PT-BR): 3 Min Read NASA Pushes New Wing Design to Find Structural Limits The 15-foot Structural Wing Experiment Evaluating Truss-bracing test article is fully installed in the Flight Loads Laboratory at NASA’s Armstrong Flight Research Center in Edwards, California, on Wednesday, May 20, 2026. The model is part of NASA’s research to develop technologies for future ultra-efficient aircraft.",
       "queued_ts": 1784332431
-    },
-    {
-      "fp": "f1212528e0b326a8fe083ebb",
-      "title": "NASA Joins Genesis Mission to Accelerate AI-Driven Discovery",
-      "link": "https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/",
-      "source": "NASA Breaking News",
-      "score": 10.0,
-      "is_anomaly": true,
-      "published_utc": "2026-07-22T14:04:06+00:00",
-      "day_brt": "2026-07-22",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Joins Genesis Mission to Accelerate AI-Driven Discovery Jessica Taveau Jul 22, 2026 RELEASE 26-054 NASA Headquarters Credit: NASA NASA is supporting the Genesis Mission, a national effort to drive the use of artificial intelligence in tackling complex scientific and engineering challenges to advance a new era of discovery. Trump issued the Executive Order “Launching the Genesis Mission” on Nov.",
-      "queued_ts": 1784730456
-    },
-    {
-      "fp": "fec4f930eda053a65a42582f",
-      "title": "'The court has to intervene now': Indigenous groups and conservationists condemn SpaceX's South Texas land swap",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-court-has-to-intervene-now-indigenous-groups-and-conservationists-condemn-spacexs-south-texas-land-swap",
-      "source": "Space.com",
-      "score": 7.0,
-      "is_anomaly": true,
-      "published_utc": "2026-07-22T13:00:00+00:00",
-      "day_brt": "2026-07-22",
-      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft 'The court has to intervene now': Indigenous groups and conservationists condemn SpaceX's South Texas land swap News By Mike Wall Published 22 July 2026 \"Federal officials are racing to fork over America's public lands to one of wealthiest corporations on Earth before the courts can even weigh in.\" When you purchase through links on our site, we may earn an affiliate commission. Click for next article SpaceX's Starship megarocket launches on its 12th test flight, on May 22, 2026, from the company's Starbase site in South Texas.",
-      "queued_ts": 1784730456
-    },
-    {
-      "fp": "58492a986eb29a1a30a133c9",
-      "title": "Path to Starship Flight 13 requires additional Booster 20 test",
-      "link": "https://www.nasaspaceflight.com/2026/07/path-flight-13-attempt-2-test/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-07-22T14:57:56+00:00",
-      "day_brt": "2026-07-22",
-      "resumo_pt": "Resumo (PT-BR): Path to Starship Flight 13 requires additional Booster 20 test by Chris Bergin July 22, 2026 written by Chris Bergin July 22, 2026 2 SpaceX continues to target no earlier than Thursday, July 23, for the next attempt to launch Starship on its 13th flight. Preparations include swapping out engines on Booster 20, with a potential standalone test at Pad 2 on Wednesday before returning to full stack countdown operations.",
-      "queued_ts": 1784735814
-    },
-    {
-      "fp": "4b34cf0994ce4b15d62a64be",
-      "title": "Robotic Servicing Mission Launches with NASA Support",
-      "link": "https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-22T18:04:15+00:00",
-      "day_brt": "2026-07-22",
-      "resumo_pt": "Resumo (PT-BR): 2 min read Robotic Servicing Mission Launches with NASA Support Goddard Digital Team Jul 22, 2026 Article Following its liftoff from Cape Canaveral on July 21 aboard a SpaceX Falcon 9 rocket, the Mission Robotic Vehicle (MRV) hosting the NASA-supported Robotic Servicing of Geosynchronous Satellites (RSGS) payload is now en route to geosynchronous Earth orbit, where it will use its advanced robotics to service spacecraft. RSGS leverages in-space robotics expertise from NASA, aligned with the agency’s broader goals to advance U.S.",
-      "queued_ts": 1784756748
-    },
-    {
-      "fp": "64945bfb2fd5e9f544537044",
-      "title": "NASA Sets Coverage for Astronaut Chris Williams, Crewmates Return",
-      "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-chris-williams-crewmates-return/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-22T17:17:43+00:00",
-      "day_brt": "2026-07-22",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Sets Coverage for Astronaut Chris Williams, Crewmates Return Lauren E. Low Jul 22, 2026 MEDIA ADVISORY M26-057 NASA Headquarters The Roscosmos Soyuz MS 28 spacecraft is pictured in November 2025 shortly after docking to the International Space Station’s Rassvet module.",
-      "queued_ts": 1784756748
-    },
-    {
-      "fp": "5a2603df5170fdbad6c62ec1",
-      "title": "A New Look – and Sound – for Messier 94",
-      "link": "https://www.nasa.gov/image-article/a-new-look-and-sound-for-messier-94/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-22T16:45:52+00:00",
-      "day_brt": "2026-07-22",
-      "resumo_pt": "Resumo (PT-BR): 1 min read A New Look – and Sound – for Messier 94 HQ Web Team Jul 22, 2026 Image Article X-ray: NASA/CXC/SAO; Optical:Brian Brennan and Remi Lacasse; Image Processing: NASA/CXC/SAO/L. Arcand NASA’s Chandra X-ray Observatory unveiled this new look at the galaxy NGC 4736, also known as Messier 94, on June 30, 2026.",
-      "queued_ts": 1784756748
     }
   ],
   "digests_sent": {
@@ -7595,7 +7531,8 @@
       "night": true
     },
     "2026-07-22": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -7668,7 +7605,8 @@
       "58492a986eb29a1a30a133c9": true,
       "4b34cf0994ce4b15d62a64be": true,
       "64945bfb2fd5e9f544537044": true,
-      "5a2603df5170fdbad6c62ec1": true
+      "5a2603df5170fdbad6c62ec1": true,
+      "5c24295002dcb8d6f7d8145c": true
     }
   }
 }
