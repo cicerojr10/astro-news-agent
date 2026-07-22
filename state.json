@@ -6783,6 +6783,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/the-court-has-to-intervene-now-indigenous-groups-and-conservationists-condemn-spacexs-south-texas-land-swap",
       "score": 7.0,
       "published_utc": "2026-07-22T13:00:00+00:00"
+    },
+    "58492a986eb29a1a30a133c9": {
+      "ts": 1784735813,
+      "source": "NASASpaceflight",
+      "title": "Path to Starship Flight 13 requires additional Booster 20 test",
+      "link": "https://www.nasaspaceflight.com/2026/07/path-flight-13-attempt-2-test/",
+      "score": 3.6,
+      "published_utc": "2026-07-22T14:57:56+00:00"
     }
   },
   "digest_queue": [
@@ -7169,6 +7177,18 @@
       "day_brt": "2026-07-22",
       "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft 'The court has to intervene now': Indigenous groups and conservationists condemn SpaceX's South Texas land swap News By Mike Wall Published 22 July 2026 \"Federal officials are racing to fork over America's public lands to one of wealthiest corporations on Earth before the courts can even weigh in.\" When you purchase through links on our site, we may earn an affiliate commission. Click for next article SpaceX's Starship megarocket launches on its 12th test flight, on May 22, 2026, from the company's Starbase site in South Texas.",
       "queued_ts": 1784730456
+    },
+    {
+      "fp": "58492a986eb29a1a30a133c9",
+      "title": "Path to Starship Flight 13 requires additional Booster 20 test",
+      "link": "https://www.nasaspaceflight.com/2026/07/path-flight-13-attempt-2-test/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-07-22T14:57:56+00:00",
+      "day_brt": "2026-07-22",
+      "resumo_pt": "Resumo (PT-BR): Path to Starship Flight 13 requires additional Booster 20 test by Chris Bergin July 22, 2026 written by Chris Bergin July 22, 2026 2 SpaceX continues to target no earlier than Thursday, July 23, for the next attempt to launch Starship on its 13th flight. Preparations include swapping out engines on Booster 20, with a potential standalone test at Pad 2 on Wednesday before returning to full stack countdown operations.",
+      "queued_ts": 1784735814
     }
   ],
   "digests_sent": {
@@ -7560,7 +7580,8 @@
     },
     "2026-07-22": {
       "f1212528e0b326a8fe083ebb": true,
-      "fec4f930eda053a65a42582f": true
+      "fec4f930eda053a65a42582f": true,
+      "58492a986eb29a1a30a133c9": true
     }
   }
 }
