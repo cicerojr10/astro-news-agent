@@ -6879,6 +6879,14 @@
       "link": "https://www.nasa.gov/image-article/crews-move-artemis-iv-liquid-hydrogen-tank/",
       "score": 4.0,
       "published_utc": "2026-07-23T15:20:19+00:00"
+    },
+    "ec5e18009cbce5c7b57cb16b": {
+      "ts": 1784837128,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX ready for 2nd attempt to launch Starship Flight 13 following post-abort engine work",
+      "link": "https://spaceflightnow.com/2026/07/23/live-coverage-spacex-ready-for-2nd-attempt-to-launch-starship-flight-13-following-post-abort-engine-work/",
+      "score": 12.78,
+      "published_utc": "2026-07-23T19:12:50+00:00"
     }
   },
   "digest_queue": [
@@ -7265,6 +7273,18 @@
       "day_brt": "2026-07-23",
       "resumo_pt": "Resumo (PT-BR): 1 min read Crews Move Artemis IV Liquid Hydrogen Tank HQ Web Team Jul 23, 2026 Image Article NASA/Michael DeMocker Crews at NASA’s Michoud Assembly Facility in New Orleans transport the 130-foot-tall Artemis IV liquid hydrogen tank out of a production cell inside the main factory building into a detached test building on a separate portion of the 829-acre site on May 15, 2026. The liquid hydrogen tank will form part of the core stage for the SLS (Space Launch System) rocket, providing thousands of gallons of super-cold propellant to one of four RS-25 engines.",
       "queued_ts": 1784832922
+    },
+    {
+      "fp": "ec5e18009cbce5c7b57cb16b",
+      "title": "Live coverage: SpaceX ready for 2nd attempt to launch Starship Flight 13 following post-abort engine work",
+      "link": "https://spaceflightnow.com/2026/07/23/live-coverage-spacex-ready-for-2nd-attempt-to-launch-starship-flight-13-following-post-abort-engine-work/",
+      "source": "Spaceflight Now",
+      "score": 12.78,
+      "is_anomaly": true,
+      "published_utc": "2026-07-23T19:12:50+00:00",
+      "day_brt": "2026-07-23",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX ready for 2nd attempt to launch Starship Flight 13 following post-abort engine work July 23, 2026 Will Robinson-Smith A fully-integrated Starship-Super Heavy rocket stands at Pad 2 at Starbase prior to the second attempt at launching the Starship Flight 13 mission. Image: Adam Bernstein/Spaceflight Now SpaceX will take another run at launching its Starship-Super Heavy rocket from southern Texas, but faces challenges during the passage of Tropical Storm Bertha.",
+      "queued_ts": 1784837131
     }
   ],
   "digests_sent": {
@@ -7670,7 +7690,8 @@
     "2026-07-23": {
       "a8ad3c20f0089e6c2dfa56c9": true,
       "54824019ca20c7d49e57dedf": true,
-      "b532c6a604fba2fa494ec8c5": true
+      "b532c6a604fba2fa494ec8c5": true,
+      "ec5e18009cbce5c7b57cb16b": true
     }
   }
 }
