@@ -7265,54 +7265,6 @@
       "day_brt": "2026-07-17",
       "resumo_pt": "Resumo (PT-BR): 3 Min Read NASA Pushes New Wing Design to Find Structural Limits The 15-foot Structural Wing Experiment Evaluating Truss-bracing test article is fully installed in the Flight Loads Laboratory at NASA’s Armstrong Flight Research Center in Edwards, California, on Wednesday, May 20, 2026. The model is part of NASA’s research to develop technologies for future ultra-efficient aircraft.",
       "queued_ts": 1784332431
-    },
-    {
-      "fp": "54824019ca20c7d49e57dedf",
-      "title": "NASA Astronaut Chris Williams Closes Out Space Station Mission",
-      "link": "https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-chris-williams-closes-out-space-station-mission/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-23T14:00:00+00:00",
-      "day_brt": "2026-07-23",
-      "resumo_pt": "Resumo (PT-BR): 5 Min Read NASA Astronaut Chris Williams Closes Out Space Station Mission Destiny Doran International Space Station Research Communications Team Jul 23, 2026 Article Contents Cancer-fighting constructs Superior semiconductors Eyeing Earth Sub-zero medical samples Capturing cargo Blocking biofilms Strengthening solar power Microgravity medicine Robotic refinement After eight months aboard the International Space Station for his first mission, NASA astronaut Chris Williams is preparing to return to Earth. During his assignment, Williams contributed to research for new cancer treatments, advanced the production of materials to improve computers and electronics, ventured into the vacuum of space to complete two spacewalks, and much more.",
-      "queued_ts": 1784818737
-    },
-    {
-      "fp": "b532c6a604fba2fa494ec8c5",
-      "title": "Crews Move Artemis IV Liquid Hydrogen Tank",
-      "link": "https://www.nasa.gov/image-article/crews-move-artemis-iv-liquid-hydrogen-tank/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-23T15:20:19+00:00",
-      "day_brt": "2026-07-23",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Crews Move Artemis IV Liquid Hydrogen Tank HQ Web Team Jul 23, 2026 Image Article NASA/Michael DeMocker Crews at NASA’s Michoud Assembly Facility in New Orleans transport the 130-foot-tall Artemis IV liquid hydrogen tank out of a production cell inside the main factory building into a detached test building on a separate portion of the 829-acre site on May 15, 2026. The liquid hydrogen tank will form part of the core stage for the SLS (Space Launch System) rocket, providing thousands of gallons of super-cold propellant to one of four RS-25 engines.",
-      "queued_ts": 1784832922
-    },
-    {
-      "fp": "ec5e18009cbce5c7b57cb16b",
-      "title": "Live coverage: SpaceX ready for 2nd attempt to launch Starship Flight 13 following post-abort engine work",
-      "link": "https://spaceflightnow.com/2026/07/23/live-coverage-spacex-ready-for-2nd-attempt-to-launch-starship-flight-13-following-post-abort-engine-work/",
-      "source": "Spaceflight Now",
-      "score": 12.78,
-      "is_anomaly": true,
-      "published_utc": "2026-07-23T19:12:50+00:00",
-      "day_brt": "2026-07-23",
-      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX ready for 2nd attempt to launch Starship Flight 13 following post-abort engine work July 23, 2026 Will Robinson-Smith A fully-integrated Starship-Super Heavy rocket stands at Pad 2 at Starbase prior to the second attempt at launching the Starship Flight 13 mission. Image: Adam Bernstein/Spaceflight Now SpaceX will take another run at launching its Starship-Super Heavy rocket from southern Texas, but faces challenges during the passage of Tropical Storm Bertha.",
-      "queued_ts": 1784837131
-    },
-    {
-      "fp": "2d549c4828521a6446a75056",
-      "title": "Starship Flight 13 moved to Friday due to weather",
-      "link": "https://www.nasaspaceflight.com/2026/07/starship-flight-13-flight/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-07-23T05:01:59+00:00",
-      "day_brt": "2026-07-23",
-      "resumo_pt": "Resumo (PT-BR): Starship Flight 13 heads into second launch attempt by Ryan Weber July 23, 2026 written by Ryan Weber July 23, 2026 122 SpaceX is making a second attempt to launch Starship Flight 13, following last week’s scrub that aborted at engine ignition. Thursday’s window opens at 5:45 pm Central Time, with weather the main watch item.",
-      "queued_ts": 1784841402
     }
   ],
   "digests_sent": {
@@ -7639,7 +7591,8 @@
       "night": true
     },
     "2026-07-23": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
