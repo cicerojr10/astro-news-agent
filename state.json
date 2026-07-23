@@ -6871,6 +6871,14 @@
       "link": "https://www.space.com/space-exploration/human-spaceflight/nasas-retired-astronauts-are-hitting-the-road-to-get-young-people-to-vote-one-small-step-for-you-and-one-giant-leap-for-our-country",
       "score": 2.8,
       "published_utc": "2026-07-23T16:00:00+00:00"
+    },
+    "b532c6a604fba2fa494ec8c5": {
+      "ts": 1784832919,
+      "source": "NASA Breaking News",
+      "title": "Crews Move Artemis IV Liquid Hydrogen Tank",
+      "link": "https://www.nasa.gov/image-article/crews-move-artemis-iv-liquid-hydrogen-tank/",
+      "score": 4.0,
+      "published_utc": "2026-07-23T15:20:19+00:00"
     }
   },
   "digest_queue": [
@@ -7245,6 +7253,18 @@
       "day_brt": "2026-07-23",
       "resumo_pt": "Resumo (PT-BR): 5 Min Read NASA Astronaut Chris Williams Closes Out Space Station Mission Destiny Doran International Space Station Research Communications Team Jul 23, 2026 Article Contents Cancer-fighting constructs Superior semiconductors Eyeing Earth Sub-zero medical samples Capturing cargo Blocking biofilms Strengthening solar power Microgravity medicine Robotic refinement After eight months aboard the International Space Station for his first mission, NASA astronaut Chris Williams is preparing to return to Earth. During his assignment, Williams contributed to research for new cancer treatments, advanced the production of materials to improve computers and electronics, ventured into the vacuum of space to complete two spacewalks, and much more.",
       "queued_ts": 1784818737
+    },
+    {
+      "fp": "b532c6a604fba2fa494ec8c5",
+      "title": "Crews Move Artemis IV Liquid Hydrogen Tank",
+      "link": "https://www.nasa.gov/image-article/crews-move-artemis-iv-liquid-hydrogen-tank/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-23T15:20:19+00:00",
+      "day_brt": "2026-07-23",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Crews Move Artemis IV Liquid Hydrogen Tank HQ Web Team Jul 23, 2026 Image Article NASA/Michael DeMocker Crews at NASA’s Michoud Assembly Facility in New Orleans transport the 130-foot-tall Artemis IV liquid hydrogen tank out of a production cell inside the main factory building into a detached test building on a separate portion of the 829-acre site on May 15, 2026. The liquid hydrogen tank will form part of the core stage for the SLS (Space Launch System) rocket, providing thousands of gallons of super-cold propellant to one of four RS-25 engines.",
+      "queued_ts": 1784832922
     }
   ],
   "digests_sent": {
@@ -7649,7 +7669,8 @@
     },
     "2026-07-23": {
       "a8ad3c20f0089e6c2dfa56c9": true,
-      "54824019ca20c7d49e57dedf": true
+      "54824019ca20c7d49e57dedf": true,
+      "b532c6a604fba2fa494ec8c5": true
     }
   }
 }
