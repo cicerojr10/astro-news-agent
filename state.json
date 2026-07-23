@@ -6855,6 +6855,14 @@
       "link": "https://www.nasaspaceflight.com/2026/07/starship-flight-13-flight/",
       "score": 6.3,
       "published_utc": "2026-07-23T05:01:59+00:00"
+    },
+    "54824019ca20c7d49e57dedf": {
+      "ts": 1784818734,
+      "source": "NASA Breaking News",
+      "title": "NASA Astronaut Chris Williams Closes Out Space Station Mission",
+      "link": "https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-chris-williams-closes-out-space-station-mission/",
+      "score": 4.0,
+      "published_utc": "2026-07-23T14:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -7217,6 +7225,18 @@
       "day_brt": "2026-07-17",
       "resumo_pt": "Resumo (PT-BR): 3 Min Read NASA Pushes New Wing Design to Find Structural Limits The 15-foot Structural Wing Experiment Evaluating Truss-bracing test article is fully installed in the Flight Loads Laboratory at NASA’s Armstrong Flight Research Center in Edwards, California, on Wednesday, May 20, 2026. The model is part of NASA’s research to develop technologies for future ultra-efficient aircraft.",
       "queued_ts": 1784332431
+    },
+    {
+      "fp": "54824019ca20c7d49e57dedf",
+      "title": "NASA Astronaut Chris Williams Closes Out Space Station Mission",
+      "link": "https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-chris-williams-closes-out-space-station-mission/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-23T14:00:00+00:00",
+      "day_brt": "2026-07-23",
+      "resumo_pt": "Resumo (PT-BR): 5 Min Read NASA Astronaut Chris Williams Closes Out Space Station Mission Destiny Doran International Space Station Research Communications Team Jul 23, 2026 Article Contents Cancer-fighting constructs Superior semiconductors Eyeing Earth Sub-zero medical samples Capturing cargo Blocking biofilms Strengthening solar power Microgravity medicine Robotic refinement After eight months aboard the International Space Station for his first mission, NASA astronaut Chris Williams is preparing to return to Earth. During his assignment, Williams contributed to research for new cancer treatments, advanced the production of materials to improve computers and electronics, ventured into the vacuum of space to complete two spacewalks, and much more.",
+      "queued_ts": 1784818737
     }
   ],
   "digests_sent": {
@@ -7620,7 +7640,8 @@
       "5c24295002dcb8d6f7d8145c": true
     },
     "2026-07-23": {
-      "a8ad3c20f0089e6c2dfa56c9": true
+      "a8ad3c20f0089e6c2dfa56c9": true,
+      "54824019ca20c7d49e57dedf": true
     }
   }
 }
