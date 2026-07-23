@@ -6887,6 +6887,22 @@
       "link": "https://spaceflightnow.com/2026/07/23/live-coverage-spacex-ready-for-2nd-attempt-to-launch-starship-flight-13-following-post-abort-engine-work/",
       "score": 12.78,
       "published_utc": "2026-07-23T19:12:50+00:00"
+    },
+    "2d549c4828521a6446a75056": {
+      "ts": 1784841401,
+      "source": "NASASpaceflight",
+      "title": "Starship Flight 13 moved to Friday due to weather",
+      "link": "https://www.nasaspaceflight.com/2026/07/starship-flight-13-flight/",
+      "score": 3.6,
+      "published_utc": "2026-07-23T05:01:59+00:00"
+    },
+    "accc2319b38c9fed3313030a": {
+      "ts": 1784841401,
+      "source": "Space.com",
+      "title": "Vulcan Centaur swapped out again: NASA goes with SpaceX Falcon Heavy rocket for launch of space weather mission",
+      "link": "https://www.space.com/space-exploration/missions/vulcan-centaur-swapped-out-again-nasa-goes-with-spacex-falcon-heavy-rocket-for-launch-of-space-weather-mission",
+      "score": 2.8,
+      "published_utc": "2026-07-23T21:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -7285,6 +7301,18 @@
       "day_brt": "2026-07-23",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX ready for 2nd attempt to launch Starship Flight 13 following post-abort engine work July 23, 2026 Will Robinson-Smith A fully-integrated Starship-Super Heavy rocket stands at Pad 2 at Starbase prior to the second attempt at launching the Starship Flight 13 mission. Image: Adam Bernstein/Spaceflight Now SpaceX will take another run at launching its Starship-Super Heavy rocket from southern Texas, but faces challenges during the passage of Tropical Storm Bertha.",
       "queued_ts": 1784837131
+    },
+    {
+      "fp": "2d549c4828521a6446a75056",
+      "title": "Starship Flight 13 moved to Friday due to weather",
+      "link": "https://www.nasaspaceflight.com/2026/07/starship-flight-13-flight/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-07-23T05:01:59+00:00",
+      "day_brt": "2026-07-23",
+      "resumo_pt": "Resumo (PT-BR): Starship Flight 13 heads into second launch attempt by Ryan Weber July 23, 2026 written by Ryan Weber July 23, 2026 122 SpaceX is making a second attempt to launch Starship Flight 13, following last week’s scrub that aborted at engine ignition. Thursday’s window opens at 5:45 pm Central Time, with weather the main watch item.",
+      "queued_ts": 1784841402
     }
   ],
   "digests_sent": {
@@ -7691,7 +7719,8 @@
       "a8ad3c20f0089e6c2dfa56c9": true,
       "54824019ca20c7d49e57dedf": true,
       "b532c6a604fba2fa494ec8c5": true,
-      "ec5e18009cbce5c7b57cb16b": true
+      "ec5e18009cbce5c7b57cb16b": true,
+      "2d549c4828521a6446a75056": true
     }
   }
 }
