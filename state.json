@@ -6959,6 +6959,14 @@
       "link": "https://www.nasaspaceflight.com/2026/07/blue-ng-gs2-hot-fires-stennis-b-2/",
       "score": 3.6,
       "published_utc": "2026-07-24T18:01:12+00:00"
+    },
+    "3b3216e8ec5ba76355566e13": {
+      "ts": 1784927709,
+      "source": "Spaceflight Now",
+      "title": "Critical NASA Deep Space ground station in Spain evacuated due to wildfires",
+      "link": "https://spaceflightnow.com/2026/07/24/critical-nasa-deep-space-ground-station-in-spain-evacuated-due-to-wildfires/",
+      "score": 3.6,
+      "published_utc": "2026-07-24T20:11:08+00:00"
     }
   },
   "digest_queue": [
@@ -7357,6 +7365,18 @@
       "day_brt": "2026-07-24",
       "resumo_pt": "Resumo (PT-BR): Blue Origin to conduct New Glenn second stage hot fires on Stennis B-2 stand by Chris Bergin July 24, 2026 written by Chris Bergin July 24, 2026 1 NASA and Blue Origin have finalized plans to hot-fire test the second stage of the New Glenn rocket on the B-2 position of the Thad Cochran Test Stand at Stennis Space Center in Mississippi. An annex to a reimbursable Space Act Agreement, signed earlier this month, will see testing begin as early as this fall, providing Blue Origin with access to one of NASA’s premier large-stage test facilities while Launch Complex 36 at Cape Canaveral recovers from the explosion of New Glenn during its Static Fire test.",
       "queued_ts": 1784918540
+    },
+    {
+      "fp": "3b3216e8ec5ba76355566e13",
+      "title": "Critical NASA Deep Space ground station in Spain evacuated due to wildfires",
+      "link": "https://spaceflightnow.com/2026/07/24/critical-nasa-deep-space-ground-station-in-spain-evacuated-due-to-wildfires/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-07-24T20:11:08+00:00",
+      "day_brt": "2026-07-24",
+      "resumo_pt": "Resumo (PT-BR): Critical NASA Deep Space ground station in Spain evacuated due to wildfires July 24, 2026 Will Robinson-Smith In a historic first, all six radio frequency antennas at the Madrid Deep Space Communication Complex – part of NASA’s Deep Space Network (DSN) – carried out a test to receive data from the agency’s Voyager 1 spacecraft at the same time on April 20, 2024. Known as “arraying,” combining the receiving power of several antennas allows the DSN to collect the very faint signals from faraway spacecraft.",
+      "queued_ts": 1784927710
     }
   ],
   "digests_sent": {
@@ -7774,7 +7794,8 @@
       "d697852cb1241b5e15d6101c": true,
       "b6b304fa78ad51cf2ffe620d": true,
       "7f22ae7d3c710674a031b38f": true,
-      "186db0f042b1b4818d87b5fd": true
+      "186db0f042b1b4818d87b5fd": true,
+      "3b3216e8ec5ba76355566e13": true
     }
   }
 }
