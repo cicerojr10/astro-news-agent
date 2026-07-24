@@ -6951,6 +6951,14 @@
       "link": "https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/",
       "score": 4.0,
       "published_utc": "2026-07-24T15:30:21+00:00"
+    },
+    "186db0f042b1b4818d87b5fd": {
+      "ts": 1784918539,
+      "source": "NASASpaceflight",
+      "title": "Blue Origin to conduct New Glenn second stage hot fires on Stennis B-2 stand",
+      "link": "https://www.nasaspaceflight.com/2026/07/blue-ng-gs2-hot-fires-stennis-b-2/",
+      "score": 3.6,
+      "published_utc": "2026-07-24T18:01:12+00:00"
     }
   },
   "digest_queue": [
@@ -7337,6 +7345,18 @@
       "day_brt": "2026-07-24",
       "resumo_pt": "Resumo (PT-BR): 5 min read NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis Lauren E. Low Jul 24, 2026 RELEASE 26-060 NASA Headquarters An image shows the B-1 and B-2 test stands at NASA’s Stennis Space Center near Bay St.",
       "queued_ts": 1784912954
+    },
+    {
+      "fp": "186db0f042b1b4818d87b5fd",
+      "title": "Blue Origin to conduct New Glenn second stage hot fires on Stennis B-2 stand",
+      "link": "https://www.nasaspaceflight.com/2026/07/blue-ng-gs2-hot-fires-stennis-b-2/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-07-24T18:01:12+00:00",
+      "day_brt": "2026-07-24",
+      "resumo_pt": "Resumo (PT-BR): Blue Origin to conduct New Glenn second stage hot fires on Stennis B-2 stand by Chris Bergin July 24, 2026 written by Chris Bergin July 24, 2026 1 NASA and Blue Origin have finalized plans to hot-fire test the second stage of the New Glenn rocket on the B-2 position of the Thad Cochran Test Stand at Stennis Space Center in Mississippi. An annex to a reimbursable Space Act Agreement, signed earlier this month, will see testing begin as early as this fall, providing Blue Origin with access to one of NASA’s premier large-stage test facilities while Launch Complex 36 at Cape Canaveral recovers from the explosion of New Glenn during its Static Fire test.",
+      "queued_ts": 1784918540
     }
   ],
   "digests_sent": {
@@ -7753,7 +7773,8 @@
     "2026-07-24": {
       "d697852cb1241b5e15d6101c": true,
       "b6b304fa78ad51cf2ffe620d": true,
-      "7f22ae7d3c710674a031b38f": true
+      "7f22ae7d3c710674a031b38f": true,
+      "186db0f042b1b4818d87b5fd": true
     }
   }
 }
