@@ -6935,6 +6935,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/epic-photo-captures-lightning-striking-a-chinese-rocket-during-liftoff",
       "score": 2.8,
       "published_utc": "2026-07-24T12:57:03+00:00"
+    },
+    "b6b304fa78ad51cf2ffe620d": {
+      "ts": 1784912950,
+      "source": "NASA Breaking News",
+      "title": "New Crew Members Welcomed to International Space Station",
+      "link": "https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/",
+      "score": 4.0,
+      "published_utc": "2026-07-24T16:43:02+00:00"
+    },
+    "7f22ae7d3c710674a031b38f": {
+      "ts": 1784912950,
+      "source": "NASA Breaking News",
+      "title": "NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis",
+      "link": "https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/",
+      "score": 4.0,
+      "published_utc": "2026-07-24T15:30:21+00:00"
     }
   },
   "digest_queue": [
@@ -7297,6 +7313,30 @@
       "day_brt": "2026-07-17",
       "resumo_pt": "Resumo (PT-BR): 3 Min Read NASA Pushes New Wing Design to Find Structural Limits The 15-foot Structural Wing Experiment Evaluating Truss-bracing test article is fully installed in the Flight Loads Laboratory at NASA’s Armstrong Flight Research Center in Edwards, California, on Wednesday, May 20, 2026. The model is part of NASA’s research to develop technologies for future ultra-efficient aircraft.",
       "queued_ts": 1784332431
+    },
+    {
+      "fp": "b6b304fa78ad51cf2ffe620d",
+      "title": "New Crew Members Welcomed to International Space Station",
+      "link": "https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-24T16:43:02+00:00",
+      "day_brt": "2026-07-24",
+      "resumo_pt": "Resumo (PT-BR): 1 min read New Crew Members Welcomed to International Space Station HQ Web Team Jul 24, 2026 Image Article NASA/Chris Williams From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a July 18, 2026, photo while holding a cake celebrating their recent arrival aboard the International Space Station. The trio arrived at the space station on July 14, 2026, after launching from the Baikonur Cosmodrome in Kazakhstan earlier the same day.",
+      "queued_ts": 1784912954
+    },
+    {
+      "fp": "7f22ae7d3c710674a031b38f",
+      "title": "NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis",
+      "link": "https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-24T15:30:21+00:00",
+      "day_brt": "2026-07-24",
+      "resumo_pt": "Resumo (PT-BR): 5 min read NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis Lauren E. Low Jul 24, 2026 RELEASE 26-060 NASA Headquarters An image shows the B-1 and B-2 test stands at NASA’s Stennis Space Center near Bay St.",
+      "queued_ts": 1784912954
     }
   ],
   "digests_sent": {
@@ -7711,7 +7751,9 @@
       "2d549c4828521a6446a75056": true
     },
     "2026-07-24": {
-      "d697852cb1241b5e15d6101c": true
+      "d697852cb1241b5e15d6101c": true,
+      "b6b304fa78ad51cf2ffe620d": true,
+      "7f22ae7d3c710674a031b38f": true
     }
   }
 }
