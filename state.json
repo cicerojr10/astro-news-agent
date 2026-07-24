@@ -7329,54 +7329,6 @@
       "day_brt": "2026-07-17",
       "resumo_pt": "Resumo (PT-BR): 3 Min Read NASA Pushes New Wing Design to Find Structural Limits The 15-foot Structural Wing Experiment Evaluating Truss-bracing test article is fully installed in the Flight Loads Laboratory at NASA’s Armstrong Flight Research Center in Edwards, California, on Wednesday, May 20, 2026. The model is part of NASA’s research to develop technologies for future ultra-efficient aircraft.",
       "queued_ts": 1784332431
-    },
-    {
-      "fp": "b6b304fa78ad51cf2ffe620d",
-      "title": "New Crew Members Welcomed to International Space Station",
-      "link": "https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-24T16:43:02+00:00",
-      "day_brt": "2026-07-24",
-      "resumo_pt": "Resumo (PT-BR): 1 min read New Crew Members Welcomed to International Space Station HQ Web Team Jul 24, 2026 Image Article NASA/Chris Williams From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a July 18, 2026, photo while holding a cake celebrating their recent arrival aboard the International Space Station. The trio arrived at the space station on July 14, 2026, after launching from the Baikonur Cosmodrome in Kazakhstan earlier the same day.",
-      "queued_ts": 1784912954
-    },
-    {
-      "fp": "7f22ae7d3c710674a031b38f",
-      "title": "NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis",
-      "link": "https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-07-24T15:30:21+00:00",
-      "day_brt": "2026-07-24",
-      "resumo_pt": "Resumo (PT-BR): 5 min read NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis Lauren E. Low Jul 24, 2026 RELEASE 26-060 NASA Headquarters An image shows the B-1 and B-2 test stands at NASA’s Stennis Space Center near Bay St.",
-      "queued_ts": 1784912954
-    },
-    {
-      "fp": "186db0f042b1b4818d87b5fd",
-      "title": "Blue Origin to conduct New Glenn second stage hot fires on Stennis B-2 stand",
-      "link": "https://www.nasaspaceflight.com/2026/07/blue-ng-gs2-hot-fires-stennis-b-2/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-07-24T18:01:12+00:00",
-      "day_brt": "2026-07-24",
-      "resumo_pt": "Resumo (PT-BR): Blue Origin to conduct New Glenn second stage hot fires on Stennis B-2 stand by Chris Bergin July 24, 2026 written by Chris Bergin July 24, 2026 1 NASA and Blue Origin have finalized plans to hot-fire test the second stage of the New Glenn rocket on the B-2 position of the Thad Cochran Test Stand at Stennis Space Center in Mississippi. An annex to a reimbursable Space Act Agreement, signed earlier this month, will see testing begin as early as this fall, providing Blue Origin with access to one of NASA’s premier large-stage test facilities while Launch Complex 36 at Cape Canaveral recovers from the explosion of New Glenn during its Static Fire test.",
-      "queued_ts": 1784918540
-    },
-    {
-      "fp": "3b3216e8ec5ba76355566e13",
-      "title": "Critical NASA Deep Space ground station in Spain evacuated due to wildfires",
-      "link": "https://spaceflightnow.com/2026/07/24/critical-nasa-deep-space-ground-station-in-spain-evacuated-due-to-wildfires/",
-      "source": "Spaceflight Now",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-07-24T20:11:08+00:00",
-      "day_brt": "2026-07-24",
-      "resumo_pt": "Resumo (PT-BR): Critical NASA Deep Space ground station in Spain evacuated due to wildfires July 24, 2026 Will Robinson-Smith In a historic first, all six radio frequency antennas at the Madrid Deep Space Communication Complex – part of NASA’s Deep Space Network (DSN) – carried out a test to receive data from the agency’s Voyager 1 spacecraft at the same time on April 20, 2024. Known as “arraying,” combining the receiving power of several antennas allows the DSN to collect the very faint signals from faraway spacecraft.",
-      "queued_ts": 1784927710
     }
   ],
   "digests_sent": {
@@ -7707,7 +7659,8 @@
       "night": true
     },
     "2026-07-24": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
