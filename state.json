@@ -6903,6 +6903,14 @@
       "link": "https://www.space.com/space-exploration/missions/vulcan-centaur-swapped-out-again-nasa-goes-with-spacex-falcon-heavy-rocket-for-launch-of-space-weather-mission",
       "score": 2.8,
       "published_utc": "2026-07-23T21:00:00+00:00"
+    },
+    "d697852cb1241b5e15d6101c": {
+      "ts": 1784890086,
+      "source": "Space.com",
+      "title": "Hubble telescope watches unique nova explosion fire cosmic 'bullets' through the Milky Way at 20 million mph",
+      "link": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-watches-unique-nova-explosion-fire-cosmic-bullets-through-the-milky-way-at-20-million-mph",
+      "score": 8.399999999999999,
+      "published_utc": "2026-07-24T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -7265,6 +7273,18 @@
       "day_brt": "2026-07-17",
       "resumo_pt": "Resumo (PT-BR): 3 Min Read NASA Pushes New Wing Design to Find Structural Limits The 15-foot Structural Wing Experiment Evaluating Truss-bracing test article is fully installed in the Flight Loads Laboratory at NASA’s Armstrong Flight Research Center in Edwards, California, on Wednesday, May 20, 2026. The model is part of NASA’s research to develop technologies for future ultra-efficient aircraft.",
       "queued_ts": 1784332431
+    },
+    {
+      "fp": "d697852cb1241b5e15d6101c",
+      "title": "Hubble telescope watches unique nova explosion fire cosmic 'bullets' through the Milky Way at 20 million mph",
+      "link": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-watches-unique-nova-explosion-fire-cosmic-bullets-through-the-milky-way-at-20-million-mph",
+      "source": "Space.com",
+      "score": 8.399999999999999,
+      "is_anomaly": true,
+      "published_utc": "2026-07-24T10:00:00+00:00",
+      "day_brt": "2026-07-24",
+      "resumo_pt": "Resumo (PT-BR): Astronomy Hubble Space Telescope Hubble telescope watches unique nova explosion fire cosmic 'bullets' through the Milky Way at 20 million mph News By Robert Lea Published 24 July 2026 \"The origin of these 'bullets' is a mystery.\" When you purchase through links on our site, we may earn an affiliate commission. Click for next article An outflow of matter from the helium nova V445 Puppis (Image credit: John Mills / University of Warwick) Copy link Facebook X Whatsapp Reddit Pinterest Flipboard Email Share this article 0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter Using NASA's long-serving Hubble Space Telescope, astronomers have discovered that a stellar explosion in the Milky Way is blasting out cosmic bullets travelling at 20 million miles per hour.",
+      "queued_ts": 1784890087
     }
   ],
   "digests_sent": {
@@ -7674,6 +7694,9 @@
       "b532c6a604fba2fa494ec8c5": true,
       "ec5e18009cbce5c7b57cb16b": true,
       "2d549c4828521a6446a75056": true
+    },
+    "2026-07-24": {
+      "d697852cb1241b5e15d6101c": true
     }
   }
 }
