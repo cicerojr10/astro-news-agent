@@ -7001,6 +7001,14 @@
       "link": "https://spaceflightnow.com/2026/07/25/live-coverage-spacex-falcon-9-to-launch-starlink-satellites-from-west-coast/",
       "score": 4.680000000000001,
       "published_utc": "2026-07-25T13:58:51+00:00"
+    },
+    "467cd042be2d0499edd8b370": {
+      "ts": 1784999717,
+      "source": "Spaceflight Now",
+      "title": "SpaceX Falcon 9 launches Starlink satellites from West Coast",
+      "link": "https://spaceflightnow.com/2026/07/25/live-coverage-spacex-falcon-9-to-launch-starlink-satellites-from-west-coast/",
+      "score": 3.6,
+      "published_utc": "2026-07-25T13:58:51+00:00"
     }
   },
   "digest_queue": [
@@ -7375,6 +7383,18 @@
       "day_brt": "2026-07-25",
       "resumo_pt": "Resumo (PT-BR): Live Coverage: SpaceX Falcon 9 to launch Starlink satellites from West Coast July 25, 2026 Steven Young File photo of a Falcon 9 fueled for launch at Vandenberg Space Force Base in California. A SpaceX Falcon 9 is scheduled to launch from the West Coast Saturday, carrying another batch of satellites for the company’s Starlink internet service.",
       "queued_ts": 1784988101
+    },
+    {
+      "fp": "467cd042be2d0499edd8b370",
+      "title": "SpaceX Falcon 9 launches Starlink satellites from West Coast",
+      "link": "https://spaceflightnow.com/2026/07/25/live-coverage-spacex-falcon-9-to-launch-starlink-satellites-from-west-coast/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-07-25T13:58:51+00:00",
+      "day_brt": "2026-07-25",
+      "resumo_pt": "Resumo (PT-BR): SpaceX Falcon 9 launches Starlink satellites from West Coast July 25, 2026 Steven Young The Starlink 17-51 mission lifts off from Space Launch Complex 4E at Vandenberg Space Force Base in California on July 25, 2026. A SpaceX Falcon 9 launched from the West Coast Saturday, carrying another batch of satellites for the company’s Starlink internet service.",
+      "queued_ts": 1784999720
     }
   ],
   "digests_sent": {
@@ -7767,7 +7787,8 @@
       "3b3216e8ec5ba76355566e13": true
     },
     "2026-07-25": {
-      "cf3ff2499f89fbbaadb89049": true
+      "cf3ff2499f89fbbaadb89049": true,
+      "467cd042be2d0499edd8b370": true
     }
   }
 }
