@@ -6985,6 +6985,14 @@
       "score": 0.0,
       "published_utc": "2026-07-25T01:40:17+00:00",
       "note": "not_today"
+    },
+    "4905146209dc6a833b763cc8": {
+      "ts": 1784973723,
+      "source": "Space.com",
+      "title": "NASA astronaut, 2 cosmonauts returning to Earth on July 26: Watch it live",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-two-cosmonauts-return-to-earth-soyuz-ms-28",
+      "score": 2.8,
+      "published_utc": "2026-07-25T10:00:00+00:00"
     }
   },
   "digest_queue": [
