@@ -6993,6 +6993,14 @@
       "link": "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-two-cosmonauts-return-to-earth-soyuz-ms-28",
       "score": 2.8,
       "published_utc": "2026-07-25T10:00:00+00:00"
+    },
+    "cf3ff2499f89fbbaadb89049": {
+      "ts": 1784988099,
+      "source": "Spaceflight Now",
+      "title": "Live Coverage: SpaceX Falcon 9 to launch Starlink satellites from West Coast",
+      "link": "https://spaceflightnow.com/2026/07/25/live-coverage-spacex-falcon-9-to-launch-starlink-satellites-from-west-coast/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-07-25T13:58:51+00:00"
     }
   },
   "digest_queue": [
@@ -7355,6 +7363,18 @@
       "day_brt": "2026-07-17",
       "resumo_pt": "Resumo (PT-BR): 3 Min Read NASA Pushes New Wing Design to Find Structural Limits The 15-foot Structural Wing Experiment Evaluating Truss-bracing test article is fully installed in the Flight Loads Laboratory at NASA’s Armstrong Flight Research Center in Edwards, California, on Wednesday, May 20, 2026. The model is part of NASA’s research to develop technologies for future ultra-efficient aircraft.",
       "queued_ts": 1784332431
+    },
+    {
+      "fp": "cf3ff2499f89fbbaadb89049",
+      "title": "Live Coverage: SpaceX Falcon 9 to launch Starlink satellites from West Coast",
+      "link": "https://spaceflightnow.com/2026/07/25/live-coverage-spacex-falcon-9-to-launch-starlink-satellites-from-west-coast/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-07-25T13:58:51+00:00",
+      "day_brt": "2026-07-25",
+      "resumo_pt": "Resumo (PT-BR): Live Coverage: SpaceX Falcon 9 to launch Starlink satellites from West Coast July 25, 2026 Steven Young File photo of a Falcon 9 fueled for launch at Vandenberg Space Force Base in California. A SpaceX Falcon 9 is scheduled to launch from the West Coast Saturday, carrying another batch of satellites for the company’s Starlink internet service.",
+      "queued_ts": 1784988101
     }
   ],
   "digests_sent": {
@@ -7693,39 +7713,6 @@
     }
   },
   "sent_updates": {
-    "2026-07-13": {
-      "4493ae238c45c2cbd43eb684": true,
-      "59817a5a700d8945116719fb": true,
-      "162ccfbcd350de45d35b4c41": true,
-      "c54372ee4043f0e0b0617638": true,
-      "d2bc3003985ca69e78586ed1": true
-    },
-    "2026-07-14": {
-      "c25c66a431c8de02513b53d0": true,
-      "18a04159338bfd36e6fffea3": true,
-      "741dc6aab9abd600ab088297": true,
-      "2a3269e9385adf797304e4a0": true,
-      "44b81d4eb388397f2bdf83f8": true,
-      "512d1c6290c857ba2607a41b": true,
-      "c00d78590b6206f5f9ef1f3e": true
-    },
-    "2026-07-15": {
-      "7b6fc59647d6ac16ca081639": true,
-      "576ddac26ac5453d37e0b3e2": true,
-      "b78f79c755d39634c3f7a8e2": true,
-      "ea2ebd4bef2e1ccb574c50e5": true,
-      "a6777cccfd4997fa2c4e7c12": true,
-      "5a910ab6c681a950317fed93": true,
-      "d2060ab1eb766f3f57c1f786": true,
-      "3733e4b0841df267d1faa51b": true,
-      "b50fa7939d5e2a23578997a9": true
-    },
-    "2026-07-16": {
-      "18bdac8a0424a92a2823f2c4": true,
-      "4b87dfdeb7aac9372e26b7e7": true,
-      "7d426e83848bfd93a0412879": true,
-      "44ebbec0b247a3c83e888ea8": true
-    },
     "2026-07-17": {
       "094383e1590ea761db2ed2f8": true,
       "ca5fcc71df4cefe7e5c82473": true,
@@ -7778,6 +7765,9 @@
       "7f22ae7d3c710674a031b38f": true,
       "186db0f042b1b4818d87b5fd": true,
       "3b3216e8ec5ba76355566e13": true
+    },
+    "2026-07-25": {
+      "cf3ff2499f89fbbaadb89049": true
     }
   }
 }
