@@ -6967,6 +6967,24 @@
       "link": "https://spaceflightnow.com/2026/07/24/critical-nasa-deep-space-ground-station-in-spain-evacuated-due-to-wildfires/",
       "score": 3.6,
       "published_utc": "2026-07-24T20:11:08+00:00"
+    },
+    "9631e8614ff9d1d86457f299": {
+      "ts": 1784950726,
+      "source": "NASASpaceflight",
+      "title": "Starship Flight 13 achieves new firsts for SpaceX",
+      "link": "https://www.nasaspaceflight.com/2026/07/starship-flight-13-flight/",
+      "score": 0.0,
+      "published_utc": "2026-07-23T05:01:59+00:00",
+      "note": "not_today"
+    },
+    "f6496d7ea83328ebb50c8ad0": {
+      "ts": 1784950726,
+      "source": "Space.com",
+      "title": "SpaceX's Starship megarocket makes the 'softest splashdown' ever after launching next-gen Starlink satellites in Flight 13 test (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-makes-the-softest-splashdown-ever-after-launching-next-gen-starlink-satellites-in-flight-13-test-video",
+      "score": 0.0,
+      "published_utc": "2026-07-25T01:40:17+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
