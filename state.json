@@ -7017,6 +7017,15 @@
       "link": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/",
       "score": 4.0,
       "published_utc": "2026-07-26T10:59:44+00:00"
+    },
+    "3487f3b75ddd122e93a5b30c": {
+      "ts": 1785075313,
+      "source": "Space.com",
+      "title": "NASA astronaut, 2 cosmonauts return to Earth after 241 days on space station",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-two-cosmonauts-return-to-earth-soyuz-ms-28",
+      "score": 0.0,
+      "published_utc": "2026-07-25T10:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
