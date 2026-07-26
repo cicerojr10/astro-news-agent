@@ -7026,6 +7026,15 @@
       "score": 0.0,
       "published_utc": "2026-07-25T10:00:00+00:00",
       "note": "not_today"
+    },
+    "82450f6ebbaa48ae1792b0c6": {
+      "ts": 1785091009,
+      "source": "Space.com",
+      "title": "NASA astronaut, 2 cosmonauts return to Earth after 241 days on space station (video)",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-two-cosmonauts-return-to-earth-soyuz-ms-28",
+      "score": 0.0,
+      "published_utc": "2026-07-25T10:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
