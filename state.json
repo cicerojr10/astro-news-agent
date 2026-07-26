@@ -7009,6 +7009,14 @@
       "link": "https://spaceflightnow.com/2026/07/25/live-coverage-spacex-falcon-9-to-launch-starlink-satellites-from-west-coast/",
       "score": 3.6,
       "published_utc": "2026-07-25T13:58:51+00:00"
+    },
+    "f0c8addc3f02083916439cd2": {
+      "ts": 1785066110,
+      "source": "NASA Breaking News",
+      "title": "NASA Astronaut Chris Williams, Crewmates Return from Space Station",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/",
+      "score": 4.0,
+      "published_utc": "2026-07-26T10:59:44+00:00"
     }
   },
   "digest_queue": [
@@ -7707,6 +7715,9 @@
     "2026-07-25": {
       "morning": true,
       "night": true
+    },
+    "2026-07-26": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -7766,6 +7777,9 @@
     "2026-07-25": {
       "cf3ff2499f89fbbaadb89049": true,
       "467cd042be2d0499edd8b370": true
+    },
+    "2026-07-26": {
+      "f0c8addc3f02083916439cd2": true
     }
   }
 }
