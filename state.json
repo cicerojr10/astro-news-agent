@@ -7763,7 +7763,8 @@
       "night": true
     },
     "2026-07-27": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
