@@ -7091,6 +7091,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-51-b1100-vsfb-ocisly",
       "score": 2.8,
       "published_utc": "2026-07-28T15:00:00+00:00"
+    },
+    "592e40230121d0a7cea31bbe": {
+      "ts": 1785262900,
+      "source": "NASASpaceflight",
+      "title": "Ship 40’s flawless flight promotes next mission catch potential",
+      "link": "https://www.nasaspaceflight.com/2026/07/ship-40-catch-potential/",
+      "score": 3.6,
+      "published_utc": "2026-07-28T17:33:20+00:00"
     }
   },
   "digest_queue": [
@@ -7489,6 +7497,18 @@
       "day_brt": "2026-07-27",
       "resumo_pt": "Resumo (PT-BR): 6 min read NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star Ashley Balzer Jul 27, 2026 Article Contents Hidden heavyweights Oddball origin story This artist's concept depicts a tidal disruption event, which occurs when a star passes fatally close to a supermassive black hole. Crumbs of the splintering star heat up as they swirl around the black hole, creating a glow astronomers can see from far across the cosmos, and the black hole launches a relativistic jet into space.",
       "queued_ts": 1785197028
+    },
+    {
+      "fp": "592e40230121d0a7cea31bbe",
+      "title": "Ship 40’s flawless flight promotes next mission catch potential",
+      "link": "https://www.nasaspaceflight.com/2026/07/ship-40-catch-potential/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-07-28T17:33:20+00:00",
+      "day_brt": "2026-07-28",
+      "resumo_pt": "Resumo (PT-BR): Ship 40’s flawless flight promotes next mission catch potential by Ryan Weber July 28, 2026 written by Ryan Weber July 28, 2026 3 SpaceX’s Starship Flight 13 demonstrated that the Ship can complete its mission and return intact, surviving water impact without destruction. The Booster, however, remains a work in progress as SpaceX continues refining the clean-sheet Block 3 design.",
+      "queued_ts": 1785262901
     }
   ],
   "digests_sent": {
@@ -7903,6 +7923,9 @@
       "12001919acf8f935245bf697": true,
       "fe6f3b3e95d06149f33a3173": true,
       "f0f9000322edff7dca9f7241": true
+    },
+    "2026-07-28": {
+      "592e40230121d0a7cea31bbe": true
     }
   }
 }
