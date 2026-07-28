@@ -7059,6 +7059,30 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/starship-in-space-see-highlights-of-spacex-megarockets-epic-flight-13-test-launch-video",
       "score": 2.8,
       "published_utc": "2026-07-27T22:00:00+00:00"
+    },
+    "12001919acf8f935245bf697": {
+      "ts": 1785197024,
+      "source": "NASA Breaking News",
+      "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
+      "score": 4.0,
+      "published_utc": "2026-07-27T18:49:20+00:00"
+    },
+    "fe6f3b3e95d06149f33a3173": {
+      "ts": 1785197024,
+      "source": "NASA Breaking News",
+      "title": "NASA Astronaut Chris Williams Returns to Earth",
+      "link": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/",
+      "score": 4.0,
+      "published_utc": "2026-07-27T16:48:46+00:00"
+    },
+    "f0f9000322edff7dca9f7241": {
+      "ts": 1785197024,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star",
+      "link": "https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/",
+      "score": 4.0,
+      "published_utc": "2026-07-27T16:06:37+00:00"
     }
   },
   "digest_queue": [
@@ -7421,6 +7445,42 @@
       "day_brt": "2026-07-17",
       "resumo_pt": "Resumo (PT-BR): 3 Min Read NASA Pushes New Wing Design to Find Structural Limits The 15-foot Structural Wing Experiment Evaluating Truss-bracing test article is fully installed in the Flight Loads Laboratory at NASA’s Armstrong Flight Research Center in Edwards, California, on Wednesday, May 20, 2026. The model is part of NASA’s research to develop technologies for future ultra-efficient aircraft.",
       "queued_ts": 1784332431
+    },
+    {
+      "fp": "12001919acf8f935245bf697",
+      "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-27T18:49:20+00:00",
+      "day_brt": "2026-07-27",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Astronaut Chris Williams to Discuss Space Station Mission Gerelle Q. Dodson Jul 27, 2026 MEDIA ADVISORY M26-059 NASA Headquarters NASA astronaut and Expedition 74 flight engineer Chris Williams shows off the Destiny laboratory module’s Microgravity Science Glovebox aboard the International Space Station.",
+      "queued_ts": 1785197028
+    },
+    {
+      "fp": "fe6f3b3e95d06149f33a3173",
+      "title": "NASA Astronaut Chris Williams Returns to Earth",
+      "link": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-27T16:48:46+00:00",
+      "day_brt": "2026-07-27",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA Astronaut Chris Williams Returns to Earth HQ Web Team Jul 27, 2026 Image Article NASA/Bill Ingalls NASA astronaut Chris Williams is all smiles in this July 26, 2026, photo taken shortly after he landed with Expedition 74 Roscosmos cosmonauts Sergey Kud-Sverchkov, and Sergei Mikaev in Kazakhstan. Williams spent eight months aboard the International Space Station, where he supported a wide range of scientific investigations and technology demonstrations.",
+      "queued_ts": 1785197028
+    },
+    {
+      "fp": "f0f9000322edff7dca9f7241",
+      "title": "NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star",
+      "link": "https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-27T16:06:37+00:00",
+      "day_brt": "2026-07-27",
+      "resumo_pt": "Resumo (PT-BR): 6 min read NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star Ashley Balzer Jul 27, 2026 Article Contents Hidden heavyweights Oddball origin story This artist's concept depicts a tidal disruption event, which occurs when a star passes fatally close to a supermassive black hole. Crumbs of the splintering star heat up as they swirl around the black hole, creating a glow astronomers can see from far across the cosmos, and the black hole launches a relativistic jet into space.",
+      "queued_ts": 1785197028
     }
   ],
   "digests_sent": {
@@ -7827,6 +7887,11 @@
     },
     "2026-07-26": {
       "f0c8addc3f02083916439cd2": true
+    },
+    "2026-07-27": {
+      "12001919acf8f935245bf697": true,
+      "fe6f3b3e95d06149f33a3173": true,
+      "f0f9000322edff7dca9f7241": true
     }
   }
 }
