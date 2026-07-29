@@ -7115,6 +7115,63 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-spy-satellite-launch-nrol-95",
       "score": 2.8,
       "published_utc": "2026-07-29T17:00:00+00:00"
+    },
+    "92f22f2639eefc3eea3739b7": {
+      "ts": 1785351161,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Curiosity Views a Sand-Capped Butte",
+      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-views-a-sand-capped-butte/",
+      "score": 4.0,
+      "published_utc": "2026-07-29T16:08:12+00:00"
+    },
+    "f4abd809ff0ba0cbc2e8b72c": {
+      "ts": 1785351161,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Curiosity Discovers a Field of Martian Polygons",
+      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-discovers-a-field-of-martian-polygons/",
+      "score": 4.0,
+      "published_utc": "2026-07-29T16:06:39+00:00"
+    },
+    "f98db350df3a517db248ba7d": {
+      "ts": 1785351161,
+      "source": "NASA Breaking News",
+      "title": "Understanding How Martian Auroras Are Made",
+      "link": "https://www.nasa.gov/image-article/understanding-how-martian-auroras-are-made/",
+      "score": 4.0,
+      "published_utc": "2026-07-29T15:20:28+00:00"
+    },
+    "17424ac65cdab8b6d1f6723b": {
+      "ts": 1785351161,
+      "source": "NASA Breaking News",
+      "title": "NASA Webb Explores Family Tree of Newly Discovered Distant Objects",
+      "link": "https://science.nasa.gov/missions/webb/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/",
+      "score": 4.0,
+      "published_utc": "2026-07-29T14:00:00+00:00"
+    },
+    "3c5b3d64097c530213fa95dc": {
+      "ts": 1785351162,
+      "source": "NASA Breaking News",
+      "title": "Contractor to Civil Servant: NASA Welcomes Ray Williams",
+      "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-ray-williams/",
+      "score": 4.0,
+      "published_utc": "2026-07-29T13:32:50+00:00"
+    },
+    "96bc9e1c2ea53949acd0f560": {
+      "ts": 1785351162,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 July 28 – Barnards Loop over Twin Volcanoes",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-july-28-barnards-loop-over-twin-volcanoes/",
+      "score": 0.0,
+      "published_utc": "2026-07-28T15:30:58+00:00",
+      "note": "not_today"
+    },
+    "3872623389f5bffe9f04fdf8": {
+      "ts": 1785351164,
+      "source": "Space.com",
+      "title": "NASA launched this spacecraft to save a satellite. Now, it needs saving too",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasa-launched-this-spacecraft-to-save-a-satellite-now-it-needs-saving-too",
+      "score": 7.0,
+      "published_utc": "2026-07-29T18:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -7513,6 +7570,78 @@
       "day_brt": "2026-07-27",
       "resumo_pt": "Resumo (PT-BR): 6 min read NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star Ashley Balzer Jul 27, 2026 Article Contents Hidden heavyweights Oddball origin story This artist's concept depicts a tidal disruption event, which occurs when a star passes fatally close to a supermassive black hole. Crumbs of the splintering star heat up as they swirl around the black hole, creating a glow astronomers can see from far across the cosmos, and the black hole launches a relativistic jet into space.",
       "queued_ts": 1785197028
+    },
+    {
+      "fp": "3872623389f5bffe9f04fdf8",
+      "title": "NASA launched this spacecraft to save a satellite. Now, it needs saving too",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasa-launched-this-spacecraft-to-save-a-satellite-now-it-needs-saving-too",
+      "source": "Space.com",
+      "score": 7.0,
+      "is_anomaly": true,
+      "published_utc": "2026-07-29T18:00:00+00:00",
+      "day_brt": "2026-07-29",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft NASA launched this spacecraft to save a satellite. Now, it needs saving too News By Brett Tingley Published 29 July 2026 The failure with the LINK spacecraft's reaction wheel is slightly ironic.",
+      "queued_ts": 1785351167
+    },
+    {
+      "fp": "92f22f2639eefc3eea3739b7",
+      "title": "NASA’s Curiosity Views a Sand-Capped Butte",
+      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-views-a-sand-capped-butte/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-29T16:08:12+00:00",
+      "day_brt": "2026-07-29",
+      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NASA’s Curiosity Views a... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 1 Min Read NASA’s Curiosity Views a Sand-Capped Butte PIA26730 Credits: NASA/JPL-Caltech/MSSS Image Addition Date: 07/29/2026 Downloads NASA’s Curiosity Views a Sand-Capped Butte PNG (27.41 MB) Description NASA’s Curiosity Mars rover captured this sand-capped butte, nicknamed “Miraflores,” estimated to be about 20 feet (6 meters) tall, with its Mast Camera, or Mastcam, on June 11, 2026, the 4,923rd Martian day, or sol, of the mission.",
+      "queued_ts": 1785351167
+    },
+    {
+      "fp": "f4abd809ff0ba0cbc2e8b72c",
+      "title": "NASA’s Curiosity Discovers a Field of Martian Polygons",
+      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-discovers-a-field-of-martian-polygons/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-29T16:06:39+00:00",
+      "day_brt": "2026-07-29",
+      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NASA’s Curiosity Discovers a... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 2 Min Read NASA’s Curiosity Discovers a Field of Martian Polygons PIA26729 Credits: NASA/JPL-Caltech/MSSS Image Addition Date: 07/29/2026 Downloads NASA’s Curiosity Discovers a Field of Martian Polygons PNG (305.97 MB) PIA26729 Figure A PNG (3.37 MB) Description NASA’s Curiosity Mars rover captured this 360-degree view of an expanse of terrain covered in surface features called polygons on June 19 and 20, 2026, the 4,930th and 4,931st Martian days, or sols, of the mission.",
+      "queued_ts": 1785351167
+    },
+    {
+      "fp": "f98db350df3a517db248ba7d",
+      "title": "Understanding How Martian Auroras Are Made",
+      "link": "https://www.nasa.gov/image-article/understanding-how-martian-auroras-are-made/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-29T15:20:28+00:00",
+      "day_brt": "2026-07-29",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Understanding How Martian Auroras Are Made HQ Web Team Jul 29, 2026 Image Article NASA This July 23, 2026, illustration depicts charged particles from a solar storm stripping away charged particles of Mars’ atmosphere, one of the processes of Martian atmosphere loss studied by NASA’s MAVEN (Mars Atmosphere and Volatile Evolution) mission. NASA MAVEN mission scientists have found that certain types of auroras on Mars form in a similar way to Earth-based auroras.",
+      "queued_ts": 1785351167
+    },
+    {
+      "fp": "17424ac65cdab8b6d1f6723b",
+      "title": "NASA Webb Explores Family Tree of Newly Discovered Distant Objects",
+      "link": "https://science.nasa.gov/missions/webb/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-29T14:00:00+00:00",
+      "day_brt": "2026-07-29",
+      "resumo_pt": "Resumo (PT-BR): Explore Webb Science James Webb Space Telescope (JWST) NASA Webb Explores Family Tree... Webb News Latest News Latest Images Webb's Blog Awards X (offsite - login reqd) Instagram (offsite - login reqd) Facebook (offsite- login reqd) Youtube (offsite) Overview About Who is James Webb?",
+      "queued_ts": 1785351167
+    },
+    {
+      "fp": "3c5b3d64097c530213fa95dc",
+      "title": "Contractor to Civil Servant: NASA Welcomes Ray Williams",
+      "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-ray-williams/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-29T13:32:50+00:00",
+      "day_brt": "2026-07-29",
+      "resumo_pt": "Resumo (PT-BR): 3 min read Contractor to Civil Servant: NASA Welcomes Ray Williams Bo Black Communications Strategist Jul 29, 2026 Article Ray Williams, supervisor of test support operations at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, poses for a photograph on July 16, 2026.",
+      "queued_ts": 1785351167
     }
   ],
   "digests_sent": {
@@ -7867,45 +7996,6 @@
     }
   },
   "sent_updates": {
-    "2026-07-17": {
-      "094383e1590ea761db2ed2f8": true,
-      "ca5fcc71df4cefe7e5c82473": true,
-      "70449d1d14dba330a51c105e": true,
-      "9b698369240f3a67607bdb42": true,
-      "2913872b869f7e3b1735e026": true
-    },
-    "2026-07-20": {
-      "18c6f816523224ea378e2f80": true,
-      "b229f202e26b9e241ce85b07": true,
-      "05fec392a4ba37fe11a7643c": true,
-      "c7f65af6a0b5ab69ed6313e8": true,
-      "9122ae9b3bfc8791b6b6f234": true,
-      "17028939b4cc4debd842e747": true,
-      "29e685ce2045fc88d1067305": true,
-      "e671812af322a061319e24bc": true
-    },
-    "2026-07-21": {
-      "19c4e49fb2c283586c15ef7d": true,
-      "9939bf635d7493850a31ab80": true,
-      "c11ee0f68e1b9e67a96a2944": true,
-      "598ddcd67d0c0c32fdb649f3": true,
-      "7a0d309d848cc5b234ab264e": true,
-      "5e59dceea1735443712d6b60": true,
-      "a0df1d4c0bd50c246b48b8cc": true,
-      "bdbd1f4ad639cef649f0056f": true,
-      "abe4e3f57a0635c8d605fa21": true,
-      "6ffb2c6fb3633161b9dce2ae": true,
-      "99709f353969bb2b4f02e037": true
-    },
-    "2026-07-22": {
-      "f1212528e0b326a8fe083ebb": true,
-      "fec4f930eda053a65a42582f": true,
-      "58492a986eb29a1a30a133c9": true,
-      "4b34cf0994ce4b15d62a64be": true,
-      "64945bfb2fd5e9f544537044": true,
-      "5a2603df5170fdbad6c62ec1": true,
-      "5c24295002dcb8d6f7d8145c": true
-    },
     "2026-07-23": {
       "a8ad3c20f0089e6c2dfa56c9": true,
       "54824019ca20c7d49e57dedf": true,
@@ -7934,6 +8024,11 @@
     },
     "2026-07-28": {
       "592e40230121d0a7cea31bbe": true
+    },
+    "2026-07-29": {
+      "3872623389f5bffe9f04fdf8": true,
+      "92f22f2639eefc3eea3739b7": true,
+      "f4abd809ff0ba0cbc2e8b72c": true
     }
   }
 }
