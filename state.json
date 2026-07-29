@@ -7172,6 +7172,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/nasa-launched-this-spacecraft-to-save-a-satellite-now-it-needs-saving-too",
       "score": 7.0,
       "published_utc": "2026-07-29T18:00:00+00:00"
+    },
+    "8494d4cf62986b1765e5cd40": {
+      "ts": 1785362948,
+      "source": "NASA Breaking News",
+      "title": "NASA Awards 2026 Innovative Technology Concepts",
+      "link": "https://www.nasa.gov/news-release/nasa-awards-2026-innovative-technology-concepts/",
+      "score": 4.0,
+      "published_utc": "2026-07-29T21:04:20+00:00"
     }
   },
   "digest_queue": [
@@ -7642,6 +7650,18 @@
       "day_brt": "2026-07-29",
       "resumo_pt": "Resumo (PT-BR): 3 min read Contractor to Civil Servant: NASA Welcomes Ray Williams Bo Black Communications Strategist Jul 29, 2026 Article Ray Williams, supervisor of test support operations at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, poses for a photograph on July 16, 2026.",
       "queued_ts": 1785351167
+    },
+    {
+      "fp": "8494d4cf62986b1765e5cd40",
+      "title": "NASA Awards 2026 Innovative Technology Concepts",
+      "link": "https://www.nasa.gov/news-release/nasa-awards-2026-innovative-technology-concepts/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-29T21:04:20+00:00",
+      "day_brt": "2026-07-29",
+      "resumo_pt": "Resumo (PT-BR): 5 min read NASA Awards 2026 Innovative Technology Concepts Jennifer M. Dooren Jul 29, 2026 RELEASE 26-057 NASA Headquarters A collage of artist concepts highlighting the novel approaches proposed by the 2026 NIAC awardees.",
+      "queued_ts": 1785362951
     }
   ],
   "digests_sent": {
@@ -8028,7 +8048,8 @@
     "2026-07-29": {
       "3872623389f5bffe9f04fdf8": true,
       "92f22f2639eefc3eea3739b7": true,
-      "f4abd809ff0ba0cbc2e8b72c": true
+      "f4abd809ff0ba0cbc2e8b72c": true,
+      "8494d4cf62986b1765e5cd40": true
     }
   }
 }
