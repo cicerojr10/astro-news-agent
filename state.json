@@ -7188,6 +7188,14 @@
       "link": "https://www.space.com/astronomy/its-going-to-do-things-that-currently-are-impossible-the-roman-space-telescope-nasas-next-great-observatory-is-ready-to-launch-aug-30",
       "score": 2.8,
       "published_utc": "2026-07-29T22:41:30+00:00"
+    },
+    "de849ca7245ceed60c63b24c": {
+      "ts": 1785369685,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch classified payload for National Reconnaissance Office",
+      "link": "https://spaceflightnow.com/2026/07/29/live-coverage-spacex-to-launch-classified-payload-for-national-reconnaissance-office/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-07-29T23:15:30+00:00"
     }
   },
   "digest_queue": [
@@ -7586,6 +7594,18 @@
       "day_brt": "2026-07-27",
       "resumo_pt": "Resumo (PT-BR): 6 min read NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star Ashley Balzer Jul 27, 2026 Article Contents Hidden heavyweights Oddball origin story This artist's concept depicts a tidal disruption event, which occurs when a star passes fatally close to a supermassive black hole. Crumbs of the splintering star heat up as they swirl around the black hole, creating a glow astronomers can see from far across the cosmos, and the black hole launches a relativistic jet into space.",
       "queued_ts": 1785197028
+    },
+    {
+      "fp": "de849ca7245ceed60c63b24c",
+      "title": "Live coverage: SpaceX to launch classified payload for National Reconnaissance Office",
+      "link": "https://spaceflightnow.com/2026/07/29/live-coverage-spacex-to-launch-classified-payload-for-national-reconnaissance-office/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-07-29T23:15:30+00:00",
+      "day_brt": "2026-07-29",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch classified payload for National Reconnaissance Office July 29, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket stands in the launch position at Space Launch Complex 40 at Cape Canaveral Space Force Station ahead of the launch of the NROL-95 mission. Image: SpaceX A classified payload for the National Reconnaissance Office is heading to orbit in the predawn hours of Thursday, July 30.",
+      "queued_ts": 1785369687
     }
   ],
   "digests_sent": {
@@ -7974,7 +7994,8 @@
       "3872623389f5bffe9f04fdf8": true,
       "92f22f2639eefc3eea3739b7": true,
       "f4abd809ff0ba0cbc2e8b72c": true,
-      "8494d4cf62986b1765e5cd40": true
+      "8494d4cf62986b1765e5cd40": true,
+      "de849ca7245ceed60c63b24c": true
     }
   }
 }
