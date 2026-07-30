@@ -7231,6 +7231,47 @@
       "score": 0.0,
       "published_utc": "2026-07-29T17:00:00+00:00",
       "note": "not_today"
+    },
+    "1cc57f4650990dcc68578526": {
+      "ts": 1785442867,
+      "source": "NASA Breaking News",
+      "title": "NASA Assigns Astronaut Deniz Burnham to First Space Station Mission",
+      "link": "https://www.nasa.gov/news-release/nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission/",
+      "score": 4.0,
+      "published_utc": "2026-07-30T16:11:41+00:00"
+    },
+    "64fe0f9afd536b47b8d08c5b": {
+      "ts": 1785442867,
+      "source": "NASA Breaking News",
+      "title": "Starburst Galaxy Centaurus A",
+      "link": "https://www.nasa.gov/image-article/starburst-galaxy-centaurus-a/",
+      "score": 4.0,
+      "published_utc": "2026-07-30T14:24:08+00:00"
+    },
+    "87ccb2406f54b96cd9f38daa": {
+      "ts": 1785442867,
+      "source": "NASA Breaking News",
+      "title": "NASA Johnson Interns Shaping the Future of Exploration",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-interns-shaping-the-future-of-exploration/",
+      "score": 4.0,
+      "published_utc": "2026-07-30T08:08:55+00:00"
+    },
+    "b0d62a72ba1f9ea7d65ffeac": {
+      "ts": 1785442868,
+      "source": "NASA Breaking News",
+      "title": "APOD: July 30 – Red Sun trough Wildfire Smoke",
+      "link": "https://science.nasa.gov/image-article/apod-july-30-red-sun-trough-wildfire-smoke/",
+      "score": 4.0,
+      "published_utc": "2026-07-30T04:05:00+00:00"
+    },
+    "48fb9ef9629c7f1ae0eb781c": {
+      "ts": 1785442871,
+      "source": "Space.com",
+      "title": "NASA launched this spacecraft to save a space telescope. Now, it needs saving too",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasa-launched-this-spacecraft-to-save-a-satellite-now-it-needs-saving-too",
+      "score": 0.0,
+      "published_utc": "2026-07-29T18:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -7641,6 +7682,54 @@
       "day_brt": "2026-07-29",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch classified payload for National Reconnaissance Office July 29, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket stands in the launch position at Space Launch Complex 40 at Cape Canaveral Space Force Station ahead of the launch of the NROL-95 mission. Image: SpaceX A classified payload for the National Reconnaissance Office is heading to orbit in the predawn hours of Thursday, July 30.",
       "queued_ts": 1785369687
+    },
+    {
+      "fp": "1cc57f4650990dcc68578526",
+      "title": "NASA Assigns Astronaut Deniz Burnham to First Space Station Mission",
+      "link": "https://www.nasa.gov/news-release/nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-30T16:11:41+00:00",
+      "day_brt": "2026-07-30",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Assigns Astronaut Deniz Burnham to First Space Station Mission Lauren E. Low Jul 30, 2026 RELEASE 26-061 NASA Headquarters NASA astronaut Deniz Burnham poses for a portrait at NASA’s Johnson Space Center in Houston.",
+      "queued_ts": 1785442872
+    },
+    {
+      "fp": "64fe0f9afd536b47b8d08c5b",
+      "title": "Starburst Galaxy Centaurus A",
+      "link": "https://www.nasa.gov/image-article/starburst-galaxy-centaurus-a/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-30T14:24:08+00:00",
+      "day_brt": "2026-07-30",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Starburst Galaxy Centaurus A HQ Web Team Jul 30, 2026 Image Article Image: NASA, ESA, CSA, STScI; Image Processing: Alyssa Pagan (STScI), Joseph DePasquale (STScI), Macarena Garcia Marin (ESA Office at STScI) In this July 6, 2026, image, NASA’s James Webb Space Telescope’s Mid-Infrared Instrument (MIRI) reveals the nearby galaxy Centaurus A , exposing the dusty structures and hidden activity that shape this unusual system. Centaurus A is 11 million light-years away from Earth, relatively close in cosmic terms.",
+      "queued_ts": 1785442872
+    },
+    {
+      "fp": "87ccb2406f54b96cd9f38daa",
+      "title": "NASA Johnson Interns Shaping the Future of Exploration",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-interns-shaping-the-future-of-exploration/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-30T08:08:55+00:00",
+      "day_brt": "2026-07-30",
+      "resumo_pt": "Resumo (PT-BR): 7 Min Read NASA Johnson Interns Shaping the Future of Exploration NASA’s Johnson Space Center interns pose for a group photo in the Teague Auditorium in Houston. From left are Macie Landon, John Graham Reynolds, and Morgan Gridley.",
+      "queued_ts": 1785442872
+    },
+    {
+      "fp": "b0d62a72ba1f9ea7d65ffeac",
+      "title": "APOD: July 30 – Red Sun trough Wildfire Smoke",
+      "link": "https://science.nasa.gov/image-article/apod-july-30-red-sun-trough-wildfire-smoke/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-30T04:05:00+00:00",
+      "day_brt": "2026-07-30",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1785442872
     }
   ],
   "digests_sent": {
@@ -8034,6 +8123,11 @@
       "f4abd809ff0ba0cbc2e8b72c": true,
       "8494d4cf62986b1765e5cd40": true,
       "de849ca7245ceed60c63b24c": true
+    },
+    "2026-07-30": {
+      "1cc57f4650990dcc68578526": true,
+      "64fe0f9afd536b47b8d08c5b": true,
+      "87ccb2406f54b96cd9f38daa": true
     }
   }
 }
