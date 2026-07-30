@@ -7213,6 +7213,15 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-30-2026",
       "score": 2.8,
       "published_utc": "2026-07-30T14:00:00+00:00"
+    },
+    "c6c3d13fae2b90716e8e4e31": {
+      "ts": 1785427857,
+      "source": "Space.com",
+      "title": "SpaceX launches secret US spy satellite from Florida",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-spy-satellite-launch-nrol-95",
+      "score": 0.0,
+      "published_utc": "2026-07-29T17:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
