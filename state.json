@@ -7222,6 +7222,15 @@
       "score": 0.0,
       "published_utc": "2026-07-29T17:00:00+00:00",
       "note": "not_today"
+    },
+    "3bc664830ed031eb474b4143": {
+      "ts": 1785433710,
+      "source": "Space.com",
+      "title": "SpaceX launches secret US spy satellite from Florida (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-spy-satellite-launch-nrol-95",
+      "score": 0.0,
+      "published_utc": "2026-07-29T17:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
