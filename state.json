@@ -7280,6 +7280,22 @@
       "link": "https://science.nasa.gov/image-article/apod-july-30-red-sun-trough-wildfire-smoke/",
       "score": 4.0,
       "published_utc": "2026-07-30T04:05:00+00:00"
+    },
+    "fbf66ea277db3d3fee44534b": {
+      "ts": 1785456238,
+      "source": "NASA Breaking News",
+      "title": "Students Take on Airborne Field Research with NASA",
+      "link": "https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/",
+      "score": 4.0,
+      "published_utc": "2026-07-30T20:36:56+00:00"
+    },
+    "3b01466a56ccadd8db983ffc": {
+      "ts": 1785456238,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 July 30 – Red Sun trough Wildfire Smoke",
+      "link": "https://science.nasa.gov/image-article/apod/apod-july-30-red-sun-trough-wildfire-smoke/",
+      "score": 4.0,
+      "published_utc": "2026-07-30T04:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -7690,6 +7706,30 @@
       "day_brt": "2026-07-29",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch classified payload for National Reconnaissance Office July 29, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket stands in the launch position at Space Launch Complex 40 at Cape Canaveral Space Force Station ahead of the launch of the NROL-95 mission. Image: SpaceX A classified payload for the National Reconnaissance Office is heading to orbit in the predawn hours of Thursday, July 30.",
       "queued_ts": 1785369687
+    },
+    {
+      "fp": "fbf66ea277db3d3fee44534b",
+      "title": "Students Take on Airborne Field Research with NASA",
+      "link": "https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-30T20:36:56+00:00",
+      "day_brt": "2026-07-30",
+      "resumo_pt": "Resumo (PT-BR): 3 min read Students Take on Airborne Field Research with NASA Erica McNamee Science Writer Jul 30, 2026 Article The gusty wind didn’t make it easy to hold tight to a balloon so large. The balloon, a scientific instrument called an ozonesonde, was about to be released into the atmosphere above the Texas Gulf Coast by students from NASA’s SARP (Student Airborne Research Program), which concluded its summer session July 27.",
+      "queued_ts": 1785456241
+    },
+    {
+      "fp": "3b01466a56ccadd8db983ffc",
+      "title": "APOD: 2026 July 30 – Red Sun trough Wildfire Smoke",
+      "link": "https://science.nasa.gov/image-article/apod/apod-july-30-red-sun-trough-wildfire-smoke/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-30T04:05:00+00:00",
+      "day_brt": "2026-07-30",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1785456241
     }
   ],
   "digests_sent": {
@@ -8089,7 +8129,9 @@
       "1cc57f4650990dcc68578526": true,
       "64fe0f9afd536b47b8d08c5b": true,
       "87ccb2406f54b96cd9f38daa": true,
-      "1f71624f13cf052ec395f9af": true
+      "1f71624f13cf052ec395f9af": true,
+      "fbf66ea277db3d3fee44534b": true,
+      "3b01466a56ccadd8db983ffc": true
     }
   }
 }
