@@ -7368,6 +7368,14 @@
       "link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/",
       "score": 4.0,
       "published_utc": "2026-07-31T18:39:47+00:00"
+    },
+    "b816390c32e8ad756de36170": {
+      "ts": 1785533596,
+      "source": "NASASpaceflight",
+      "title": "Starbase Pad 1 Retrofits Progress as Block 3 Flights Start",
+      "link": "https://www.nasaspaceflight.com/2026/07/pad-1-retrofits-block-3-flights/",
+      "score": 3.6,
+      "published_utc": "2026-07-31T21:14:22+00:00"
     }
   },
   "digest_queue": [
@@ -7886,6 +7894,18 @@
       "day_brt": "2026-07-31",
       "resumo_pt": "Resumo (PT-BR): 4 Min Read NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket Engineers at NASA Ames conduct transonic and supersonic wind testing on a 1.2% scale model of the Super Heavy Version 3 rocket that will launch the Starship human landing system. Credits: NASA Beverly Perry Communications Strategist Jul 31, 2026 Article Contents Testing Wind tunnels NASA and its industry partners are preparing for next year’s Artemis III demonstration mission by completing new wind tunnel tests on SpaceX’s Super Heavy Version 3 rocket booster.",
       "queued_ts": 1785529518
+    },
+    {
+      "fp": "b816390c32e8ad756de36170",
+      "title": "Starbase Pad 1 Retrofits Progress as Block 3 Flights Start",
+      "link": "https://www.nasaspaceflight.com/2026/07/pad-1-retrofits-block-3-flights/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-07-31T21:14:22+00:00",
+      "day_brt": "2026-07-31",
+      "resumo_pt": "Resumo (PT-BR): Starbase Pad 1 Retrofits Progress as Block 3 Flights Start by Ryan Weber July 31, 2026 written by Ryan Weber July 31, 2026 1 While SpaceX has now flown two flights out of the newly designed Pad 2, crews continue to press on with the retrofit of Pad 1. This retrofit will bring the launch pad up to spec with Pad 2, LC-39A, and the still-under-construction SLC-37 pads.",
+      "queued_ts": 1785533597
     }
   ],
   "digests_sent": {
@@ -8300,7 +8320,8 @@
       "63ba25c27f03caaa8828fdbf": true,
       "28bd9b68db9d2c583fe15e2e": true,
       "97f85e2fab107109b86fa2c0": true,
-      "f7829eb4a1ad62f00109235f": true
+      "f7829eb4a1ad62f00109235f": true,
+      "b816390c32e8ad756de36170": true
     }
   }
 }
