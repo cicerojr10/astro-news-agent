@@ -7304,6 +7304,14 @@
       "link": "https://science.nasa.gov/image-article/apod-2026-july-31-ngc-4372-and-the-dark-doodad/",
       "score": 4.0,
       "published_utc": "2026-07-31T04:05:00+00:00"
+    },
+    "0a03c831fab15d712d0577c1": {
+      "ts": 1785502149,
+      "source": "NASASpaceflight",
+      "title": "Blue Origin continues rebuilding LC-36, prepares testing alternatives for New Glenn second stage",
+      "link": "https://www.nasaspaceflight.com/2026/07/blue-origin-update-july26/",
+      "score": 14.4,
+      "published_utc": "2026-07-31T12:14:27+00:00"
     }
   },
   "digest_queue": [
@@ -7738,6 +7746,18 @@
       "day_brt": "2026-07-30",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1785456241
+    },
+    {
+      "fp": "0a03c831fab15d712d0577c1",
+      "title": "Blue Origin continues rebuilding LC-36, prepares testing alternatives for New Glenn second stage",
+      "link": "https://www.nasaspaceflight.com/2026/07/blue-origin-update-july26/",
+      "source": "NASASpaceflight",
+      "score": 14.4,
+      "is_anomaly": true,
+      "published_utc": "2026-07-31T12:14:27+00:00",
+      "day_brt": "2026-07-31",
+      "resumo_pt": "Resumo (PT-BR): Blue Origin continues rebuilding LC-36, prepares testing alternatives for New Glenn second stage by Sean Yoder July 31, 2026 written by Sean Yoder July 31, 2026 1 Two months after losing a New Glenn rocket to a pad explosion during a static fire test, Blue Origin is racing to return the vehicle to flight before 2026 ends. The company is rebuilding its Florida launch site around an entirely new concept of operations, and CEO Dave Limp is posting construction updates regularly as the clock ticks toward a self-imposed end-of-2026 return-to-flight.",
+      "queued_ts": 1785502150
     }
   ],
   "digests_sent": {
@@ -8145,7 +8165,8 @@
       "3b01466a56ccadd8db983ffc": true
     },
     "2026-07-31": {
-      "dcbbf5fa4c492292df4a7ea3": true
+      "dcbbf5fa4c492292df4a7ea3": true,
+      "0a03c831fab15d712d0577c1": true
     }
   }
 }
