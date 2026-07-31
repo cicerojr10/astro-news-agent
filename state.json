@@ -7344,6 +7344,14 @@
       "link": "https://science.nasa.gov/image-article/apod/apod-2026-july-31-ngc-4372-and-the-dark-doodad/",
       "score": 4.0,
       "published_utc": "2026-07-31T04:05:00+00:00"
+    },
+    "28bd9b68db9d2c583fe15e2e": {
+      "ts": 1785524559,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/07/31/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-12/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-07-31T18:07:54+00:00"
     }
   },
   "digest_queue": [
@@ -7826,6 +7834,18 @@
       "day_brt": "2026-07-31",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1785520500
+    },
+    {
+      "fp": "28bd9b68db9d2c583fe15e2e",
+      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/07/31/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-12/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-07-31T18:07:54+00:00",
+      "day_brt": "2026-07-31",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB July 31, 2026 Will Robinson-Smith File photo of a Falcon 9 fueled for launch at Vandenberg Space Force Base in California. SpaceX aims to launch its next batch of Starlink satellites from California on Friday night, four days later than original planned.",
+      "queued_ts": 1785524561
     }
   ],
   "digests_sent": {
@@ -8237,7 +8257,8 @@
       "0a03c831fab15d712d0577c1": true,
       "02d7d9f055c01dbacfe6a097": true,
       "06c7a5a7db90f0bf416f9c75": true,
-      "63ba25c27f03caaa8828fdbf": true
+      "63ba25c27f03caaa8828fdbf": true,
+      "28bd9b68db9d2c583fe15e2e": true
     }
   }
 }
