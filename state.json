@@ -7352,6 +7352,22 @@
       "link": "https://spaceflightnow.com/2026/07/31/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-12/",
       "score": 4.680000000000001,
       "published_utc": "2026-07-31T18:07:54+00:00"
+    },
+    "97f85e2fab107109b86fa2c0": {
+      "ts": 1785529514,
+      "source": "NASA Breaking News",
+      "title": "TB 26-04 Webbings for Use in Elevated Oxygen Environments",
+      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/",
+      "score": 4.0,
+      "published_utc": "2026-07-31T19:05:25+00:00"
+    },
+    "f7829eb4a1ad62f00109235f": {
+      "ts": 1785529514,
+      "source": "NASA Breaking News",
+      "title": "NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket",
+      "link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/",
+      "score": 4.0,
+      "published_utc": "2026-07-31T18:39:47+00:00"
     }
   },
   "digest_queue": [
@@ -7846,6 +7862,30 @@
       "day_brt": "2026-07-31",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB July 31, 2026 Will Robinson-Smith File photo of a Falcon 9 fueled for launch at Vandenberg Space Force Base in California. SpaceX aims to launch its next batch of Starlink satellites from California on Friday night, four days later than original planned.",
       "queued_ts": 1785524561
+    },
+    {
+      "fp": "97f85e2fab107109b86fa2c0",
+      "title": "TB 26-04 Webbings for Use in Elevated Oxygen Environments",
+      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-31T19:05:25+00:00",
+      "day_brt": "2026-07-31",
+      "resumo_pt": "Resumo (PT-BR): 4 min read TB 26-04 Webbings for Use in Elevated Oxygen Environments Meagan Chappell Jul 31, 2026 Article Flammability test results for commercial-off-the-shelf webbings that meet NASA flammability requirements are reported for use in elevated oxygen environments anticipated for future lunar and Martian missions. Testing demonstrated that a webbing composed of 60% Kevlar®/40% polybenzimidazole (PBI) from Sturges Manufacturing Company, Inc., specifically the natural version, passed flammability testing per NASA-STD-6001B Test 1 using a surface ignition in J-configuration at 37% oxygen and 8.2 psia.",
+      "queued_ts": 1785529518
+    },
+    {
+      "fp": "f7829eb4a1ad62f00109235f",
+      "title": "NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket",
+      "link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-31T18:39:47+00:00",
+      "day_brt": "2026-07-31",
+      "resumo_pt": "Resumo (PT-BR): 4 Min Read NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket Engineers at NASA Ames conduct transonic and supersonic wind testing on a 1.2% scale model of the Super Heavy Version 3 rocket that will launch the Starship human landing system. Credits: NASA Beverly Perry Communications Strategist Jul 31, 2026 Article Contents Testing Wind tunnels NASA and its industry partners are preparing for next year’s Artemis III demonstration mission by completing new wind tunnel tests on SpaceX’s Super Heavy Version 3 rocket booster.",
+      "queued_ts": 1785529518
     }
   ],
   "digests_sent": {
@@ -8258,7 +8298,9 @@
       "02d7d9f055c01dbacfe6a097": true,
       "06c7a5a7db90f0bf416f9c75": true,
       "63ba25c27f03caaa8828fdbf": true,
-      "28bd9b68db9d2c583fe15e2e": true
+      "28bd9b68db9d2c583fe15e2e": true,
+      "97f85e2fab107109b86fa2c0": true,
+      "f7829eb4a1ad62f00109235f": true
     }
   }
 }
