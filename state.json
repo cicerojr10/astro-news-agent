@@ -7320,6 +7320,30 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/watch-spacexs-starship-land-at-sea-in-these-stunning-new-videos",
       "score": 2.8,
       "published_utc": "2026-07-31T14:30:26+00:00"
+    },
+    "02d7d9f055c01dbacfe6a097": {
+      "ts": 1785520495,
+      "source": "NASA Breaking News",
+      "title": "NASA Opens New Flight Dynamics Research Facility in Virginia",
+      "link": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/",
+      "score": 4.0,
+      "published_utc": "2026-07-31T17:11:14+00:00"
+    },
+    "06c7a5a7db90f0bf416f9c75": {
+      "ts": 1785520495,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Roman Telescope to Carry 1.35 Million Names to Deep Space",
+      "link": "https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/",
+      "score": 4.0,
+      "published_utc": "2026-07-31T14:11:34+00:00"
+    },
+    "63ba25c27f03caaa8828fdbf": {
+      "ts": 1785520495,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 July 31 – NGC 4372 and the Dark Doodad",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-july-31-ngc-4372-and-the-dark-doodad/",
+      "score": 4.0,
+      "published_utc": "2026-07-31T04:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -7766,6 +7790,42 @@
       "day_brt": "2026-07-31",
       "resumo_pt": "Resumo (PT-BR): Blue Origin continues rebuilding LC-36, prepares testing alternatives for New Glenn second stage by Sean Yoder July 31, 2026 written by Sean Yoder July 31, 2026 1 Two months after losing a New Glenn rocket to a pad explosion during a static fire test, Blue Origin is racing to return the vehicle to flight before 2026 ends. The company is rebuilding its Florida launch site around an entirely new concept of operations, and CEO Dave Limp is posting construction updates regularly as the clock ticks toward a self-imposed end-of-2026 return-to-flight.",
       "queued_ts": 1785502150
+    },
+    {
+      "fp": "02d7d9f055c01dbacfe6a097",
+      "title": "NASA Opens New Flight Dynamics Research Facility in Virginia",
+      "link": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-31T17:11:14+00:00",
+      "day_brt": "2026-07-31",
+      "resumo_pt": "Resumo (PT-BR): 5 min read NASA Opens New Flight Dynamics Research Facility in Virginia Jennifer M. Dooren Jul 31, 2026 RELEASE 26-062 NASA Headquarters From left to right: Casey Swails, NASA deputy associate administrator; Mike Waller, vice president of BL Harbert International Federal Division; Edward C.",
+      "queued_ts": 1785520500
+    },
+    {
+      "fp": "06c7a5a7db90f0bf416f9c75",
+      "title": "NASA’s Roman Telescope to Carry 1.35 Million Names to Deep Space",
+      "link": "https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-31T14:11:34+00:00",
+      "day_brt": "2026-07-31",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA’s Roman Telescope to Carry 1.35 Million Names to Deep Space Elyna Niles-Carnes Jul 31, 2026 Image Article On July 27, technicians at NASA’s Kennedy Space Center in Florida installed a memory card containing 1,350,144 names as part of a commemorative plaque on the Nancy Grace Roman Space Telescope. The names were submitted by people globally, including astronauts from Artemis II and Artemis III.",
+      "queued_ts": 1785520500
+    },
+    {
+      "fp": "63ba25c27f03caaa8828fdbf",
+      "title": "APOD: 2026 July 31 – NGC 4372 and the Dark Doodad",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-july-31-ngc-4372-and-the-dark-doodad/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-07-31T04:05:00+00:00",
+      "day_brt": "2026-07-31",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1785520500
     }
   ],
   "digests_sent": {
@@ -8174,7 +8234,10 @@
     },
     "2026-07-31": {
       "dcbbf5fa4c492292df4a7ea3": true,
-      "0a03c831fab15d712d0577c1": true
+      "0a03c831fab15d712d0577c1": true,
+      "02d7d9f055c01dbacfe6a097": true,
+      "06c7a5a7db90f0bf416f9c75": true,
+      "63ba25c27f03caaa8828fdbf": true
     }
   }
 }
