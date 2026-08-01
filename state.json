@@ -7384,6 +7384,15 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-seen-in-space-by-next-gen-starlink-satellite-video",
       "score": 2.8,
       "published_utc": "2026-07-31T23:27:19+00:00"
+    },
+    "41827e3e17ad0c2bdf128a02": {
+      "ts": 1785558619,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/07/31/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-12/",
+      "score": 0.0,
+      "published_utc": "2026-07-31T18:07:54+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
