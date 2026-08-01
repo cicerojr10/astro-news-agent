@@ -7401,6 +7401,15 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-falcon-9-launch-group-17-52-ocisly-vandenberg",
       "score": 2.8,
       "published_utc": "2026-08-01T10:00:00+00:00"
+    },
+    "fda4b13425a49fde133b0844": {
+      "ts": 1785604500,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Newest Wind Tunnel Opens at NASA Langley",
+      "link": "https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/",
+      "score": 0.0,
+      "published_utc": "2026-07-31T20:19:37+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
