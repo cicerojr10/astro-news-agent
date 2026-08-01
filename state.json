@@ -7393,6 +7393,14 @@
       "score": 0.0,
       "published_utc": "2026-07-31T18:07:54+00:00",
       "note": "not_today"
+    },
+    "8883682cb823fc6dd68c03c8": {
+      "ts": 1785581311,
+      "source": "Space.com",
+      "title": "SpaceX launches 24 Starlink satellites to orbit from California (photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-falcon-9-launch-group-17-52-ocisly-vandenberg",
+      "score": 2.8,
+      "published_utc": "2026-08-01T10:00:00+00:00"
     }
   },
   "digest_queue": [
