@@ -7410,6 +7410,14 @@
       "score": 0.0,
       "published_utc": "2026-07-31T20:19:37+00:00",
       "note": "not_today"
+    },
+    "1072f19d7940a645bf8bd26b": {
+      "ts": 1785625955,
+      "source": "NASASpaceflight",
+      "title": "Boeing’s Starliner set for potential 2026 cargo run to ISS",
+      "link": "https://www.nasaspaceflight.com/2026/08/boeing-starliner-2026-iss/",
+      "score": 3.6,
+      "published_utc": "2026-08-01T22:26:30+00:00"
     }
   },
   "digest_queue": [
@@ -8206,7 +8214,8 @@
       "night": true
     },
     "2026-08-01": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -8264,6 +8273,9 @@
       "97f85e2fab107109b86fa2c0": true,
       "f7829eb4a1ad62f00109235f": true,
       "b816390c32e8ad756de36170": true
+    },
+    "2026-08-01": {
+      "1072f19d7940a645bf8bd26b": true
     }
   }
 }
