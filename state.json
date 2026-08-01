@@ -8195,6 +8195,9 @@
     "2026-07-31": {
       "morning": true,
       "night": true
+    },
+    "2026-08-01": {
+      "morning": true
     }
   },
   "sent_updates": {
