@@ -7860,18 +7860,6 @@
       "day_brt": "2026-07-30",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1785456241
-    },
-    {
-      "fp": "de7dff7544a034964b2b23f1",
-      "title": "Rocket issue delays 1st orbital rocket launch from the UK",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-issue-delays-1st-orbital-rocket-launch-from-the-uk",
-      "source": "Space.com",
-      "score": 7.0,
-      "is_anomaly": true,
-      "published_utc": "2026-08-02T10:00:00+00:00",
-      "day_brt": "2026-08-02",
-      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft Rocket issue delays 1st orbital rocket launch from the UK News By Elizabeth Howell Published 2 August 2026 A new date has not yet been announced for German startup Rocket Factory Augsburg. When you purchase through links on our site, we may earn an affiliate commission.",
-      "queued_ts": 1785666019
     }
   ],
   "digests_sent": {
@@ -8236,6 +8224,9 @@
     "2026-08-01": {
       "morning": true,
       "night": true
+    },
+    "2026-08-02": {
+      "morning": true
     }
   },
   "sent_updates": {
