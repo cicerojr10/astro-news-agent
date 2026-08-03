@@ -7450,6 +7450,15 @@
       "link": "https://www.space.com/space-exploration/satellites/ai-is-ready-to-run-spacecraft-is-the-space-industry-ready-for-it",
       "score": 2.8,
       "published_utc": "2026-08-03T10:00:00+00:00"
+    },
+    "b7ac4c15ad2683aa84b5b819": {
+      "ts": 1785763897,
+      "source": "Space.com",
+      "title": "SpaceX launches 24 Starlink satellites to orbit from California (video, photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-falcon-9-launch-group-17-52-ocisly-vandenberg",
+      "score": 0.0,
+      "published_utc": "2026-08-01T10:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
