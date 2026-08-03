@@ -7459,6 +7459,32 @@
       "score": 0.0,
       "published_utc": "2026-08-01T10:00:00+00:00",
       "note": "not_today"
+    },
+    "6ad229e2e2606efb823e9799": {
+      "ts": 1785773634,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 August 2 – A Fire Rainbow over West Virginia",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-2-a-fire-rainbow-over-west-virginia/",
+      "score": 0.0,
+      "published_utc": "2026-08-02T04:05:00+00:00",
+      "note": "not_today"
+    },
+    "6c9351acfd6d1b63ac04389f": {
+      "ts": 1785773634,
+      "source": "NASA Breaking News",
+      "title": "TB 26-05 Webbings for Use in Elevated Oxygen Environments",
+      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-05-webbings-for-use-in-elevated-oxygen-environments/",
+      "score": 0.0,
+      "published_utc": "2026-07-31T19:05:25+00:00",
+      "note": "not_today"
+    },
+    "148b7353224feef4ee3d6051": {
+      "ts": 1785773636,
+      "source": "Space.com",
+      "title": "On this day in space! Aug. 3, 2004: NASA launches MESSENGER spacecraft to orbit Mercury",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-3-2026",
+      "score": 2.8,
+      "published_utc": "2026-08-03T14:05:00+00:00"
     }
   },
   "digest_queue": [
