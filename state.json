@@ -7485,6 +7485,14 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-3-2026",
       "score": 2.8,
       "published_utc": "2026-08-03T14:05:00+00:00"
+    },
+    "b50b5b4cf10d857f0b4ed589": {
+      "ts": 1785790031,
+      "source": "NASA Breaking News",
+      "title": "Louisiana Students Loft Payloads from NASA Balloon Facility in Texas",
+      "link": "https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas/",
+      "score": 4.0,
+      "published_utc": "2026-08-03T19:22:43+00:00"
     }
   },
   "digest_queue": [
@@ -7919,6 +7927,18 @@
       "day_brt": "2026-07-30",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1785456241
+    },
+    {
+      "fp": "b50b5b4cf10d857f0b4ed589",
+      "title": "Louisiana Students Loft Payloads from NASA Balloon Facility in Texas",
+      "link": "https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-03T19:22:43+00:00",
+      "day_brt": "2026-08-03",
+      "resumo_pt": "Resumo (PT-BR): 4 min read Louisiana Students Loft Payloads from NASA Balloon Facility in Texas Goddard Digital Team Aug 03, 2026 Article Every spring in Palestine, Texas, the wide-open fields around NASA’s Columbia Scientific Balloon Facility fill with students and faculty from across Louisiana. They arrive carrying sensors, laptops, and carefully engineered payloads they have spent months preparing.",
+      "queued_ts": 1785790034
     }
   ],
   "digests_sent": {
@@ -8333,6 +8353,9 @@
     "2026-08-02": {
       "de7dff7544a034964b2b23f1": true,
       "63de57b357d069177074a3c6": true
+    },
+    "2026-08-03": {
+      "b50b5b4cf10d857f0b4ed589": true
     }
   }
 }
