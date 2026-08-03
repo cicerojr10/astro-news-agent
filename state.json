@@ -7442,6 +7442,14 @@
       "link": "https://science.nasa.gov/image-article/apod-2026-august-2-a-fire-rainbow-over-west-virginia/",
       "score": 4.0,
       "published_utc": "2026-08-02T04:05:00+00:00"
+    },
+    "b373abfbb2c9535fd55d2757": {
+      "ts": 1785756185,
+      "source": "Space.com",
+      "title": "AI is ready to run spacecraft. Is the space industry ready for it? (op-ed)",
+      "link": "https://www.space.com/space-exploration/satellites/ai-is-ready-to-run-spacecraft-is-the-space-industry-ready-for-it",
+      "score": 2.8,
+      "published_utc": "2026-08-03T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -8244,6 +8252,9 @@
     "2026-08-02": {
       "morning": true,
       "night": true
+    },
+    "2026-08-03": {
+      "morning": true
     }
   },
   "sent_updates": {
