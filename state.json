@@ -7517,6 +7517,46 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-4-2026",
       "score": 2.8,
       "published_utc": "2026-08-04T14:00:00+00:00"
+    },
+    "bae4dcd701b11d842a74be61": {
+      "ts": 1785864099,
+      "source": "NASA Breaking News",
+      "title": "Ames Science Stars of the Month – August 2026",
+      "link": "https://www.nasa.gov/general/ames-science-stars-of-the-month-august-2026/",
+      "score": 4.0,
+      "published_utc": "2026-08-04T17:08:04+00:00"
+    },
+    "4d7f66b452ea41e3731d4fb1": {
+      "ts": 1785864099,
+      "source": "NASA Breaking News",
+      "title": "Roman Space Telescope Plaque Install",
+      "link": "https://www.nasa.gov/image-article/roman-space-telescope-plaque-install/",
+      "score": 4.0,
+      "published_utc": "2026-08-04T15:50:44+00:00"
+    },
+    "fb524ee15c7a6d25f965affa": {
+      "ts": 1785864101,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/08/04/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-13/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-08-04T16:05:53+00:00"
+    },
+    "91a3714c197ab6f034b4860b": {
+      "ts": 1785864102,
+      "source": "NASASpaceflight",
+      "title": "While SpaceX recovers Ship 40, Ship 41 prepares for testing ahead of Flight 14",
+      "link": "https://www.nasaspaceflight.com/2026/08/spacex-recovers-ship-40-ship-41-flight-14/",
+      "score": 3.6,
+      "published_utc": "2026-08-04T16:27:05+00:00"
+    },
+    "c46cec957c687644568192d1": {
+      "ts": 1785864103,
+      "source": "Space.com",
+      "title": "'A very busy mission': SpaceX on track to launch 4 astronauts to the ISS on Sept. 12",
+      "link": "https://www.space.com/space-exploration/international-space-station/a-very-busy-mission-spacex-on-track-to-launch-4-astronauts-to-the-iss-on-sept-12",
+      "score": 2.8,
+      "published_utc": "2026-08-04T17:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -7963,6 +8003,54 @@
       "day_brt": "2026-08-04",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1785858103
+    },
+    {
+      "fp": "fb524ee15c7a6d25f965affa",
+      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/08/04/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-13/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-08-04T16:05:53+00:00",
+      "day_brt": "2026-08-04",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB August 4, 2026 Will Robinson-Smith File photo of a Falcon 9 fueled for launch at Vandenberg Space Force Base in California. SpaceX is set to launch its 90th Falcon 9 rocket of the year with a mid-morning flight from Vandenberg Space Force Base on Tuesday.",
+      "queued_ts": 1785864104
+    },
+    {
+      "fp": "bae4dcd701b11d842a74be61",
+      "title": "Ames Science Stars of the Month – August 2026",
+      "link": "https://www.nasa.gov/general/ames-science-stars-of-the-month-august-2026/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-04T17:08:04+00:00",
+      "day_brt": "2026-08-04",
+      "resumo_pt": "Resumo (PT-BR): 2 min read Ames Science Stars of the Month – August 2026 Aaron McKinnon Aug 04, 2026 Article Contents Space Biosciences Star of the Month: Danielle Lopez Space Biosciences Star of the Month: Jennifer Claudio Astrophysics Star of the Month: Duncan Mifsud The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Danielle Lopez, Jennifer Claudio, and Duncan Mifsud. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
+      "queued_ts": 1785864104
+    },
+    {
+      "fp": "4d7f66b452ea41e3731d4fb1",
+      "title": "Roman Space Telescope Plaque Install",
+      "link": "https://www.nasa.gov/image-article/roman-space-telescope-plaque-install/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-04T15:50:44+00:00",
+      "day_brt": "2026-08-04",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Roman Space Telescope Plaque Install HQ Web Team Aug 04, 2026 Image Article NASA/Jolearra Tshiteya Technicians installed a commemorative plaque, seen in this July 28, 2026, photo, on NASA’s Nancy Grace Roman Space Telescope . Nancy Grace Roman , NASA’s first chief astronomer and one of the architects of the agency’s modern science program.",
+      "queued_ts": 1785864104
+    },
+    {
+      "fp": "91a3714c197ab6f034b4860b",
+      "title": "While SpaceX recovers Ship 40, Ship 41 prepares for testing ahead of Flight 14",
+      "link": "https://www.nasaspaceflight.com/2026/08/spacex-recovers-ship-40-ship-41-flight-14/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-08-04T16:27:05+00:00",
+      "day_brt": "2026-08-04",
+      "resumo_pt": "Resumo (PT-BR): While SpaceX recovers Ship 40, Ship 41 prepares for testing ahead of Flight 14 by Alejandro Alcantarilla Romera and Chris Bergin August 4, 2026 written by Alejandro Alcantarilla Romera and Chris Bergin August 4, 2026 1 SpaceX is recovering the intact Ship 40 from the Indian Ocean after its soft landing on Flight 13, while teams are readying Ship 41 for engine testing at Massey’s and continuing Pad 2 work toward a potential Flight 14 as early as late August. Ship 40 performed a controlled flip and landing burn: it ignited its engines, flipped vertically, swung into position, down-selected to two engines, and soft-landed in the water.",
+      "queued_ts": 1785864104
     }
   ],
   "digests_sent": {
@@ -8386,7 +8474,10 @@
       "b50b5b4cf10d857f0b4ed589": true
     },
     "2026-08-04": {
-      "b380f52ce0f55420aa47e4e5": true
+      "b380f52ce0f55420aa47e4e5": true,
+      "fb524ee15c7a6d25f965affa": true,
+      "bae4dcd701b11d842a74be61": true,
+      "4d7f66b452ea41e3731d4fb1": true
     }
   }
 }
