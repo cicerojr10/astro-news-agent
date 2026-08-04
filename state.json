@@ -7573,6 +7573,22 @@
       "link": "https://www.nasaspaceflight.com/2026/08/crew-13-delaney-interview/",
       "score": 3.6,
       "published_utc": "2026-08-04T20:05:26+00:00"
+    },
+    "d5ce08da3d2ca5ed76f0dfa9": {
+      "ts": 1785880299,
+      "source": "NASA Breaking News",
+      "title": "August 2026 Satellite Puzzler",
+      "link": "https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/",
+      "score": 4.0,
+      "published_utc": "2026-08-04T16:31:46+00:00"
+    },
+    "9feeeb5cb4594aba18d7b70d": {
+      "ts": 1785880300,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 August 4 – Curious Cometary Knots in the Helix Nebula",
+      "link": "https://science.nasa.gov/image-article/apod-august-4-2026-curious-cometary-knots-in-the-helix-nebula/",
+      "score": 4.0,
+      "published_utc": "2026-08-04T04:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -8079,6 +8095,30 @@
       "day_brt": "2026-08-04",
       "resumo_pt": "Resumo (PT-BR): Crew-13 pilot reflects on career, training, and upcoming science ahead of flight to ISS by Sawyer Rosenstein August 4, 2026 written by Sawyer Rosenstein August 4, 2026 2 After a previously targeted launch date in November, NASA has moved up the next International Space Station (ISS) crew launch, Crew-13, from November to no earlier than Sept. Despite losing two months of training time, the Crew-13 astronauts remain ready for the mission.",
       "queued_ts": 1785875925
+    },
+    {
+      "fp": "d5ce08da3d2ca5ed76f0dfa9",
+      "title": "August 2026 Satellite Puzzler",
+      "link": "https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-04T16:31:46+00:00",
+      "day_brt": "2026-08-04",
+      "resumo_pt": "Resumo (PT-BR): Earth Observatory Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 2 min read August 2026 Satellite Puzzler NASA Earth Observatory Aug 04, 2026 Article Puzzler Previous Satellite Puzzlers Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge Identify the location shown in this satellite image.",
+      "queued_ts": 1785880304
+    },
+    {
+      "fp": "9feeeb5cb4594aba18d7b70d",
+      "title": "APOD: 2026 August 4 – Curious Cometary Knots in the Helix Nebula",
+      "link": "https://science.nasa.gov/image-article/apod-august-4-2026-curious-cometary-knots-in-the-helix-nebula/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-04T04:05:00+00:00",
+      "day_brt": "2026-08-04",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1785880304
     }
   ],
   "digests_sent": {
@@ -8506,7 +8546,9 @@
       "fb524ee15c7a6d25f965affa": true,
       "bae4dcd701b11d842a74be61": true,
       "4d7f66b452ea41e3731d4fb1": true,
-      "6c856cd5b5b1088ac8f67740": true
+      "6c856cd5b5b1088ac8f67740": true,
+      "d5ce08da3d2ca5ed76f0dfa9": true,
+      "9feeeb5cb4594aba18d7b70d": true
     }
   }
 }
