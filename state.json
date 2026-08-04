@@ -7565,6 +7565,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-launch-group-17-53-ocisly",
       "score": 2.8,
       "published_utc": "2026-08-04T17:37:29+00:00"
+    },
+    "6c856cd5b5b1088ac8f67740": {
+      "ts": 1785875924,
+      "source": "NASASpaceflight",
+      "title": "Crew-13 pilot reflects on career, training, and upcoming science ahead of flight to ISS",
+      "link": "https://www.nasaspaceflight.com/2026/08/crew-13-delaney-interview/",
+      "score": 3.6,
+      "published_utc": "2026-08-04T20:05:26+00:00"
     }
   },
   "digest_queue": [
@@ -8059,6 +8067,18 @@
       "day_brt": "2026-08-04",
       "resumo_pt": "Resumo (PT-BR): While SpaceX recovers Ship 40, Ship 41 prepares for testing ahead of Flight 14 by Alejandro Alcantarilla Romera and Chris Bergin August 4, 2026 written by Alejandro Alcantarilla Romera and Chris Bergin August 4, 2026 1 SpaceX is recovering the intact Ship 40 from the Indian Ocean after its soft landing on Flight 13, while teams are readying Ship 41 for engine testing at Massey’s and continuing Pad 2 work toward a potential Flight 14 as early as late August. Ship 40 performed a controlled flip and landing burn: it ignited its engines, flipped vertically, swung into position, down-selected to two engines, and soft-landed in the water.",
       "queued_ts": 1785864104
+    },
+    {
+      "fp": "6c856cd5b5b1088ac8f67740",
+      "title": "Crew-13 pilot reflects on career, training, and upcoming science ahead of flight to ISS",
+      "link": "https://www.nasaspaceflight.com/2026/08/crew-13-delaney-interview/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-08-04T20:05:26+00:00",
+      "day_brt": "2026-08-04",
+      "resumo_pt": "Resumo (PT-BR): Crew-13 pilot reflects on career, training, and upcoming science ahead of flight to ISS by Sawyer Rosenstein August 4, 2026 written by Sawyer Rosenstein August 4, 2026 2 After a previously targeted launch date in November, NASA has moved up the next International Space Station (ISS) crew launch, Crew-13, from November to no earlier than Sept. Despite losing two months of training time, the Crew-13 astronauts remain ready for the mission.",
+      "queued_ts": 1785875925
     }
   ],
   "digests_sent": {
@@ -8485,7 +8505,8 @@
       "b380f52ce0f55420aa47e4e5": true,
       "fb524ee15c7a6d25f965affa": true,
       "bae4dcd701b11d842a74be61": true,
-      "4d7f66b452ea41e3731d4fb1": true
+      "4d7f66b452ea41e3731d4fb1": true,
+      "6c856cd5b5b1088ac8f67740": true
     }
   }
 }
