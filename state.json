@@ -7597,6 +7597,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-ast-spacemobile-11-13-direct-to-cell-satellites",
       "score": 2.8,
       "published_utc": "2026-08-04T22:00:00+00:00"
+    },
+    "cb328adf007e3f4b0c0338ee": {
+      "ts": 1785887489,
+      "source": "Space.com",
+      "title": "SpaceX wants to launch next Starship this month (and catch it, too), Elon Musk says in 1st earnings call since historic IPO",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-next-starship-this-month-and-catch-it-too-elon-musk-says-in-1st-earnings-call-since-historic-ipo",
+      "score": 2.8,
+      "published_utc": "2026-08-04T22:55:30+00:00"
     }
   },
   "digest_queue": [
@@ -8031,102 +8039,6 @@
       "day_brt": "2026-07-30",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1785456241
-    },
-    {
-      "fp": "b380f52ce0f55420aa47e4e5",
-      "title": "APOD: August 4, 2026 – Curious Cometary Knots in the Helix Nebula",
-      "link": "https://science.nasa.gov/image-article/apod-august-4-2026-curious-cometary-knots-in-the-helix-nebula/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-04T04:05:00+00:00",
-      "day_brt": "2026-08-04",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1785858103
-    },
-    {
-      "fp": "fb524ee15c7a6d25f965affa",
-      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
-      "link": "https://spaceflightnow.com/2026/08/04/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-13/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-08-04T16:05:53+00:00",
-      "day_brt": "2026-08-04",
-      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB August 4, 2026 Will Robinson-Smith File photo of a Falcon 9 fueled for launch at Vandenberg Space Force Base in California. SpaceX is set to launch its 90th Falcon 9 rocket of the year with a mid-morning flight from Vandenberg Space Force Base on Tuesday.",
-      "queued_ts": 1785864104
-    },
-    {
-      "fp": "bae4dcd701b11d842a74be61",
-      "title": "Ames Science Stars of the Month – August 2026",
-      "link": "https://www.nasa.gov/general/ames-science-stars-of-the-month-august-2026/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-04T17:08:04+00:00",
-      "day_brt": "2026-08-04",
-      "resumo_pt": "Resumo (PT-BR): 2 min read Ames Science Stars of the Month – August 2026 Aaron McKinnon Aug 04, 2026 Article Contents Space Biosciences Star of the Month: Danielle Lopez Space Biosciences Star of the Month: Jennifer Claudio Astrophysics Star of the Month: Duncan Mifsud The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Danielle Lopez, Jennifer Claudio, and Duncan Mifsud. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
-      "queued_ts": 1785864104
-    },
-    {
-      "fp": "4d7f66b452ea41e3731d4fb1",
-      "title": "Roman Space Telescope Plaque Install",
-      "link": "https://www.nasa.gov/image-article/roman-space-telescope-plaque-install/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-04T15:50:44+00:00",
-      "day_brt": "2026-08-04",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Roman Space Telescope Plaque Install HQ Web Team Aug 04, 2026 Image Article NASA/Jolearra Tshiteya Technicians installed a commemorative plaque, seen in this July 28, 2026, photo, on NASA’s Nancy Grace Roman Space Telescope . Nancy Grace Roman , NASA’s first chief astronomer and one of the architects of the agency’s modern science program.",
-      "queued_ts": 1785864104
-    },
-    {
-      "fp": "91a3714c197ab6f034b4860b",
-      "title": "While SpaceX recovers Ship 40, Ship 41 prepares for testing ahead of Flight 14",
-      "link": "https://www.nasaspaceflight.com/2026/08/spacex-recovers-ship-40-ship-41-flight-14/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-08-04T16:27:05+00:00",
-      "day_brt": "2026-08-04",
-      "resumo_pt": "Resumo (PT-BR): While SpaceX recovers Ship 40, Ship 41 prepares for testing ahead of Flight 14 by Alejandro Alcantarilla Romera and Chris Bergin August 4, 2026 written by Alejandro Alcantarilla Romera and Chris Bergin August 4, 2026 1 SpaceX is recovering the intact Ship 40 from the Indian Ocean after its soft landing on Flight 13, while teams are readying Ship 41 for engine testing at Massey’s and continuing Pad 2 work toward a potential Flight 14 as early as late August. Ship 40 performed a controlled flip and landing burn: it ignited its engines, flipped vertically, swung into position, down-selected to two engines, and soft-landed in the water.",
-      "queued_ts": 1785864104
-    },
-    {
-      "fp": "6c856cd5b5b1088ac8f67740",
-      "title": "Crew-13 pilot reflects on career, training, and upcoming science ahead of flight to ISS",
-      "link": "https://www.nasaspaceflight.com/2026/08/crew-13-delaney-interview/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-08-04T20:05:26+00:00",
-      "day_brt": "2026-08-04",
-      "resumo_pt": "Resumo (PT-BR): Crew-13 pilot reflects on career, training, and upcoming science ahead of flight to ISS by Sawyer Rosenstein August 4, 2026 written by Sawyer Rosenstein August 4, 2026 2 After a previously targeted launch date in November, NASA has moved up the next International Space Station (ISS) crew launch, Crew-13, from November to no earlier than Sept. Despite losing two months of training time, the Crew-13 astronauts remain ready for the mission.",
-      "queued_ts": 1785875925
-    },
-    {
-      "fp": "d5ce08da3d2ca5ed76f0dfa9",
-      "title": "August 2026 Satellite Puzzler",
-      "link": "https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-04T16:31:46+00:00",
-      "day_brt": "2026-08-04",
-      "resumo_pt": "Resumo (PT-BR): Earth Observatory Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 2 min read August 2026 Satellite Puzzler NASA Earth Observatory Aug 04, 2026 Article Puzzler Previous Satellite Puzzlers Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge Identify the location shown in this satellite image.",
-      "queued_ts": 1785880304
-    },
-    {
-      "fp": "9feeeb5cb4594aba18d7b70d",
-      "title": "APOD: 2026 August 4 – Curious Cometary Knots in the Helix Nebula",
-      "link": "https://science.nasa.gov/image-article/apod-august-4-2026-curious-cometary-knots-in-the-helix-nebula/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-04T04:05:00+00:00",
-      "day_brt": "2026-08-04",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1785880304
     }
   ],
   "digests_sent": {
@@ -8501,7 +8413,8 @@
       "night": true
     },
     "2026-08-04": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
