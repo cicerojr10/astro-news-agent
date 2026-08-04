@@ -7501,6 +7501,22 @@
       "link": "https://www.space.com/astronomy/mars/significant-areas-of-mars-may-have-once-been-covered-by-water-scientists-find-hidden-clue-in-spirit-rover-data",
       "score": 2.8,
       "published_utc": "2026-08-04T13:00:00+00:00"
+    },
+    "b380f52ce0f55420aa47e4e5": {
+      "ts": 1785858100,
+      "source": "NASA Breaking News",
+      "title": "APOD: August 4, 2026 – Curious Cometary Knots in the Helix Nebula",
+      "link": "https://science.nasa.gov/image-article/apod-august-4-2026-curious-cometary-knots-in-the-helix-nebula/",
+      "score": 4.0,
+      "published_utc": "2026-08-04T04:05:00+00:00"
+    },
+    "f25b8cf57da5d5bb20a961f0": {
+      "ts": 1785858102,
+      "source": "Space.com",
+      "title": "On this day in space! Aug. 4, 2007: NASA launches Phoenix Mars lander to Red Planet",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-4-2026",
+      "score": 2.8,
+      "published_utc": "2026-08-04T14:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -7935,6 +7951,18 @@
       "day_brt": "2026-07-30",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1785456241
+    },
+    {
+      "fp": "b380f52ce0f55420aa47e4e5",
+      "title": "APOD: August 4, 2026 – Curious Cometary Knots in the Helix Nebula",
+      "link": "https://science.nasa.gov/image-article/apod-august-4-2026-curious-cometary-knots-in-the-helix-nebula/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-04T04:05:00+00:00",
+      "day_brt": "2026-08-04",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1785858103
     }
   ],
   "digests_sent": {
@@ -8356,6 +8384,9 @@
     },
     "2026-08-03": {
       "b50b5b4cf10d857f0b4ed589": true
+    },
+    "2026-08-04": {
+      "b380f52ce0f55420aa47e4e5": true
     }
   }
 }
