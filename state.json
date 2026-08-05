@@ -7648,6 +7648,14 @@
       "score": 0.0,
       "published_utc": "2026-08-04T22:00:00+00:00",
       "note": "not_today"
+    },
+    "6600cf7dac90627e5acc12ef": {
+      "ts": 1785945126,
+      "source": "Space.com",
+      "title": "On this day in space! Aug. 5, 2011:  NASA's Juno spacecraft launches to Jupiter",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-5-2026",
+      "score": 2.8,
+      "published_utc": "2026-08-05T14:00:00+00:00"
     }
   },
   "digest_queue": [
