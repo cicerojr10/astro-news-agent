@@ -7639,6 +7639,15 @@
       "score": 0.0,
       "published_utc": "2026-08-04T22:00:00+00:00",
       "note": "not_today"
+    },
+    "98692e34b97365f92368b230": {
+      "ts": 1785932995,
+      "source": "Space.com",
+      "title": "SpaceX launches 3 giant BlueBird direct-to-cell satellites on Falcon 9 rocket (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-ast-spacemobile-11-13-direct-to-cell-satellites",
+      "score": 0.0,
+      "published_utc": "2026-08-04T22:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
