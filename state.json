@@ -7605,6 +7605,23 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-next-starship-this-month-and-catch-it-too-elon-musk-says-in-1st-earnings-call-since-historic-ipo",
       "score": 2.8,
       "published_utc": "2026-08-04T22:55:30+00:00"
+    },
+    "33ca62d403e07d1fb16e5685": {
+      "ts": 1785914351,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 3 AST SpaceMobile BlueBird satellites on Falcon 9 rocket from Cape Canaveral",
+      "link": "https://spaceflightnow.com/2026/08/05/live-coverage-spacex-to-launch-3-ast-spacemobile-bluebird-satellites-on-falcon-9-rocket-from-cape-canaveral/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-08-05T06:55:35+00:00"
+    },
+    "6dac5f0c763ddd1233287d2f": {
+      "ts": 1785914351,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/08/04/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-13/",
+      "score": 0.0,
+      "published_utc": "2026-08-04T16:05:53+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -8039,6 +8056,18 @@
       "day_brt": "2026-07-30",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1785456241
+    },
+    {
+      "fp": "33ca62d403e07d1fb16e5685",
+      "title": "Live coverage: SpaceX to launch 3 AST SpaceMobile BlueBird satellites on Falcon 9 rocket from Cape Canaveral",
+      "link": "https://spaceflightnow.com/2026/08/05/live-coverage-spacex-to-launch-3-ast-spacemobile-bluebird-satellites-on-falcon-9-rocket-from-cape-canaveral/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-08-05T06:55:35+00:00",
+      "day_brt": "2026-08-05",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 3 AST SpaceMobile BlueBird satellites on Falcon 9 rocket from Cape Canaveral August 5, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket stands at Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station. Image: Adam Bernstein/Spaceflight Now SpaceX is set to launch the latest trio of AST SpaceMobile’s BlueBird satellites from Cape Canaveral Space Force Station in the predawn hours of Wednesday morning.",
+      "queued_ts": 1785914353
     }
   ],
   "digests_sent": {
@@ -8470,6 +8499,9 @@
       "6c856cd5b5b1088ac8f67740": true,
       "d5ce08da3d2ca5ed76f0dfa9": true,
       "9feeeb5cb4594aba18d7b70d": true
+    },
+    "2026-08-05": {
+      "33ca62d403e07d1fb16e5685": true
     }
   }
 }
