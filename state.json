@@ -7688,6 +7688,14 @@
       "link": "https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/",
       "score": 4.0,
       "published_utc": "2026-08-05T17:27:18+00:00"
+    },
+    "ed58f16d197e11bdb1625168": {
+      "ts": 1786007865,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 August 6 – New Sharpest Image of the Sun Uncovers Instability",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-6-new-sharpest-image-of-the-sun-uncovers-instability/",
+      "score": 4.0,
+      "published_utc": "2026-08-06T04:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -8122,6 +8130,18 @@
       "day_brt": "2026-07-30",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1785456241
+    },
+    {
+      "fp": "ed58f16d197e11bdb1625168",
+      "title": "APOD: 2026 August 6 – New Sharpest Image of the Sun Uncovers Instability",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-6-new-sharpest-image-of-the-sun-uncovers-instability/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-06T04:05:00+00:00",
+      "day_brt": "2026-08-06",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1786007869
     }
   ],
   "digests_sent": {
@@ -8505,29 +8525,6 @@
     }
   },
   "sent_updates": {
-    "2026-07-27": {
-      "12001919acf8f935245bf697": true,
-      "fe6f3b3e95d06149f33a3173": true,
-      "f0f9000322edff7dca9f7241": true
-    },
-    "2026-07-28": {
-      "592e40230121d0a7cea31bbe": true
-    },
-    "2026-07-29": {
-      "3872623389f5bffe9f04fdf8": true,
-      "92f22f2639eefc3eea3739b7": true,
-      "f4abd809ff0ba0cbc2e8b72c": true,
-      "8494d4cf62986b1765e5cd40": true,
-      "de849ca7245ceed60c63b24c": true
-    },
-    "2026-07-30": {
-      "1cc57f4650990dcc68578526": true,
-      "64fe0f9afd536b47b8d08c5b": true,
-      "87ccb2406f54b96cd9f38daa": true,
-      "1f71624f13cf052ec395f9af": true,
-      "fbf66ea277db3d3fee44534b": true,
-      "3b01466a56ccadd8db983ffc": true
-    },
     "2026-07-31": {
       "dcbbf5fa4c492292df4a7ea3": true,
       "0a03c831fab15d712d0577c1": true,
@@ -8565,6 +8562,9 @@
       "87929c7db129777def84d12a": true,
       "4fe45d853fc122a6db62dfee": true,
       "295cb136975cbcc96ec7dc6b": true
+    },
+    "2026-08-06": {
+      "ed58f16d197e11bdb1625168": true
     }
   }
 }
