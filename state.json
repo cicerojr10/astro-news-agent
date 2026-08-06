@@ -8130,18 +8130,6 @@
       "day_brt": "2026-07-30",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1785456241
-    },
-    {
-      "fp": "ed58f16d197e11bdb1625168",
-      "title": "APOD: 2026 August 6 – New Sharpest Image of the Sun Uncovers Instability",
-      "link": "https://science.nasa.gov/image-article/apod-2026-august-6-new-sharpest-image-of-the-sun-uncovers-instability/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-06T04:05:00+00:00",
-      "day_brt": "2026-08-06",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1786007869
     }
   ],
   "digests_sent": {
@@ -8522,6 +8510,9 @@
     "2026-08-05": {
       "morning": true,
       "night": true
+    },
+    "2026-08-06": {
+      "morning": true
     }
   },
   "sent_updates": {
