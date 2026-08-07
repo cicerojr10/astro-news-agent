@@ -7769,6 +7769,14 @@
       "score": 0.0,
       "published_utc": "2026-08-06T20:05:01+00:00",
       "note": "not_today"
+    },
+    "b1e035abd7fd1bd54944bf6d": {
+      "ts": 1786112929,
+      "source": "Space.com",
+      "title": "On this day in space! Aug. 7, 1980: NASA's Viking 1 Mars orbiter shuts down 4 years into a 90-day mission",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-7-2026",
+      "score": 2.8,
+      "published_utc": "2026-08-07T14:14:51+00:00"
     }
   },
   "digest_queue": [
