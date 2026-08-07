@@ -7817,6 +7817,22 @@
       "link": "https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat/",
       "score": 4.0,
       "published_utc": "2026-08-07T04:00:00+00:00"
+    },
+    "e218bb4cd784910a733d2fdf": {
+      "ts": 1786131524,
+      "source": "NASA Breaking News",
+      "title": "2026 IGARSS Hyperwall Schedule",
+      "link": "https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/",
+      "score": 4.0,
+      "published_utc": "2026-08-07T18:57:34+00:00"
+    },
+    "a0b4b8cde5130295275af3be": {
+      "ts": 1786131527,
+      "source": "Space.com",
+      "title": "NASA figured out how to keep its 48-year-old Voyager 2 probe running for yet another year",
+      "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "score": 2.8,
+      "published_utc": "2026-08-07T19:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -8275,6 +8291,18 @@
       "day_brt": "2026-08-07",
       "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Sensing the Poles’ Hidden Heat Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 3 min read Sensing the Poles’ Hidden Heat Image of the Day for August 7, 2026 New animations from NASA's PREFIRE mission reveal two years of seasonal temperature swings at the Arctic and Antarctic. NASA Earth Observatory Aug 07, 2026 Article View more Images of the Day: Aug 6, 2026 Topics: Energy Balance Glaciers & Ice Sheets Heat & Radiation Visualization and Mapping To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video Surface temperatures across Earth’s poles pulse with the seasons, as seen in this animation based on two years of data collected by NASA’s PREFIRE (Polar Radiant Energy in the Far-InfraRed Experiment) mission.",
       "queued_ts": 1786122452
+    },
+    {
+      "fp": "e218bb4cd784910a733d2fdf",
+      "title": "2026 IGARSS Hyperwall Schedule",
+      "link": "https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-07T18:57:34+00:00",
+      "day_brt": "2026-08-07",
+      "resumo_pt": "Resumo (PT-BR): Explore This Section Earth Earth Observer Editor's Corner Feature Articles Meeting Summaries News Science in the News In Memoriam Announcements Archives 1 min read 2026 IGARSS Hyperwall Schedule NASA Aug 07, 2026 Article IGARSS 2026 Join NASA in the Exhibit Hall (Booth #100) for Hyperwall Storytelling by NASA experts. MONDAY, AUGUST 10 3:00 PM Technology Enabling the Future of Earth Science Mike Seablom 3:15 PM Discovery Earth: New Missions & Technical Innovation Advancing Earth System Insights Karen St.",
+      "queued_ts": 1786131527
     }
   ],
   "digests_sent": {
@@ -8713,7 +8741,8 @@
     },
     "2026-08-07": {
       "984efe45290326da10b4a793": true,
-      "15cacf2c0f9df0ea693350b1": true
+      "15cacf2c0f9df0ea693350b1": true,
+      "e218bb4cd784910a733d2fdf": true
     }
   }
 }
