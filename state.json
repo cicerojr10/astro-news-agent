@@ -7841,6 +7841,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/not-looking-good-right-now-starship-likely-to-be-lost-at-sea-2-weeks-after-epic-13th-test-flight-elon-musk-says",
       "score": 2.8,
       "published_utc": "2026-08-07T20:44:20+00:00"
+    },
+    "05df0eeeda2958ec43215027": {
+      "ts": 1786139398,
+      "source": "NASASpaceflight",
+      "title": "Relativity Space engine integration milestone for Terran-R first stage",
+      "link": "https://www.nasaspaceflight.com/2026/08/relativity-engine-integration-milestone-terran-r/",
+      "score": 3.6,
+      "published_utc": "2026-08-07T21:04:43+00:00"
     }
   },
   "digest_queue": [
@@ -8311,6 +8319,18 @@
       "day_brt": "2026-08-07",
       "resumo_pt": "Resumo (PT-BR): Explore This Section Earth Earth Observer Editor's Corner Feature Articles Meeting Summaries News Science in the News In Memoriam Announcements Archives 1 min read 2026 IGARSS Hyperwall Schedule NASA Aug 07, 2026 Article IGARSS 2026 Join NASA in the Exhibit Hall (Booth #100) for Hyperwall Storytelling by NASA experts. MONDAY, AUGUST 10 3:00 PM Technology Enabling the Future of Earth Science Mike Seablom 3:15 PM Discovery Earth: New Missions & Technical Innovation Advancing Earth System Insights Karen St.",
       "queued_ts": 1786131527
+    },
+    {
+      "fp": "05df0eeeda2958ec43215027",
+      "title": "Relativity Space engine integration milestone for Terran-R first stage",
+      "link": "https://www.nasaspaceflight.com/2026/08/relativity-engine-integration-milestone-terran-r/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-08-07T21:04:43+00:00",
+      "day_brt": "2026-08-07",
+      "resumo_pt": "Resumo (PT-BR): Relativity Space engine integration milestone for Terran-R first stage by Martin Smith and Chris Bergin August 7, 2026 written by Martin Smith and Chris Bergin August 7, 2026 4 Relativity Space has marked another significant step forward in the development of its reusable Terran R launch vehicle, with engine integration now underway on the first-stage thrust structure. The company announced the milestone on Friday in a post on X, stating: “Engine integration has begun.",
+      "queued_ts": 1786139399
     }
   ],
   "digests_sent": {
@@ -8750,7 +8770,8 @@
     "2026-08-07": {
       "984efe45290326da10b4a793": true,
       "15cacf2c0f9df0ea693350b1": true,
-      "e218bb4cd784910a733d2fdf": true
+      "e218bb4cd784910a733d2fdf": true,
+      "05df0eeeda2958ec43215027": true
     }
   }
 }
