@@ -7785,6 +7785,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/chinese-company-landspace-targets-aug-10-for-historic-rocket-launch-and-landing-attempt",
       "score": 2.8,
       "published_utc": "2026-08-07T15:00:00+00:00"
+    },
+    "d5730cdcd06887d156d21cc2": {
+      "ts": 1786119173,
+      "source": "Space.com",
+      "title": "NASA's SkyFall Mars helicopters will wear tiny capes",
+      "link": "https://www.space.com/astronomy/mars/nasas-skyfall-mars-helicopters-will-wear-tiny-capes",
+      "score": 2.8,
+      "published_utc": "2026-08-07T16:07:14+00:00"
+    },
+    "69606e178fb59496b53a7351": {
+      "ts": 1786119173,
+      "source": "Space.com",
+      "title": "Engineers race to save stricken LINK rescue spacecraft before it's too late",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/engineers-race-to-save-stricken-link-rescue-spacecraft-before-its-too-late",
+      "score": 2.8,
+      "published_utc": "2026-08-07T16:00:00+00:00"
     }
   },
   "digest_queue": [
