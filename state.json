@@ -7874,6 +7874,14 @@
       "score": 0.0,
       "published_utc": "2026-08-07T04:05:00+00:00",
       "note": "not_today"
+    },
+    "d1f092a380d9ab636b45be0a": {
+      "ts": 1786215090,
+      "source": "Spaceflight Now",
+      "title": "SpaceX West Coast launch surge continues with Starlink mission",
+      "link": "https://spaceflightnow.com/2026/08/08/live-coverage-spacex-west-coast-launch-surge-continues-with-starlink-mission/",
+      "score": 3.6,
+      "published_utc": "2026-08-08T14:08:54+00:00"
     }
   },
   "digest_queue": [
@@ -8320,6 +8328,18 @@
       "day_brt": "2026-08-08",
       "resumo_pt": "Resumo (PT-BR): Live Coverage: SpaceX West Coast launch surge continues with Starlink mission August 8, 2026 Steven Young A SpaceX Falcon 9 rocket stands at Space Launch Complex 4 East (SLC-4E) in this file photo. Image: SpaceX SpaceX’s West Coast surge in Starlink launches continues Saturday with another batch of Starlink satellites set to go into orbit atop a Falcon 9 rocket.",
       "queued_ts": 1786198830
+    },
+    {
+      "fp": "d1f092a380d9ab636b45be0a",
+      "title": "SpaceX West Coast launch surge continues with Starlink mission",
+      "link": "https://spaceflightnow.com/2026/08/08/live-coverage-spacex-west-coast-launch-surge-continues-with-starlink-mission/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-08-08T14:08:54+00:00",
+      "day_brt": "2026-08-08",
+      "resumo_pt": "Resumo (PT-BR): SpaceX West Coast launch surge continues with Starlink mission August 8, 2026 Steven Young A SpaceX Falcon 9 rocket stands at Space Launch Complex 4 East (SLC-4E) in this file photo. EDT (1831 UTC): SpaceX confirms deployment of the 24 satellites.",
+      "queued_ts": 1786215092
     }
   ],
   "digests_sent": {
@@ -8768,7 +8788,8 @@
     },
     "2026-08-08": {
       "808fd9ff64af0dfc5c9f3eed": true,
-      "a6fdf68e484386b404176357": true
+      "a6fdf68e484386b404176357": true,
+      "d1f092a380d9ab636b45be0a": true
     }
   }
 }
