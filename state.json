@@ -7890,6 +7890,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-starlink-group-17-38-ocisly",
       "score": 2.8,
       "published_utc": "2026-08-08T19:19:16+00:00"
+    },
+    "0be331bf3ab5e201fce7b980": {
+      "ts": 1786225189,
+      "source": "NASASpaceflight",
+      "title": "Blue Origin working engine resolutions and dual pad future",
+      "link": "https://www.nasaspaceflight.com/2026/08/blue-origin-engine-resolutions-dual-pad/",
+      "score": 14.4,
+      "published_utc": "2026-08-08T21:13:55+00:00"
     }
   },
   "digest_queue": [
@@ -8348,6 +8356,18 @@
       "day_brt": "2026-08-08",
       "resumo_pt": "Resumo (PT-BR): SpaceX West Coast launch surge continues with Starlink mission August 8, 2026 Steven Young A SpaceX Falcon 9 rocket stands at Space Launch Complex 4 East (SLC-4E) in this file photo. EDT (1831 UTC): SpaceX confirms deployment of the 24 satellites.",
       "queued_ts": 1786215092
+    },
+    {
+      "fp": "0be331bf3ab5e201fce7b980",
+      "title": "Blue Origin working engine resolutions and dual pad future",
+      "link": "https://www.nasaspaceflight.com/2026/08/blue-origin-engine-resolutions-dual-pad/",
+      "source": "NASASpaceflight",
+      "score": 14.4,
+      "is_anomaly": true,
+      "published_utc": "2026-08-08T21:13:55+00:00",
+      "day_brt": "2026-08-08",
+      "resumo_pt": "Resumo (PT-BR): Blue Origin working engine resolutions and dual pad future by Alejandro Alcantarilla Romera, and Chris Bergin August 8, 2026 written by Alejandro Alcantarilla Romera, and Chris Bergin August 8, 2026 1 Blue Origin is nearing the end of its investigation into the catastrophic explosion of a New Glenn rocket that occurred roughly two and a half months ago, with CEO Dave Limp providing an update that pins the anomaly to a specific component in one of the booster’s engines, although root cause analysis is continuing. The update comes as Blue Origin continues post-recovery efforts at LC-36A while advancing plans for a sister pad at LC-36B.",
+      "queued_ts": 1786225191
     }
   ],
   "digests_sent": {
@@ -8797,7 +8817,8 @@
     "2026-08-08": {
       "808fd9ff64af0dfc5c9f3eed": true,
       "a6fdf68e484386b404176357": true,
-      "d1f092a380d9ab636b45be0a": true
+      "d1f092a380d9ab636b45be0a": true,
+      "0be331bf3ab5e201fce7b980": true
     }
   }
 }
