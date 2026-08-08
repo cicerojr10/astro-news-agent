@@ -7849,6 +7849,14 @@
       "link": "https://www.nasaspaceflight.com/2026/08/relativity-engine-integration-milestone-terran-r/",
       "score": 3.6,
       "published_utc": "2026-08-07T21:04:43+00:00"
+    },
+    "808fd9ff64af0dfc5c9f3eed": {
+      "ts": 1786173306,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/",
+      "score": 4.0,
+      "published_utc": "2026-08-08T04:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -8283,6 +8291,18 @@
       "day_brt": "2026-07-30",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1785456241
+    },
+    {
+      "fp": "808fd9ff64af0dfc5c9f3eed",
+      "title": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-08T04:05:00+00:00",
+      "day_brt": "2026-08-08",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1786173309
     }
   ],
   "digests_sent": {
@@ -8725,6 +8745,9 @@
       "15cacf2c0f9df0ea693350b1": true,
       "e218bb4cd784910a733d2fdf": true,
       "05df0eeeda2958ec43215027": true
+    },
+    "2026-08-08": {
+      "808fd9ff64af0dfc5c9f3eed": true
     }
   }
 }
