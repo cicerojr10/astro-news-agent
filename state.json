@@ -8332,42 +8332,6 @@
       "day_brt": "2026-07-30",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1785456241
-    },
-    {
-      "fp": "a6fdf68e484386b404176357",
-      "title": "Live Coverage: SpaceX West Coast launch surge continues with Starlink mission",
-      "link": "https://spaceflightnow.com/2026/08/08/live-coverage-spacex-west-coast-launch-surge-continues-with-starlink-mission/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-08-08T14:08:54+00:00",
-      "day_brt": "2026-08-08",
-      "resumo_pt": "Resumo (PT-BR): Live Coverage: SpaceX West Coast launch surge continues with Starlink mission August 8, 2026 Steven Young A SpaceX Falcon 9 rocket stands at Space Launch Complex 4 East (SLC-4E) in this file photo. Image: SpaceX SpaceX’s West Coast surge in Starlink launches continues Saturday with another batch of Starlink satellites set to go into orbit atop a Falcon 9 rocket.",
-      "queued_ts": 1786198830
-    },
-    {
-      "fp": "d1f092a380d9ab636b45be0a",
-      "title": "SpaceX West Coast launch surge continues with Starlink mission",
-      "link": "https://spaceflightnow.com/2026/08/08/live-coverage-spacex-west-coast-launch-surge-continues-with-starlink-mission/",
-      "source": "Spaceflight Now",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-08-08T14:08:54+00:00",
-      "day_brt": "2026-08-08",
-      "resumo_pt": "Resumo (PT-BR): SpaceX West Coast launch surge continues with Starlink mission August 8, 2026 Steven Young A SpaceX Falcon 9 rocket stands at Space Launch Complex 4 East (SLC-4E) in this file photo. EDT (1831 UTC): SpaceX confirms deployment of the 24 satellites.",
-      "queued_ts": 1786215092
-    },
-    {
-      "fp": "0be331bf3ab5e201fce7b980",
-      "title": "Blue Origin working engine resolutions and dual pad future",
-      "link": "https://www.nasaspaceflight.com/2026/08/blue-origin-engine-resolutions-dual-pad/",
-      "source": "NASASpaceflight",
-      "score": 14.4,
-      "is_anomaly": true,
-      "published_utc": "2026-08-08T21:13:55+00:00",
-      "day_brt": "2026-08-08",
-      "resumo_pt": "Resumo (PT-BR): Blue Origin working engine resolutions and dual pad future by Alejandro Alcantarilla Romera, and Chris Bergin August 8, 2026 written by Alejandro Alcantarilla Romera, and Chris Bergin August 8, 2026 1 Blue Origin is nearing the end of its investigation into the catastrophic explosion of a New Glenn rocket that occurred roughly two and a half months ago, with CEO Dave Limp providing an update that pins the anomaly to a specific component in one of the booster’s engines, although root cause analysis is continuing. The update comes as Blue Origin continues post-recovery efforts at LC-36A while advancing plans for a sister pad at LC-36B.",
-      "queued_ts": 1786225191
     }
   ],
   "digests_sent": {
@@ -8758,7 +8722,8 @@
       "night": true
     },
     "2026-08-08": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
