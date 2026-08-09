@@ -8724,6 +8724,9 @@
     "2026-08-08": {
       "morning": true,
       "night": true
+    },
+    "2026-08-09": {
+      "morning": true
     }
   },
   "sent_updates": {
