@@ -8348,18 +8348,6 @@
       "day_brt": "2026-07-30",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1785456241
-    },
-    {
-      "fp": "a996ee242278ce64920bd65d",
-      "title": "Artemis progress building lunar return roadmap",
-      "link": "https://www.nasaspaceflight.com/2026/08/artemis-progress-lunar-return-roadmap/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-08-09T14:44:50+00:00",
-      "day_brt": "2026-08-09",
-      "resumo_pt": "Resumo (PT-BR): Artemis progress building lunar return roadmap by Alejandro Alcantarilla Romera, and Chris Bergin August 9, 2026 written by Alejandro Alcantarilla Romera, and Chris Bergin August 9, 2026 1 NASA has released a series of updates on the Artemis program, spanning commercial robotic lunar landers, technology demonstrations for future surface habitats, and hardware progress on the Space Launch System (SLS) and Orion spacecraft for Artemis III and beyond. Reinvigorated under NASA Administrator Jared Isaacman, a suite of programs is working in tandem to lay the roadmap for the return of astronauts to the lunar surface this decade.",
-      "queued_ts": 1786287468
     }
   ],
   "digests_sent": {
@@ -8754,7 +8742,8 @@
       "night": true
     },
     "2026-08-09": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
