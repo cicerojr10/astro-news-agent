@@ -7938,6 +7938,39 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/japan-h3-rocket-launch-navigation-satellite-michibiki-7",
       "score": 2.8,
       "published_utc": "2026-08-10T13:00:00+00:00"
+    },
+    "6800db861ebc18f4e32d1c36": {
+      "ts": 1786373285,
+      "source": "NASA Breaking News",
+      "title": "Launch Into a New School Year With NASA",
+      "link": "https://www.nasa.gov/learning-resources/launch-into-a-new-school-year-with-nasa/",
+      "score": 4.0,
+      "published_utc": "2026-08-10T13:59:28+00:00"
+    },
+    "88b3b951f25c5a6dd65890b6": {
+      "ts": 1786373285,
+      "source": "NASA Breaking News",
+      "title": "El Niño Alters Marine Life in the Pacific",
+      "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-alters-marine-life-in-the-pacific/",
+      "score": 4.0,
+      "published_utc": "2026-08-10T04:01:00+00:00"
+    },
+    "8be7da1d194516e0701e908b": {
+      "ts": 1786373285,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 August 9 – Contemplating the Sun",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-9-contemplating-the-sun/",
+      "score": 0.0,
+      "published_utc": "2026-08-09T04:05:00+00:00",
+      "note": "not_today"
+    },
+    "051f273b6d3854c70ebbfcc6": {
+      "ts": 1786373288,
+      "source": "Spaceflight Now",
+      "title": "SpaceX scrubs planned Monday launch of its Falcon 9 rocket; targets Tuesday morning",
+      "link": "https://spaceflightnow.com/2026/08/10/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-16/",
+      "score": 6.3,
+      "published_utc": "2026-08-10T13:40:12+00:00"
     }
   },
   "digest_queue": [
@@ -8384,6 +8417,42 @@
       "day_brt": "2026-08-10",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral August 10, 2026 Will Robinson-Smith File: A Falcon 9 rocket stands in the launch position at Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station ahead of the planned liftoff of the Starlink 6-61 mission on Oct. Image: Adam Bernstein/Spaceflight Now SpaceX is kicking off the work week with a Falcon 9 flight from Cape Canaveral Space Force Station to deliver another batch of its Starlink V2 Mini Optimized satellites to low Earth orbit.",
       "queued_ts": 1786370006
+    },
+    {
+      "fp": "051f273b6d3854c70ebbfcc6",
+      "title": "SpaceX scrubs planned Monday launch of its Falcon 9 rocket; targets Tuesday morning",
+      "link": "https://spaceflightnow.com/2026/08/10/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-16/",
+      "source": "Spaceflight Now",
+      "score": 6.3,
+      "is_anomaly": false,
+      "published_utc": "2026-08-10T13:40:12+00:00",
+      "day_brt": "2026-08-10",
+      "resumo_pt": "Resumo (PT-BR): SpaceX scrubs planned Monday launch of its Falcon 9 rocket; targets Tuesday morning August 10, 2026 Will Robinson-Smith File: A Falcon 9 rocket stands in the launch position at Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station ahead of the planned liftoff of the Starlink 6-61 mission on Oct. EDT (1424 UTC): SpaceX scrubbed the mission; now targeting Aug.",
+      "queued_ts": 1786373290
+    },
+    {
+      "fp": "6800db861ebc18f4e32d1c36",
+      "title": "Launch Into a New School Year With NASA",
+      "link": "https://www.nasa.gov/learning-resources/launch-into-a-new-school-year-with-nasa/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-10T13:59:28+00:00",
+      "day_brt": "2026-08-10",
+      "resumo_pt": "Resumo (PT-BR): 4 Min Read Launch Into a New School Year With NASA NASA STEM Team Aug 10, 2026 Article A new school year brings fresh opportunities to get involved with NASA. Whether you’re curious about space or eager to build real STEM skills, NASA offers a world of experiences putting you close to the action.",
+      "queued_ts": 1786373290
+    },
+    {
+      "fp": "88b3b951f25c5a6dd65890b6",
+      "title": "El Niño Alters Marine Life in the Pacific",
+      "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-alters-marine-life-in-the-pacific/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-10T04:01:00+00:00",
+      "day_brt": "2026-08-10",
+      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory El Niño Alters Marine Life... Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 5 min read El Niño Alters Marine Life in the Pacific Image of the Day for August 10, 2026 Satellite measurements of chlorophyll at the sea surface signal shifts in the ocean’s nutrient supplies in mid-2026.",
+      "queued_ts": 1786373290
     }
   ],
   "digests_sent": {
@@ -8828,7 +8897,10 @@
     },
     "2026-08-10": {
       "2aaa1cdc39fec1598f5cb05d": true,
-      "301b475f079b3924be283b17": true
+      "301b475f079b3924be283b17": true,
+      "051f273b6d3854c70ebbfcc6": true,
+      "6800db861ebc18f4e32d1c36": true,
+      "88b3b951f25c5a6dd65890b6": true
     }
   }
 }
