@@ -8011,6 +8011,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/japan-h3-rocket-launch-navigation-satellite-michibiki-7",
       "score": 2.8,
       "published_utc": "2026-08-10T13:00:00+00:00"
+    },
+    "79d903f13521d5adaecb800b": {
+      "ts": 1786402245,
+      "source": "Spaceflight Now",
+      "title": "Window for 2026 launch debut of Rocket Lab’s Neutron rocket ‘is narrowing’ as development continues",
+      "link": "https://spaceflightnow.com/2026/08/10/window-for-2026-launch-debut-of-rocket-labs-neutron-rocket-is-narrowing-as-development-continues/",
+      "score": 3.6,
+      "published_utc": "2026-08-10T22:40:07+00:00"
+    },
+    "7088e153de64ea41842389e4": {
+      "ts": 1786402246,
+      "source": "Space.com",
+      "title": "'Launching anywhere, anytime and without compromise': Rocket Lab unveils new 'GHOST' portable spaceport system",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/launching-anywhere-anytime-and-without-compromise-rocket-lab-unveils-new-ghost-portable-spaceport-system",
+      "score": 2.8,
+      "published_utc": "2026-08-10T22:43:51+00:00"
     }
   },
   "digest_queue": [
@@ -8529,6 +8545,18 @@
       "day_brt": "2026-08-10",
       "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft Chinese rocket explodes less than 90 seconds after liftoff (photos) News By Josh Dinner Last updated 10 August 2026 China's space agency has not released a statement on the incident. When you purchase through links on our site, we may earn an affiliate commission.",
       "queued_ts": 1786395299
+    },
+    {
+      "fp": "79d903f13521d5adaecb800b",
+      "title": "Window for 2026 launch debut of Rocket Lab’s Neutron rocket ‘is narrowing’ as development continues",
+      "link": "https://spaceflightnow.com/2026/08/10/window-for-2026-launch-debut-of-rocket-labs-neutron-rocket-is-narrowing-as-development-continues/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-08-10T22:40:07+00:00",
+      "day_brt": "2026-08-10",
+      "resumo_pt": "Resumo (PT-BR): Window for 2026 launch debut of Rocket Lab’s Neutron rocket ‘is narrowing’ as development continues August 10, 2026 Will Robinson-Smith Rocket Lab conducts a launch simulation of its Neutron rocket from Launch Complex 3 at the Mid-Atlantic Regional Spaceport within NASA’s Wallops Flight Facility in Virginia. Image: Rocket Lab Rocket Lab’s anticipated debut of its medium-lift Neutron rocket may end up slipping beyond this year and into 2027.",
+      "queued_ts": 1786402247
     }
   ],
   "digests_sent": {
@@ -8979,7 +9007,8 @@
       "88b3b951f25c5a6dd65890b6": true,
       "aa7376117cee2da3b1e829d1": true,
       "22512b91b8e505a93478b545": true,
-      "198c6334f587175c99d02bf6": true
+      "198c6334f587175c99d02bf6": true,
+      "79d903f13521d5adaecb800b": true
     }
   }
 }
