@@ -7922,6 +7922,22 @@
       "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs/",
       "score": 4.0,
       "published_utc": "2026-08-10T04:05:00+00:00"
+    },
+    "301b475f079b3924be283b17": {
+      "ts": 1786370004,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
+      "link": "https://spaceflightnow.com/2026/08/10/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-16/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-08-10T13:40:12+00:00"
+    },
+    "3d5f52908bae42cb943c8d82": {
+      "ts": 1786370005,
+      "source": "Space.com",
+      "title": "Watch Japanese H3 rocket launch 10,800-pound navigation satellite to orbit today",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/japan-h3-rocket-launch-navigation-satellite-michibiki-7",
+      "score": 2.8,
+      "published_utc": "2026-08-10T13:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -8356,6 +8372,18 @@
       "day_brt": "2026-07-30",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1785456241
+    },
+    {
+      "fp": "301b475f079b3924be283b17",
+      "title": "Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
+      "link": "https://spaceflightnow.com/2026/08/10/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-16/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-08-10T13:40:12+00:00",
+      "day_brt": "2026-08-10",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral August 10, 2026 Will Robinson-Smith File: A Falcon 9 rocket stands in the launch position at Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station ahead of the planned liftoff of the Starlink 6-61 mission on Oct. Image: Adam Bernstein/Spaceflight Now SpaceX is kicking off the work week with a Falcon 9 flight from Cape Canaveral Space Force Station to deliver another batch of its Starlink V2 Mini Optimized satellites to low Earth orbit.",
+      "queued_ts": 1786370006
     }
   ],
   "digests_sent": {
@@ -8799,7 +8827,8 @@
       "a996ee242278ce64920bd65d": true
     },
     "2026-08-10": {
-      "2aaa1cdc39fec1598f5cb05d": true
+      "2aaa1cdc39fec1598f5cb05d": true,
+      "301b475f079b3924be283b17": true
     }
   }
 }
