@@ -7995,6 +7995,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/japan-h3-rocket-launch-navigation-satellite-michibiki-7",
       "score": 2.8,
       "published_utc": "2026-08-10T13:00:00+00:00"
+    },
+    "198c6334f587175c99d02bf6": {
+      "ts": 1786395298,
+      "source": "Space.com",
+      "title": "Chinese rocket explodes less than 90 seconds after liftoff (photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/chinese-rocket-explodes-less-than-90-seconds-after-liftoff",
+      "score": 10.5,
+      "published_utc": "2026-08-10T16:03:25+00:00"
+    },
+    "b73a2fe3ca5c26b8e13f2912": {
+      "ts": 1786395298,
+      "source": "Space.com",
+      "title": "Japanese H3 rocket launches 10,800-pound navigation satellite to high Earth orbit (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/japan-h3-rocket-launch-navigation-satellite-michibiki-7",
+      "score": 2.8,
+      "published_utc": "2026-08-10T13:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -8501,6 +8517,18 @@
       "day_brt": "2026-08-10",
       "resumo_pt": "Resumo (PT-BR): 2 min read NASA+ Debuts on discovery+, Coming Soon to HBO Max Lauren E. Low Aug 10, 2026 RELEASE 26-063 NASA Headquarters Credit: NASA As NASA+ continues its expansion across multiple streaming platforms to bring space closer to home, NASA announced Monday programming is next heading to discovery+ and HBO Max.",
       "queued_ts": 1786382980
+    },
+    {
+      "fp": "198c6334f587175c99d02bf6",
+      "title": "Chinese rocket explodes less than 90 seconds after liftoff (photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/chinese-rocket-explodes-less-than-90-seconds-after-liftoff",
+      "source": "Space.com",
+      "score": 10.5,
+      "is_anomaly": true,
+      "published_utc": "2026-08-10T16:03:25+00:00",
+      "day_brt": "2026-08-10",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft Chinese rocket explodes less than 90 seconds after liftoff (photos) News By Josh Dinner Last updated 10 August 2026 China's space agency has not released a statement on the incident. When you purchase through links on our site, we may earn an affiliate commission.",
+      "queued_ts": 1786395299
     }
   ],
   "digests_sent": {
@@ -8950,7 +8978,8 @@
       "6800db861ebc18f4e32d1c36": true,
       "88b3b951f25c5a6dd65890b6": true,
       "aa7376117cee2da3b1e829d1": true,
-      "22512b91b8e505a93478b545": true
+      "22512b91b8e505a93478b545": true,
+      "198c6334f587175c99d02bf6": true
     }
   }
 }
