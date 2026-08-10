@@ -7979,6 +7979,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/chinese-rocket-explodes-less-than-90-seconds-after-liftoff",
       "score": 10.5,
       "published_utc": "2026-08-10T16:03:25+00:00"
+    },
+    "22512b91b8e505a93478b545": {
+      "ts": 1786382978,
+      "source": "NASA Breaking News",
+      "title": "NASA+ Debuts on discovery+, Coming Soon to HBO Max",
+      "link": "https://www.nasa.gov/news-release/nasa-debuts-on-discovery-coming-soon-to-hbo-max/",
+      "score": 4.0,
+      "published_utc": "2026-08-10T16:30:13+00:00"
     }
   },
   "digest_queue": [
@@ -8473,6 +8481,18 @@
       "day_brt": "2026-08-10",
       "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft Chinese rocket explodes less than 90 seconds after liftoff News By Josh Dinner Published 10 August 2026 China's space agency has not released a statement on the incident. When you purchase through links on our site, we may earn an affiliate commission.",
       "queued_ts": 1786379567
+    },
+    {
+      "fp": "22512b91b8e505a93478b545",
+      "title": "NASA+ Debuts on discovery+, Coming Soon to HBO Max",
+      "link": "https://www.nasa.gov/news-release/nasa-debuts-on-discovery-coming-soon-to-hbo-max/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-10T16:30:13+00:00",
+      "day_brt": "2026-08-10",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA+ Debuts on discovery+, Coming Soon to HBO Max Lauren E. Low Aug 10, 2026 RELEASE 26-063 NASA Headquarters Credit: NASA As NASA+ continues its expansion across multiple streaming platforms to bring space closer to home, NASA announced Monday programming is next heading to discovery+ and HBO Max.",
+      "queued_ts": 1786382980
     }
   ],
   "digests_sent": {
@@ -8921,7 +8941,8 @@
       "051f273b6d3854c70ebbfcc6": true,
       "6800db861ebc18f4e32d1c36": true,
       "88b3b951f25c5a6dd65890b6": true,
-      "aa7376117cee2da3b1e829d1": true
+      "aa7376117cee2da3b1e829d1": true,
+      "22512b91b8e505a93478b545": true
     }
   }
 }
