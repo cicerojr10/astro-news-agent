@@ -7971,6 +7971,14 @@
       "link": "https://spaceflightnow.com/2026/08/10/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-16/",
       "score": 6.3,
       "published_utc": "2026-08-10T13:40:12+00:00"
+    },
+    "aa7376117cee2da3b1e829d1": {
+      "ts": 1786379566,
+      "source": "Space.com",
+      "title": "Chinese rocket explodes less than 90 seconds after liftoff",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/chinese-rocket-explodes-less-than-90-seconds-after-liftoff",
+      "score": 10.5,
+      "published_utc": "2026-08-10T16:03:25+00:00"
     }
   },
   "digest_queue": [
@@ -8453,6 +8461,18 @@
       "day_brt": "2026-08-10",
       "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory El Niño Alters Marine Life... Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 5 min read El Niño Alters Marine Life in the Pacific Image of the Day for August 10, 2026 Satellite measurements of chlorophyll at the sea surface signal shifts in the ocean’s nutrient supplies in mid-2026.",
       "queued_ts": 1786373290
+    },
+    {
+      "fp": "aa7376117cee2da3b1e829d1",
+      "title": "Chinese rocket explodes less than 90 seconds after liftoff",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/chinese-rocket-explodes-less-than-90-seconds-after-liftoff",
+      "source": "Space.com",
+      "score": 10.5,
+      "is_anomaly": true,
+      "published_utc": "2026-08-10T16:03:25+00:00",
+      "day_brt": "2026-08-10",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft Chinese rocket explodes less than 90 seconds after liftoff News By Josh Dinner Published 10 August 2026 China's space agency has not released a statement on the incident. When you purchase through links on our site, we may earn an affiliate commission.",
+      "queued_ts": 1786379567
     }
   ],
   "digests_sent": {
@@ -8900,7 +8920,8 @@
       "301b475f079b3924be283b17": true,
       "051f273b6d3854c70ebbfcc6": true,
       "6800db861ebc18f4e32d1c36": true,
-      "88b3b951f25c5a6dd65890b6": true
+      "88b3b951f25c5a6dd65890b6": true,
+      "aa7376117cee2da3b1e829d1": true
     }
   }
 }
