@@ -8052,6 +8052,22 @@
       "score": 0.0,
       "published_utc": "2026-08-10T13:40:12+00:00",
       "note": "not_today"
+    },
+    "9a714fdf8afef840853e9bb3": {
+      "ts": 1786457141,
+      "source": "Space.com",
+      "title": "On this day in space! Aug. 11, 1960: 1st object successfully recovered from orbit",
+      "link": "https://www.space.com/space-exploration/aug-11-1960-1st-object-successfully-recovered-from-orbit",
+      "score": 2.8,
+      "published_utc": "2026-08-11T14:00:00+00:00"
+    },
+    "fd06f82fdec98de06e129000": {
+      "ts": 1786457141,
+      "source": "Space.com",
+      "title": "SpaceX wants to put 1 million AI satellites in orbit. What would that do to Earth's climate?",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-put-1-million-ai-satellites-in-orbit-what-would-that-do-to-earths-climate",
+      "score": 2.8,
+      "published_utc": "2026-08-11T13:00:00+00:00"
     }
   },
   "digest_queue": [
