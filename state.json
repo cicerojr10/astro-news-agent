@@ -8035,6 +8035,14 @@
       "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/",
       "score": 4.0,
       "published_utc": "2026-08-11T06:50:07+00:00"
+    },
+    "5ef936c68ad0f3d066b8f2bd": {
+      "ts": 1786444071,
+      "source": "NASASpaceflight",
+      "title": "Starbase Production lining up future vehicles",
+      "link": "https://www.nasaspaceflight.com/2026/08/starbase-lining-future-vehicles/",
+      "score": 3.6,
+      "published_utc": "2026-08-11T10:12:00+00:00"
     }
   },
   "digest_queue": [
@@ -8481,6 +8489,18 @@
       "day_brt": "2026-08-11",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Curiosity Blog, Sols 4968-4974: Rock Climbing Towards the Discontinuity Mars Science Laboratory Mission Team Members Aug 11, 2026 Article NASA's Mars rover Curiosity acquired this image, a frame of the “Longquimay” mosaic showing fine-scale sedimentary textures in a bedrock block near the supersurface, using its Mars Hand Lens Imager (MAHLI), located on the turret at the end of the rover's robotic arm.",
       "queued_ts": 1786434535
+    },
+    {
+      "fp": "5ef936c68ad0f3d066b8f2bd",
+      "title": "Starbase Production lining up future vehicles",
+      "link": "https://www.nasaspaceflight.com/2026/08/starbase-lining-future-vehicles/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-08-11T10:12:00+00:00",
+      "day_brt": "2026-08-11",
+      "resumo_pt": "Resumo (PT-BR): Starbase Production lining up future vehicles by Bastiaan Vellekoop and Chris Bergin August 11, 2026 written by Bastiaan Vellekoop and Chris Bergin August 11, 2026 1 At SpaceX’s Starbase production site, teams are progressing multiple Starship vehicles through the Production Site facilities, preparing them for upcoming cryogenic testing and beyond while expanding capacity for higher flight rates. Inside Mega Bay 2, Ship 42 (Flight 15) is being readied for its cryogenic campaign after all barrel sections were stacked.",
+      "queued_ts": 1786444072
     }
   ],
   "digests_sent": {
@@ -8936,7 +8956,8 @@
       "79d903f13521d5adaecb800b": true
     },
     "2026-08-11": {
-      "0f4ad78668638e5328c3f320": true
+      "0f4ad78668638e5328c3f320": true,
+      "5ef936c68ad0f3d066b8f2bd": true
     }
   }
 }
