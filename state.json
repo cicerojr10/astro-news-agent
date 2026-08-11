@@ -8109,6 +8109,14 @@
       "link": "https://spaceflightnow.com/2026/08/11/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-14/",
       "score": 4.680000000000001,
       "published_utc": "2026-08-11T20:05:15+00:00"
+    },
+    "e4ea9077c7c960a9edd21f57": {
+      "ts": 1786484248,
+      "source": "NASA Breaking News",
+      "title": "What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)",
+      "link": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-nancy-grace-roman-space-telescope-grades-5-8/",
+      "score": 4.0,
+      "published_utc": "2026-08-11T21:04:39+00:00"
     }
   },
   "digest_queue": [
@@ -8567,6 +8575,18 @@
       "day_brt": "2026-08-11",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB August 11, 2026 Will Robinson-Smith File: SpaceX’s Falcon 9 rocket stands at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base ahead of the Starlink 9-10 mission on Nov. Image: SpaceX SpaceX is slated to launch two dozens of its Starlink satellites to low Earth orbit from Vandenberg Space Force Base on Tuesday night.",
       "queued_ts": 1786481827
+    },
+    {
+      "fp": "e4ea9077c7c960a9edd21f57",
+      "title": "What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)",
+      "link": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-nancy-grace-roman-space-telescope-grades-5-8/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-11T21:04:39+00:00",
+      "day_brt": "2026-08-11",
+      "resumo_pt": "Resumo (PT-BR): (Grades 5-8) NASA STEM Team Aug 11, 2026 Article Contents When and Where Will the Nancy Grace Roman Space Telescope Launch? Where Will the Nancy Grace Roman Space Telescope Go in Space?",
+      "queued_ts": 1786484252
     }
   ],
   "digests_sent": {
@@ -9028,7 +9048,8 @@
       "0f4ad78668638e5328c3f320": true,
       "5ef936c68ad0f3d066b8f2bd": true,
       "513f48226397bbb8ca458a74": true,
-      "50f6e3b0b8dcfe4b5ebbc1c0": true
+      "50f6e3b0b8dcfe4b5ebbc1c0": true,
+      "e4ea9077c7c960a9edd21f57": true
     }
   }
 }
