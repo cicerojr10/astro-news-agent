@@ -8043,6 +8043,15 @@
       "link": "https://www.nasaspaceflight.com/2026/08/starbase-lining-future-vehicles/",
       "score": 3.6,
       "published_utc": "2026-08-11T10:12:00+00:00"
+    },
+    "0ba57711fa5970cbf11e5c54": {
+      "ts": 1786452158,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX attempts Tuesday morning Starlink launch following Monday scrub",
+      "link": "https://spaceflightnow.com/2026/08/10/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-16/",
+      "score": 0.0,
+      "published_utc": "2026-08-10T13:40:12+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
