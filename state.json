@@ -8068,6 +8068,23 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-put-1-million-ai-satellites-in-orbit-what-would-that-do-to-earths-climate",
       "score": 2.8,
       "published_utc": "2026-08-11T13:00:00+00:00"
+    },
+    "e9d4f00d22c505b23a7d298d": {
+      "ts": 1786468124,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches Tuesday noontime Starlink mission following Monday scrub",
+      "link": "https://spaceflightnow.com/2026/08/10/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-16/",
+      "score": 0.0,
+      "published_utc": "2026-08-10T13:40:12+00:00",
+      "note": "not_today"
+    },
+    "8bf65010d0dd6e4eaee2b6ba": {
+      "ts": 1786468125,
+      "source": "Space.com",
+      "title": "SpaceX launches 29 Starlink satellites to orbit from Florida (photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-group-10-19-launch-asog",
+      "score": 2.8,
+      "published_utc": "2026-08-11T16:21:54+00:00"
     }
   },
   "digest_queue": [
