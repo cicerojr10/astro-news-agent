@@ -8199,6 +8199,14 @@
       "link": "https://www.nasa.gov/news-release/nasa-astronaut-mike-fincke-leaves-nasa-career-includes-4-spaceflights/",
       "score": 4.0,
       "published_utc": "2026-08-12T16:03:05+00:00"
+    },
+    "69e67f026ad6c83c0a7100f6": {
+      "ts": 1786565068,
+      "source": "NASASpaceflight",
+      "title": "Amid failure, Wenchang celebrates milestone as China launches AI satellites and prepares for lunar south pole mission",
+      "link": "https://www.nasaspaceflight.com/2026/08/china-roundup-20260813/",
+      "score": 13.5,
+      "published_utc": "2026-08-12T19:33:41+00:00"
     }
   },
   "digest_queue": [
@@ -8681,6 +8689,18 @@
       "day_brt": "2026-08-12",
       "resumo_pt": "Resumo (PT-BR): 5 min read NASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights Lauren E. Low Aug 12, 2026 RELEASE 26-064 NASA Headquarters NASA astronaut Mike Fincke is pictured inside the International Space Station’s Quest airlock prior to the start of the third spacewalk for the STS-134 mission.",
       "queued_ts": 1786554723
+    },
+    {
+      "fp": "69e67f026ad6c83c0a7100f6",
+      "title": "Amid failure, Wenchang celebrates milestone as China launches AI satellites and prepares for lunar south pole mission",
+      "link": "https://www.nasaspaceflight.com/2026/08/china-roundup-20260813/",
+      "source": "NASASpaceflight",
+      "score": 13.5,
+      "is_anomaly": true,
+      "published_utc": "2026-08-12T19:33:41+00:00",
+      "day_brt": "2026-08-12",
+      "resumo_pt": "Resumo (PT-BR): Amid failure, Wenchang celebrates milestone as China launches AI satellites and prepares for lunar south pole mission by Martin Smith August 12, 2026 written by Martin Smith August 12, 2026 4 China’s Wenchang Space Launch Site reached its milestone 50th launch at the end of July, but this week also experienced a third launch failure; while China’s other launch sites have all been active as the nation increasingly deploys more AI-powered and in-space computing technology into orbit. Preparations for the launch of the seventh Chang’e mission, which will continue China’s exploration of the lunar south pole, are in full swing, while Galactic Energy is close to the debut of its Zhishenxing-1 rocket and LandSpace is awaiting a break in the weather to attempt recovery of the first stage of its ZhuQue-3 rocket.",
+      "queued_ts": 1786565069
     }
   ],
   "digests_sent": {
@@ -9153,7 +9173,8 @@
       "a7b23df031c89d200791106f": true,
       "28248f7845cdff1f989f76cf": true,
       "79b6d8a0cdb4ede38eb24053": true,
-      "efbf0f948732efcfed9a82de": true
+      "efbf0f948732efcfed9a82de": true,
+      "69e67f026ad6c83c0a7100f6": true
     }
   }
 }
