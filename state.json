@@ -8207,6 +8207,14 @@
       "link": "https://www.nasaspaceflight.com/2026/08/china-roundup-20260813/",
       "score": 13.5,
       "published_utc": "2026-08-12T19:33:41+00:00"
+    },
+    "a6e7aadd315685a2b9ac6eab": {
+      "ts": 1786570508,
+      "source": "Spaceflight Now",
+      "title": "Mike Fincke, a 30-year astronaut with experience across four spacecraft, retires from NASA",
+      "link": "https://spaceflightnow.com/2026/08/12/mike-fincke-a-30-year-astronaut-with-experience-across-four-human-rated-spacecraft-retires-from-nasa/",
+      "score": 3.6,
+      "published_utc": "2026-08-12T21:24:47+00:00"
     }
   },
   "digest_queue": [
@@ -8701,6 +8709,18 @@
       "day_brt": "2026-08-12",
       "resumo_pt": "Resumo (PT-BR): Amid failure, Wenchang celebrates milestone as China launches AI satellites and prepares for lunar south pole mission by Martin Smith August 12, 2026 written by Martin Smith August 12, 2026 4 China’s Wenchang Space Launch Site reached its milestone 50th launch at the end of July, but this week also experienced a third launch failure; while China’s other launch sites have all been active as the nation increasingly deploys more AI-powered and in-space computing technology into orbit. Preparations for the launch of the seventh Chang’e mission, which will continue China’s exploration of the lunar south pole, are in full swing, while Galactic Energy is close to the debut of its Zhishenxing-1 rocket and LandSpace is awaiting a break in the weather to attempt recovery of the first stage of its ZhuQue-3 rocket.",
       "queued_ts": 1786565069
+    },
+    {
+      "fp": "a6e7aadd315685a2b9ac6eab",
+      "title": "Mike Fincke, a 30-year astronaut with experience across four spacecraft, retires from NASA",
+      "link": "https://spaceflightnow.com/2026/08/12/mike-fincke-a-30-year-astronaut-with-experience-across-four-human-rated-spacecraft-retires-from-nasa/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-08-12T21:24:47+00:00",
+      "day_brt": "2026-08-12",
+      "resumo_pt": "Resumo (PT-BR): Mike Fincke, a 30-year astronaut with experience across four spacecraft, retires from NASA August 12, 2026 Will Robinson-Smith NASA astronaut and Expedition 73 Flight Engineer Mike Fincke smiles for a portrait during research operations for the Droplets fluid physics investigation. Fincke was inside the International Space Station’s Destiny laboratory module exploring how particles behave inside fluids.",
+      "queued_ts": 1786570510
     }
   ],
   "digests_sent": {
@@ -9174,7 +9194,8 @@
       "28248f7845cdff1f989f76cf": true,
       "79b6d8a0cdb4ede38eb24053": true,
       "efbf0f948732efcfed9a82de": true,
-      "69e67f026ad6c83c0a7100f6": true
+      "69e67f026ad6c83c0a7100f6": true,
+      "a6e7aadd315685a2b9ac6eab": true
     }
   }
 }
