@@ -8191,6 +8191,14 @@
       "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-12-perseids-over-a-little-planet/",
       "score": 4.0,
       "published_utc": "2026-08-12T14:30:00+00:00"
+    },
+    "efbf0f948732efcfed9a82de": {
+      "ts": 1786554719,
+      "source": "NASA Breaking News",
+      "title": "NASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-mike-fincke-leaves-nasa-career-includes-4-spaceflights/",
+      "score": 4.0,
+      "published_utc": "2026-08-12T16:03:05+00:00"
     }
   },
   "digest_queue": [
@@ -8661,6 +8669,18 @@
       "day_brt": "2026-08-12",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1786551273
+    },
+    {
+      "fp": "efbf0f948732efcfed9a82de",
+      "title": "NASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-mike-fincke-leaves-nasa-career-includes-4-spaceflights/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-12T16:03:05+00:00",
+      "day_brt": "2026-08-12",
+      "resumo_pt": "Resumo (PT-BR): 5 min read NASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights Lauren E. Low Aug 12, 2026 RELEASE 26-064 NASA Headquarters NASA astronaut Mike Fincke is pictured inside the International Space Station’s Quest airlock prior to the start of the third spacewalk for the STS-134 mission.",
+      "queued_ts": 1786554723
     }
   ],
   "digests_sent": {
@@ -9132,7 +9152,8 @@
     "2026-08-12": {
       "a7b23df031c89d200791106f": true,
       "28248f7845cdff1f989f76cf": true,
-      "79b6d8a0cdb4ede38eb24053": true
+      "79b6d8a0cdb4ede38eb24053": true,
+      "efbf0f948732efcfed9a82de": true
     }
   }
 }
