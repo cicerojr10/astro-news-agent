@@ -8175,6 +8175,22 @@
       "link": "https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-polar-geospatial-center-earthdem-elevation-products/",
       "score": 4.0,
       "published_utc": "2026-08-12T14:13:13+00:00"
+    },
+    "28248f7845cdff1f989f76cf": {
+      "ts": 1786551269,
+      "source": "NASA Breaking News",
+      "title": "Pursuing a Dream of Working for NASA",
+      "link": "https://www.nasa.gov/centers-and-facilities/kennedy/pursuing-a-dream-of-working-for-nasa/",
+      "score": 4.0,
+      "published_utc": "2026-08-12T15:38:51+00:00"
+    },
+    "79b6d8a0cdb4ede38eb24053": {
+      "ts": 1786551269,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 August 12 – Perseids over a Little Planet",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-12-perseids-over-a-little-planet/",
+      "score": 4.0,
+      "published_utc": "2026-08-12T14:30:00+00:00"
     }
   },
   "digest_queue": [
@@ -8621,6 +8637,30 @@
       "day_brt": "2026-08-12",
       "resumo_pt": "Resumo (PT-BR): 3 min read Quality Assessment Report Evaluates Polar Geospatial Center EarthDEM Elevation Products Joseph Smith Aug 12, 2026 Article Contents About the CSDA Program Notes: A new quality assessment report from NASA’s Commercial Satellite Data Acquisition (CSDA) program evaluates data from the Polar Geospatial Center’s (PGC) EarthDEM product. The results of the evaluation help inform NASA program management and the user community about the quality of commercial Digital Elevation Models (DEMs) for use in NASA science.",
       "queued_ts": 1786548326
+    },
+    {
+      "fp": "28248f7845cdff1f989f76cf",
+      "title": "Pursuing a Dream of Working for NASA",
+      "link": "https://www.nasa.gov/centers-and-facilities/kennedy/pursuing-a-dream-of-working-for-nasa/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-12T15:38:51+00:00",
+      "day_brt": "2026-08-12",
+      "resumo_pt": "Resumo (PT-BR): Fairley Aug 12, 2026 Article Lindsey Waitt, engineer with NASA’s Exploration Ground Systems Program, participates in a terminal countdown simulation for Artemis III on Thursday, Aug. Petrone Launch Control Center at NASA’s Kennedy Space Center in Florida.",
+      "queued_ts": 1786551273
+    },
+    {
+      "fp": "79b6d8a0cdb4ede38eb24053",
+      "title": "APOD: 2026 August 12 – Perseids over a Little Planet",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-12-perseids-over-a-little-planet/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-12T14:30:00+00:00",
+      "day_brt": "2026-08-12",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1786551273
     }
   ],
   "digests_sent": {
@@ -9090,7 +9130,9 @@
       "e4ea9077c7c960a9edd21f57": true
     },
     "2026-08-12": {
-      "a7b23df031c89d200791106f": true
+      "a7b23df031c89d200791106f": true,
+      "28248f7845cdff1f989f76cf": true,
+      "79b6d8a0cdb4ede38eb24053": true
     }
   }
 }
