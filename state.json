@@ -8167,6 +8167,14 @@
       "link": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-12-2005-mars-reconnaissance-orbiter-launched",
       "score": 2.8,
       "published_utc": "2026-08-12T14:00:00+00:00"
+    },
+    "a7b23df031c89d200791106f": {
+      "ts": 1786548323,
+      "source": "NASA Breaking News",
+      "title": "Quality Assessment Report Evaluates Polar Geospatial Center EarthDEM Elevation Products",
+      "link": "https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-polar-geospatial-center-earthdem-elevation-products/",
+      "score": 4.0,
+      "published_utc": "2026-08-12T14:13:13+00:00"
     }
   },
   "digest_queue": [
@@ -8601,6 +8609,18 @@
       "day_brt": "2026-07-30",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1785456241
+    },
+    {
+      "fp": "a7b23df031c89d200791106f",
+      "title": "Quality Assessment Report Evaluates Polar Geospatial Center EarthDEM Elevation Products",
+      "link": "https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-polar-geospatial-center-earthdem-elevation-products/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-12T14:13:13+00:00",
+      "day_brt": "2026-08-12",
+      "resumo_pt": "Resumo (PT-BR): 3 min read Quality Assessment Report Evaluates Polar Geospatial Center EarthDEM Elevation Products Joseph Smith Aug 12, 2026 Article Contents About the CSDA Program Notes: A new quality assessment report from NASA’s Commercial Satellite Data Acquisition (CSDA) program evaluates data from the Polar Geospatial Center’s (PGC) EarthDEM product. The results of the evaluation help inform NASA program management and the user community about the quality of commercial Digital Elevation Models (DEMs) for use in NASA science.",
+      "queued_ts": 1786548326
     }
   ],
   "digests_sent": {
@@ -9068,6 +9088,9 @@
       "513f48226397bbb8ca458a74": true,
       "50f6e3b0b8dcfe4b5ebbc1c0": true,
       "e4ea9077c7c960a9edd21f57": true
+    },
+    "2026-08-12": {
+      "a7b23df031c89d200791106f": true
     }
   }
 }
