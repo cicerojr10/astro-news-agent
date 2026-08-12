@@ -8151,6 +8151,14 @@
       "score": 0.0,
       "published_utc": "2026-08-11T23:42:48+00:00",
       "note": "not_today"
+    },
+    "5aee125d0b20b256fbe5ff01": {
+      "ts": 1786535941,
+      "source": "Space.com",
+      "title": "SpaceX wraps Starlink double header day with the launch of 24 Starlink satellites from California",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-group-17-49-b1103-asog",
+      "score": 2.8,
+      "published_utc": "2026-08-12T11:48:03+00:00"
     }
   },
   "digest_queue": [
