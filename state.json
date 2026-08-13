@@ -8231,6 +8231,14 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-aug-13-2014-game-changing-worldview-3-earth-observing-satellite-launches-to-orbit",
       "score": 2.8,
       "published_utc": "2026-08-13T14:00:00+00:00"
+    },
+    "e0e9c2b841cce09eff0051b5": {
+      "ts": 1786654495,
+      "source": "NASA Breaking News",
+      "title": "NASA’s 737 Reveals New Paint",
+      "link": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/",
+      "score": 4.0,
+      "published_utc": "2026-08-13T19:41:23+00:00"
     }
   },
   "digest_queue": [
@@ -8665,6 +8673,18 @@
       "day_brt": "2026-07-30",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1785456241
+    },
+    {
+      "fp": "e0e9c2b841cce09eff0051b5",
+      "title": "NASA’s 737 Reveals New Paint",
+      "link": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-13T19:41:23+00:00",
+      "day_brt": "2026-08-13",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA’s 737 Reveals New Paint Teresa Whiting NASA Armstrong Public Affairs Specialist Aug 13, 2026 Image Article A newly painted NASA 737 aircraft sits on a ramp in Oklahoma on Thursday, Aug. NASA/Carla Escamilla NASA’s 737 aircraft was painted this week in Oklahoma as it progresses with modifications for use as a reduced gravity test aircraft for the agency.",
+      "queued_ts": 1786654498
     }
   ],
   "digests_sent": {
@@ -9144,6 +9164,9 @@
       "efbf0f948732efcfed9a82de": true,
       "69e67f026ad6c83c0a7100f6": true,
       "a6e7aadd315685a2b9ac6eab": true
+    },
+    "2026-08-13": {
+      "e0e9c2b841cce09eff0051b5": true
     }
   }
 }
