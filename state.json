@@ -9065,6 +9065,9 @@
     "2026-08-12": {
       "morning": true,
       "night": true
+    },
+    "2026-08-13": {
+      "morning": true
     }
   },
   "sent_updates": {
