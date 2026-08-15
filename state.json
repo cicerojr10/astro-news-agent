@@ -8737,18 +8737,6 @@
       "day_brt": "2026-07-30",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1785456241
-    },
-    {
-      "fp": "aa6e4a8dbc2db2fdb812145e",
-      "title": "Blue Origin overviews plan for dual pad ops at Cape Canaveral",
-      "link": "https://www.nasaspaceflight.com/2026/08/blue-origin-launch-pad-cape-canaveral/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-08-15T22:57:11+00:00",
-      "day_brt": "2026-08-15",
-      "resumo_pt": "Resumo (PT-BR): Blue Origin overviews plan for dual pad ops at Cape Canaveral by Alejandro Alcantarilla Romera, and Chris Bergin August 15, 2026 written by Alejandro Alcantarilla Romera, and Chris Bergin August 15, 2026 1 As Blue Origin continues restoring its primary launch pad at LC-36A, the company has released new renders of a second launch complex designed to support its larger New Glenn 9×4 variant. Designated LC-36B, the new pad will be built just north of the existing Launch Complex 36 at Cape Canaveral Space Force Station and will share the overall site with the pad dedicated to the smaller New Glenn 7×2 configuration.",
-      "queued_ts": 1786834708
     }
   ],
   "digests_sent": {
@@ -9167,7 +9155,8 @@
       "night": true
     },
     "2026-08-15": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
