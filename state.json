@@ -8271,6 +8271,14 @@
       "link": "https://www.space.com/space-exploration/strap-yourself-in-and-feel-the-gs-nasa-announces-max-power-aerospace-expo",
       "score": 2.8,
       "published_utc": "2026-08-14T22:00:00+00:00"
+    },
+    "627daa217e76f7afa89a81ff": {
+      "ts": 1786766340,
+      "source": "NASASpaceflight",
+      "title": "Rocket Lab advances via series of announcements",
+      "link": "https://www.nasaspaceflight.com/2026/08/rocket-lab-advances-announcements/",
+      "score": 3.6,
+      "published_utc": "2026-08-15T03:42:01+00:00"
     }
   },
   "digest_queue": [
@@ -8705,6 +8713,18 @@
       "day_brt": "2026-07-30",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1785456241
+    },
+    {
+      "fp": "627daa217e76f7afa89a81ff",
+      "title": "Rocket Lab advances via series of announcements",
+      "link": "https://www.nasaspaceflight.com/2026/08/rocket-lab-advances-announcements/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-08-15T03:42:01+00:00",
+      "day_brt": "2026-08-15",
+      "resumo_pt": "Resumo (PT-BR): Rocket Lab advances via series of announcements by Martin Smith and Chris Bergin August 14, 2026 written by Martin Smith and Chris Bergin August 14, 2026 1 Rocket Lab has formally established a new subsidiary in Germany and introduced a containerized mobile launch system designed for rapid global deployment, marking two significant steps in the company’s expansion of manufacturing capacity and launch flexibility. Forward progress on its Neutron Rocket was also seen at Wallops via work on the “Hungy Hippo” element of the rocket.",
+      "queued_ts": 1786766341
     }
   ],
   "digests_sent": {
@@ -9124,37 +9144,6 @@
     }
   },
   "sent_updates": {
-    "2026-08-04": {
-      "b380f52ce0f55420aa47e4e5": true,
-      "fb524ee15c7a6d25f965affa": true,
-      "bae4dcd701b11d842a74be61": true,
-      "4d7f66b452ea41e3731d4fb1": true,
-      "6c856cd5b5b1088ac8f67740": true,
-      "d5ce08da3d2ca5ed76f0dfa9": true,
-      "9feeeb5cb4594aba18d7b70d": true
-    },
-    "2026-08-05": {
-      "33ca62d403e07d1fb16e5685": true,
-      "d1f79dd6bd1c2a7d8ed84d09": true,
-      "51513be441c942ad6c08566b": true,
-      "87929c7db129777def84d12a": true,
-      "4fe45d853fc122a6db62dfee": true,
-      "295cb136975cbcc96ec7dc6b": true
-    },
-    "2026-08-06": {
-      "ed58f16d197e11bdb1625168": true,
-      "a813afb8b3e15e2a910eebbd": true,
-      "2b9719b20c13a37791b08561": true,
-      "c6ce741a9706e876b0f9d799": true,
-      "d1bf47c53ff8b07413adbd4a": true,
-      "4261704faf59992eea168ee6": true
-    },
-    "2026-08-07": {
-      "984efe45290326da10b4a793": true,
-      "15cacf2c0f9df0ea693350b1": true,
-      "e218bb4cd784910a733d2fdf": true,
-      "05df0eeeda2958ec43215027": true
-    },
     "2026-08-08": {
       "808fd9ff64af0dfc5c9f3eed": true,
       "a6fdf68e484386b404176357": true,
@@ -9192,6 +9181,9 @@
     },
     "2026-08-13": {
       "e0e9c2b841cce09eff0051b5": true
+    },
+    "2026-08-15": {
+      "627daa217e76f7afa89a81ff": true
     }
   }
 }
