@@ -8337,6 +8337,15 @@
       "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/",
       "score": 4.0,
       "published_utc": "2026-08-16T04:05:00+00:00"
+    },
+    "e2b8ee78120ab07494f9ef9c": {
+      "ts": 1786885243,
+      "source": "Space.com",
+      "title": "New record! SpaceX launches 2 Falcon 9 rockets just 38 minutes apart (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-breaks-record-launch-doubleheader-ussf-366-globalstar-2r",
+      "score": 0.0,
+      "published_utc": "2026-08-16T02:54:47+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
