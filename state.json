@@ -9230,7 +9230,8 @@
       "night": true
     },
     "2026-08-16": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
