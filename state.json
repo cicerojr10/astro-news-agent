@@ -8783,18 +8783,6 @@
       "day_brt": "2026-08-15",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch satellite replenishment mission for Globalstar from Cape Canaveral August 15, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket stands in the launch position at Space Launch Complex 40 at Cape Canaveral Space Force Station ahead of the launch of eight Globalstar satellites. Image: SpaceX Globalstar is getting ready to replenish its low Earth orbit satellite constellation with a Saturday night launch onboard a SpaceX Falcon 9 rocket.",
       "queued_ts": 1786838387
-    },
-    {
-      "fp": "e6303441b9bc6c6722adf727",
-      "title": "APOD: 2026 August 16 – Milky Way over Yellowstone",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-16T04:05:00+00:00",
-      "day_brt": "2026-08-16",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1786855515
     }
   ],
   "digests_sent": {
@@ -9215,6 +9203,9 @@
     "2026-08-15": {
       "morning": true,
       "night": true
+    },
+    "2026-08-16": {
+      "morning": true
     }
   },
   "sent_updates": {
