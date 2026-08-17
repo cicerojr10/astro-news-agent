@@ -8395,6 +8395,14 @@
       "score": 0.0,
       "published_utc": "2026-08-15T10:00:00+00:00",
       "note": "not_today"
+    },
+    "6dbc7e8a84420046a259b09a": {
+      "ts": 1786983132,
+      "source": "NASA Breaking News",
+      "title": "Colorful Collage of Tarantula Nebula",
+      "link": "https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/",
+      "score": 4.0,
+      "published_utc": "2026-08-17T16:00:09+00:00"
     }
   },
   "digest_queue": [
@@ -8853,6 +8861,18 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Chasing Fire Clouds in Utah Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 6 min read Chasing Fire Clouds in Utah Image of the Day for August 17, 2026 NASA aircraft are sampling smoke lofted high into the atmosphere by one of the most formidable cloud types in the sky—towering, smoke-infused pyrocumulonimbus. NASA Earth Observatory Aug 17, 2026 Article View more Images of the Day: Aug 14, 2026 Instruments: Aqua — MODIS Photograph Topics: Clouds Wildfires Natural Color Brightness Temperature NASA Earth Observatory/Michala Garrison NASA Earth Observatory/Michala Garrison Natural Color Brightness Temperature NASA Earth Observatory/Michala Garrison NASA Earth Observatory/Michala Garrison Natural Color Brightness Temperature Curtain Toggle 2-Up Image Details A smoke-infused pyrocumulonimbus (pyroCb) rises from the Widemouth 2 fire in Utah in these images captured by the MODIS (Moderate Resolution Imaging Spectroradiometer) on NASA's Aqua satellite.",
       "queued_ts": 1786975904
+    },
+    {
+      "fp": "6dbc7e8a84420046a259b09a",
+      "title": "Colorful Collage of Tarantula Nebula",
+      "link": "https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-17T16:00:09+00:00",
+      "day_brt": "2026-08-17",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Colorful Collage of Tarantula Nebula HQ Web Team Aug 17, 2026 Image Article X-ray: NASA/CXC/Ohio State Univ./J. Rodriguez et al; Infrared: NASA/ESA/CSA/STScI; Optical: NASA/ESA/STScI; Image Processing: NASA/CXC/SAO/P.",
+      "queued_ts": 1786983135
     }
   ],
   "digests_sent": {
@@ -9332,7 +9352,8 @@
     },
     "2026-08-17": {
       "2da68077b85b71b052ded6fd": true,
-      "e345dde3697b555cc715caef": true
+      "e345dde3697b555cc715caef": true,
+      "6dbc7e8a84420046a259b09a": true
     }
   }
 }
