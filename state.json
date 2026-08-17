@@ -8362,6 +8362,14 @@
       "link": "https://www.space.com/space-exploration/human-spaceflight/on-this-day-in-space-aug-16-1963-wingless-m2-f1-completes-1st-glide-flight",
       "score": 2.8,
       "published_utc": "2026-08-16T14:00:00+00:00"
+    },
+    "2da68077b85b71b052ded6fd": {
+      "ts": 1786961196,
+      "source": "Space.com",
+      "title": "Blue Origin adding second pad to Cape Canaveral launch complex amid rocket explosion repairs",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-adding-second-pad-to-cape-canaveral-launch-complex-amid-rocket-explosion-repairs",
+      "score": 11.2,
+      "published_utc": "2026-08-17T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -8808,6 +8816,18 @@
       "day_brt": "2026-08-15",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch satellite replenishment mission for Globalstar from Cape Canaveral August 15, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket stands in the launch position at Space Launch Complex 40 at Cape Canaveral Space Force Station ahead of the launch of eight Globalstar satellites. Image: SpaceX Globalstar is getting ready to replenish its low Earth orbit satellite constellation with a Saturday night launch onboard a SpaceX Falcon 9 rocket.",
       "queued_ts": 1786838387
+    },
+    {
+      "fp": "2da68077b85b71b052ded6fd",
+      "title": "Blue Origin adding second pad to Cape Canaveral launch complex amid rocket explosion repairs",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-adding-second-pad-to-cape-canaveral-launch-complex-amid-rocket-explosion-repairs",
+      "source": "Space.com",
+      "score": 11.2,
+      "is_anomaly": true,
+      "published_utc": "2026-08-17T10:00:00+00:00",
+      "day_brt": "2026-08-17",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft Blue Origin adding second pad to Cape Canaveral launch complex amid rocket explosion repairs News By Josh Dinner Published 17 August 2026 When life gives you lemons (exploding rocket), make lemonade (a second launch pad). When you purchase through links on our site, we may earn an affiliate commission.",
+      "queued_ts": 1786961197
     }
   ],
   "digests_sent": {
@@ -9281,6 +9301,9 @@
     },
     "2026-08-16": {
       "e6303441b9bc6c6722adf727": true
+    },
+    "2026-08-17": {
+      "2da68077b85b71b052ded6fd": true
     }
   }
 }
