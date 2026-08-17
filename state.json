@@ -8873,54 +8873,6 @@
       "day_brt": "2026-08-15",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch satellite replenishment mission for Globalstar from Cape Canaveral August 15, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket stands in the launch position at Space Launch Complex 40 at Cape Canaveral Space Force Station ahead of the launch of eight Globalstar satellites. Image: SpaceX Globalstar is getting ready to replenish its low Earth orbit satellite constellation with a Saturday night launch onboard a SpaceX Falcon 9 rocket.",
       "queued_ts": 1786838387
-    },
-    {
-      "fp": "e345dde3697b555cc715caef",
-      "title": "Chasing Fire Clouds in Utah",
-      "link": "https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-17T04:01:00+00:00",
-      "day_brt": "2026-08-17",
-      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Chasing Fire Clouds in Utah Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 6 min read Chasing Fire Clouds in Utah Image of the Day for August 17, 2026 NASA aircraft are sampling smoke lofted high into the atmosphere by one of the most formidable cloud types in the sky—towering, smoke-infused pyrocumulonimbus. NASA Earth Observatory Aug 17, 2026 Article View more Images of the Day: Aug 14, 2026 Instruments: Aqua — MODIS Photograph Topics: Clouds Wildfires Natural Color Brightness Temperature NASA Earth Observatory/Michala Garrison NASA Earth Observatory/Michala Garrison Natural Color Brightness Temperature NASA Earth Observatory/Michala Garrison NASA Earth Observatory/Michala Garrison Natural Color Brightness Temperature Curtain Toggle 2-Up Image Details A smoke-infused pyrocumulonimbus (pyroCb) rises from the Widemouth 2 fire in Utah in these images captured by the MODIS (Moderate Resolution Imaging Spectroradiometer) on NASA's Aqua satellite.",
-      "queued_ts": 1786975904
-    },
-    {
-      "fp": "6dbc7e8a84420046a259b09a",
-      "title": "Colorful Collage of Tarantula Nebula",
-      "link": "https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-17T16:00:09+00:00",
-      "day_brt": "2026-08-17",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Colorful Collage of Tarantula Nebula HQ Web Team Aug 17, 2026 Image Article X-ray: NASA/CXC/Ohio State Univ./J. Rodriguez et al; Infrared: NASA/ESA/CSA/STScI; Optical: NASA/ESA/STScI; Image Processing: NASA/CXC/SAO/P.",
-      "queued_ts": 1786983135
-    },
-    {
-      "fp": "b9f296f44ecbb26e2a17be02",
-      "title": "China bounces back from Long March rocket explosion with back-to-back launches (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/china-bounces-back-from-long-march-rocket-explosion-with-back-to-back-launches-video",
-      "source": "Space.com",
-      "score": 11.2,
-      "is_anomaly": true,
-      "published_utc": "2026-08-17T20:00:00+00:00",
-      "day_brt": "2026-08-17",
-      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft China bounces back from Long March rocket explosion with back-to-back launches (video) News By Josh Dinner Published 17 August 2026 Two launches within 24 hours is an impressive return a week after one of China's rockets exploded. When you purchase through links on our site, we may earn an affiliate commission.",
-      "queued_ts": 1786997548
-    },
-    {
-      "fp": "f2996eeaac7a646ffd39ec20",
-      "title": "NASA Selects Companies to Provide Payload Processing Services",
-      "link": "https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-17T20:17:20+00:00",
-      "day_brt": "2026-08-17",
-      "resumo_pt": "Resumo (PT-BR): 1 min read NASA Selects Companies to Provide Payload Processing Services Lauren E. Low Aug 17, 2026 CONTRACT RELEASE C26-009 NASA Headquarters Credit: NASA NASA has selected four companies to provide payload processing facilities under the Spacecraft Processing Operations Contract on‑ramp provision.",
-      "queued_ts": 1787003605
     }
   ],
   "digests_sent": {
@@ -9347,7 +9299,8 @@
       "night": true
     },
     "2026-08-17": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
