@@ -8419,6 +8419,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/china-bounces-back-from-long-march-rocket-explosion-with-back-to-back-launches-video",
       "score": 11.2,
       "published_utc": "2026-08-17T20:00:00+00:00"
+    },
+    "f2996eeaac7a646ffd39ec20": {
+      "ts": 1787003602,
+      "source": "NASA Breaking News",
+      "title": "NASA Selects Companies to Provide Payload Processing Services",
+      "link": "https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services/",
+      "score": 4.0,
+      "published_utc": "2026-08-17T20:17:20+00:00"
     }
   },
   "digest_queue": [
@@ -8901,6 +8909,18 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft China bounces back from Long March rocket explosion with back-to-back launches (video) News By Josh Dinner Published 17 August 2026 Two launches within 24 hours is an impressive return a week after one of China's rockets exploded. When you purchase through links on our site, we may earn an affiliate commission.",
       "queued_ts": 1786997548
+    },
+    {
+      "fp": "f2996eeaac7a646ffd39ec20",
+      "title": "NASA Selects Companies to Provide Payload Processing Services",
+      "link": "https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-17T20:17:20+00:00",
+      "day_brt": "2026-08-17",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA Selects Companies to Provide Payload Processing Services Lauren E. Low Aug 17, 2026 CONTRACT RELEASE C26-009 NASA Headquarters Credit: NASA NASA has selected four companies to provide payload processing facilities under the Spacecraft Processing Operations Contract on‑ramp provision.",
+      "queued_ts": 1787003605
     }
   ],
   "digests_sent": {
@@ -9382,7 +9402,8 @@
       "2da68077b85b71b052ded6fd": true,
       "e345dde3697b555cc715caef": true,
       "6dbc7e8a84420046a259b09a": true,
-      "b9f296f44ecbb26e2a17be02": true
+      "b9f296f44ecbb26e2a17be02": true,
+      "f2996eeaac7a646ffd39ec20": true
     }
   }
 }
