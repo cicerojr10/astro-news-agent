@@ -8411,6 +8411,14 @@
       "link": "https://www.space.com/astronomy/stars/scientists-find-dead-star-that-predicts-our-suns-future-broken-apart-and-returned-to-the-galaxy",
       "score": 2.8,
       "published_utc": "2026-08-17T18:16:21+00:00"
+    },
+    "b9f296f44ecbb26e2a17be02": {
+      "ts": 1786997547,
+      "source": "Space.com",
+      "title": "China bounces back from Long March rocket explosion with back-to-back launches (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/china-bounces-back-from-long-march-rocket-explosion-with-back-to-back-launches-video",
+      "score": 11.2,
+      "published_utc": "2026-08-17T20:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -8881,6 +8889,18 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): 1 min read Colorful Collage of Tarantula Nebula HQ Web Team Aug 17, 2026 Image Article X-ray: NASA/CXC/Ohio State Univ./J. Rodriguez et al; Infrared: NASA/ESA/CSA/STScI; Optical: NASA/ESA/STScI; Image Processing: NASA/CXC/SAO/P.",
       "queued_ts": 1786983135
+    },
+    {
+      "fp": "b9f296f44ecbb26e2a17be02",
+      "title": "China bounces back from Long March rocket explosion with back-to-back launches (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/china-bounces-back-from-long-march-rocket-explosion-with-back-to-back-launches-video",
+      "source": "Space.com",
+      "score": 11.2,
+      "is_anomaly": true,
+      "published_utc": "2026-08-17T20:00:00+00:00",
+      "day_brt": "2026-08-17",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft China bounces back from Long March rocket explosion with back-to-back launches (video) News By Josh Dinner Published 17 August 2026 Two launches within 24 hours is an impressive return a week after one of China's rockets exploded. When you purchase through links on our site, we may earn an affiliate commission.",
+      "queued_ts": 1786997548
     }
   ],
   "digests_sent": {
@@ -9361,7 +9381,8 @@
     "2026-08-17": {
       "2da68077b85b71b052ded6fd": true,
       "e345dde3697b555cc715caef": true,
-      "6dbc7e8a84420046a259b09a": true
+      "6dbc7e8a84420046a259b09a": true,
+      "b9f296f44ecbb26e2a17be02": true
     }
   }
 }
