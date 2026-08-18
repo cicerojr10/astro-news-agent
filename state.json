@@ -8451,6 +8451,14 @@
       "link": "https://spaceflightnow.com/2026/08/18/live-coverage-spacex-to-send-starlink-satellites-to-orbit-with-tuesday-night-launch-from-california/",
       "score": 4.680000000000001,
       "published_utc": "2026-08-18T13:13:09+00:00"
+    },
+    "0a333c468e1716336701fdc9": {
+      "ts": 1787065047,
+      "source": "NASA Breaking News",
+      "title": "NASA Glenn’s Legacy Forged Through Decades of Flight Research",
+      "link": "https://www.nasa.gov/general/nasa-glenn-inflight-research/",
+      "score": 4.0,
+      "published_utc": "2026-08-18T14:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -8933,6 +8941,18 @@
       "day_brt": "2026-08-18",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to send Starlink satellites to orbit with Tuesday night launch from California August 18, 2026 Will Robinson-Smith File photo of a Falcon 9 fueled for launch at Vandenberg Space Force Base in California. SpaceX is set to send another batch of Starlink satellites to low Earth orbit with a launch Tuesday night launch from Vandenberg Space Force Base in California.",
       "queued_ts": 1787061381
+    },
+    {
+      "fp": "0a333c468e1716336701fdc9",
+      "title": "NASA Glenn’s Legacy Forged Through Decades of Flight Research",
+      "link": "https://www.nasa.gov/general/nasa-glenn-inflight-research/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-18T14:00:00+00:00",
+      "day_brt": "2026-08-18",
+      "resumo_pt": "Resumo (PT-BR): 6 min read NASA Glenn’s Legacy Forged Through Decades of Flight Research Doreen Zudell Editor Aug 18, 2026 Article William “Bill” Swann, one of the first-generation pilots at the National Advisory Committee for Aeronautics’ Flight Propulsion Research Laboratory (predecessor to NASA’s Glenn Research Center in Cleveland), prepares to board a McDonnell F2H-2B airplane on Nov. Credit: NASA Many of NASA’s most important aerospace breakthroughs that began in the laboratory were ultimately proven in the sky.",
+      "queued_ts": 1787065050
     }
   ],
   "digests_sent": {
@@ -9424,7 +9444,8 @@
     },
     "2026-08-18": {
       "35ef81f8dd9bfb9d7174fedb": true,
-      "819c1852700f3a79b487b592": true
+      "819c1852700f3a79b487b592": true,
+      "0a333c468e1716336701fdc9": true
     }
   }
 }
