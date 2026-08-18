@@ -8483,6 +8483,14 @@
       "link": "https://www.space.com/space-exploration/international-space-station/nasa-astronaut-and-1st-female-french-spacewalker-remove-failed-iss-antenna-but-run-out-of-time-for-replacement",
       "score": 2.8,
       "published_utc": "2026-08-18T19:36:40+00:00"
+    },
+    "14d9bd412046bcb326c6ac80": {
+      "ts": 1787083053,
+      "source": "NASA Breaking News",
+      "title": "NASA Student Aviation Challenge Focuses on Nation’s Infrastructure",
+      "link": "https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/",
+      "score": 4.0,
+      "published_utc": "2026-08-18T18:03:44+00:00"
     }
   },
   "digest_queue": [
@@ -8977,6 +8985,18 @@
       "day_brt": "2026-08-18",
       "resumo_pt": "Resumo (PT-BR): 6 min read NASA Glenn’s Legacy Forged Through Decades of Flight Research Doreen Zudell Editor Aug 18, 2026 Article William “Bill” Swann, one of the first-generation pilots at the National Advisory Committee for Aeronautics’ Flight Propulsion Research Laboratory (predecessor to NASA’s Glenn Research Center in Cleveland), prepares to board a McDonnell F2H-2B airplane on Nov. Credit: NASA Many of NASA’s most important aerospace breakthroughs that began in the laboratory were ultimately proven in the sky.",
       "queued_ts": 1787065050
+    },
+    {
+      "fp": "14d9bd412046bcb326c6ac80",
+      "title": "NASA Student Aviation Challenge Focuses on Nation’s Infrastructure",
+      "link": "https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-18T18:03:44+00:00",
+      "day_brt": "2026-08-18",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Student Aviation Challenge Focuses on Nation’s Infrastructure Bailey G. Light Aug 18, 2026 Article Credit: National Institute of Aerospace NASA’s next Gateways to Blue Skies competition invites collegiate teams to imagine innovative new ways aircraft could inspect land-based infrastructure, such as bridges and tunnels, to improve safety, reliability, and costs by 2035 or sooner.",
+      "queued_ts": 1787083058
     }
   ],
   "digests_sent": {
@@ -9469,7 +9489,8 @@
     "2026-08-18": {
       "35ef81f8dd9bfb9d7174fedb": true,
       "819c1852700f3a79b487b592": true,
-      "0a333c468e1716336701fdc9": true
+      "0a333c468e1716336701fdc9": true,
+      "14d9bd412046bcb326c6ac80": true
     }
   }
 }
