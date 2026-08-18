@@ -8435,6 +8435,14 @@
       "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary/",
       "score": 4.0,
       "published_utc": "2026-08-17T23:10:41+00:00"
+    },
+    "35ef81f8dd9bfb9d7174fedb": {
+      "ts": 1787058662,
+      "source": "NASASpaceflight",
+      "title": "Ship 40 arrives at Christmas Island, Plans Return to Starbase",
+      "link": "https://www.nasaspaceflight.com/2026/08/ship-40-christmas-island-plans-return-starbase/",
+      "score": 3.6,
+      "published_utc": "2026-08-18T12:59:38+00:00"
     }
   },
   "digest_queue": [
@@ -8893,6 +8901,18 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 6 min read Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary Mars Science Laboratory Mission Team Members Aug 17, 2026 Article NASA’s Mars rover Curiosity acquired this image, of its onboard APXS instrument measuring target “Tunas Khasa,” using its Front Hazard Avoidance Camera (Front Hazcam).",
       "queued_ts": 1787021359
+    },
+    {
+      "fp": "35ef81f8dd9bfb9d7174fedb",
+      "title": "Ship 40 arrives at Christmas Island, Plans Return to Starbase",
+      "link": "https://www.nasaspaceflight.com/2026/08/ship-40-christmas-island-plans-return-starbase/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-08-18T12:59:38+00:00",
+      "day_brt": "2026-08-18",
+      "resumo_pt": "Resumo (PT-BR): Ship 40 arrives at Christmas Island, Plans Return to Starbase by Chris Bergin August 18, 2026 written by Chris Bergin August 18, 2026 1 SpaceX has successfully guided Starship Ship 40 to a location just off the coast of Christmas Island after approximately 24 days at sea in the Indian Ocean. A team of SpaceX engineers is traveling to the site to conduct additional analysis on the vehicle in calmer waters before the company attempts to return it to Starbase in Texas.",
+      "queued_ts": 1787058664
     }
   ],
   "digests_sent": {
@@ -9381,6 +9401,9 @@
       "b9f296f44ecbb26e2a17be02": true,
       "f2996eeaac7a646ffd39ec20": true,
       "c5019ebd3832d133c33a5d26": true
+    },
+    "2026-08-18": {
+      "35ef81f8dd9bfb9d7174fedb": true
     }
   }
 }
