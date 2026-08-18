@@ -8949,54 +8949,6 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 6 min read Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary Mars Science Laboratory Mission Team Members Aug 17, 2026 Article NASA’s Mars rover Curiosity acquired this image, of its onboard APXS instrument measuring target “Tunas Khasa,” using its Front Hazard Avoidance Camera (Front Hazcam).",
       "queued_ts": 1787021359
-    },
-    {
-      "fp": "35ef81f8dd9bfb9d7174fedb",
-      "title": "Ship 40 arrives at Christmas Island, Plans Return to Starbase",
-      "link": "https://www.nasaspaceflight.com/2026/08/ship-40-christmas-island-plans-return-starbase/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-08-18T12:59:38+00:00",
-      "day_brt": "2026-08-18",
-      "resumo_pt": "Resumo (PT-BR): Ship 40 arrives at Christmas Island, Plans Return to Starbase by Chris Bergin August 18, 2026 written by Chris Bergin August 18, 2026 1 SpaceX has successfully guided Starship Ship 40 to a location just off the coast of Christmas Island after approximately 24 days at sea in the Indian Ocean. A team of SpaceX engineers is traveling to the site to conduct additional analysis on the vehicle in calmer waters before the company attempts to return it to Starbase in Texas.",
-      "queued_ts": 1787058664
-    },
-    {
-      "fp": "819c1852700f3a79b487b592",
-      "title": "Live coverage: SpaceX to send Starlink satellites to orbit with Tuesday night launch from California",
-      "link": "https://spaceflightnow.com/2026/08/18/live-coverage-spacex-to-send-starlink-satellites-to-orbit-with-tuesday-night-launch-from-california/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-08-18T13:13:09+00:00",
-      "day_brt": "2026-08-18",
-      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to send Starlink satellites to orbit with Tuesday night launch from California August 18, 2026 Will Robinson-Smith File photo of a Falcon 9 fueled for launch at Vandenberg Space Force Base in California. SpaceX is set to send another batch of Starlink satellites to low Earth orbit with a launch Tuesday night launch from Vandenberg Space Force Base in California.",
-      "queued_ts": 1787061381
-    },
-    {
-      "fp": "0a333c468e1716336701fdc9",
-      "title": "NASA Glenn’s Legacy Forged Through Decades of Flight Research",
-      "link": "https://www.nasa.gov/general/nasa-glenn-inflight-research/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-18T14:00:00+00:00",
-      "day_brt": "2026-08-18",
-      "resumo_pt": "Resumo (PT-BR): 6 min read NASA Glenn’s Legacy Forged Through Decades of Flight Research Doreen Zudell Editor Aug 18, 2026 Article William “Bill” Swann, one of the first-generation pilots at the National Advisory Committee for Aeronautics’ Flight Propulsion Research Laboratory (predecessor to NASA’s Glenn Research Center in Cleveland), prepares to board a McDonnell F2H-2B airplane on Nov. Credit: NASA Many of NASA’s most important aerospace breakthroughs that began in the laboratory were ultimately proven in the sky.",
-      "queued_ts": 1787065050
-    },
-    {
-      "fp": "14d9bd412046bcb326c6ac80",
-      "title": "NASA Student Aviation Challenge Focuses on Nation’s Infrastructure",
-      "link": "https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-18T18:03:44+00:00",
-      "day_brt": "2026-08-18",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Student Aviation Challenge Focuses on Nation’s Infrastructure Bailey G. Light Aug 18, 2026 Article Credit: National Institute of Aerospace NASA’s next Gateways to Blue Skies competition invites collegiate teams to imagine innovative new ways aircraft could inspect land-based infrastructure, such as bridges and tunnels, to improve safety, reliability, and costs by 2035 or sooner.",
-      "queued_ts": 1787083058
     }
   ],
   "digests_sent": {
@@ -9427,7 +9379,8 @@
       "night": true
     },
     "2026-08-18": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
