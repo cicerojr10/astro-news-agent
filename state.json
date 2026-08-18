@@ -8427,6 +8427,14 @@
       "link": "https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services/",
       "score": 4.0,
       "published_utc": "2026-08-17T20:17:20+00:00"
+    },
+    "c5019ebd3832d133c33a5d26": {
+      "ts": 1787021355,
+      "source": "NASA Breaking News",
+      "title": "Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary/",
+      "score": 4.0,
+      "published_utc": "2026-08-17T23:10:41+00:00"
     }
   },
   "digest_queue": [
@@ -8873,6 +8881,18 @@
       "day_brt": "2026-08-15",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch satellite replenishment mission for Globalstar from Cape Canaveral August 15, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket stands in the launch position at Space Launch Complex 40 at Cape Canaveral Space Force Station ahead of the launch of eight Globalstar satellites. Image: SpaceX Globalstar is getting ready to replenish its low Earth orbit satellite constellation with a Saturday night launch onboard a SpaceX Falcon 9 rocket.",
       "queued_ts": 1786838387
+    },
+    {
+      "fp": "c5019ebd3832d133c33a5d26",
+      "title": "Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-17T23:10:41+00:00",
+      "day_brt": "2026-08-17",
+      "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 6 min read Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary Mars Science Laboratory Mission Team Members Aug 17, 2026 Article NASA’s Mars rover Curiosity acquired this image, of its onboard APXS instrument measuring target “Tunas Khasa,” using its Front Hazard Avoidance Camera (Front Hazcam).",
+      "queued_ts": 1787021359
     }
   ],
   "digests_sent": {
@@ -9356,7 +9376,8 @@
       "e345dde3697b555cc715caef": true,
       "6dbc7e8a84420046a259b09a": true,
       "b9f296f44ecbb26e2a17be02": true,
-      "f2996eeaac7a646ffd39ec20": true
+      "f2996eeaac7a646ffd39ec20": true,
+      "c5019ebd3832d133c33a5d26": true
     }
   }
 }
