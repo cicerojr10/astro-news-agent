@@ -8517,6 +8517,15 @@
       "score": 0.0,
       "published_utc": "2026-08-18T13:13:09+00:00",
       "note": "not_today"
+    },
+    "bda80f17dfe359446a28b568": {
+      "ts": 1787139940,
+      "source": "Space.com",
+      "title": "SpaceX launches its 100th mission of the year, sends Starlink satellites to orbit (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-100-launches-2026-starlink-group-17-50-launch",
+      "score": 0.0,
+      "published_utc": "2026-08-18T16:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
