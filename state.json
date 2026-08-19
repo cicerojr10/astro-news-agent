@@ -8508,6 +8508,15 @@
       "score": 0.0,
       "published_utc": "2026-08-18T16:00:00+00:00",
       "note": "not_today"
+    },
+    "8d496094c303a3b4ba80ac57": {
+      "ts": 1787121671,
+      "source": "Spaceflight Now",
+      "title": "SpaceX exceeds 11,000 satellites in low Earth orbit",
+      "link": "https://spaceflightnow.com/2026/08/18/live-coverage-spacex-to-send-starlink-satellites-to-orbit-with-tuesday-night-launch-from-california/",
+      "score": 0.0,
+      "published_utc": "2026-08-18T13:13:09+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
