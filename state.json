@@ -8582,6 +8582,22 @@
       "link": "https://spaceflightnow.com/2026/08/19/landspace-becomes-first-commercial-chinese-company-to-land-an-orbital-class-booster/",
       "score": 3.6,
       "published_utc": "2026-08-19T20:35:51+00:00"
+    },
+    "89b31b43b5924beaf80541a5": {
+      "ts": 1787173860,
+      "source": "NASA Breaking News",
+      "title": "NASA TechLeap Prize: Orbital Clarity Challenge",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/",
+      "score": 4.0,
+      "published_utc": "2026-08-19T19:57:48+00:00"
+    },
+    "8c921e1b048e5c52ca9cbfbb": {
+      "ts": 1787173862,
+      "source": "NASASpaceflight",
+      "title": "Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut",
+      "link": "https://www.nasaspaceflight.com/2026/08/stoke-update-081926/",
+      "score": 3.6,
+      "published_utc": "2026-08-19T20:52:07+00:00"
     }
   },
   "digest_queue": [
@@ -9088,6 +9104,30 @@
       "day_brt": "2026-08-19",
       "resumo_pt": "Resumo (PT-BR): LandSpace becomes first commercial Chinese company to land an orbital-class booster August 19, 2026 Will Robinson-Smith LandSpace’s ZhuQue-3 rocket booster lands at the company’s landing pad during the second flight of the launch vehicle on Aug. Image: LandSpace Chinese commercial launch company, LandSpace cemented its place in the race to rocket reusability as it landed the first stage booster of its ZhuQue-3 (ZQ-3) rocket on Wednesday morning local time.",
       "queued_ts": 1787172605
+    },
+    {
+      "fp": "89b31b43b5924beaf80541a5",
+      "title": "NASA TechLeap Prize: Orbital Clarity Challenge",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-19T19:57:48+00:00",
+      "day_brt": "2026-08-19",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA TechLeap Prize: Orbital Clarity Challenge Bailey G. Light Aug 19, 2026 Article The Orbital Clarity Challenge — the sixth in the NASA TechLeap Prize series — is a collaborative effort between NASA’s Heliophysics Division , Flight Opportunities program , and Center of Excellence for Collaborative Innovation .",
+      "queued_ts": 1787173864
+    },
+    {
+      "fp": "8c921e1b048e5c52ca9cbfbb",
+      "title": "Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut",
+      "link": "https://www.nasaspaceflight.com/2026/08/stoke-update-081926/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-08-19T20:52:07+00:00",
+      "day_brt": "2026-08-19",
+      "resumo_pt": "Resumo (PT-BR): Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut by Eleanor Day August 19, 2026 written by Eleanor Day August 19, 2026 4 While Starship is grabbing headlines, another fully reusable vehicle is advancing towards a potential 2026 debut. Nova, developed by Stoke Space, is a medium-lift vehicle that has reached several key milestones for its maiden launch over the last few weeks, including vehicle mating.",
+      "queued_ts": 1787173864
     }
   ],
   "digests_sent": {
@@ -9565,7 +9605,9 @@
       "4ed7a4c6e93a67ecb4f9ffa0": true,
       "00ea744862d2dffaa8de03e6": true,
       "19275a42de5dd9a5045cbf6b": true,
-      "53eda538381ed74aba0b310b": true
+      "53eda538381ed74aba0b310b": true,
+      "89b31b43b5924beaf80541a5": true,
+      "8c921e1b048e5c52ca9cbfbb": true
     }
   }
 }
