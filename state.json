@@ -8558,6 +8558,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/mysterious-russian-space-activity-causes-us-air-force-flight-to-antarctica-to-turn-around-report",
       "score": 4.199999999999999,
       "published_utc": "2026-08-19T16:00:00+00:00"
+    },
+    "19275a42de5dd9a5045cbf6b": {
+      "ts": 1787165585,
+      "source": "NASA Breaking News",
+      "title": "NASA Updates Next Steps for Commercial Swift Boost Mission",
+      "link": "https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/",
+      "score": 10.0,
+      "published_utc": "2026-08-19T18:08:25+00:00"
     }
   },
   "digest_queue": [
@@ -9040,6 +9048,18 @@
       "day_brt": "2026-08-19",
       "resumo_pt": "Resumo (PT-BR): 2 min read NASA Establishes State Hubs to Grow Technical Aerospace Workforce Gerelle Q. Dodson Aug 19, 2026 RELEASE 26-066 NASA Headquarters From left, Sean McCrary and Katie Mortensen, mechanical engineering technicians, paint NASA’s Artemis logo on the White Room connected to the crew access arm and mobile launcher inside the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Thursday, Dec.",
       "queued_ts": 1787156195
+    },
+    {
+      "fp": "19275a42de5dd9a5045cbf6b",
+      "title": "NASA Updates Next Steps for Commercial Swift Boost Mission",
+      "link": "https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/",
+      "source": "NASA Breaking News",
+      "score": 10.0,
+      "is_anomaly": true,
+      "published_utc": "2026-08-19T18:08:25+00:00",
+      "day_brt": "2026-08-19",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Updates Next Steps for Commercial Swift Boost Mission Lauren E. Low Aug 19, 2026 RELEASE 26-067 NASA Headquarters NASA’s Neil Gehrels Swift Observatory, shown in this artist’s concept, has orbited Earth for more than 20 years, studying the ever-changing universe.",
+      "queued_ts": 1787165589
     }
   ],
   "digests_sent": {
@@ -9515,7 +9535,8 @@
     "2026-08-19": {
       "17787403de15e141b8a7013f": true,
       "4ed7a4c6e93a67ecb4f9ffa0": true,
-      "00ea744862d2dffaa8de03e6": true
+      "00ea744862d2dffaa8de03e6": true,
+      "19275a42de5dd9a5045cbf6b": true
     }
   }
 }
