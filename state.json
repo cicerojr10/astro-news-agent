@@ -8542,6 +8542,22 @@
       "link": "https://www.space.com/stargazing/skywatching-kit/the-best-things-to-see-in-the-night-sky-with-binoculars",
       "score": 2.8,
       "published_utc": "2026-08-19T14:00:00+00:00"
+    },
+    "00ea744862d2dffaa8de03e6": {
+      "ts": 1787156192,
+      "source": "NASA Breaking News",
+      "title": "NASA Establishes State Hubs to Grow Technical Aerospace Workforce",
+      "link": "https://www.nasa.gov/news-release/nasa-establishes-state-hubs-to-grow-technical-aerospace-workforce/",
+      "score": 4.0,
+      "published_utc": "2026-08-19T15:55:10+00:00"
+    },
+    "4ed7a4c6e93a67ecb4f9ffa0": {
+      "ts": 1787156194,
+      "source": "Space.com",
+      "title": "Mysterious Russian 'space activity' causes US Air Force flight to Antarctica to turn around: report",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/mysterious-russian-space-activity-causes-us-air-force-flight-to-antarctica-to-turn-around-report",
+      "score": 4.199999999999999,
+      "published_utc": "2026-08-19T16:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -9000,6 +9016,30 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 6 min read Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary Mars Science Laboratory Mission Team Members Aug 17, 2026 Article NASA’s Mars rover Curiosity acquired this image, of its onboard APXS instrument measuring target “Tunas Khasa,” using its Front Hazard Avoidance Camera (Front Hazcam).",
       "queued_ts": 1787021359
+    },
+    {
+      "fp": "4ed7a4c6e93a67ecb4f9ffa0",
+      "title": "Mysterious Russian 'space activity' causes US Air Force flight to Antarctica to turn around: report",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/mysterious-russian-space-activity-causes-us-air-force-flight-to-antarctica-to-turn-around-report",
+      "source": "Space.com",
+      "score": 4.199999999999999,
+      "is_anomaly": true,
+      "published_utc": "2026-08-19T16:00:00+00:00",
+      "day_brt": "2026-08-19",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft Mysterious Russian 'space activity' causes US Air Force flight to Antarctica to turn around: report News By Brett Tingley Published 19 August 2026 An FAA notice issued last week advises that \"Russian aerospace activities will take place\" and that there is \"possible debris\" in several areas throughout airspace over the southern Indian Ocean. When you purchase through links on our site, we may earn an affiliate commission.",
+      "queued_ts": 1787156195
+    },
+    {
+      "fp": "00ea744862d2dffaa8de03e6",
+      "title": "NASA Establishes State Hubs to Grow Technical Aerospace Workforce",
+      "link": "https://www.nasa.gov/news-release/nasa-establishes-state-hubs-to-grow-technical-aerospace-workforce/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-19T15:55:10+00:00",
+      "day_brt": "2026-08-19",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Establishes State Hubs to Grow Technical Aerospace Workforce Gerelle Q. Dodson Aug 19, 2026 RELEASE 26-066 NASA Headquarters From left, Sean McCrary and Katie Mortensen, mechanical engineering technicians, paint NASA’s Artemis logo on the White Room connected to the crew access arm and mobile launcher inside the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Thursday, Dec.",
+      "queued_ts": 1787156195
     }
   ],
   "digests_sent": {
@@ -9473,7 +9513,9 @@
       "14d9bd412046bcb326c6ac80": true
     },
     "2026-08-19": {
-      "17787403de15e141b8a7013f": true
+      "17787403de15e141b8a7013f": true,
+      "4ed7a4c6e93a67ecb4f9ffa0": true,
+      "00ea744862d2dffaa8de03e6": true
     }
   }
 }
