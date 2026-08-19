@@ -8491,6 +8491,14 @@
       "link": "https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/",
       "score": 4.0,
       "published_utc": "2026-08-18T18:03:44+00:00"
+    },
+    "17787403de15e141b8a7013f": {
+      "ts": 1787111925,
+      "source": "NASASpaceflight",
+      "title": "Zhuque-3 Completes Second Flight with Successful First-Stage Landing",
+      "link": "https://www.nasaspaceflight.com/2026/08/zhuque-3-second-flight-successful-landing/",
+      "score": 3.6,
+      "published_utc": "2026-08-19T03:23:54+00:00"
     }
   },
   "digest_queue": [
@@ -8949,6 +8957,18 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 6 min read Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary Mars Science Laboratory Mission Team Members Aug 17, 2026 Article NASA’s Mars rover Curiosity acquired this image, of its onboard APXS instrument measuring target “Tunas Khasa,” using its Front Hazard Avoidance Camera (Front Hazcam).",
       "queued_ts": 1787021359
+    },
+    {
+      "fp": "17787403de15e141b8a7013f",
+      "title": "Zhuque-3 Completes Second Flight with Successful First-Stage Landing",
+      "link": "https://www.nasaspaceflight.com/2026/08/zhuque-3-second-flight-successful-landing/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-08-19T03:23:54+00:00",
+      "day_brt": "2026-08-19",
+      "resumo_pt": "Resumo (PT-BR): Zhuque-3 Completes Second Flight with Successful First-Stage Landing by Ryan Caton August 18, 2026 written by Ryan Caton August 18, 2026 1 Zhuque-3’s second flight marked a major milestone for LandSpace as the methalox rocket lifted off from Jiuquan Satellite Launch Center on August 18 and successfully soft-landed its first stage downrange after delivering its payload to orbit. Building on the near-miss of its December 2025 debut, the 66-meter vehicle used its nine Tianque-12A engines for a clean ascent, stage separation, and precise recovery on landing legs roughly 390 km from the pad, joining Falcon 9, New Glenn, and Chang Zheng 10B as one of only four flight-proven orbital-class partially-reusable rockets.",
+      "queued_ts": 1787111926
     }
   ],
   "digests_sent": {
@@ -9384,33 +9404,6 @@
     }
   },
   "sent_updates": {
-    "2026-08-08": {
-      "808fd9ff64af0dfc5c9f3eed": true,
-      "a6fdf68e484386b404176357": true,
-      "d1f092a380d9ab636b45be0a": true,
-      "0be331bf3ab5e201fce7b980": true
-    },
-    "2026-08-09": {
-      "a996ee242278ce64920bd65d": true
-    },
-    "2026-08-10": {
-      "2aaa1cdc39fec1598f5cb05d": true,
-      "301b475f079b3924be283b17": true,
-      "051f273b6d3854c70ebbfcc6": true,
-      "6800db861ebc18f4e32d1c36": true,
-      "88b3b951f25c5a6dd65890b6": true,
-      "aa7376117cee2da3b1e829d1": true,
-      "22512b91b8e505a93478b545": true,
-      "198c6334f587175c99d02bf6": true,
-      "79d903f13521d5adaecb800b": true
-    },
-    "2026-08-11": {
-      "0f4ad78668638e5328c3f320": true,
-      "5ef936c68ad0f3d066b8f2bd": true,
-      "513f48226397bbb8ca458a74": true,
-      "50f6e3b0b8dcfe4b5ebbc1c0": true,
-      "e4ea9077c7c960a9edd21f57": true
-    },
     "2026-08-12": {
       "a7b23df031c89d200791106f": true,
       "28248f7845cdff1f989f76cf": true,
@@ -9444,6 +9437,9 @@
       "819c1852700f3a79b487b592": true,
       "0a333c468e1716336701fdc9": true,
       "14d9bd412046bcb326c6ac80": true
+    },
+    "2026-08-19": {
+      "17787403de15e141b8a7013f": true
     }
   }
 }
