@@ -8526,6 +8526,22 @@
       "score": 0.0,
       "published_utc": "2026-08-18T16:00:00+00:00",
       "note": "not_today"
+    },
+    "4c132b35ba3c943ff3b54e51": {
+      "ts": 1787149238,
+      "source": "Space.com",
+      "title": "On this day in space! Aug. 19, 1997: 1st Filipino satellite launches into orbit",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-aug-19-1997-1st-filipino-satellite-launches-into-orbit",
+      "score": 2.8,
+      "published_utc": "2026-08-19T14:00:00+00:00"
+    },
+    "6aad7df53fcc4c2d921eda6c": {
+      "ts": 1787149239,
+      "source": "Space.com",
+      "title": "My 5 favorite sights to see in the night sky with binoculars",
+      "link": "https://www.space.com/stargazing/skywatching-kit/the-best-things-to-see-in-the-night-sky-with-binoculars",
+      "score": 2.8,
+      "published_utc": "2026-08-19T14:00:00+00:00"
     }
   },
   "digest_queue": [
