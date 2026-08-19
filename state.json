@@ -8499,6 +8499,15 @@
       "link": "https://www.nasaspaceflight.com/2026/08/zhuque-3-second-flight-successful-landing/",
       "score": 3.6,
       "published_utc": "2026-08-19T03:23:54+00:00"
+    },
+    "1c6199c4bf2a79816a6102eb": {
+      "ts": 1787113989,
+      "source": "Space.com",
+      "title": "SpaceX launches its 100th mission of the year, sends Starlink satellites to orbit",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-100-launches-2026-starlink-group-17-50-launch",
+      "score": 0.0,
+      "published_utc": "2026-08-18T16:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
