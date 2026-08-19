@@ -8975,18 +8975,6 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 6 min read Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary Mars Science Laboratory Mission Team Members Aug 17, 2026 Article NASA’s Mars rover Curiosity acquired this image, of its onboard APXS instrument measuring target “Tunas Khasa,” using its Front Hazard Avoidance Camera (Front Hazcam).",
       "queued_ts": 1787021359
-    },
-    {
-      "fp": "17787403de15e141b8a7013f",
-      "title": "Zhuque-3 Completes Second Flight with Successful First-Stage Landing",
-      "link": "https://www.nasaspaceflight.com/2026/08/zhuque-3-second-flight-successful-landing/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-08-19T03:23:54+00:00",
-      "day_brt": "2026-08-19",
-      "resumo_pt": "Resumo (PT-BR): Zhuque-3 Completes Second Flight with Successful First-Stage Landing by Ryan Caton August 18, 2026 written by Ryan Caton August 18, 2026 1 Zhuque-3’s second flight marked a major milestone for LandSpace as the methalox rocket lifted off from Jiuquan Satellite Launch Center on August 18 and successfully soft-landed its first stage downrange after delivering its payload to orbit. Building on the near-miss of its December 2025 debut, the 66-meter vehicle used its nine Tianque-12A engines for a clean ascent, stage separation, and precise recovery on landing legs roughly 390 km from the pad, joining Falcon 9, New Glenn, and Chang Zheng 10B as one of only four flight-proven orbital-class partially-reusable rockets.",
-      "queued_ts": 1787111926
     }
   ],
   "digests_sent": {
@@ -9419,6 +9407,9 @@
     "2026-08-18": {
       "morning": true,
       "night": true
+    },
+    "2026-08-19": {
+      "morning": true
     }
   },
   "sent_updates": {
