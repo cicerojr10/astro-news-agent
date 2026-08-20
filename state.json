@@ -8670,6 +8670,22 @@
       "link": "https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/",
       "score": 4.0,
       "published_utc": "2026-08-20T14:12:09+00:00"
+    },
+    "2f451a13a14458bfc44b646e": {
+      "ts": 1787246218,
+      "source": "Spaceflight Now",
+      "title": "Last-minute abort stalls Cape Canaveral Starlink mission",
+      "link": "https://spaceflightnow.com/2026/08/20/live-coverage-spacex-to-launch-75th-starlink-mission-of-2026/",
+      "score": 11.700000000000001,
+      "published_utc": "2026-08-20T09:10:40+00:00"
+    },
+    "789a15737d884027c1934135": {
+      "ts": 1787246219,
+      "source": "Space.com",
+      "title": "Mars Express orbiter captures detailed new video of the crater where Mark Watney was stranded in 'The Martian'",
+      "link": "https://www.space.com/astronomy/mars/mars-express-orbiter-captures-detailed-new-video-of-the-crater-where-mark-watney-was-stranded-in-the-martian",
+      "score": 2.8,
+      "published_utc": "2026-08-20T16:58:45+00:00"
     }
   },
   "digest_queue": [
@@ -9176,6 +9192,18 @@
       "day_brt": "2026-08-20",
       "resumo_pt": "Resumo (PT-BR): Earth (ESD) Earth Explore Explore Earth Science Agriculture Air Quality Climate Change Freshwater Life on Earth Severe Storms Snow and Ice The Global Ocean Science at Work Earth Science at Work Technology and Innovation Powering Business Multimedia Image Collections Videos Data For Researchers About Us 5 min read NASA Data Feeds River Forecasts as Snow Drought Effects Linger Emily DeMarco Writer/Editor (IV), Earth Science Division Aug 20, 2026 Article Contents Year of water extremes Turning satellite data into river forecasts From forecasts to drought assessments This map, derived from NASA’s GEOS (Goddard Earth Observing System), shows an atmospheric river reaching Washington state in December 2025, during a winter marked by extreme rainfall and too little mountain snow. NASA's Scientific Visualization Studio As the effects of the 2026 snow drought in the western United States carry into summer, NASA Earth data is feeding machine-learning forecasts that inform decisions about water, power, and public safety in Washington state.",
       "queued_ts": 1787240969
+    },
+    {
+      "fp": "2f451a13a14458bfc44b646e",
+      "title": "Last-minute abort stalls Cape Canaveral Starlink mission",
+      "link": "https://spaceflightnow.com/2026/08/20/live-coverage-spacex-to-launch-75th-starlink-mission-of-2026/",
+      "source": "Spaceflight Now",
+      "score": 11.700000000000001,
+      "is_anomaly": true,
+      "published_utc": "2026-08-20T09:10:40+00:00",
+      "day_brt": "2026-08-20",
+      "resumo_pt": "Resumo (PT-BR): Last-minute abort stalls Cape Canaveral Starlink mission August 20, 2026 Will Robinson-Smith File: A Falcon 9 rocket stands in the launch position at Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station ahead of the planned liftoff of the Starlink 6-61 mission on Oct. An abort called in the last 30 seconds of its countdown on Thursday halted SpaceX from launching its 75th batch of Starlink satellites of the year.",
+      "queued_ts": 1787246220
     }
   ],
   "digests_sent": {
@@ -9666,7 +9694,8 @@
       "b11525efcce78fedd3113ea0": true,
       "b6fb909738ea3a28f51479af": true,
       "9beaeafb82f54335282507de": true,
-      "a17a6eec7e4b209d2dbff390": true
+      "a17a6eec7e4b209d2dbff390": true,
+      "2f451a13a14458bfc44b646e": true
     }
   }
 }
