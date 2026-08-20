@@ -8638,6 +8638,38 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-private-japanese-earth-observing-sar-satellite-lightning-god-defends",
       "score": 2.8,
       "published_utc": "2026-08-20T04:05:00+00:00"
+    },
+    "b6fb909738ea3a28f51479af": {
+      "ts": 1787240965,
+      "source": "NASA Breaking News",
+      "title": "Artemis Mission Patches",
+      "link": "https://www.nasa.gov/image-article/artemis-mission-patches/",
+      "score": 4.0,
+      "published_utc": "2026-08-20T15:13:51+00:00"
+    },
+    "9beaeafb82f54335282507de": {
+      "ts": 1787240965,
+      "source": "NASA Breaking News",
+      "title": "NASA Selects University Teams to Help Advance Aviation Research",
+      "link": "https://www.nasa.gov/aeronautics/nasa-selects-university-teams-to-help-advance-aviation-research/",
+      "score": 4.0,
+      "published_utc": "2026-08-20T14:57:01+00:00"
+    },
+    "a17a6eec7e4b209d2dbff390": {
+      "ts": 1787240965,
+      "source": "NASA Breaking News",
+      "title": "The View from Above: The Gemini Visual Acuity Experiments",
+      "link": "https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments/",
+      "score": 4.0,
+      "published_utc": "2026-08-20T14:30:00+00:00"
+    },
+    "b1f7a9ba897832de7eb9f004": {
+      "ts": 1787240965,
+      "source": "NASA Breaking News",
+      "title": "NASA Data Feeds River Forecasts as Snow Drought Effects Linger",
+      "link": "https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/",
+      "score": 4.0,
+      "published_utc": "2026-08-20T14:12:09+00:00"
     }
   },
   "digest_queue": [
@@ -9096,6 +9128,54 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 6 min read Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary Mars Science Laboratory Mission Team Members Aug 17, 2026 Article NASA’s Mars rover Curiosity acquired this image, of its onboard APXS instrument measuring target “Tunas Khasa,” using its Front Hazard Avoidance Camera (Front Hazcam).",
       "queued_ts": 1787021359
+    },
+    {
+      "fp": "b6fb909738ea3a28f51479af",
+      "title": "Artemis Mission Patches",
+      "link": "https://www.nasa.gov/image-article/artemis-mission-patches/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-20T15:13:51+00:00",
+      "day_brt": "2026-08-20",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Artemis Mission Patches HQ Web Team Aug 20, 2026 Image Article NASA/Clayton Rougelot A jacket decorated with Artemis I and II mission patches, along with other NASA patches hangs on the back of a chair on Thursday, Aug. Petrone Launch Control Center at NASA’s Kennedy Space Center in Florida during a terminal countdown simulation for the Artemis III mission .",
+      "queued_ts": 1787240969
+    },
+    {
+      "fp": "9beaeafb82f54335282507de",
+      "title": "NASA Selects University Teams to Help Advance Aviation Research",
+      "link": "https://www.nasa.gov/aeronautics/nasa-selects-university-teams-to-help-advance-aviation-research/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-20T14:57:01+00:00",
+      "day_brt": "2026-08-20",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA Selects University Teams to Help Advance Aviation Research Robert Margetta Public Affairs Speciailst Aug 20, 2026 Article Contents University of Minnesota Stanford University Stanford University Virginia Tech NASA has selected four university teams to help the agency transform the future of aviation through projects ranging from high-supersonic propulsion systems to low-noise routes for small aircraft flying through cities. The agency made awards through its University Leadership Initiative , which offers student teams the opportunity to contribute to real-world flight research that advances NASA’s goals in aeronautics.",
+      "queued_ts": 1787240969
+    },
+    {
+      "fp": "a17a6eec7e4b209d2dbff390",
+      "title": "The View from Above: The Gemini Visual Acuity Experiments",
+      "link": "https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-20T14:30:00+00:00",
+      "day_brt": "2026-08-20",
+      "resumo_pt": "Resumo (PT-BR): 4 Min Read The View from Above: The Gemini Visual Acuity Experiments Astronauts L. (shown here) participated in visual experiments during the Gemini V mission in August 1965.",
+      "queued_ts": 1787240969
+    },
+    {
+      "fp": "b1f7a9ba897832de7eb9f004",
+      "title": "NASA Data Feeds River Forecasts as Snow Drought Effects Linger",
+      "link": "https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-20T14:12:09+00:00",
+      "day_brt": "2026-08-20",
+      "resumo_pt": "Resumo (PT-BR): Earth (ESD) Earth Explore Explore Earth Science Agriculture Air Quality Climate Change Freshwater Life on Earth Severe Storms Snow and Ice The Global Ocean Science at Work Earth Science at Work Technology and Innovation Powering Business Multimedia Image Collections Videos Data For Researchers About Us 5 min read NASA Data Feeds River Forecasts as Snow Drought Effects Linger Emily DeMarco Writer/Editor (IV), Earth Science Division Aug 20, 2026 Article Contents Year of water extremes Turning satellite data into river forecasts From forecasts to drought assessments This map, derived from NASA’s GEOS (Goddard Earth Observing System), shows an atmospheric river reaching Washington state in December 2025, during a winter marked by extreme rainfall and too little mountain snow. NASA's Scientific Visualization Studio As the effects of the 2026 snow drought in the western United States carry into summer, NASA Earth data is feeding machine-learning forecasts that inform decisions about water, power, and public safety in Washington state.",
+      "queued_ts": 1787240969
     }
   ],
   "digests_sent": {
@@ -9583,7 +9663,10 @@
     },
     "2026-08-20": {
       "ca9bb8dfa13351851609dc84": true,
-      "b11525efcce78fedd3113ea0": true
+      "b11525efcce78fedd3113ea0": true,
+      "b6fb909738ea3a28f51479af": true,
+      "9beaeafb82f54335282507de": true,
+      "a17a6eec7e4b209d2dbff390": true
     }
   }
 }
