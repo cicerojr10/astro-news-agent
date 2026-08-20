@@ -8614,6 +8614,14 @@
       "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/",
       "score": 4.0,
       "published_utc": "2026-08-20T04:05:00+00:00"
+    },
+    "b11525efcce78fedd3113ea0": {
+      "ts": 1787219048,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 75th Starlink mission of 2026",
+      "link": "https://spaceflightnow.com/2026/08/20/live-coverage-spacex-to-launch-75th-starlink-mission-of-2026/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-08-20T09:10:40+00:00"
     }
   },
   "digest_queue": [
@@ -9084,6 +9092,18 @@
       "day_brt": "2026-08-20",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1787201676
+    },
+    {
+      "fp": "b11525efcce78fedd3113ea0",
+      "title": "Live coverage: SpaceX to launch 75th Starlink mission of 2026",
+      "link": "https://spaceflightnow.com/2026/08/20/live-coverage-spacex-to-launch-75th-starlink-mission-of-2026/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-08-20T09:10:40+00:00",
+      "day_brt": "2026-08-20",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 75th Starlink mission of 2026 August 20, 2026 Will Robinson-Smith File: A Falcon 9 rocket stands in the launch position at Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station ahead of the planned liftoff of the Starlink 6-61 mission on Oct. Image: Adam Bernstein/Spaceflight Now SpaceX is slated to launch its 75th batch of Starlink satellites of the year on a Falcon 9 rocket launch from Florida late Thursday morning.",
+      "queued_ts": 1787219050
     }
   ],
   "digests_sent": {
@@ -9567,7 +9587,8 @@
       "8c921e1b048e5c52ca9cbfbb": true
     },
     "2026-08-20": {
-      "ca9bb8dfa13351851609dc84": true
+      "ca9bb8dfa13351851609dc84": true,
+      "b11525efcce78fedd3113ea0": true
     }
   }
 }
