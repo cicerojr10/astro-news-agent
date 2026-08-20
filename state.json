@@ -8622,6 +8622,22 @@
       "link": "https://spaceflightnow.com/2026/08/20/live-coverage-spacex-to-launch-75th-starlink-mission-of-2026/",
       "score": 4.680000000000001,
       "published_utc": "2026-08-20T09:10:40+00:00"
+    },
+    "7a62501600430d5fad32d1d6": {
+      "ts": 1787234684,
+      "source": "Space.com",
+      "title": "On this day in space! Aug. 20, 1977: Voyager 2 launches to the outer planets",
+      "link": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-20-1977-voyager-2-launches-to-the-outer-planets",
+      "score": 2.8,
+      "published_utc": "2026-08-20T14:00:00+00:00"
+    },
+    "afb3e2e67495d67b6fa061cb": {
+      "ts": 1787234684,
+      "source": "Space.com",
+      "title": "Rocket Lab launches private Japanese Earth-observing satellite to orbit (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-private-japanese-earth-observing-sar-satellite-lightning-god-defends",
+      "score": 2.8,
+      "published_utc": "2026-08-20T04:05:00+00:00"
     }
   },
   "digest_queue": [
