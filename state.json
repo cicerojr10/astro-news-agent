@@ -8694,6 +8694,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-try-for-1st-starship-tower-catch-in-a-few-months-elon-musk-says",
       "score": 2.8,
       "published_utc": "2026-08-20T20:30:00+00:00"
+    },
+    "5ebb1ef90ceb3892bb1444ff": {
+      "ts": 1787259974,
+      "source": "NASA Breaking News",
+      "title": "SmallSat 2026",
+      "link": "https://science.nasa.gov/earth/smallsat-2026/",
+      "score": 4.0,
+      "published_utc": "2026-08-20T20:05:41+00:00"
     }
   },
   "digest_queue": [
@@ -9212,6 +9220,18 @@
       "day_brt": "2026-08-20",
       "resumo_pt": "Resumo (PT-BR): Last-minute abort stalls Cape Canaveral Starlink mission August 20, 2026 Will Robinson-Smith File: A Falcon 9 rocket stands in the launch position at Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station ahead of the planned liftoff of the Starlink 6-61 mission on Oct. An abort called in the last 30 seconds of its countdown on Thursday halted SpaceX from launching its 75th batch of Starlink satellites of the year.",
       "queued_ts": 1787246220
+    },
+    {
+      "fp": "5ebb1ef90ceb3892bb1444ff",
+      "title": "SmallSat 2026",
+      "link": "https://science.nasa.gov/earth/smallsat-2026/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-20T20:05:41+00:00",
+      "day_brt": "2026-08-20",
+      "resumo_pt": "Resumo (PT-BR): Explore This Section Earth Earth Observer Editor's Corner Feature Articles Meeting Summaries News Science in the News In Memoriam Announcements Archives 2 min read SmallSat 2026 NASA Aug 20, 2026 Article SmallSat 2026 Join NASA in the Exhibit Hall (Booth # 635, 835, 641, and 940) for Storytelling by NASA experts. MONDAY, AUGUST 24 , 9:00 - 10:00 AM Welcome Jose Nunez BryceTech’s Smallsats by the Numbers: 2026 Fletcher Franklin Supply Chain Observations Bruce Yost Technology Shortfall Rudy de Rosee SPARCS Camera and Early Science Observations Kaitlyn Ashcroft JPL: Skyfall Tim Canham SWIFT LINK Reboost Bo Naasz Flight Opportunities - Hosted Orbital Ecosystem - Fly Foundational Robos - Space Roboticist Challenge Anh Nguyen From Rideshare to Dedicated Launches: SmallSat Options with NASA LSP Caley Burke You Bring the Mission, We'll Bring the Lab: Partnering with MSFC Rush Elkins NASA Ames Mission Design Center: Imagining the Next Generation of Spaceflight Missions Matthew Napoli Engineering Challenges and Best Practices from a Stellar Launch Cycle Brad Williams HIAD Payload Return Solution for SmallSats Joe Del Corso 3:25 - 4:10 PM Moderating Bruce Yost RTMD NASA Greg Stover SMD HPD ADF Asal Naseri HSMD CSLI/CLPS/ Commercial Access to Space (CAtS) Pete Wilczynski CARA: Conjunction Assessment Best Practices Lauri Newman TUESDAY, AUGUST 25, 9:45 - 10:45 AM Moderating Cari Reinert SMD Panelist 1 - Solicitations Aly Mendoza-Hill STMD Panelist CATALYST - I-Corps Maggie Yancey SBIR / STTR- Launchpad for Innovation Ryszard Pisarski Agency level Tech Transfer Jose Nunez 3:15 - 4:15 PM Moderating Aly Mendoza-Hill SMD - APD Pioneers Pablo Saz Parkinson SMD - Science as a Service: What SmallSat Providers Need to Know Beth Weinstein SMD - HPD Asal Naseri ESCAPADE (HP",
+      "queued_ts": 1787259977
     }
   ],
   "digests_sent": {
@@ -9703,7 +9723,8 @@
       "b6fb909738ea3a28f51479af": true,
       "9beaeafb82f54335282507de": true,
       "a17a6eec7e4b209d2dbff390": true,
-      "2f451a13a14458bfc44b646e": true
+      "2f451a13a14458bfc44b646e": true,
+      "5ebb1ef90ceb3892bb1444ff": true
     }
   }
 }
