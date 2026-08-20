@@ -8606,6 +8606,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-private-japanese-earth-observing-sar-satellite-lightning-god-defends",
       "score": 2.8,
       "published_utc": "2026-08-20T04:05:00+00:00"
+    },
+    "ca9bb8dfa13351851609dc84": {
+      "ts": 1787201674,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/",
+      "score": 4.0,
+      "published_utc": "2026-08-20T04:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -9064,6 +9072,18 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 6 min read Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary Mars Science Laboratory Mission Team Members Aug 17, 2026 Article NASA’s Mars rover Curiosity acquired this image, of its onboard APXS instrument measuring target “Tunas Khasa,” using its Front Hazard Avoidance Camera (Front Hazcam).",
       "queued_ts": 1787021359
+    },
+    {
+      "fp": "ca9bb8dfa13351851609dc84",
+      "title": "APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus",
+      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-20T04:05:00+00:00",
+      "day_brt": "2026-08-20",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1787201676
     }
   ],
   "digests_sent": {
@@ -9545,6 +9565,9 @@
       "53eda538381ed74aba0b310b": true,
       "89b31b43b5924beaf80541a5": true,
       "8c921e1b048e5c52ca9cbfbb": true
+    },
+    "2026-08-20": {
+      "ca9bb8dfa13351851609dc84": true
     }
   }
 }
