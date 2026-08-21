@@ -8752,6 +8752,14 @@
       "link": "https://www.nasaspaceflight.com/2026/08/ship-41-engine-testing-flight-14/",
       "score": 3.6,
       "published_utc": "2026-08-21T18:45:52+00:00"
+    },
+    "268fb7ae3c5519bdbe0db319": {
+      "ts": 1787339709,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 100th orbital mission of 2026",
+      "link": "https://spaceflightnow.com/2026/08/21/live-coverage-spacex-to-launch-100th-orbital-mission-of-2026/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-08-21T18:53:18+00:00"
     }
   },
   "digest_queue": [
@@ -9234,6 +9242,18 @@
       "day_brt": "2026-08-21",
       "resumo_pt": "Resumo (PT-BR): Ship 41 Completes Engine Testing Ahead of Flight 14 by Ryan Weber August 21, 2026 written by Ryan Weber August 21, 2026 2 While Ship 40 is preparing to be transported back to Starbase from Christmas Island, Ship 41 has completed both of its static fires and will soon roll back to Mega Bay 2 for final flight preps. Booster 21, however, is still in Mega Bay 1 undergoing preflight work.",
       "queued_ts": 1787338206
+    },
+    {
+      "fp": "268fb7ae3c5519bdbe0db319",
+      "title": "Live coverage: SpaceX to launch 100th orbital mission of 2026",
+      "link": "https://spaceflightnow.com/2026/08/21/live-coverage-spacex-to-launch-100th-orbital-mission-of-2026/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-08-21T18:53:18+00:00",
+      "day_brt": "2026-08-21",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 100th orbital mission of 2026 August 21, 2026 Will Robinson-Smith A Falcon 9 rocket stands poised to launch from the Space Launch Complex 4E at Vandenberg Space Force Base in California. File Photo: SpaceX SpaceX will launch its 100th orbital mission of the year when it performs an overnight flight from Vandenberg Space Force Base shortly after midnight.",
+      "queued_ts": 1787339711
     }
   ],
   "digests_sent": {
@@ -9734,7 +9754,8 @@
     },
     "2026-08-21": {
       "6f6fbefa0bdcb2788da587d7": true,
-      "1baf3dd84dbc8350a0abb703": true
+      "1baf3dd84dbc8350a0abb703": true,
+      "268fb7ae3c5519bdbe0db319": true
     }
   }
 }
