@@ -8736,6 +8736,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-ahead-of-megarockets-1st-orbital-flight-video",
       "score": 2.8,
       "published_utc": "2026-08-21T16:00:00+00:00"
+    },
+    "6f6fbefa0bdcb2788da587d7": {
+      "ts": 1787332626,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor",
+      "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/",
+      "score": 4.0,
+      "published_utc": "2026-08-21T17:06:36+00:00"
     }
   },
   "digest_queue": [
@@ -9194,6 +9202,18 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 6 min read Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary Mars Science Laboratory Mission Team Members Aug 17, 2026 Article NASA’s Mars rover Curiosity acquired this image, of its onboard APXS instrument measuring target “Tunas Khasa,” using its Front Hazard Avoidance Camera (Front Hazcam).",
       "queued_ts": 1787021359
+    },
+    {
+      "fp": "6f6fbefa0bdcb2788da587d7",
+      "title": "NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor",
+      "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-21T17:06:36+00:00",
+      "day_brt": "2026-08-21",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor Gerelle Q. Dodson Aug 21, 2026 MEDIA ADVISORY M26-062 NASA Headquarters From left, Artemis II crew NASA astronauts Reid Wiseman, Victor Glover, Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen are photographed on April 29, 2026, in the White House Oval Office with President Donald J.",
+      "queued_ts": 1787332629
     }
   ],
   "digests_sent": {
@@ -9691,6 +9711,9 @@
       "a17a6eec7e4b209d2dbff390": true,
       "2f451a13a14458bfc44b646e": true,
       "5ebb1ef90ceb3892bb1444ff": true
+    },
+    "2026-08-21": {
+      "6f6fbefa0bdcb2788da587d7": true
     }
   }
 }
