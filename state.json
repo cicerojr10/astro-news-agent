@@ -8711,6 +8711,14 @@
       "score": 0.0,
       "published_utc": "2026-08-20T09:10:40+00:00",
       "note": "not_today"
+    },
+    "4fde5ccc4eefe7c8fbe35755": {
+      "ts": 1787327308,
+      "source": "Space.com",
+      "title": "SpaceX launches 29 Starlink satellites, lands rocket on ship at sea (video, photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-10-39-falcon-9-asog",
+      "score": 2.8,
+      "published_utc": "2026-08-21T15:28:24+00:00"
     }
   },
   "digest_queue": [
