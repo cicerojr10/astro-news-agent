@@ -9242,66 +9242,6 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 6 min read Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary Mars Science Laboratory Mission Team Members Aug 17, 2026 Article NASA’s Mars rover Curiosity acquired this image, of its onboard APXS instrument measuring target “Tunas Khasa,” using its Front Hazard Avoidance Camera (Front Hazcam).",
       "queued_ts": 1787021359
-    },
-    {
-      "fp": "6f6fbefa0bdcb2788da587d7",
-      "title": "NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor",
-      "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-21T17:06:36+00:00",
-      "day_brt": "2026-08-21",
-      "resumo_pt": "Resumo (PT-BR): 1 min read NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor Gerelle Q. Dodson Aug 21, 2026 MEDIA ADVISORY M26-062 NASA Headquarters From left, Artemis II crew NASA astronauts Reid Wiseman, Victor Glover, Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen are photographed on April 29, 2026, in the White House Oval Office with President Donald J.",
-      "queued_ts": 1787332629
-    },
-    {
-      "fp": "1baf3dd84dbc8350a0abb703",
-      "title": "Ship 41 Completes Engine Testing Ahead of Flight 14",
-      "link": "https://www.nasaspaceflight.com/2026/08/ship-41-engine-testing-flight-14/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-08-21T18:45:52+00:00",
-      "day_brt": "2026-08-21",
-      "resumo_pt": "Resumo (PT-BR): Ship 41 Completes Engine Testing Ahead of Flight 14 by Ryan Weber August 21, 2026 written by Ryan Weber August 21, 2026 2 While Ship 40 is preparing to be transported back to Starbase from Christmas Island, Ship 41 has completed both of its static fires and will soon roll back to Mega Bay 2 for final flight preps. Booster 21, however, is still in Mega Bay 1 undergoing preflight work.",
-      "queued_ts": 1787338206
-    },
-    {
-      "fp": "268fb7ae3c5519bdbe0db319",
-      "title": "Live coverage: SpaceX to launch 100th orbital mission of 2026",
-      "link": "https://spaceflightnow.com/2026/08/21/live-coverage-spacex-to-launch-100th-orbital-mission-of-2026/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-08-21T18:53:18+00:00",
-      "day_brt": "2026-08-21",
-      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 100th orbital mission of 2026 August 21, 2026 Will Robinson-Smith A Falcon 9 rocket stands poised to launch from the Space Launch Complex 4E at Vandenberg Space Force Base in California. File Photo: SpaceX SpaceX will launch its 100th orbital mission of the year when it performs an overnight flight from Vandenberg Space Force Base shortly after midnight.",
-      "queued_ts": 1787339711
-    },
-    {
-      "fp": "1e051b9d4d097a49611cb6a3",
-      "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
-      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-21T17:41:00+00:00",
-      "day_brt": "2026-08-21",
-      "resumo_pt": "Resumo (PT-BR): 4 min read TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code Daniel Hoffpauir Aug 21, 2026 Article Contents Background Technical Improvements Modern Software Architecture Expanded Species and Thermodynamic Data New Modeling Capabilities Performance Improvements Guidance for Engineering Use References For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis.",
-      "queued_ts": 1787343068
-    },
-    {
-      "fp": "6ab06f9062ccfae348b2d833",
-      "title": "Webb Opens Treasure Chest",
-      "link": "https://www.nasa.gov/image-article/webb-opens-treasure-chest/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-21T17:35:11+00:00",
-      "day_brt": "2026-08-21",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Webb Opens Treasure Chest HQ Web Team Aug 21, 2026 Image Article Image credit: ESA/Webb, NASA & CSA, M. Özsaraç NASA’s James Webb Space Telescope captured this Aug.",
-      "queued_ts": 1787343068
     }
   ],
   "digests_sent": {
@@ -9744,7 +9684,8 @@
       "night": true
     },
     "2026-08-21": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
