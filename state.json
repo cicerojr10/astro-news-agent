@@ -8719,6 +8719,23 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-10-39-falcon-9-asog",
       "score": 2.8,
       "published_utc": "2026-08-21T15:28:24+00:00"
+    },
+    "5716c0ee3e54438afaef45e1": {
+      "ts": 1787328783,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches 29 Starlink satellites from Cape Canaveral following last-minute scrub",
+      "link": "https://spaceflightnow.com/2026/08/20/live-coverage-spacex-to-launch-75th-starlink-mission-of-2026/",
+      "score": 0.0,
+      "published_utc": "2026-08-20T09:10:40+00:00",
+      "note": "not_today"
+    },
+    "46faf5d14f36f0eae46a9c4f": {
+      "ts": 1787328785,
+      "source": "Space.com",
+      "title": "SpaceX fires up Starship ahead of megarocket’s 1st orbital flight (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-ahead-of-megarockets-1st-orbital-flight-video",
+      "score": 2.8,
+      "published_utc": "2026-08-21T16:00:00+00:00"
     }
   },
   "digest_queue": [
