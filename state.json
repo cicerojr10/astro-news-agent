@@ -8744,6 +8744,14 @@
       "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/",
       "score": 4.0,
       "published_utc": "2026-08-21T17:06:36+00:00"
+    },
+    "1baf3dd84dbc8350a0abb703": {
+      "ts": 1787338205,
+      "source": "NASASpaceflight",
+      "title": "Ship 41 Completes Engine Testing Ahead of Flight 14",
+      "link": "https://www.nasaspaceflight.com/2026/08/ship-41-engine-testing-flight-14/",
+      "score": 3.6,
+      "published_utc": "2026-08-21T18:45:52+00:00"
     }
   },
   "digest_queue": [
@@ -9214,6 +9222,18 @@
       "day_brt": "2026-08-21",
       "resumo_pt": "Resumo (PT-BR): 1 min read NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor Gerelle Q. Dodson Aug 21, 2026 MEDIA ADVISORY M26-062 NASA Headquarters From left, Artemis II crew NASA astronauts Reid Wiseman, Victor Glover, Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen are photographed on April 29, 2026, in the White House Oval Office with President Donald J.",
       "queued_ts": 1787332629
+    },
+    {
+      "fp": "1baf3dd84dbc8350a0abb703",
+      "title": "Ship 41 Completes Engine Testing Ahead of Flight 14",
+      "link": "https://www.nasaspaceflight.com/2026/08/ship-41-engine-testing-flight-14/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-08-21T18:45:52+00:00",
+      "day_brt": "2026-08-21",
+      "resumo_pt": "Resumo (PT-BR): Ship 41 Completes Engine Testing Ahead of Flight 14 by Ryan Weber August 21, 2026 written by Ryan Weber August 21, 2026 2 While Ship 40 is preparing to be transported back to Starbase from Christmas Island, Ship 41 has completed both of its static fires and will soon roll back to Mega Bay 2 for final flight preps. Booster 21, however, is still in Mega Bay 1 undergoing preflight work.",
+      "queued_ts": 1787338206
     }
   ],
   "digests_sent": {
@@ -9713,7 +9733,8 @@
       "5ebb1ef90ceb3892bb1444ff": true
     },
     "2026-08-21": {
-      "6f6fbefa0bdcb2788da587d7": true
+      "6f6fbefa0bdcb2788da587d7": true,
+      "1baf3dd84dbc8350a0abb703": true
     }
   }
 }
