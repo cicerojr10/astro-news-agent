@@ -8702,6 +8702,15 @@
       "link": "https://science.nasa.gov/earth/smallsat-2026/",
       "score": 4.0,
       "published_utc": "2026-08-20T20:05:41+00:00"
+    },
+    "38d51c4b003490b7433435dc": {
+      "ts": 1787323574,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX attempts Starlink launch from Cape Canaveral following last-minute scrub",
+      "link": "https://spaceflightnow.com/2026/08/20/live-coverage-spacex-to-launch-75th-starlink-mission-of-2026/",
+      "score": 0.0,
+      "published_utc": "2026-08-20T09:10:40+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
