@@ -8760,6 +8760,30 @@
       "link": "https://spaceflightnow.com/2026/08/21/live-coverage-spacex-to-launch-100th-orbital-mission-of-2026/",
       "score": 4.680000000000001,
       "published_utc": "2026-08-21T18:53:18+00:00"
+    },
+    "1e051b9d4d097a49611cb6a3": {
+      "ts": 1787343063,
+      "source": "NASA Breaking News",
+      "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
+      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/",
+      "score": 4.0,
+      "published_utc": "2026-08-21T17:41:00+00:00"
+    },
+    "6ab06f9062ccfae348b2d833": {
+      "ts": 1787343063,
+      "source": "NASA Breaking News",
+      "title": "Webb Opens Treasure Chest",
+      "link": "https://www.nasa.gov/image-article/webb-opens-treasure-chest/",
+      "score": 4.0,
+      "published_utc": "2026-08-21T17:35:11+00:00"
+    },
+    "5587d27dc7cca71a159a4d39": {
+      "ts": 1787343067,
+      "source": "Space.com",
+      "title": "Trump signs new national space policy to enable 1,000 US rocket launches per year",
+      "link": "https://www.space.com/space-exploration/trump-signs-new-national-space-policy-to-enable-1-000-us-rocket-launches-per-year",
+      "score": 2.8,
+      "published_utc": "2026-08-21T20:00:46+00:00"
     }
   },
   "digest_queue": [
@@ -9254,6 +9278,30 @@
       "day_brt": "2026-08-21",
       "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 100th orbital mission of 2026 August 21, 2026 Will Robinson-Smith A Falcon 9 rocket stands poised to launch from the Space Launch Complex 4E at Vandenberg Space Force Base in California. File Photo: SpaceX SpaceX will launch its 100th orbital mission of the year when it performs an overnight flight from Vandenberg Space Force Base shortly after midnight.",
       "queued_ts": 1787339711
+    },
+    {
+      "fp": "1e051b9d4d097a49611cb6a3",
+      "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
+      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-21T17:41:00+00:00",
+      "day_brt": "2026-08-21",
+      "resumo_pt": "Resumo (PT-BR): 4 min read TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code Daniel Hoffpauir Aug 21, 2026 Article Contents Background Technical Improvements Modern Software Architecture Expanded Species and Thermodynamic Data New Modeling Capabilities Performance Improvements Guidance for Engineering Use References For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis.",
+      "queued_ts": 1787343068
+    },
+    {
+      "fp": "6ab06f9062ccfae348b2d833",
+      "title": "Webb Opens Treasure Chest",
+      "link": "https://www.nasa.gov/image-article/webb-opens-treasure-chest/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-21T17:35:11+00:00",
+      "day_brt": "2026-08-21",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Webb Opens Treasure Chest HQ Web Team Aug 21, 2026 Image Article Image credit: ESA/Webb, NASA & CSA, M. Özsaraç NASA’s James Webb Space Telescope captured this Aug.",
+      "queued_ts": 1787343068
     }
   ],
   "digests_sent": {
@@ -9755,7 +9803,9 @@
     "2026-08-21": {
       "6f6fbefa0bdcb2788da587d7": true,
       "1baf3dd84dbc8350a0abb703": true,
-      "268fb7ae3c5519bdbe0db319": true
+      "268fb7ae3c5519bdbe0db319": true,
+      "1e051b9d4d097a49611cb6a3": true,
+      "6ab06f9062ccfae348b2d833": true
     }
   }
 }
