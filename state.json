@@ -9283,18 +9283,6 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 6 min read Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary Mars Science Laboratory Mission Team Members Aug 17, 2026 Article NASA’s Mars rover Curiosity acquired this image, of its onboard APXS instrument measuring target “Tunas Khasa,” using its Front Hazard Avoidance Camera (Front Hazcam).",
       "queued_ts": 1787021359
-    },
-    {
-      "fp": "c4b46b67c7172341ea776dd1",
-      "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-23T07:39:28+00:00",
-      "day_brt": "2026-08-23",
-      "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming Mars Science Laboratory Mission Team Members Aug 23, 2026 Article NASA’s Mars rover Curiosity acquired this image, of thin, ledge-like layers at target “Los Toldos,” using its Right Mast Camera (Mastcam).",
-      "queued_ts": 1787474913
     }
   ],
   "digests_sent": {
@@ -9743,6 +9731,9 @@
     "2026-08-22": {
       "morning": true,
       "night": true
+    },
+    "2026-08-23": {
+      "morning": true
     }
   },
   "sent_updates": {
