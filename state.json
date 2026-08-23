@@ -8833,6 +8833,14 @@
       "link": "https://www.space.com/technology/launching-10-000-tiny-femtosats-to-saturn-nasa-funds-18-futuristic-spaceflight-ideas",
       "score": 2.8,
       "published_utc": "2026-08-23T12:00:00+00:00"
+    },
+    "7ad86a9e2ca8267635d65f90": {
+      "ts": 1787512082,
+      "source": "NASASpaceflight",
+      "title": "LandSpace’s Zhuque-3 topples following milestone landing",
+      "link": "https://www.nasaspaceflight.com/2026/08/landspaces-zhuque-3-topples/",
+      "score": 3.6,
+      "published_utc": "2026-08-23T18:57:05+00:00"
     }
   },
   "digest_queue": [
@@ -9291,6 +9299,18 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 6 min read Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary Mars Science Laboratory Mission Team Members Aug 17, 2026 Article NASA’s Mars rover Curiosity acquired this image, of its onboard APXS instrument measuring target “Tunas Khasa,” using its Front Hazard Avoidance Camera (Front Hazcam).",
       "queued_ts": 1787021359
+    },
+    {
+      "fp": "7ad86a9e2ca8267635d65f90",
+      "title": "LandSpace’s Zhuque-3 topples following milestone landing",
+      "link": "https://www.nasaspaceflight.com/2026/08/landspaces-zhuque-3-topples/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-08-23T18:57:05+00:00",
+      "day_brt": "2026-08-23",
+      "resumo_pt": "Resumo (PT-BR): LandSpace’s Zhuque-3 topples following milestone landing by Martin Smith and Chris Bergin August 23, 2026 written by Martin Smith and Chris Bergin August 23, 2026 1 LandSpace achieved a major milestone for Chinese commercial rocketry this week when the first stage of its Zhuque-3 successfully soft-landed on a recovery pad in the Gobi Desert following its second orbital flight. However, the booster later tipped over after a post-landing fire compromised one of its legs, underscoring that propulsive recovery is only the first step toward operational reusability.",
+      "queued_ts": 1787512083
     }
   ],
   "digests_sent": {
@@ -9788,7 +9808,8 @@
       "8886210f566af686882099eb": true
     },
     "2026-08-23": {
-      "c4b46b67c7172341ea776dd1": true
+      "c4b46b67c7172341ea776dd1": true,
+      "7ad86a9e2ca8267635d65f90": true
     }
   }
 }
