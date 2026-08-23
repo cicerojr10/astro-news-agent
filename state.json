@@ -9307,30 +9307,6 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 6 min read Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary Mars Science Laboratory Mission Team Members Aug 17, 2026 Article NASA’s Mars rover Curiosity acquired this image, of its onboard APXS instrument measuring target “Tunas Khasa,” using its Front Hazard Avoidance Camera (Front Hazcam).",
       "queued_ts": 1787021359
-    },
-    {
-      "fp": "7ad86a9e2ca8267635d65f90",
-      "title": "LandSpace’s Zhuque-3 topples following milestone landing",
-      "link": "https://www.nasaspaceflight.com/2026/08/landspaces-zhuque-3-topples/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-08-23T18:57:05+00:00",
-      "day_brt": "2026-08-23",
-      "resumo_pt": "Resumo (PT-BR): LandSpace’s Zhuque-3 topples following milestone landing by Martin Smith and Chris Bergin August 23, 2026 written by Martin Smith and Chris Bergin August 23, 2026 1 LandSpace achieved a major milestone for Chinese commercial rocketry this week when the first stage of its Zhuque-3 successfully soft-landed on a recovery pad in the Gobi Desert following its second orbital flight. However, the booster later tipped over after a post-landing fire compromised one of its legs, underscoring that propulsive recovery is only the first step toward operational reusability.",
-      "queued_ts": 1787512083
-    },
-    {
-      "fp": "c6fef09c6b2f1f96c3e10474",
-      "title": "NASA’s Roman telescope nears launch, reaches final integration and rehearsal milestones",
-      "link": "https://www.nasaspaceflight.com/2026/08/roman-update-082326/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-08-23T21:45:07+00:00",
-      "day_brt": "2026-08-23",
-      "resumo_pt": "Resumo (PT-BR): NASA’s Roman telescope nears launch, reaches final integration and rehearsal milestones by Haygen Warren August 23, 2026 written by Haygen Warren August 23, 2026 2 With a scheduled launch date of Aug. 30, NASA’s Nancy Grace Roman Space Telescope is quickly approaching launch.",
-      "queued_ts": 1787521996
     }
   ],
   "digests_sent": {
@@ -9781,7 +9757,8 @@
       "night": true
     },
     "2026-08-23": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
