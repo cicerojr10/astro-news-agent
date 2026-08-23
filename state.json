@@ -8817,6 +8817,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-group-15-20",
       "score": 2.8,
       "published_utc": "2026-08-22T12:23:59+00:00"
+    },
+    "c4b46b67c7172341ea776dd1": {
+      "ts": 1787474910,
+      "source": "NASA Breaking News",
+      "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
+      "score": 4.0,
+      "published_utc": "2026-08-23T07:39:28+00:00"
     }
   },
   "digest_queue": [
@@ -9275,6 +9283,18 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 6 min read Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary Mars Science Laboratory Mission Team Members Aug 17, 2026 Article NASA’s Mars rover Curiosity acquired this image, of its onboard APXS instrument measuring target “Tunas Khasa,” using its Front Hazard Avoidance Camera (Front Hazcam).",
       "queued_ts": 1787021359
+    },
+    {
+      "fp": "c4b46b67c7172341ea776dd1",
+      "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-23T07:39:28+00:00",
+      "day_brt": "2026-08-23",
+      "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming Mars Science Laboratory Mission Team Members Aug 23, 2026 Article NASA’s Mars rover Curiosity acquired this image, of thin, ledge-like layers at target “Los Toldos,” using its Right Mast Camera (Mastcam).",
+      "queued_ts": 1787474913
     }
   ],
   "digests_sent": {
@@ -9726,26 +9746,6 @@
     }
   },
   "sent_updates": {
-    "2026-08-12": {
-      "a7b23df031c89d200791106f": true,
-      "28248f7845cdff1f989f76cf": true,
-      "79b6d8a0cdb4ede38eb24053": true,
-      "efbf0f948732efcfed9a82de": true,
-      "69e67f026ad6c83c0a7100f6": true,
-      "a6e7aadd315685a2b9ac6eab": true
-    },
-    "2026-08-13": {
-      "e0e9c2b841cce09eff0051b5": true
-    },
-    "2026-08-15": {
-      "627daa217e76f7afa89a81ff": true,
-      "4b3324dad3107e6271ee2539": true,
-      "aa6e4a8dbc2db2fdb812145e": true,
-      "02c44653d125c1782d37ea8d": true
-    },
-    "2026-08-16": {
-      "e6303441b9bc6c6722adf727": true
-    },
     "2026-08-17": {
       "2da68077b85b71b052ded6fd": true,
       "e345dde3697b555cc715caef": true,
@@ -9787,6 +9787,9 @@
     },
     "2026-08-22": {
       "8886210f566af686882099eb": true
+    },
+    "2026-08-23": {
+      "c4b46b67c7172341ea776dd1": true
     }
   }
 }
