@@ -8865,6 +8865,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-record-37th-booster-flight-100-falcon-9-launches",
       "score": 2.8,
       "published_utc": "2026-08-24T17:00:00+00:00"
+    },
+    "94310ea666c91961f4f462ca": {
+      "ts": 1787593696,
+      "source": "NASA Breaking News",
+      "title": "NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix",
+      "link": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-at-freedom-250-grand-prix/",
+      "score": 4.0,
+      "published_utc": "2026-08-24T17:34:09+00:00"
     }
   },
   "digest_queue": [
@@ -9323,6 +9331,18 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 6 min read Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary Mars Science Laboratory Mission Team Members Aug 17, 2026 Article NASA’s Mars rover Curiosity acquired this image, of its onboard APXS instrument measuring target “Tunas Khasa,” using its Front Hazard Avoidance Camera (Front Hazcam).",
       "queued_ts": 1787021359
+    },
+    {
+      "fp": "94310ea666c91961f4f462ca",
+      "title": "NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix",
+      "link": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-at-freedom-250-grand-prix/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-24T17:34:09+00:00",
+      "day_brt": "2026-08-24",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix HQ Web Team Aug 24, 2026 Image Article NASA/Joel Kowsky NASA astronaut and Artemis II commander Reid Wiseman is seen in the two-seat IndyCar as he prepares for driver Conor Daly to take him on a lap ahead of the start of the Freedom 250 Grand Prix, Sunday, Aug.",
+      "queued_ts": 1787593698
     }
   ],
   "digests_sent": {
@@ -9827,6 +9847,9 @@
       "c4b46b67c7172341ea776dd1": true,
       "7ad86a9e2ca8267635d65f90": true,
       "c6fef09c6b2f1f96c3e10474": true
+    },
+    "2026-08-24": {
+      "94310ea666c91961f4f462ca": true
     }
   }
 }
