@@ -8881,6 +8881,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/goodbye-falcon-9-spacex-planning-to-retire-workhorse-launcher-when-starship-is-up-and-running",
       "score": 2.8,
       "published_utc": "2026-08-24T18:00:00+00:00"
+    },
+    "c5184a87e5067a7ec11ad03e": {
+      "ts": 1787597959,
+      "source": "NASA Breaking News",
+      "title": "MAIA Air Sensor at Work in Addis Ababa",
+      "link": "https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/",
+      "score": 4.0,
+      "published_utc": "2026-08-24T17:27:01+00:00"
     }
   },
   "digest_queue": [
@@ -9351,6 +9359,18 @@
       "day_brt": "2026-08-24",
       "resumo_pt": "Resumo (PT-BR): 1 min read NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix HQ Web Team Aug 24, 2026 Image Article NASA/Joel Kowsky NASA astronaut and Artemis II commander Reid Wiseman is seen in the two-seat IndyCar as he prepares for driver Conor Daly to take him on a lap ahead of the start of the Freedom 250 Grand Prix, Sunday, Aug.",
       "queued_ts": 1787593698
+    },
+    {
+      "fp": "c5184a87e5067a7ec11ad03e",
+      "title": "MAIA Air Sensor at Work in Addis Ababa",
+      "link": "https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-24T17:27:01+00:00",
+      "day_brt": "2026-08-24",
+      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal MAIA Air Sensor at Work in... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 1 Min Read MAIA Air Sensor at Work in Addis Ababa PIA26698 Credits: NASA/JPL-Caltech Image Addition Date: 08/24/2026 Downloads MAIA Air Sensor at Work in Addis Ababa JPEG (1,018.53 KB) Description This roof-mounted air sensor in Addis Ababa, the capital of Ethiopia, is one of 10 used by NASA’s Multi-Angle Imager for Aerosols ( MAIA ) to study the city’s air quality.",
+      "queued_ts": 1787597963
     }
   ],
   "digests_sent": {
@@ -9857,7 +9877,8 @@
       "c6fef09c6b2f1f96c3e10474": true
     },
     "2026-08-24": {
-      "94310ea666c91961f4f462ca": true
+      "94310ea666c91961f4f462ca": true,
+      "c5184a87e5067a7ec11ad03e": true
     }
   }
 }
