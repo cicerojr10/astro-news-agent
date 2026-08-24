@@ -9371,66 +9371,6 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 6 min read Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary Mars Science Laboratory Mission Team Members Aug 17, 2026 Article NASA’s Mars rover Curiosity acquired this image, of its onboard APXS instrument measuring target “Tunas Khasa,” using its Front Hazard Avoidance Camera (Front Hazcam).",
       "queued_ts": 1787021359
-    },
-    {
-      "fp": "94310ea666c91961f4f462ca",
-      "title": "NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix",
-      "link": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-at-freedom-250-grand-prix/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-24T17:34:09+00:00",
-      "day_brt": "2026-08-24",
-      "resumo_pt": "Resumo (PT-BR): 1 min read NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix HQ Web Team Aug 24, 2026 Image Article NASA/Joel Kowsky NASA astronaut and Artemis II commander Reid Wiseman is seen in the two-seat IndyCar as he prepares for driver Conor Daly to take him on a lap ahead of the start of the Freedom 250 Grand Prix, Sunday, Aug.",
-      "queued_ts": 1787593698
-    },
-    {
-      "fp": "c5184a87e5067a7ec11ad03e",
-      "title": "MAIA Air Sensor at Work in Addis Ababa",
-      "link": "https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-24T17:27:01+00:00",
-      "day_brt": "2026-08-24",
-      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal MAIA Air Sensor at Work in... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 1 Min Read MAIA Air Sensor at Work in Addis Ababa PIA26698 Credits: NASA/JPL-Caltech Image Addition Date: 08/24/2026 Downloads MAIA Air Sensor at Work in Addis Ababa JPEG (1,018.53 KB) Description This roof-mounted air sensor in Addis Ababa, the capital of Ethiopia, is one of 10 used by NASA’s Multi-Angle Imager for Aerosols ( MAIA ) to study the city’s air quality.",
-      "queued_ts": 1787597963
-    },
-    {
-      "fp": "5256fb3c13e2c4c7fe5c1df5",
-      "title": "Live coverage: SpaceX to launch Starlink mission on a Falcon booster’s record-breaking 37th flight",
-      "link": "https://spaceflightnow.com/2026/08/24/live-coverage-spacex-to-launch-starlink-mission-on-a-falcon-boosters-record-breaking-37th-flight/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-08-24T19:19:59+00:00",
-      "day_brt": "2026-08-24",
-      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch Starlink mission on a Falcon booster’s record-breaking 37th flight August 24, 2026 Will Robinson-Smith File: A SpaceX Falcon 9 rocket stands at Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station. Image: Adam Bernstein/Spaceflight Now SpaceX will launch a Falcon 9 rocket from Florida early Tuesday morning, using a first-stage booster making a record-breaking 37th flight.",
-      "queued_ts": 1787599639
-    },
-    {
-      "fp": "e67a57ee5e8e7a57eb3c618a",
-      "title": "APOD: 2026 August 24 – Comet 220P in Outburst",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-24-comet-220p-in-outburst/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-24T04:05:00+00:00",
-      "day_brt": "2026-08-24",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1787602532
-    },
-    {
-      "fp": "99aa618320dd26ccc0c6a767",
-      "title": "NASA Sets Coverage for Roman Space Telescope Launch from Florida",
-      "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-24T20:44:58+00:00",
-      "day_brt": "2026-08-24",
-      "resumo_pt": "Resumo (PT-BR): 6 min read NASA Sets Coverage for Roman Space Telescope Launch from Florida Jessica Taveau Aug 24, 2026 MEDIA ADVISORY M26-063 NASA Headquarters NASA’s Nancy Grace Roman Space Telescope is encapsulated within the payload fairing at the agency’s Kennedy Space Center in Florida, ahead of mating to a SpaceX Falcon Heavy rocket for launch. Credit: NASA/Sydney Rohde (Rocz) Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities.",
-      "queued_ts": 1787605982
     }
   ],
   "digests_sent": {
@@ -9885,7 +9825,8 @@
       "night": true
     },
     "2026-08-24": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
