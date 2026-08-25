@@ -8988,6 +8988,14 @@
       "link": "https://www.nasa.gov/image-article/astronauts-anil-menon-and-sophie-adenot-on-spacewalk/",
       "score": 4.0,
       "published_utc": "2026-08-25T14:57:26+00:00"
+    },
+    "53ec1638fa6cc4b846842bff": {
+      "ts": 1787673897,
+      "source": "NASA Breaking News",
+      "title": "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
+      "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/",
+      "score": 4.0,
+      "published_utc": "2026-08-25T13:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -9470,6 +9478,18 @@
       "day_brt": "2026-08-25",
       "resumo_pt": "Resumo (PT-BR): 1 min read Astronauts Anil Menon and Sophie Adenot on Spacewalk HQ Web Team Aug 25, 2026 Image Article NASA From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six‑hour and 23‑minute spacewalk outside the International Space Station on Aug. The pair will finish installing a high-speed communications antenna on Aug.",
       "queued_ts": 1787671457
+    },
+    {
+      "fp": "53ec1638fa6cc4b846842bff",
+      "title": "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
+      "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-25T13:00:00+00:00",
+      "day_brt": "2026-08-25",
+      "resumo_pt": "Resumo (PT-BR): 7 min read Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions NASA Science Editorial Team Aug 25, 2026 Article Contents The QSI Approach The HelioSwarm Demonstration Relevance to future NASA missions and non-NASA applications Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention. To address this challenge and provide model-based support for system design and operations, it is important to connect fault management (FM) and model-based systems engineering (MBSE).",
+      "queued_ts": 1787673900
     }
   ],
   "digests_sent": {
@@ -9988,7 +10008,8 @@
     },
     "2026-08-25": {
       "ec092855fdd82da0f4cbb243": true,
-      "6aabc09de85821d28cb30da6": true
+      "6aabc09de85821d28cb30da6": true,
+      "53ec1638fa6cc4b846842bff": true
     }
   }
 }
