@@ -9004,6 +9004,22 @@
       "link": "https://www.space.com/space-exploration/private-spaceflight/spacex-announces-enormous-usd100-billion-starbase-louisiana-starship-launch-site",
       "score": 2.8,
       "published_utc": "2026-08-25T18:27:22+00:00"
+    },
+    "afc039ed431d0dc737a2694a": {
+      "ts": 1787685646,
+      "source": "NASA Breaking News",
+      "title": "NASA Ames Experts Available for Roman Space Telescope Interviews",
+      "link": "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/",
+      "score": 4.0,
+      "published_utc": "2026-08-25T18:47:01+00:00"
+    },
+    "b9636f44257acf8c9f59ca02": {
+      "ts": 1787685646,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Pandora Mission Begins Study of Exoplanets, Host Stars",
+      "link": "https://science.nasa.gov/missions/pandora-missions/nasas-pandora-mission-begins-study-of-exoplanets-host-stars/",
+      "score": 4.0,
+      "published_utc": "2026-08-25T17:55:02+00:00"
     }
   },
   "digest_queue": [
@@ -9498,6 +9514,30 @@
       "day_brt": "2026-08-25",
       "resumo_pt": "Resumo (PT-BR): 7 min read Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions NASA Science Editorial Team Aug 25, 2026 Article Contents The QSI Approach The HelioSwarm Demonstration Relevance to future NASA missions and non-NASA applications Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention. To address this challenge and provide model-based support for system design and operations, it is important to connect fault management (FM) and model-based systems engineering (MBSE).",
       "queued_ts": 1787673900
+    },
+    {
+      "fp": "afc039ed431d0dc737a2694a",
+      "title": "NASA Ames Experts Available for Roman Space Telescope Interviews",
+      "link": "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-25T18:47:01+00:00",
+      "day_brt": "2026-08-25",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Ames Experts Available for Roman Space Telescope Interviews Jeanne Neal Aug 25, 2026 RELEASE NASA’s Ames Research Center in California’s Silicon Valley invites media to learn more about NASA’s Nancy Grace Roman Space Telescope, scheduled to launch Sunday, Aug. The Roman telescope will provide a wide, detailed view of the universe, helping scientists study dark energy, exoplanets, and cosmic structures.",
+      "queued_ts": 1787685650
+    },
+    {
+      "fp": "b9636f44257acf8c9f59ca02",
+      "title": "NASA’s Pandora Mission Begins Study of Exoplanets, Host Stars",
+      "link": "https://science.nasa.gov/missions/pandora-missions/nasas-pandora-mission-begins-study-of-exoplanets-host-stars/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-25T17:55:02+00:00",
+      "day_brt": "2026-08-25",
+      "resumo_pt": "Resumo (PT-BR): 5 min read NASA’s Pandora Mission Begins Study of Exoplanets, Host Stars Francis Reddy Aug 25, 2026 Article Pandora, NASA’s newest exoplanet mission and the first satellite to launch through the agency's Astrophysics Pioneers program, is now making unique observations of worlds beyond our solar system and the stars they orbit. The mission will determine the atmospheric make-up of at least 20 exoplanets, including the presence of hazes, clouds, and water.",
+      "queued_ts": 1787685650
     }
   ],
   "digests_sent": {
@@ -10017,7 +10057,9 @@
     "2026-08-25": {
       "ec092855fdd82da0f4cbb243": true,
       "6aabc09de85821d28cb30da6": true,
-      "53ec1638fa6cc4b846842bff": true
+      "53ec1638fa6cc4b846842bff": true,
+      "afc039ed431d0dc737a2694a": true,
+      "b9636f44257acf8c9f59ca02": true
     }
   }
 }
