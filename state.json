@@ -8964,6 +8964,22 @@
       "link": "https://www.space.com/space-exploration/satellites/satellite-defense-ares-shield-contract-lonestar-data-holdings",
       "score": 2.8,
       "published_utc": "2026-08-25T13:00:00+00:00"
+    },
+    "ec092855fdd82da0f4cbb243": {
+      "ts": 1787668563,
+      "source": "NASASpaceflight",
+      "title": "Starbase’s future production capacity ramping up",
+      "link": "https://www.nasaspaceflight.com/2026/08/starbases-future-production-capacity/",
+      "score": 3.6,
+      "published_utc": "2026-08-25T14:14:12+00:00"
+    },
+    "56552c6ad60794274d436111": {
+      "ts": 1787668564,
+      "source": "Space.com",
+      "title": "On this day in space! Aug. 25, 1997: NASA launches Advanced Composition Explorer to track solar wind and so much more",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-25-2026",
+      "score": 2.8,
+      "published_utc": "2026-08-25T14:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -9422,6 +9438,18 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 6 min read Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary Mars Science Laboratory Mission Team Members Aug 17, 2026 Article NASA’s Mars rover Curiosity acquired this image, of its onboard APXS instrument measuring target “Tunas Khasa,” using its Front Hazard Avoidance Camera (Front Hazcam).",
       "queued_ts": 1787021359
+    },
+    {
+      "fp": "ec092855fdd82da0f4cbb243",
+      "title": "Starbase’s future production capacity ramping up",
+      "link": "https://www.nasaspaceflight.com/2026/08/starbases-future-production-capacity/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-08-25T14:14:12+00:00",
+      "day_brt": "2026-08-25",
+      "resumo_pt": "Resumo (PT-BR): Starbase’s future production capacity ramping up by Eleanor Day and Chris Bergin August 25, 2026 written by Eleanor Day and Chris Bergin August 25, 2026 3 A flurry of activity has been underway at the Starbase production site over the past week, with multiple vehicle elements on the move and new tooling arriving that will support both near-term flights and the longer-term expansion of Starship operations. Milestones are also being achieved on the Gigabay facility, which will supercharge production cadence for the projected increase in launches.",
+      "queued_ts": 1787668565
     }
   ],
   "digests_sent": {
@@ -9937,6 +9965,9 @@
       "5256fb3c13e2c4c7fe5c1df5": true,
       "e67a57ee5e8e7a57eb3c618a": true,
       "99aa618320dd26ccc0c6a767": true
+    },
+    "2026-08-25": {
+      "ec092855fdd82da0f4cbb243": true
     }
   }
 }
