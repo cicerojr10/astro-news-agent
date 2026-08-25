@@ -8956,6 +8956,14 @@
       "score": 0.0,
       "published_utc": "2026-08-24T17:00:00+00:00",
       "note": "not_today"
+    },
+    "bb55150c035dab89c2e2bf26": {
+      "ts": 1787663069,
+      "source": "Space.com",
+      "title": "Polish startup Ares Shield hired to protect data center satellites with high-power microwave weapons",
+      "link": "https://www.space.com/space-exploration/satellites/satellite-defense-ares-shield-contract-lonestar-data-holdings",
+      "score": 2.8,
+      "published_utc": "2026-08-25T13:00:00+00:00"
     }
   },
   "digest_queue": [
