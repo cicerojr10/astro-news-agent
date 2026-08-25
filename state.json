@@ -9044,6 +9044,14 @@
       "link": "https://spaceflightnow.com/2026/08/25/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-2/",
       "score": 4.680000000000001,
       "published_utc": "2026-08-25T22:28:32+00:00"
+    },
+    "f151402678c94dedeeb542c1": {
+      "ts": 1787698986,
+      "source": "NASA Breaking News",
+      "title": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
+      "link": "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
+      "score": 4.0,
+      "published_utc": "2026-08-25T22:28:34+00:00"
     }
   },
   "digest_queue": [
@@ -9502,102 +9510,6 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 6 min read Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary Mars Science Laboratory Mission Team Members Aug 17, 2026 Article NASA’s Mars rover Curiosity acquired this image, of its onboard APXS instrument measuring target “Tunas Khasa,” using its Front Hazard Avoidance Camera (Front Hazcam).",
       "queued_ts": 1787021359
-    },
-    {
-      "fp": "ec092855fdd82da0f4cbb243",
-      "title": "Starbase’s future production capacity ramping up",
-      "link": "https://www.nasaspaceflight.com/2026/08/starbases-future-production-capacity/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-08-25T14:14:12+00:00",
-      "day_brt": "2026-08-25",
-      "resumo_pt": "Resumo (PT-BR): Starbase’s future production capacity ramping up by Eleanor Day and Chris Bergin August 25, 2026 written by Eleanor Day and Chris Bergin August 25, 2026 3 A flurry of activity has been underway at the Starbase production site over the past week, with multiple vehicle elements on the move and new tooling arriving that will support both near-term flights and the longer-term expansion of Starship operations. Milestones are also being achieved on the Gigabay facility, which will supercharge production cadence for the projected increase in launches.",
-      "queued_ts": 1787668565
-    },
-    {
-      "fp": "6aabc09de85821d28cb30da6",
-      "title": "Astronauts Anil Menon and Sophie Adenot on Spacewalk",
-      "link": "https://www.nasa.gov/image-article/astronauts-anil-menon-and-sophie-adenot-on-spacewalk/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-25T14:57:26+00:00",
-      "day_brt": "2026-08-25",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Astronauts Anil Menon and Sophie Adenot on Spacewalk HQ Web Team Aug 25, 2026 Image Article NASA From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six‑hour and 23‑minute spacewalk outside the International Space Station on Aug. The pair will finish installing a high-speed communications antenna on Aug.",
-      "queued_ts": 1787671457
-    },
-    {
-      "fp": "53ec1638fa6cc4b846842bff",
-      "title": "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
-      "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-25T13:00:00+00:00",
-      "day_brt": "2026-08-25",
-      "resumo_pt": "Resumo (PT-BR): 7 min read Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions NASA Science Editorial Team Aug 25, 2026 Article Contents The QSI Approach The HelioSwarm Demonstration Relevance to future NASA missions and non-NASA applications Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention. To address this challenge and provide model-based support for system design and operations, it is important to connect fault management (FM) and model-based systems engineering (MBSE).",
-      "queued_ts": 1787673900
-    },
-    {
-      "fp": "afc039ed431d0dc737a2694a",
-      "title": "NASA Ames Experts Available for Roman Space Telescope Interviews",
-      "link": "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-25T18:47:01+00:00",
-      "day_brt": "2026-08-25",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Ames Experts Available for Roman Space Telescope Interviews Jeanne Neal Aug 25, 2026 RELEASE NASA’s Ames Research Center in California’s Silicon Valley invites media to learn more about NASA’s Nancy Grace Roman Space Telescope, scheduled to launch Sunday, Aug. The Roman telescope will provide a wide, detailed view of the universe, helping scientists study dark energy, exoplanets, and cosmic structures.",
-      "queued_ts": 1787685650
-    },
-    {
-      "fp": "b9636f44257acf8c9f59ca02",
-      "title": "NASA’s Pandora Mission Begins Study of Exoplanets, Host Stars",
-      "link": "https://science.nasa.gov/missions/pandora-missions/nasas-pandora-mission-begins-study-of-exoplanets-host-stars/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-25T17:55:02+00:00",
-      "day_brt": "2026-08-25",
-      "resumo_pt": "Resumo (PT-BR): 5 min read NASA’s Pandora Mission Begins Study of Exoplanets, Host Stars Francis Reddy Aug 25, 2026 Article Pandora, NASA’s newest exoplanet mission and the first satellite to launch through the agency's Astrophysics Pioneers program, is now making unique observations of worlds beyond our solar system and the stars they orbit. The mission will determine the atmospheric make-up of at least 20 exoplanets, including the presence of hazes, clouds, and water.",
-      "queued_ts": 1787685650
-    },
-    {
-      "fp": "890381bbb1ddca08258a7f37",
-      "title": "NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-25T20:20:58+00:00",
-      "day_brt": "2026-08-25",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama Savannah Bullard Communications Strategist Aug 25, 2026 MEDIA ADVISORY M26-001 Marshall Space Flight Center NASA will announce the winners of the final phase of its LunaRecycle Challenge on Friday, Aug. 28, at The University of Alabama (UA) Lee Styslinger College of Engineering in Tuscaloosa, Alabama.",
-      "queued_ts": 1787694953
-    },
-    {
-      "fp": "f4818546e6c598b43bd9c22c",
-      "title": "NASA Ames’ Contributions to Roman’s Mission",
-      "link": "https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-25T19:44:55+00:00",
-      "day_brt": "2026-08-25",
-      "resumo_pt": "Resumo (PT-BR): 5 min read NASA Ames’ Contributions to Roman’s Mission Gianine Figliozzi Aug 25, 2026 Article The Nancy Grace Roman Space Telescope is a NASA observatory designed to settle essential questions in the areas of dark energy, exoplanets, and infrared astrophysics. 30, NASA’s Nancy Grace Roman Space Telescope will empower astronomers to explore vast regions of the cosmos and settle essential questions in the areas of dark energy, dark matter, planets outside our solar system, and the formation and growth of galaxies over cosmic time.",
-      "queued_ts": 1787694953
-    },
-    {
-      "fp": "c021208f36f9364839ff8811",
-      "title": "Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg",
-      "link": "https://spaceflightnow.com/2026/08/25/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-2/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-08-25T22:28:32+00:00",
-      "day_brt": "2026-08-25",
-      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg August 25, 2026 Will Robinson-Smith A file photo of a stack of Starlink satellites prior to deployment from a Falcon 9 upper stage. Image: SpaceX SpaceX is preparing to launch its latest Starlink mission from Vandenberg Space Force Base early Wednesday morning.",
-      "queued_ts": 1787697899
     }
   ],
   "digests_sent": {
@@ -10056,7 +9968,8 @@
       "night": true
     },
     "2026-08-25": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -10122,7 +10035,8 @@
       "b9636f44257acf8c9f59ca02": true,
       "890381bbb1ddca08258a7f37": true,
       "f4818546e6c598b43bd9c22c": true,
-      "c021208f36f9364839ff8811": true
+      "c021208f36f9364839ff8811": true,
+      "f151402678c94dedeeb542c1": true
     }
   }
 }
