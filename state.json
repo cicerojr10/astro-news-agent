@@ -8930,6 +8930,32 @@
       "score": 0.0,
       "published_utc": "2026-08-24T17:00:00+00:00",
       "note": "not_today"
+    },
+    "2ea555ad67f7dd98227c1b98": {
+      "ts": 1787659399,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches Starlink mission on a Falcon booster’s record-breaking 37th flight",
+      "link": "https://spaceflightnow.com/2026/08/24/live-coverage-spacex-to-launch-starlink-mission-on-a-falcon-boosters-record-breaking-37th-flight/",
+      "score": 0.0,
+      "published_utc": "2026-08-24T19:19:59+00:00",
+      "note": "not_today"
+    },
+    "14f289e90a37e09239b6cf19": {
+      "ts": 1787659400,
+      "source": "Space.com",
+      "title": "NASA satellites ace world's 1st 'lost-in-space' GPS-free navigation experiment",
+      "link": "https://www.space.com/space-exploration/satellites/nasa-satellites-ace-worlds-1st-lost-in-space-gps-free-navigation-experiment",
+      "score": 2.8,
+      "published_utc": "2026-08-25T12:00:00+00:00"
+    },
+    "42ef2d9eb264a922f0dcf830": {
+      "ts": 1787659400,
+      "source": "Space.com",
+      "title": "SpaceX sets rocket-reuse record on 100th Falcon 9 launch of the year (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-record-37th-booster-flight-100-falcon-9-launches",
+      "score": 0.0,
+      "published_utc": "2026-08-24T17:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
