@@ -8980,6 +8980,14 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-25-2026",
       "score": 2.8,
       "published_utc": "2026-08-25T14:00:00+00:00"
+    },
+    "6aabc09de85821d28cb30da6": {
+      "ts": 1787671454,
+      "source": "NASA Breaking News",
+      "title": "Astronauts Anil Menon and Sophie Adenot on Spacewalk",
+      "link": "https://www.nasa.gov/image-article/astronauts-anil-menon-and-sophie-adenot-on-spacewalk/",
+      "score": 4.0,
+      "published_utc": "2026-08-25T14:57:26+00:00"
     }
   },
   "digest_queue": [
@@ -9450,6 +9458,18 @@
       "day_brt": "2026-08-25",
       "resumo_pt": "Resumo (PT-BR): Starbase’s future production capacity ramping up by Eleanor Day and Chris Bergin August 25, 2026 written by Eleanor Day and Chris Bergin August 25, 2026 3 A flurry of activity has been underway at the Starbase production site over the past week, with multiple vehicle elements on the move and new tooling arriving that will support both near-term flights and the longer-term expansion of Starship operations. Milestones are also being achieved on the Gigabay facility, which will supercharge production cadence for the projected increase in launches.",
       "queued_ts": 1787668565
+    },
+    {
+      "fp": "6aabc09de85821d28cb30da6",
+      "title": "Astronauts Anil Menon and Sophie Adenot on Spacewalk",
+      "link": "https://www.nasa.gov/image-article/astronauts-anil-menon-and-sophie-adenot-on-spacewalk/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-25T14:57:26+00:00",
+      "day_brt": "2026-08-25",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Astronauts Anil Menon and Sophie Adenot on Spacewalk HQ Web Team Aug 25, 2026 Image Article NASA From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six‑hour and 23‑minute spacewalk outside the International Space Station on Aug. The pair will finish installing a high-speed communications antenna on Aug.",
+      "queued_ts": 1787671457
     }
   ],
   "digests_sent": {
@@ -9967,7 +9987,8 @@
       "99aa618320dd26ccc0c6a767": true
     },
     "2026-08-25": {
-      "ec092855fdd82da0f4cbb243": true
+      "ec092855fdd82da0f4cbb243": true,
+      "6aabc09de85821d28cb30da6": true
     }
   }
 }
