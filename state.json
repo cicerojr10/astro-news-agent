@@ -8921,6 +8921,15 @@
       "link": "https://www.space.com/space-exploration/international-space-station/watch-2-astronauts-replace-failed-iss-antenna-during-spacewalk-today",
       "score": 2.8,
       "published_utc": "2026-08-25T04:01:00+00:00"
+    },
+    "52d3ed78abf1e6b6062b9314": {
+      "ts": 1787658238,
+      "source": "Space.com",
+      "title": "SpaceX sets rocket-reuse record on 100th Falcon 9 launch of the year",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-record-37th-booster-flight-100-falcon-9-launches",
+      "score": 0.0,
+      "published_utc": "2026-08-24T17:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
