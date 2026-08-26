@@ -9069,6 +9069,14 @@
       "score": 0.0,
       "published_utc": "2026-08-25T14:50:50+00:00",
       "note": "not_today"
+    },
+    "470cee458f29b2e864df27b7": {
+      "ts": 1787738575,
+      "source": "Space.com",
+      "title": "Inside the Nancy Grace Roman Space Telescope, NASA's next great observatory",
+      "link": "https://www.space.com/astronomy/inside-the-nancy-grace-roman-space-telescope-nasas-next-great-observatory",
+      "score": 2.8,
+      "published_utc": "2026-08-26T10:00:00+00:00"
     }
   },
   "digest_queue": [
