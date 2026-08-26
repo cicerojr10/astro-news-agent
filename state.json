@@ -9095,6 +9095,14 @@
       "score": 0.0,
       "published_utc": "2026-08-24T12:00:00+00:00",
       "note": "not_today"
+    },
+    "d00cca2caabd0d1d41965dce": {
+      "ts": 1787742703,
+      "source": "Space.com",
+      "title": "SpaceX sends Starlink satellites to orbit on predawn launch from California",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink--15-22-b1082-ocisly",
+      "score": 2.8,
+      "published_utc": "2026-08-26T11:04:35+00:00"
     }
   },
   "digest_queue": [
@@ -9553,18 +9561,6 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 6 min read Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary Mars Science Laboratory Mission Team Members Aug 17, 2026 Article NASA’s Mars rover Curiosity acquired this image, of its onboard APXS instrument measuring target “Tunas Khasa,” using its Front Hazard Avoidance Camera (Front Hazcam).",
       "queued_ts": 1787021359
-    },
-    {
-      "fp": "7d2d715e993e7f8606df2b6d",
-      "title": "Starbase, Louisiana: The Largest Private Spaceport in the World",
-      "link": "https://www.nasaspaceflight.com/2026/08/starbase-louisiana-largest-private-spaceport-world/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-08-26T03:56:21+00:00",
-      "day_brt": "2026-08-26",
-      "resumo_pt": "Resumo (PT-BR): Starbase, Louisiana: The Largest Private Spaceport in the World by Alejandro Alcantarilla Romera, Ryan Caton, and Joe Kangas. August 25, 2026 written by Alejandro Alcantarilla Romera, Ryan Caton, and Joe Kangas.",
-      "queued_ts": 1787717098
     }
   ],
   "digests_sent": {
@@ -10025,6 +10021,9 @@
     "2026-08-25": {
       "morning": true,
       "night": true
+    },
+    "2026-08-26": {
+      "morning": true
     }
   },
   "sent_updates": {
