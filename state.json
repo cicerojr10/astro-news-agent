@@ -9060,6 +9060,15 @@
       "link": "https://www.nasaspaceflight.com/2026/08/starbase-louisiana-largest-private-spaceport-world/",
       "score": 3.6,
       "published_utc": "2026-08-26T03:56:21+00:00"
+    },
+    "62d262b96b5c786f33d5a071": {
+      "ts": 1787733690,
+      "source": "Space.com",
+      "title": "NOAA issues geomagnetic storm watch as CMEs head toward Earth — northern lights possible Aug. 27-28",
+      "link": "https://www.space.com/stargazing/auroras/sun-fires-powerful-m6-9-solar-flare-and-cme-toward-earth-could-it-boost-northern-lights-chances-this-week",
+      "score": 0.0,
+      "published_utc": "2026-08-25T14:50:50+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
