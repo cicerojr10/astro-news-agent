@@ -9111,6 +9111,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-final-falcon-9-starlink-launch-from-florida-creates-gorgeous-jellyfish-over-new-york-city-video",
       "score": 2.8,
       "published_utc": "2026-08-26T12:00:00+00:00"
+    },
+    "05c408f2dea3f9ea996abc45": {
+      "ts": 1787760431,
+      "source": "NASA Breaking News",
+      "title": "NASA Sets Spacewalk for Station Maintenance, Live Coverage Planned",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-spacewalk-for-station-maintenance-live-coverage-planned/",
+      "score": 5.2,
+      "published_utc": "2026-08-26T14:16:29+00:00"
+    },
+    "38af20881a1907be369f0f27": {
+      "ts": 1787760431,
+      "source": "NASA Breaking News",
+      "title": "Contractor to Civil Servant: NASA Welcomes Jeret Howard",
+      "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jeret-howard/",
+      "score": 4.0,
+      "published_utc": "2026-08-26T13:32:28+00:00"
     }
   },
   "digest_queue": [
@@ -9569,6 +9585,30 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 6 min read Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary Mars Science Laboratory Mission Team Members Aug 17, 2026 Article NASA’s Mars rover Curiosity acquired this image, of its onboard APXS instrument measuring target “Tunas Khasa,” using its Front Hazard Avoidance Camera (Front Hazcam).",
       "queued_ts": 1787021359
+    },
+    {
+      "fp": "05c408f2dea3f9ea996abc45",
+      "title": "NASA Sets Spacewalk for Station Maintenance, Live Coverage Planned",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-spacewalk-for-station-maintenance-live-coverage-planned/",
+      "source": "NASA Breaking News",
+      "score": 5.2,
+      "is_anomaly": false,
+      "published_utc": "2026-08-26T14:16:29+00:00",
+      "day_brt": "2026-08-26",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Sets Spacewalk for Station Maintenance, Live Coverage Planned Jennifer M. Dooren Aug 26, 2026 MEDIA ADVISORY M26-064 NASA Headquarters NASA astronaut Jessica Meir and ESA (European Space Agency) astronaut Sophie Adenot work together inside the International Space Station’s Quest airlock during spacesuit fit and leak checks.",
+      "queued_ts": 1787760435
+    },
+    {
+      "fp": "38af20881a1907be369f0f27",
+      "title": "Contractor to Civil Servant: NASA Welcomes Jeret Howard",
+      "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jeret-howard/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-26T13:32:28+00:00",
+      "day_brt": "2026-08-26",
+      "resumo_pt": "Resumo (PT-BR): 4 min read Contractor to Civil Servant: NASA Welcomes Jeret Howard Bo Black Communications Strategist Aug 26, 2026 Article Jeret Howard, logistics management specialist at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, poses for a photograph on July 27, 2026.",
+      "queued_ts": 1787760435
     }
   ],
   "digests_sent": {
@@ -10101,7 +10141,9 @@
       "f151402678c94dedeeb542c1": true
     },
     "2026-08-26": {
-      "7d2d715e993e7f8606df2b6d": true
+      "7d2d715e993e7f8606df2b6d": true,
+      "05c408f2dea3f9ea996abc45": true,
+      "38af20881a1907be369f0f27": true
     }
   }
 }
