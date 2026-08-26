@@ -9077,6 +9077,24 @@
       "link": "https://www.space.com/astronomy/inside-the-nancy-grace-roman-space-telescope-nasas-next-great-observatory",
       "score": 2.8,
       "published_utc": "2026-08-26T10:00:00+00:00"
+    },
+    "e526f9bbc96083487c9b096d": {
+      "ts": 1787741105,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches 27 Starlink satellites on Falcon 9 rocket from Vandenberg",
+      "link": "https://spaceflightnow.com/2026/08/25/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-2/",
+      "score": 0.0,
+      "published_utc": "2026-08-25T22:28:32+00:00",
+      "note": "not_today"
+    },
+    "9d508e536e817a5f31bbe141": {
+      "ts": 1787741107,
+      "source": "Space.com",
+      "title": "Nancy Grace Roman Telescope live updates: NASA readies Roman for launch",
+      "link": "https://www.space.com/news/live/nancy-grace-roman-telescope-live-updates-nasa-readies-roman-for-launch-august-26-2026",
+      "score": 0.0,
+      "published_utc": "2026-08-24T12:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
