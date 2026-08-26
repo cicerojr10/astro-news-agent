@@ -9052,6 +9052,14 @@
       "link": "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
       "score": 4.0,
       "published_utc": "2026-08-25T22:28:34+00:00"
+    },
+    "7d2d715e993e7f8606df2b6d": {
+      "ts": 1787717096,
+      "source": "NASASpaceflight",
+      "title": "Starbase, Louisiana: The Largest Private Spaceport in the World",
+      "link": "https://www.nasaspaceflight.com/2026/08/starbase-louisiana-largest-private-spaceport-world/",
+      "score": 3.6,
+      "published_utc": "2026-08-26T03:56:21+00:00"
     }
   },
   "digest_queue": [
@@ -9510,6 +9518,18 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 6 min read Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary Mars Science Laboratory Mission Team Members Aug 17, 2026 Article NASA’s Mars rover Curiosity acquired this image, of its onboard APXS instrument measuring target “Tunas Khasa,” using its Front Hazard Avoidance Camera (Front Hazcam).",
       "queued_ts": 1787021359
+    },
+    {
+      "fp": "7d2d715e993e7f8606df2b6d",
+      "title": "Starbase, Louisiana: The Largest Private Spaceport in the World",
+      "link": "https://www.nasaspaceflight.com/2026/08/starbase-louisiana-largest-private-spaceport-world/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-08-26T03:56:21+00:00",
+      "day_brt": "2026-08-26",
+      "resumo_pt": "Resumo (PT-BR): Starbase, Louisiana: The Largest Private Spaceport in the World by Alejandro Alcantarilla Romera, Ryan Caton, and Joe Kangas. August 25, 2026 written by Alejandro Alcantarilla Romera, Ryan Caton, and Joe Kangas.",
+      "queued_ts": 1787717098
     }
   ],
   "digests_sent": {
@@ -10037,6 +10057,9 @@
       "f4818546e6c598b43bd9c22c": true,
       "c021208f36f9364839ff8811": true,
       "f151402678c94dedeeb542c1": true
+    },
+    "2026-08-26": {
+      "7d2d715e993e7f8606df2b6d": true
     }
   }
 }
