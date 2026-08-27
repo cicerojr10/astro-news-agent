@@ -9167,6 +9167,54 @@
       "link": "https://www.space.com/astronomy/from-spy-satellite-to-space-telescope-the-unlikely-origins-of-nasas-roman-space-telescope",
       "score": 2.8,
       "published_utc": "2026-08-26T21:00:00+00:00"
+    },
+    "938c9d2a227954ec1d1a85df": {
+      "ts": 1787863364,
+      "source": "Space.com",
+      "title": "Astronaut Jonny Kim leaves NASA, will return to active military duty",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/astronaut-jonny-kim-leaves-nasa-will-return-to-active-military-duty",
+      "score": 2.8,
+      "published_utc": "2026-08-27T19:02:45+00:00"
+    },
+    "99cb4c8ce204eb49c1d5ff97": {
+      "ts": 1787863364,
+      "source": "Space.com",
+      "title": "After failure of private rescue mission, NASA's Swift space telescope will crash back to Earth. But when and where?",
+      "link": "https://www.space.com/space-exploration/missions/after-failure-of-private-rescue-mission-nasas-swift-space-telescope-will-crash-back-to-earth-but-when-and-where",
+      "score": 10.5,
+      "published_utc": "2026-08-27T18:00:00+00:00"
+    },
+    "4bce7fde356bcb013c7cb025": {
+      "ts": 1787863364,
+      "source": "Space.com",
+      "title": "Starship is coming home! SpaceX loads floating spacecraft onto huge ship in the Indian Ocean (photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/starship-is-coming-home-spacex-loads-floating-spacecraft-onto-huge-ship-in-the-indian-ocean-photos",
+      "score": 2.8,
+      "published_utc": "2026-08-27T16:45:12+00:00"
+    },
+    "b507fdfa4a961631c87a4176": {
+      "ts": 1787863364,
+      "source": "Space.com",
+      "title": "Trump tried to scrap NASA's Roman Space Telescope last year. Now it's ready to launch",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/trump-tried-to-scrap-nasas-roman-space-telescope-last-year-now-its-ready-to-launch",
+      "score": 7.0,
+      "published_utc": "2026-08-27T15:00:00+00:00"
+    },
+    "f334cd83ec1c407780cabfc1": {
+      "ts": 1787863365,
+      "source": "Space.com",
+      "title": "On this day in space! Aug. 27, 1962: NASA launches Mariner 2 to Venus for ambitious flyby",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-27-2026",
+      "score": 2.8,
+      "published_utc": "2026-08-27T14:00:00+00:00"
+    },
+    "6ca71898ae96eb3c0e1c629b": {
+      "ts": 1787863365,
+      "source": "Space.com",
+      "title": "Powerful Ariane 6 rocket launches European weather satellite to orbit (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ariane-6-rocket-launch-mtg-i2-weather-satellite",
+      "score": 2.8,
+      "published_utc": "2026-08-27T12:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -9625,6 +9673,30 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 6 min read Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary Mars Science Laboratory Mission Team Members Aug 17, 2026 Article NASA’s Mars rover Curiosity acquired this image, of its onboard APXS instrument measuring target “Tunas Khasa,” using its Front Hazard Avoidance Camera (Front Hazcam).",
       "queued_ts": 1787021359
+    },
+    {
+      "fp": "99cb4c8ce204eb49c1d5ff97",
+      "title": "After failure of private rescue mission, NASA's Swift space telescope will crash back to Earth. But when and where?",
+      "link": "https://www.space.com/space-exploration/missions/after-failure-of-private-rescue-mission-nasas-swift-space-telescope-will-crash-back-to-earth-but-when-and-where",
+      "source": "Space.com",
+      "score": 10.5,
+      "is_anomaly": true,
+      "published_utc": "2026-08-27T18:00:00+00:00",
+      "day_brt": "2026-08-27",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Missions After failure of private rescue mission, NASA's Swift space telescope will crash back to Earth. News By Leonard David Published 27 August 2026 \"The most likely outcome is that any surviving debris will land in the sea, but there is a chance it could impact a built-up area and cause a casualty.\" When you purchase through links on our site, we may earn an affiliate commission.",
+      "queued_ts": 1787863366
+    },
+    {
+      "fp": "b507fdfa4a961631c87a4176",
+      "title": "Trump tried to scrap NASA's Roman Space Telescope last year. Now it's ready to launch",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/trump-tried-to-scrap-nasas-roman-space-telescope-last-year-now-its-ready-to-launch",
+      "source": "Space.com",
+      "score": 7.0,
+      "is_anomaly": true,
+      "published_utc": "2026-08-27T15:00:00+00:00",
+      "day_brt": "2026-08-27",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft Trump tried to scrap NASA's Roman Space Telescope last year. Now it's ready to launch News By Josh Dinner Published 27 August 2026 \"People were giving up their weekends, and at the same time, there was this compartmentalized knowledge that it could all get cut.\" When you purchase through links on our site, we may earn an affiliate commission.",
+      "queued_ts": 1787863366
     }
   ],
   "digests_sent": {
@@ -10092,38 +10164,6 @@
     }
   },
   "sent_updates": {
-    "2026-08-17": {
-      "2da68077b85b71b052ded6fd": true,
-      "e345dde3697b555cc715caef": true,
-      "6dbc7e8a84420046a259b09a": true,
-      "b9f296f44ecbb26e2a17be02": true,
-      "f2996eeaac7a646ffd39ec20": true,
-      "c5019ebd3832d133c33a5d26": true
-    },
-    "2026-08-18": {
-      "35ef81f8dd9bfb9d7174fedb": true,
-      "819c1852700f3a79b487b592": true,
-      "0a333c468e1716336701fdc9": true,
-      "14d9bd412046bcb326c6ac80": true
-    },
-    "2026-08-19": {
-      "17787403de15e141b8a7013f": true,
-      "4ed7a4c6e93a67ecb4f9ffa0": true,
-      "00ea744862d2dffaa8de03e6": true,
-      "19275a42de5dd9a5045cbf6b": true,
-      "53eda538381ed74aba0b310b": true,
-      "89b31b43b5924beaf80541a5": true,
-      "8c921e1b048e5c52ca9cbfbb": true
-    },
-    "2026-08-20": {
-      "ca9bb8dfa13351851609dc84": true,
-      "b11525efcce78fedd3113ea0": true,
-      "b6fb909738ea3a28f51479af": true,
-      "9beaeafb82f54335282507de": true,
-      "a17a6eec7e4b209d2dbff390": true,
-      "2f451a13a14458bfc44b646e": true,
-      "5ebb1ef90ceb3892bb1444ff": true
-    },
     "2026-08-21": {
       "6f6fbefa0bdcb2788da587d7": true,
       "1baf3dd84dbc8350a0abb703": true,
@@ -10164,6 +10204,10 @@
       "767ea758f8749f4ec78b2b4c": true,
       "b5f0587f40668607f4ed68cb": true,
       "46d1788cd4337f588971324a": true
+    },
+    "2026-08-27": {
+      "99cb4c8ce204eb49c1d5ff97": true,
+      "b507fdfa4a961631c87a4176": true
     }
   }
 }
