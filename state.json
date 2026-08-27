@@ -9215,6 +9215,46 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/ariane-6-rocket-launch-mtg-i2-weather-satellite",
       "score": 2.8,
       "published_utc": "2026-08-27T12:00:00+00:00"
+    },
+    "ee5bff0ea32cdd0dc10cab56": {
+      "ts": 1787863791,
+      "source": "NASA Breaking News",
+      "title": "NASA Invites Media to Turkey Artemis Accords Signing Ceremony",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/",
+      "score": 4.0,
+      "published_utc": "2026-08-27T18:42:38+00:00"
+    },
+    "e54a1e728ff12ae26017abe4": {
+      "ts": 1787863791,
+      "source": "NASA Breaking News",
+      "title": "Civil Servants Sworn in at NASA Ames",
+      "link": "https://www.nasa.gov/image-article/civil-servants-sworn-in-at-nasa-ames/",
+      "score": 4.0,
+      "published_utc": "2026-08-27T18:02:54+00:00"
+    },
+    "44b5d7cb0482cce73c0151fb": {
+      "ts": 1787863792,
+      "source": "NASA Breaking News",
+      "title": "9 Things to Know About NASA’s Nancy Grace Roman Space Telescope",
+      "link": "https://science.nasa.gov/missions/roman-space-telescope/9-things-to-know-about-nasas-nancy-grace-roman-space-telescope/",
+      "score": 4.0,
+      "published_utc": "2026-08-27T17:47:11+00:00"
+    },
+    "a46c36bb149428fedff32e5d": {
+      "ts": 1787863792,
+      "source": "NASA Breaking News",
+      "title": "NASA Astronaut Jonny Kim Departs Agency to Continue Military Service",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-departs-agency-to-continue-military-service/",
+      "score": 4.0,
+      "published_utc": "2026-08-27T15:10:24+00:00"
+    },
+    "7684c129e225275a4ce20edf": {
+      "ts": 1787863792,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 August 27 – Colorful Aurora over an Icelandic Waterfall",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-27-colorful-aurora-over-an-icelandic-waterfall/",
+      "score": 4.0,
+      "published_utc": "2026-08-27T04:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -9697,6 +9737,66 @@
       "day_brt": "2026-08-27",
       "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft Trump tried to scrap NASA's Roman Space Telescope last year. Now it's ready to launch News By Josh Dinner Published 27 August 2026 \"People were giving up their weekends, and at the same time, there was this compartmentalized knowledge that it could all get cut.\" When you purchase through links on our site, we may earn an affiliate commission.",
       "queued_ts": 1787863366
+    },
+    {
+      "fp": "ee5bff0ea32cdd0dc10cab56",
+      "title": "NASA Invites Media to Turkey Artemis Accords Signing Ceremony",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-27T18:42:38+00:00",
+      "day_brt": "2026-08-27",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA Invites Media to Turkey Artemis Accords Signing Ceremony Jennifer M. Dooren Aug 27, 2026 MEDIA ADVISORY M26-065 NASA Headquarters Credit: NASA Turkey will sign the Artemis Accords during a ceremony at 2:30 p.m.",
+      "queued_ts": 1787863796
+    },
+    {
+      "fp": "e54a1e728ff12ae26017abe4",
+      "title": "Civil Servants Sworn in at NASA Ames",
+      "link": "https://www.nasa.gov/image-article/civil-servants-sworn-in-at-nasa-ames/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-27T18:02:54+00:00",
+      "day_brt": "2026-08-27",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Civil Servants Sworn in at NASA Ames HQ Web Team Aug 27, 2026 Image Article Brandon Torres Navarrete New civil servants and guests pose for a group photo with NASA and center leadership in the National Full-Scale Aerodynamics Complex (NFAC) 80-by-120-foot test section , N221 on Aug. The civil servants were sworn-in the same day in the largest swearing-in ceremony ever hosted at NASA’s Ames Research Center in California’s Silicon Valley since its inception nearly 87 years ago.",
+      "queued_ts": 1787863796
+    },
+    {
+      "fp": "44b5d7cb0482cce73c0151fb",
+      "title": "9 Things to Know About NASA’s Nancy Grace Roman Space Telescope",
+      "link": "https://science.nasa.gov/missions/roman-space-telescope/9-things-to-know-about-nasas-nancy-grace-roman-space-telescope/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-27T17:47:11+00:00",
+      "day_brt": "2026-08-27",
+      "resumo_pt": "Resumo (PT-BR): 1 min read 9 Things to Know About NASA’s Nancy Grace Roman Space Telescope Ashley Balzer Aug 27, 2026 Article NASA’s Nancy Grace Roman Space Telescope is set to launch at 7:26 a.m. While you wait to watch the launch , brush up on some key facts about this wide-view mission.",
+      "queued_ts": 1787863796
+    },
+    {
+      "fp": "a46c36bb149428fedff32e5d",
+      "title": "NASA Astronaut Jonny Kim Departs Agency to Continue Military Service",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-departs-agency-to-continue-military-service/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-27T15:10:24+00:00",
+      "day_brt": "2026-08-27",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA Astronaut Jonny Kim Departs Agency to Continue Military Service Jessica Taveau Aug 27, 2026 RELEASE 26-068 NASA Headquarters NASA astronaut Jonny Kim poses for a portrait at NASA’s Johnson Space Center in Houston. Credit: NASA/Josh Valcarcel After nearly a decade of service to NASA, including an eight-month science expedition aboard the International Space Station, astronaut Jonny Kim’s last day at the agency is Thursday.",
+      "queued_ts": 1787863796
+    },
+    {
+      "fp": "7684c129e225275a4ce20edf",
+      "title": "APOD: 2026 August 27 – Colorful Aurora over an Icelandic Waterfall",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-27-colorful-aurora-over-an-icelandic-waterfall/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-27T04:05:00+00:00",
+      "day_brt": "2026-08-27",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1787863796
     }
   ],
   "digests_sent": {
@@ -10207,7 +10307,10 @@
     },
     "2026-08-27": {
       "99cb4c8ce204eb49c1d5ff97": true,
-      "b507fdfa4a961631c87a4176": true
+      "b507fdfa4a961631c87a4176": true,
+      "ee5bff0ea32cdd0dc10cab56": true,
+      "e54a1e728ff12ae26017abe4": true,
+      "44b5d7cb0482cce73c0151fb": true
     }
   }
 }
