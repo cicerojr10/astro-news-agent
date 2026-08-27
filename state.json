@@ -9625,66 +9625,6 @@
       "day_brt": "2026-08-17",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 6 min read Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary Mars Science Laboratory Mission Team Members Aug 17, 2026 Article NASA’s Mars rover Curiosity acquired this image, of its onboard APXS instrument measuring target “Tunas Khasa,” using its Front Hazard Avoidance Camera (Front Hazcam).",
       "queued_ts": 1787021359
-    },
-    {
-      "fp": "05c408f2dea3f9ea996abc45",
-      "title": "NASA Sets Spacewalk for Station Maintenance, Live Coverage Planned",
-      "link": "https://www.nasa.gov/news-release/nasa-sets-spacewalk-for-station-maintenance-live-coverage-planned/",
-      "source": "NASA Breaking News",
-      "score": 5.2,
-      "is_anomaly": false,
-      "published_utc": "2026-08-26T14:16:29+00:00",
-      "day_brt": "2026-08-26",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Sets Spacewalk for Station Maintenance, Live Coverage Planned Jennifer M. Dooren Aug 26, 2026 MEDIA ADVISORY M26-064 NASA Headquarters NASA astronaut Jessica Meir and ESA (European Space Agency) astronaut Sophie Adenot work together inside the International Space Station’s Quest airlock during spacesuit fit and leak checks.",
-      "queued_ts": 1787760435
-    },
-    {
-      "fp": "38af20881a1907be369f0f27",
-      "title": "Contractor to Civil Servant: NASA Welcomes Jeret Howard",
-      "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jeret-howard/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-26T13:32:28+00:00",
-      "day_brt": "2026-08-26",
-      "resumo_pt": "Resumo (PT-BR): 4 min read Contractor to Civil Servant: NASA Welcomes Jeret Howard Bo Black Communications Strategist Aug 26, 2026 Article Jeret Howard, logistics management specialist at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, poses for a photograph on July 27, 2026.",
-      "queued_ts": 1787760435
-    },
-    {
-      "fp": "767ea758f8749f4ec78b2b4c",
-      "title": "Building Foresight for Earth Science, featuring Lindsey Jacobson",
-      "link": "https://www.nasa.gov/earth/earth-visualization-mapping/building-foresight-for-earth-science-featuring-lindsey-jacobson/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-26T19:14:15+00:00",
-      "day_brt": "2026-08-26",
-      "resumo_pt": "Resumo (PT-BR): 5 min read Building Foresight for Earth Science, featuring Lindsey Jacobson Sondra Woodward Aug 26, 2026 Article Contents The Problem Space Writing the Code Keeping Pace On Jacobson's Sci-Fi Shelf NASA’s Earth-observing satellite missions track dozens of features of a changing planet — aerosols, sea levels, land cover, cloud cover — over years and decades. Sustaining that record for the scientific and operational communities who depend on it requires more than engineering talent.",
-      "queued_ts": 1787778884
-    },
-    {
-      "fp": "b5f0587f40668607f4ed68cb",
-      "title": "Roman Space Telescope Travels to SpaceX Hangar",
-      "link": "https://www.nasa.gov/image-article/roman-space-telescope-travels-to-spacex-hangar/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-26T18:40:19+00:00",
-      "day_brt": "2026-08-26",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Roman Space Telescope Travels to SpaceX Hangar HQ Web Team Aug 26, 2026 Image Article NASA/Sydney Rohde (Rocz) NASA’s Nancy Grace Roman Space Telescope, encapsulated in its payload fairing, travels from the Payload Hazardous Servicing Facility to the SpaceX hangar at Launch Complex 39A at NASA’s Kennedy Space Center on Tuesday, Aug. Roman’s science instruments are designed to help researchers understand dark energy, the mysterious force accelerating the universe’s expansion.",
-      "queued_ts": 1787778884
-    },
-    {
-      "fp": "46d1788cd4337f588971324a",
-      "title": "Soyuz MS-28 departs the ISS, three spacewalks install upgrades to solar arrays and antennae",
-      "link": "https://www.nasaspaceflight.com/2026/08/iss-roundup-082626/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-08-26T20:44:42+00:00",
-      "day_brt": "2026-08-26",
-      "resumo_pt": "Resumo (PT-BR): Soyuz MS-28 departs the ISS, three spacewalks install upgrades to solar arrays and antennae by Eleanor Day August 26, 2026 written by Eleanor Day August 26, 2026 2 Following the departure of the Soyuz MS-28 crewed spacecraft from the International Space Station on July 26, Expedition 75 officially commenced onboard the orbiting laboratory. One of the first tasks for the Expedition 75 crew was three spacewalks, which were successfully completed over a three-week period.",
-      "queued_ts": 1787778884
     }
   ],
   "digests_sent": {
@@ -10147,7 +10087,8 @@
       "night": true
     },
     "2026-08-26": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
