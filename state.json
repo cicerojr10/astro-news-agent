@@ -9271,6 +9271,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-heavy-rocket-launching-nasas-roman-space-telescope-on-aug-30-how-to-watch-it-live",
       "score": 2.8,
       "published_utc": "2026-08-28T15:00:00+00:00"
+    },
+    "885c5778167a5d1f11ead765": {
+      "ts": 1787951780,
+      "source": "NASA Breaking News",
+      "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+      "link": "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
+      "score": 4.0,
+      "published_utc": "2026-08-28T17:37:01+00:00"
+    },
+    "c59dae07fd09e0069023bb01": {
+      "ts": 1787951781,
+      "source": "NASA Breaking News",
+      "title": "Grants",
+      "link": "https://www.nasa.gov/centers-and-facilities/grants-2/",
+      "score": 10.0,
+      "published_utc": "2026-08-28T15:45:43+00:00"
     }
   },
   "digest_queue": [
@@ -9825,6 +9841,30 @@
       "day_brt": "2026-08-28",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1787899689
+    },
+    {
+      "fp": "c59dae07fd09e0069023bb01",
+      "title": "Grants",
+      "link": "https://www.nasa.gov/centers-and-facilities/grants-2/",
+      "source": "NASA Breaking News",
+      "score": 10.0,
+      "is_anomaly": true,
+      "published_utc": "2026-08-28T15:45:43+00:00",
+      "day_brt": "2026-08-28",
+      "resumo_pt": "Resumo: link com pouco texto extraível; confira a matéria para detalhes.",
+      "queued_ts": 1787951785
+    },
+    {
+      "fp": "885c5778167a5d1f11ead765",
+      "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+      "link": "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-28T17:37:01+00:00",
+      "day_brt": "2026-08-28",
+      "resumo_pt": "Resumo (PT-BR): 5 min read President Honors NASA’s Artemis II Crew with Highest US Space Award Jessica Taveau Aug 28, 2026 RELEASE 26-070 NASA Headquarters Johnson Space Center President Donald J. Trump awarded NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen with the Congressional Space Medal of Honor on Aug.",
+      "queued_ts": 1787951785
     }
   ],
   "digests_sent": {
@@ -10341,7 +10381,9 @@
       "44b5d7cb0482cce73c0151fb": true
     },
     "2026-08-28": {
-      "2f2e20f9bcdc853b33716630": true
+      "2f2e20f9bcdc853b33716630": true,
+      "c59dae07fd09e0069023bb01": true,
+      "885c5778167a5d1f11ead765": true
     }
   }
 }
