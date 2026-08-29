@@ -9327,6 +9327,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-test-fires-starship-super-heavy-booster-ahead-of-key-test-flight",
       "score": 2.8,
       "published_utc": "2026-08-29T14:00:00+00:00"
+    },
+    "5f12385572e06036081e87c8": {
+      "ts": 1788040648,
+      "source": "NASASpaceflight",
+      "title": "NASA, SpaceX set to launch the Nancy Grace Roman Space Telescope from Florida on Sunday",
+      "link": "https://www.nasaspaceflight.com/2026/08/roman-telescope-launch/",
+      "score": 3.6,
+      "published_utc": "2026-08-29T20:20:42+00:00"
     }
   },
   "digest_queue": [
@@ -9869,6 +9877,18 @@
       "day_brt": "2026-08-27",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1787863796
+    },
+    {
+      "fp": "5f12385572e06036081e87c8",
+      "title": "NASA, SpaceX set to launch the Nancy Grace Roman Space Telescope from Florida on Sunday",
+      "link": "https://www.nasaspaceflight.com/2026/08/roman-telescope-launch/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-08-29T20:20:42+00:00",
+      "day_brt": "2026-08-29",
+      "resumo_pt": "Resumo (PT-BR): NASA, SpaceX set to launch the Nancy Grace Roman Space Telescope from Florida on Sunday by Haygen Warren August 29, 2026 written by Haygen Warren August 29, 2026 4 NASA and SpaceX are set for the launch of NASA’s next great space observatory — the Nancy Grace Roman Space Telescope. Launching atop a Falcon Heavy from the Kennedy Space Center in Florida, Roman will travel to the Sun-Earth Lagrange Point 2, where it will use two instruments — the Wide Field Instrument and the Coronagraph Instrument — to search for exoplanets, dark energy, and other astrophysical phenomena.",
+      "queued_ts": 1788040649
     }
   ],
   "digests_sent": {
@@ -10397,7 +10417,8 @@
       "fcbd11193b0fef2147fc48ad": true
     },
     "2026-08-29": {
-      "f7328f6f25ccf6364f687b3b": true
+      "f7328f6f25ccf6364f687b3b": true,
+      "5f12385572e06036081e87c8": true
     }
   }
 }
