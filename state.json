@@ -9303,6 +9303,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-roman-space-telescope-falcon-heavy-launch-what-time",
       "score": 2.8,
       "published_utc": "2026-08-28T22:31:45+00:00"
+    },
+    "f7328f6f25ccf6364f687b3b": {
+      "ts": 1788009222,
+      "source": "NASASpaceflight",
+      "title": "ESA awards first European Launcher Challenge contracts",
+      "link": "https://www.nasaspaceflight.com/2026/08/esa-european-launcher-challenge-contracts/",
+      "score": 3.6,
+      "published_utc": "2026-08-29T11:09:51+00:00"
+    },
+    "59412f089379ebd48239f9df": {
+      "ts": 1788009222,
+      "source": "Space.com",
+      "title": "Who was Nancy Grace Roman? NASA's next big space telescope is named after the 'Mother of Hubble'",
+      "link": "https://www.space.com/space-exploration/who-was-nancy-grace-roman-nasas-next-big-space-telescope-is-named-after-the-mother-of-hubble",
+      "score": 2.8,
+      "published_utc": "2026-08-29T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -10312,6 +10328,9 @@
     },
     "2026-08-28": {
       "night": true
+    },
+    "2026-08-29": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -10368,6 +10387,9 @@
       "c59dae07fd09e0069023bb01": true,
       "885c5778167a5d1f11ead765": true,
       "fcbd11193b0fef2147fc48ad": true
+    },
+    "2026-08-29": {
+      "f7328f6f25ccf6364f687b3b": true
     }
   }
 }
