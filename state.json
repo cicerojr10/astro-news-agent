@@ -9287,6 +9287,22 @@
       "link": "https://www.nasa.gov/centers-and-facilities/grants-2/",
       "score": 10.0,
       "published_utc": "2026-08-28T15:45:43+00:00"
+    },
+    "fcbd11193b0fef2147fc48ad": {
+      "ts": 1787964208,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Artemis II Crew Receives Congressional Space Medal of Honor",
+      "link": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/",
+      "score": 4.0,
+      "published_utc": "2026-08-28T22:21:31+00:00"
+    },
+    "bc2f0f23a3fbde7c1b6f5a63": {
+      "ts": 1787964211,
+      "source": "Space.com",
+      "title": "What time will SpaceX launch NASA's Roman Space Telscope on Aug. 30? (Full mission timeline)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-roman-space-telescope-falcon-heavy-launch-what-time",
+      "score": 2.8,
+      "published_utc": "2026-08-28T22:31:45+00:00"
     }
   },
   "digest_queue": [
@@ -9829,42 +9845,6 @@
       "day_brt": "2026-08-27",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1787863796
-    },
-    {
-      "fp": "2f2e20f9bcdc853b33716630",
-      "title": "APOD: 2026 August 28 – The Sky Turns Above Paranal",
-      "link": "https://science.nasa.gov/image-article/apod-2026-august-28-the-sky-turns-above-paranal/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-28T04:05:00+00:00",
-      "day_brt": "2026-08-28",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1787899689
-    },
-    {
-      "fp": "c59dae07fd09e0069023bb01",
-      "title": "Grants",
-      "link": "https://www.nasa.gov/centers-and-facilities/grants-2/",
-      "source": "NASA Breaking News",
-      "score": 10.0,
-      "is_anomaly": true,
-      "published_utc": "2026-08-28T15:45:43+00:00",
-      "day_brt": "2026-08-28",
-      "resumo_pt": "Resumo: link com pouco texto extraível; confira a matéria para detalhes.",
-      "queued_ts": 1787951785
-    },
-    {
-      "fp": "885c5778167a5d1f11ead765",
-      "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-      "link": "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-28T17:37:01+00:00",
-      "day_brt": "2026-08-28",
-      "resumo_pt": "Resumo (PT-BR): 5 min read President Honors NASA’s Artemis II Crew with Highest US Space Award Jessica Taveau Aug 28, 2026 RELEASE 26-070 NASA Headquarters Johnson Space Center President Donald J. Trump awarded NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen with the Congressional Space Medal of Honor on Aug.",
-      "queued_ts": 1787951785
     }
   ],
   "digests_sent": {
@@ -10329,6 +10309,9 @@
     "2026-08-26": {
       "morning": true,
       "night": true
+    },
+    "2026-08-28": {
+      "night": true
     }
   },
   "sent_updates": {
@@ -10383,7 +10366,8 @@
     "2026-08-28": {
       "2f2e20f9bcdc853b33716630": true,
       "c59dae07fd09e0069023bb01": true,
-      "885c5778167a5d1f11ead765": true
+      "885c5778167a5d1f11ead765": true,
+      "fcbd11193b0fef2147fc48ad": true
     }
   }
 }
