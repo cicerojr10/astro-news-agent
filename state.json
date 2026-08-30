@@ -9351,6 +9351,32 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-is-ready-for-launch-aboard-spacex-falcon-heavy-rocket",
       "score": 2.8,
       "published_utc": "2026-08-29T22:44:18+00:00"
+    },
+    "8e2c0e0f6e1c09fcbc480487": {
+      "ts": 1788094982,
+      "source": "NASASpaceflight",
+      "title": "NASA, SpaceX successfully launch the Nancy Grace Roman Space Telescope from Florida",
+      "link": "https://www.nasaspaceflight.com/2026/08/roman-telescope-launch/",
+      "score": 0.0,
+      "published_utc": "2026-08-29T20:20:42+00:00",
+      "note": "not_today"
+    },
+    "a268ec88d2171329ed51470e": {
+      "ts": 1788094983,
+      "source": "Space.com",
+      "title": "Liftoff! NASA's Roman Space Telescope soars to the stars on a SpaceX Falcon Heavy rocket in spectacular launch (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasa-roman-space-telescope-launch-success-on-a-spacex-falcon-heavy-rocket-spectacular-launch-video",
+      "score": 2.8,
+      "published_utc": "2026-08-30T12:56:57+00:00"
+    },
+    "f0b6da38b0254496a6764a93": {
+      "ts": 1788094983,
+      "source": "Space.com",
+      "title": "What time will SpaceX launch NASA's Roman Space Telescope today? (Full mission timeline)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-roman-space-telescope-falcon-heavy-launch-what-time",
+      "score": 0.0,
+      "published_utc": "2026-08-28T22:31:45+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -10364,6 +10390,9 @@
     "2026-08-29": {
       "morning": true,
       "night": true
+    },
+    "2026-08-30": {
+      "morning": true
     }
   },
   "sent_updates": {
