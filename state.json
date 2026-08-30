@@ -9393,6 +9393,22 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-30-2026",
       "score": 2.8,
       "published_utc": "2026-08-30T14:51:12+00:00"
+    },
+    "9045070ac6e7c5ed3ba5be6b": {
+      "ts": 1788110465,
+      "source": "NASA Breaking News",
+      "title": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
+      "link": "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
+      "score": 4.0,
+      "published_utc": "2026-08-30T14:57:59+00:00"
+    },
+    "c11c9585d63d58941d67c8b2": {
+      "ts": 1788110465,
+      "source": "NASA Breaking News",
+      "title": "NASA Deep Space Network’s New Goldstone Antenna Goes Online",
+      "link": "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
+      "score": 4.0,
+      "published_utc": "2026-08-30T14:53:08+00:00"
     }
   },
   "digest_queue": [
@@ -9947,6 +9963,30 @@
       "day_brt": "2026-08-30",
       "resumo_pt": "Resumo (PT-BR): 5 min read NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches Jennifer M. Dooren Aug 30, 2026 RELEASE 26-071 NASA Headquarters A SpaceX Falcon Heavy rocket with NASA’s Nancy Grace Roman Telescope on board is seen transiting the sun during launch from Launch Complex 39A, Sunday, Aug.",
       "queued_ts": 1788102338
+    },
+    {
+      "fp": "9045070ac6e7c5ed3ba5be6b",
+      "title": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
+      "link": "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-30T14:57:59+00:00",
+      "day_brt": "2026-08-30",
+      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal Ribbon-Cutting Event for NASA... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 2 Min Read Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23 PIA26779 Credits: NASA/JPL-Caltech Image Addition Date: 08/25/2026 Downloads Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23 JPEG (1.10 MB) Description Leadership from NASA Headquarters, the Jet Propulsion Laboratory, and the Deep Space Network (DSN) stand in front of the recently completed Deep Space Station 23 antenna at the Deep Space Network’s Goldstone complex near Barstow, California, on Aug.",
+      "queued_ts": 1788110469
+    },
+    {
+      "fp": "c11c9585d63d58941d67c8b2",
+      "title": "NASA Deep Space Network’s New Goldstone Antenna Goes Online",
+      "link": "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-30T14:53:08+00:00",
+      "day_brt": "2026-08-30",
+      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NASA Deep Space Network’s... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 1 Min Read NASA Deep Space Network’s New Goldstone Antenna Goes Online PIA26778 Credits: NASA/JPL-Caltech Image Addition Date: 08/25/2026 Downloads NASA Deep Space Network’s New Goldstone Antenna Goes Online JPEG (1.26 MB) Description Long shadows are cast by the recently completed Deep Space Station 23 at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026.",
+      "queued_ts": 1788110469
     }
   ],
   "digests_sent": {
@@ -10484,7 +10524,9 @@
       "77df0f6a791ac648036188c1": true
     },
     "2026-08-30": {
-      "0767592f58c5c3b71452ecdd": true
+      "0767592f58c5c3b71452ecdd": true,
+      "9045070ac6e7c5ed3ba5be6b": true,
+      "c11c9585d63d58941d67c8b2": true
     }
   }
 }
