@@ -9377,6 +9377,22 @@
       "score": 0.0,
       "published_utc": "2026-08-28T22:31:45+00:00",
       "note": "not_today"
+    },
+    "0767592f58c5c3b71452ecdd": {
+      "ts": 1788102334,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches",
+      "link": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/",
+      "score": 4.0,
+      "published_utc": "2026-08-30T13:18:06+00:00"
+    },
+    "49166d343177597b98677908": {
+      "ts": 1788102337,
+      "source": "Space.com",
+      "title": "On this day in space! Aug. 30, 1992: Astronomers discover 1st Kuiper Belt object out beyond Pluto",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-30-2026",
+      "score": 2.8,
+      "published_utc": "2026-08-30T14:51:12+00:00"
     }
   },
   "digest_queue": [
@@ -9919,6 +9935,18 @@
       "day_brt": "2026-08-27",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1787863796
+    },
+    {
+      "fp": "0767592f58c5c3b71452ecdd",
+      "title": "NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches",
+      "link": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-30T13:18:06+00:00",
+      "day_brt": "2026-08-30",
+      "resumo_pt": "Resumo (PT-BR): 5 min read NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches Jennifer M. Dooren Aug 30, 2026 RELEASE 26-071 NASA Headquarters A SpaceX Falcon Heavy rocket with NASA’s Nancy Grace Roman Telescope on board is seen transiting the sun during launch from Launch Complex 39A, Sunday, Aug.",
+      "queued_ts": 1788102338
     }
   ],
   "digests_sent": {
@@ -10454,6 +10482,9 @@
       "f7328f6f25ccf6364f687b3b": true,
       "5f12385572e06036081e87c8": true,
       "77df0f6a791ac648036188c1": true
+    },
+    "2026-08-30": {
+      "0767592f58c5c3b71452ecdd": true
     }
   }
 }
