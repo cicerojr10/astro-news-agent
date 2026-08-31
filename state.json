@@ -9497,6 +9497,22 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-31-2026",
       "score": 2.8,
       "published_utc": "2026-08-31T14:42:23+00:00"
+    },
+    "8d2d3db5350daaac96c052a3": {
+      "ts": 1788218362,
+      "source": "Space.com",
+      "title": "NASA's doomed Swift space telescope restarts science work after rescue mission fails",
+      "link": "https://www.space.com/space-exploration/missions/nasas-doomed-swift-space-telescope-restarts-science-work-after-rescue-mission-fails",
+      "score": 2.8,
+      "published_utc": "2026-08-31T21:00:00+00:00"
+    },
+    "371bfe5c5f75b4968c8d54c0": {
+      "ts": 1788218362,
+      "source": "Space.com",
+      "title": "'No guts, no glory': How I captured NASA's Roman Space Telescope cross the sun on a picture-perfect SpaceX Falcon Heavy launch",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/no-guts-no-glory-how-i-captured-nasas-roman-space-telescope-cross-the-sun-on-a-picture-perfect-spacex-falcon-heavy-launch",
+      "score": 2.8,
+      "published_utc": "2026-08-31T19:48:16+00:00"
     }
   },
   "digest_queue": [
@@ -10039,30 +10055,6 @@
       "day_brt": "2026-08-27",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1787863796
-    },
-    {
-      "fp": "def83d69b1d4cc7bf69f9ca4",
-      "title": "SpaceX, NASA delay next astronaut launch to ISS due to leak on Dragon spacecraft",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-nasa-delay-next-astronaut-launch-to-iss-due-to-leak-on-dragon-spacecraft",
-      "source": "Space.com",
-      "score": 8.399999999999999,
-      "is_anomaly": true,
-      "published_utc": "2026-08-31T15:00:00+00:00",
-      "day_brt": "2026-08-31",
-      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft SpaceX, NASA delay next astronaut launch to ISS due to leak on Dragon spacecraft News By Mike Wall Published 31 August 2026 Crew-13 had been scheduled to lift off on Sept. When you purchase through links on our site, we may earn an affiliate commission.",
-      "queued_ts": 1788198251
-    },
-    {
-      "fp": "3873a9779faababb4f41c3b5",
-      "title": "NASA’s Nancy Grace Roman Space Telescope Launches",
-      "link": "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-31T14:10:31+00:00",
-      "day_brt": "2026-08-31",
-      "resumo_pt": "Resumo (PT-BR): 1 min read NASA’s Nancy Grace Roman Space Telescope Launches HQ Web Team Aug 31, 2026 Image Article NASA/John Kraus NASA’s Nancy Grace Roman Space Telescope , aboard a SpaceX Falcon Heavy rocket, transits the Sun during launch from the agency’s Kennedy Space Center in Florida on Aug. Roman will survey billions of stars and galaxies with a field of view far larger than Hubble’s, helping scientists study dark energy, exoplanets, and the evolution of the universe.",
-      "queued_ts": 1788198251
     }
   ],
   "digests_sent": {
@@ -10540,7 +10532,8 @@
       "night": true
     },
     "2026-08-31": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
