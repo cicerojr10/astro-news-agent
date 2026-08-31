@@ -9465,6 +9465,38 @@
       "link": "https://www.space.com/astronomy/mars/scientists-discover-massive-thermal-anomaly-beneath-the-surface-of-mars",
       "score": 4.199999999999999,
       "published_utc": "2026-08-31T12:00:00+00:00"
+    },
+    "3873a9779faababb4f41c3b5": {
+      "ts": 1788198247,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Nancy Grace Roman Space Telescope Launches",
+      "link": "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/",
+      "score": 4.0,
+      "published_utc": "2026-08-31T14:10:31+00:00"
+    },
+    "bfee654465e40203330ab44c": {
+      "ts": 1788198249,
+      "source": "Space.com",
+      "title": "What's next for Roman Space Telescope? Here's how NASA's flagship observatory will open up the universe",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/nancy-grace-roman-space-telescope-next-steps-commissioning",
+      "score": 2.8,
+      "published_utc": "2026-08-31T16:00:00+00:00"
+    },
+    "def83d69b1d4cc7bf69f9ca4": {
+      "ts": 1788198249,
+      "source": "Space.com",
+      "title": "SpaceX, NASA delay next astronaut launch to ISS due to leak on Dragon spacecraft",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-nasa-delay-next-astronaut-launch-to-iss-due-to-leak-on-dragon-spacecraft",
+      "score": 8.399999999999999,
+      "published_utc": "2026-08-31T15:00:00+00:00"
+    },
+    "f3ad15071a65738c99523edc": {
+      "ts": 1788198250,
+      "source": "Space.com",
+      "title": "On this day in space! Aug. 31, 1965: NASA's ginormous Super Guppy carrier plane takes 1st flight like a flying whale",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-31-2026",
+      "score": 2.8,
+      "published_utc": "2026-08-31T14:42:23+00:00"
     }
   },
   "digest_queue": [
@@ -10007,6 +10039,30 @@
       "day_brt": "2026-08-27",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1787863796
+    },
+    {
+      "fp": "def83d69b1d4cc7bf69f9ca4",
+      "title": "SpaceX, NASA delay next astronaut launch to ISS due to leak on Dragon spacecraft",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-nasa-delay-next-astronaut-launch-to-iss-due-to-leak-on-dragon-spacecraft",
+      "source": "Space.com",
+      "score": 8.399999999999999,
+      "is_anomaly": true,
+      "published_utc": "2026-08-31T15:00:00+00:00",
+      "day_brt": "2026-08-31",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft SpaceX, NASA delay next astronaut launch to ISS due to leak on Dragon spacecraft News By Mike Wall Published 31 August 2026 Crew-13 had been scheduled to lift off on Sept. When you purchase through links on our site, we may earn an affiliate commission.",
+      "queued_ts": 1788198251
+    },
+    {
+      "fp": "3873a9779faababb4f41c3b5",
+      "title": "NASA’s Nancy Grace Roman Space Telescope Launches",
+      "link": "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-31T14:10:31+00:00",
+      "day_brt": "2026-08-31",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA’s Nancy Grace Roman Space Telescope Launches HQ Web Team Aug 31, 2026 Image Article NASA/John Kraus NASA’s Nancy Grace Roman Space Telescope , aboard a SpaceX Falcon Heavy rocket, transits the Sun during launch from the agency’s Kennedy Space Center in Florida on Aug. Roman will survey billions of stars and galaxies with a field of view far larger than Hubble’s, helping scientists study dark energy, exoplanets, and the evolution of the universe.",
+      "queued_ts": 1788198251
     }
   ],
   "digests_sent": {
@@ -10534,7 +10590,9 @@
     "2026-08-31": {
       "db62f7e30ff21a1706344aca": true,
       "4ef0df3f60c548afcd0f4593": true,
-      "4ee3861e60e954ba2f1b9a8f": true
+      "4ee3861e60e954ba2f1b9a8f": true,
+      "def83d69b1d4cc7bf69f9ca4": true,
+      "3873a9779faababb4f41c3b5": true
     }
   }
 }
