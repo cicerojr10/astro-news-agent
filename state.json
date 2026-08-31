@@ -9449,6 +9449,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-japanese-radar-satellite-to-orbit-early-aug-31",
       "score": 2.8,
       "published_utc": "2026-08-31T04:05:00+00:00"
+    },
+    "4ee3861e60e954ba2f1b9a8f": {
+      "ts": 1788183150,
+      "source": "NASA Breaking News",
+      "title": "Roman Commissioning",
+      "link": "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/",
+      "score": 4.0,
+      "published_utc": "2026-08-31T12:16:53+00:00"
+    },
+    "4ef0df3f60c548afcd0f4593": {
+      "ts": 1788183152,
+      "source": "Space.com",
+      "title": "Scientists discover massive 'thermal anomaly' beneath the surface of Mars",
+      "link": "https://www.space.com/astronomy/mars/scientists-discover-massive-thermal-anomaly-beneath-the-surface-of-mars",
+      "score": 4.199999999999999,
+      "published_utc": "2026-08-31T12:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -9991,18 +10007,6 @@
       "day_brt": "2026-08-27",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1787863796
-    },
-    {
-      "fp": "db62f7e30ff21a1706344aca",
-      "title": "APOD: 2026 August 31 – Launch of the Roman Space Telescope",
-      "link": "https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-08-31T04:05:00+00:00",
-      "day_brt": "2026-08-31",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1788156168
     }
   ],
   "digests_sent": {
@@ -10478,6 +10482,9 @@
     "2026-08-30": {
       "morning": true,
       "night": true
+    },
+    "2026-08-31": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -10525,7 +10532,9 @@
       "9940027e0d5f9de2446552a9": true
     },
     "2026-08-31": {
-      "db62f7e30ff21a1706344aca": true
+      "db62f7e30ff21a1706344aca": true,
+      "4ef0df3f60c548afcd0f4593": true,
+      "4ee3861e60e954ba2f1b9a8f": true
     }
   }
 }
