@@ -9433,6 +9433,22 @@
       "link": "https://www.nasaspaceflight.com/2026/08/sls-pace-four-vehicles-production/",
       "score": 3.6,
       "published_utc": "2026-08-31T00:11:01+00:00"
+    },
+    "db62f7e30ff21a1706344aca": {
+      "ts": 1788156165,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 August 31 – Launch of the Roman Space Telescope",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/",
+      "score": 4.0,
+      "published_utc": "2026-08-31T04:05:00+00:00"
+    },
+    "b092105937f0eed7d43f020d": {
+      "ts": 1788156168,
+      "source": "Space.com",
+      "title": "Watch Rocket Lab launch Japanese radar satellite to orbit early on Sept. 1",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-japanese-radar-satellite-to-orbit-early-aug-31",
+      "score": 2.8,
+      "published_utc": "2026-08-31T04:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -9975,6 +9991,18 @@
       "day_brt": "2026-08-27",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1787863796
+    },
+    {
+      "fp": "db62f7e30ff21a1706344aca",
+      "title": "APOD: 2026 August 31 – Launch of the Roman Space Telescope",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-31T04:05:00+00:00",
+      "day_brt": "2026-08-31",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1788156168
     }
   ],
   "digests_sent": {
@@ -10453,28 +10481,6 @@
     }
   },
   "sent_updates": {
-    "2026-08-21": {
-      "6f6fbefa0bdcb2788da587d7": true,
-      "1baf3dd84dbc8350a0abb703": true,
-      "268fb7ae3c5519bdbe0db319": true,
-      "1e051b9d4d097a49611cb6a3": true,
-      "6ab06f9062ccfae348b2d833": true
-    },
-    "2026-08-22": {
-      "8886210f566af686882099eb": true
-    },
-    "2026-08-23": {
-      "c4b46b67c7172341ea776dd1": true,
-      "7ad86a9e2ca8267635d65f90": true,
-      "c6fef09c6b2f1f96c3e10474": true
-    },
-    "2026-08-24": {
-      "94310ea666c91961f4f462ca": true,
-      "c5184a87e5067a7ec11ad03e": true,
-      "5256fb3c13e2c4c7fe5c1df5": true,
-      "e67a57ee5e8e7a57eb3c618a": true,
-      "99aa618320dd26ccc0c6a767": true
-    },
     "2026-08-25": {
       "ec092855fdd82da0f4cbb243": true,
       "6aabc09de85821d28cb30da6": true,
@@ -10517,6 +10523,9 @@
       "9045070ac6e7c5ed3ba5be6b": true,
       "c11c9585d63d58941d67c8b2": true,
       "9940027e0d5f9de2446552a9": true
+    },
+    "2026-08-31": {
+      "db62f7e30ff21a1706344aca": true
     }
   }
 }
