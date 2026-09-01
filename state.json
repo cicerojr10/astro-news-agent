@@ -10590,6 +10590,9 @@
     "2026-08-31": {
       "morning": true,
       "night": true
+    },
+    "2026-09-01": {
+      "morning": true
     }
   },
   "sent_updates": {
