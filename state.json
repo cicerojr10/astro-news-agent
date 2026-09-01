@@ -9521,6 +9521,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-japanese-radar-satellite-to-orbit-early-aug-31",
       "score": 2.8,
       "published_utc": "2026-08-31T04:05:00+00:00"
+    },
+    "3e7a24fb71e6cea7ddccd26a": {
+      "ts": 1788227472,
+      "source": "NASA Breaking News",
+      "title": "NASA Welcomes Türkiye as Newest Artemis Accords Signatory",
+      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/",
+      "score": 4.0,
+      "published_utc": "2026-08-31T21:14:12+00:00"
+    },
+    "769e25255b466cbd4f6b2f6b": {
+      "ts": 1788227472,
+      "source": "NASA Breaking News",
+      "title": "September 2026 Satellite Puzzler",
+      "link": "https://science.nasa.gov/earth/earth-observatory/september-2026-satellite-puzzler/",
+      "score": 4.0,
+      "published_utc": "2026-08-31T19:37:57+00:00"
     }
   },
   "digest_queue": [
@@ -10063,6 +10079,30 @@
       "day_brt": "2026-08-27",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1787863796
+    },
+    {
+      "fp": "3e7a24fb71e6cea7ddccd26a",
+      "title": "NASA Welcomes Türkiye as Newest Artemis Accords Signatory",
+      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-31T21:14:12+00:00",
+      "day_brt": "2026-08-31",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Welcomes Türkiye as Newest Artemis Accords Signatory Elizabeth Shaw Aug 31, 2026 Article Turkish Minister of Industry and Technology, Mehmet Fatih Kacır, 3rd from left, signs the Artemis Accords for the Republic of Türkiye as NASA Administrator Jared Isaacman, left, U.S. Deputy Assistant Secretary of State for Space and Environment Connor Tomlinson, and Turkish Space Agency President, Yusuf Kıraç, right, look on, Monday, August 31, 2026, at the Mary W.",
+      "queued_ts": 1788227476
+    },
+    {
+      "fp": "769e25255b466cbd4f6b2f6b",
+      "title": "September 2026 Satellite Puzzler",
+      "link": "https://science.nasa.gov/earth/earth-observatory/september-2026-satellite-puzzler/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-08-31T19:37:57+00:00",
+      "day_brt": "2026-08-31",
+      "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
+      "queued_ts": 1788227476
     }
   ],
   "digests_sent": {
@@ -10593,7 +10633,9 @@
       "4ef0df3f60c548afcd0f4593": true,
       "4ee3861e60e954ba2f1b9a8f": true,
       "def83d69b1d4cc7bf69f9ca4": true,
-      "3873a9779faababb4f41c3b5": true
+      "3873a9779faababb4f41c3b5": true,
+      "3e7a24fb71e6cea7ddccd26a": true,
+      "769e25255b466cbd4f6b2f6b": true
     }
   }
 }
