@@ -9586,6 +9586,38 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-1-2026",
       "score": 2.8,
       "published_utc": "2026-09-01T17:15:03+00:00"
+    },
+    "106ca98e503a59a15c3875e4": {
+      "ts": 1788299853,
+      "source": "NASA Breaking News",
+      "title": "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
+      "link": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/",
+      "score": 4.0,
+      "published_utc": "2026-09-01T21:08:37+00:00"
+    },
+    "30a0cf91e4af32b3403517d1": {
+      "ts": 1788299855,
+      "source": "Spaceflight Now",
+      "title": "SpaceX to launch Starlink mission from West Coast",
+      "link": "https://spaceflightnow.com/2026/09/01/spacex-to-launch-starlink-mission-from-west-coast/",
+      "score": 3.6,
+      "published_utc": "2026-09-01T20:56:22+00:00"
+    },
+    "8b0ee0fcdfb4dc47dc3abcc4": {
+      "ts": 1788299856,
+      "source": "Space.com",
+      "title": "Two astronauts replace ISS camera and docking aid on 6th-ever all-female spacewalk (video)",
+      "link": "https://www.space.com/space-exploration/international-space-station/two-astronauts-replace-iss-camera-and-docking-aid-on-6th-ever-all-female-spacewalk-video",
+      "score": 2.8,
+      "published_utc": "2026-09-01T21:02:07+00:00"
+    },
+    "f70beeafe4134da158f81a88": {
+      "ts": 1788299857,
+      "source": "Space.com",
+      "title": "Nonprofit wants to launch 80,000-year mission to Alpha Centauri in 2029 (video)",
+      "link": "https://www.space.com/space-exploration/nonprofit-wants-to-launch-80-000-year-mission-to-alpha-centauri-in-2029-video",
+      "score": 2.8,
+      "published_utc": "2026-09-01T20:00:15+00:00"
     }
   },
   "digest_queue": [
@@ -10176,6 +10208,30 @@
       "day_brt": "2026-09-01",
       "resumo_pt": "Resumo (PT-BR): Launch Site and Facility Progress ahead of East Coast Starship debut by Ryan Weber September 1, 2026 written by Ryan Weber September 1, 2026 4 As SpaceX prepares to launch Starship Flight 14 in the coming weeks, work in Florida is expanding the Starship program so the company can fly from LC-39A and, eventually, SLC-37. The historic pad that once launched Saturn and Shuttle missions, and now supports Falcon, is expected to become SpaceX’s second active Starship launch site.",
       "queued_ts": 1788291072
+    },
+    {
+      "fp": "106ca98e503a59a15c3875e4",
+      "title": "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
+      "link": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-01T21:08:37+00:00",
+      "day_brt": "2026-09-01",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Selects Blue Origin as Mars Telecommunications Network Provider Jessica Taveau Sep 01, 2026 CONTRACT RELEASE C26-010 NASA Headquarters Credit: NASA NASA awarded Blue Origin a contract Tuesday to develop the agency’s Mars Telecommunications Network, a next-generation communications system that will enable reliable, high-bandwidth communications and navigation services for current and future Mars missions. The firm-fixed-price contract has a maximum potential value of approximately $700 million to deliver a high-performance Mars telecommunications orbiter to NASA no later than Dec.",
+      "queued_ts": 1788299858
+    },
+    {
+      "fp": "30a0cf91e4af32b3403517d1",
+      "title": "SpaceX to launch Starlink mission from West Coast",
+      "link": "https://spaceflightnow.com/2026/09/01/spacex-to-launch-starlink-mission-from-west-coast/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-09-01T20:56:22+00:00",
+      "day_brt": "2026-09-01",
+      "resumo_pt": "Resumo (PT-BR): SpaceX to launch Starlink mission from West Coast September 1, 2026 Steven Young A Falcon 9 rocket stands poised to launch from the Space Launch Complex 4E at Vandenberg Space Force Base in California. File Photo: SpaceX A SpaceX Falcon 9 will liftoff from the company’s West Coast launch facility early Wednesday morning to add another batch of satellites to SpaceX’s Starlink constellation.",
+      "queued_ts": 1788299858
     }
   ],
   "digests_sent": {
@@ -10715,7 +10771,9 @@
     },
     "2026-09-01": {
       "3c97be607973a68054b3f39b": true,
-      "c63123e0a3626868a7a6ae9f": true
+      "c63123e0a3626868a7a6ae9f": true,
+      "106ca98e503a59a15c3875e4": true,
+      "30a0cf91e4af32b3403517d1": true
     }
   }
 }
