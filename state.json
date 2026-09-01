@@ -9553,6 +9553,39 @@
       "link": "https://www.space.com/space-exploration/missions/nasas-roman-space-telescope-is-just-one-of-a-few-missions-named-after-real-life-women",
       "score": 2.8,
       "published_utc": "2026-09-01T16:00:00+00:00"
+    },
+    "3c97be607973a68054b3f39b": {
+      "ts": 1788291068,
+      "source": "NASA Breaking News",
+      "title": "Historic Engines Take Their Place on Artemis III",
+      "link": "https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/",
+      "score": 4.0,
+      "published_utc": "2026-09-01T17:30:35+00:00"
+    },
+    "914ac0541920fc85e15c21c9": {
+      "ts": 1788291069,
+      "source": "Spaceflight Now",
+      "title": "Roman Space Telescope, NASA’s next ‘great observatory,’ launched",
+      "link": "https://spaceflightnow.com/2026/08/29/roman-space-telescope-nasas-next-great-observatory-poised-for-sunday-launch/",
+      "score": 0.0,
+      "published_utc": "2026-08-29T22:17:36+00:00",
+      "note": "not_today"
+    },
+    "c63123e0a3626868a7a6ae9f": {
+      "ts": 1788291070,
+      "source": "NASASpaceflight",
+      "title": "Launch Site and Facility Progress ahead of East Coast Starship debut",
+      "link": "https://www.nasaspaceflight.com/2026/09/launch-site-facility-progress-east-coast-starship/",
+      "score": 3.6,
+      "published_utc": "2026-09-01T18:15:54+00:00"
+    },
+    "8c36c4283cfe1e28ae54ff8d": {
+      "ts": 1788291071,
+      "source": "Space.com",
+      "title": "On this day in space! Sept. 1, 1979: NASA's Pioneer 11 probe becomes 1st spacecraft to visit Saturn",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-1-2026",
+      "score": 2.8,
+      "published_utc": "2026-09-01T17:15:03+00:00"
     }
   },
   "digest_queue": [
@@ -10119,6 +10152,30 @@
       "day_brt": "2026-08-31",
       "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1788227476
+    },
+    {
+      "fp": "3c97be607973a68054b3f39b",
+      "title": "Historic Engines Take Their Place on Artemis III",
+      "link": "https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-01T17:30:35+00:00",
+      "day_brt": "2026-09-01",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Historic Engines Take Their Place on Artemis III HQ Web Team Sep 01, 2026 Image Article NASA/Clayton Rougelot On Aug. 24, technicians at NASA’s Kennedy Space Center in Florida began installing the four RS‑25 engines in the core stage of the agency’s Space Launch System (SLS) rocket that will carry the Artemis III crew into low Earth orbit in 2027.",
+      "queued_ts": 1788291072
+    },
+    {
+      "fp": "c63123e0a3626868a7a6ae9f",
+      "title": "Launch Site and Facility Progress ahead of East Coast Starship debut",
+      "link": "https://www.nasaspaceflight.com/2026/09/launch-site-facility-progress-east-coast-starship/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-09-01T18:15:54+00:00",
+      "day_brt": "2026-09-01",
+      "resumo_pt": "Resumo (PT-BR): Launch Site and Facility Progress ahead of East Coast Starship debut by Ryan Weber September 1, 2026 written by Ryan Weber September 1, 2026 4 As SpaceX prepares to launch Starship Flight 14 in the coming weeks, work in Florida is expanding the Starship program so the company can fly from LC-39A and, eventually, SLC-37. The historic pad that once launched Saturn and Shuttle missions, and now supports Falcon, is expected to become SpaceX’s second active Starship launch site.",
+      "queued_ts": 1788291072
     }
   ],
   "digests_sent": {
@@ -10655,6 +10712,10 @@
       "3873a9779faababb4f41c3b5": true,
       "3e7a24fb71e6cea7ddccd26a": true,
       "769e25255b466cbd4f6b2f6b": true
+    },
+    "2026-09-01": {
+      "3c97be607973a68054b3f39b": true,
+      "c63123e0a3626868a7a6ae9f": true
     }
   }
 }
