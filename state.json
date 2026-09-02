@@ -9627,6 +9627,23 @@
       "score": 0.0,
       "published_utc": "2026-09-01T20:56:22+00:00",
       "note": "not_today"
+    },
+    "db1c9074ac068cfb030dec5e": {
+      "ts": 1788360168,
+      "source": "Space.com",
+      "title": "SpaceX Falcon 9 rocket launches Starlink satellites to orbit on its 35th flight",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-23-launch-ocisly",
+      "score": 2.8,
+      "published_utc": "2026-09-02T11:24:21+00:00"
+    },
+    "88b8570638c1dae9dfdefc09": {
+      "ts": 1788360168,
+      "source": "Space.com",
+      "title": "Rocket Lab launches Japanese radar satellite to orbit on 'Owl Around the World' mission",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-japanese-radar-satellite-to-orbit-early-aug-31",
+      "score": 0.0,
+      "published_utc": "2026-08-31T04:05:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -10676,6 +10693,9 @@
     "2026-09-01": {
       "morning": true,
       "night": true
+    },
+    "2026-09-02": {
+      "morning": true
     }
   },
   "sent_updates": {
