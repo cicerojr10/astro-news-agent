@@ -9693,6 +9693,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-private-reusable-pallas-1-rocket-aces-debut-launch-video",
       "score": 2.8,
       "published_utc": "2026-09-02T20:00:00+00:00"
+    },
+    "b36cf0b42c2a3a4b232659f5": {
+      "ts": 1788389745,
+      "source": "NASASpaceflight",
+      "title": "Rocket Lab’s Hungry Hippo completes testing",
+      "link": "https://www.nasaspaceflight.com/2026/09/rocket-lab-update/",
+      "score": 3.6,
+      "published_utc": "2026-09-02T21:06:05+00:00"
     }
   },
   "digest_queue": [
@@ -10283,6 +10291,18 @@
       "day_brt": "2026-09-02",
       "resumo_pt": "Resumo (PT-BR): Explore Hubble Science Hubble Space Telescope NASA’s Hubble Tracks New... Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space?",
       "queued_ts": 1788382678
+    },
+    {
+      "fp": "b36cf0b42c2a3a4b232659f5",
+      "title": "Rocket Lab’s Hungry Hippo completes testing",
+      "link": "https://www.nasaspaceflight.com/2026/09/rocket-lab-update/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-09-02T21:06:05+00:00",
+      "day_brt": "2026-09-02",
+      "resumo_pt": "Resumo (PT-BR): Rocket Lab’s Hungry Hippo completes testing by Eleanor Day September 2, 2026 written by Eleanor Day September 2, 2026 3 With Rocket Lab targeting to launch its Neutron vehicle by the end of this year, the company is rapidly clearing milestones in the vehicle’s development. Neutron’s “Hungry Hippo” fairing has completed all testing and integration of key subsystems, meanwhile, the company has performed hundreds of Archimedes engine hot-fires in preparation for Neutron’s debut.",
+      "queued_ts": 1788389746
     }
   ],
   "digests_sent": {
@@ -10832,7 +10852,8 @@
     },
     "2026-09-02": {
       "52aa4991f1daed864362b095": true,
-      "58208438fd114ddd6a01b940": true
+      "58208438fd114ddd6a01b940": true,
+      "b36cf0b42c2a3a4b232659f5": true
     }
   }
 }
