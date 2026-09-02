@@ -9644,6 +9644,31 @@
       "score": 0.0,
       "published_utc": "2026-08-31T04:05:00+00:00",
       "note": "not_today"
+    },
+    "425f8081c425b2d0a0f12059": {
+      "ts": 1788372304,
+      "source": "Space.com",
+      "title": "2 spacecraft headed to Mercury are about to begin their long-awaited arrival for Europe and Japan — watch it live on Sept. 3",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/bepicolombo-mission-begins-mercury-arrival-phase-esa-jaxa",
+      "score": 2.8,
+      "published_utc": "2026-09-02T18:00:00+00:00"
+    },
+    "28296463673bf9e330ae81e8": {
+      "ts": 1788372304,
+      "source": "Space.com",
+      "title": "Blue Origin wins $700 million contract to build NASA's next Mars orbiter",
+      "link": "https://www.space.com/space-exploration/missions/blue-origin-wins-usd700-million-contract-to-build-nasas-next-mars-orbiter",
+      "score": 2.8,
+      "published_utc": "2026-09-02T17:00:00+00:00"
+    },
+    "b5fdd93393e6cd7c25385544": {
+      "ts": 1788372304,
+      "source": "Space.com",
+      "title": "Rocket Lab launches Japanese radar satellite to orbit on 'Owl Around the World' mission (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-japanese-radar-satellite-to-orbit-early-aug-31",
+      "score": 0.0,
+      "published_utc": "2026-08-31T04:05:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
