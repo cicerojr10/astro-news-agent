@@ -9669,6 +9669,30 @@
       "score": 0.0,
       "published_utc": "2026-08-31T04:05:00+00:00",
       "note": "not_today"
+    },
+    "52aa4991f1daed864362b095": {
+      "ts": 1788382674,
+      "source": "NASA Breaking News",
+      "title": "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
+      "link": "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/",
+      "score": 4.0,
+      "published_utc": "2026-09-02T19:01:05+00:00"
+    },
+    "58208438fd114ddd6a01b940": {
+      "ts": 1788382674,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/",
+      "score": 4.0,
+      "published_utc": "2026-09-02T18:00:37+00:00"
+    },
+    "61d663a2885fa33435ff8879": {
+      "ts": 1788382677,
+      "source": "Space.com",
+      "title": "China's private, reusable Pallas-1 rocket aces debut launch (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-private-reusable-pallas-1-rocket-aces-debut-launch-video",
+      "score": 2.8,
+      "published_utc": "2026-09-02T20:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -10235,6 +10259,30 @@
       "day_brt": "2026-08-31",
       "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1788227476
+    },
+    {
+      "fp": "52aa4991f1daed864362b095",
+      "title": "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
+      "link": "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-02T19:01:05+00:00",
+      "day_brt": "2026-09-02",
+      "resumo_pt": "Resumo (PT-BR): 4 Min Read NASA Revamps Challenge Linking Community College Studies to Aerospace Careers NASA STEM Team Sep 02, 2026 Article Contents A launch pad for new possibilities NCAS relaunches with updated mission, prize potential Community college students across the U.S. now have another opportunity to discover how their education can lead to fulfilling roles at the forefront of aerospace, science, engineering, and technology.",
+      "queued_ts": 1788382678
+    },
+    {
+      "fp": "58208438fd114ddd6a01b940",
+      "title": "NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-02T18:00:37+00:00",
+      "day_brt": "2026-09-02",
+      "resumo_pt": "Resumo (PT-BR): Explore Hubble Science Hubble Space Telescope NASA’s Hubble Tracks New... Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space?",
+      "queued_ts": 1788382678
     }
   ],
   "digests_sent": {
@@ -10781,6 +10829,10 @@
       "c63123e0a3626868a7a6ae9f": true,
       "106ca98e503a59a15c3875e4": true,
       "30a0cf91e4af32b3403517d1": true
+    },
+    "2026-09-02": {
+      "52aa4991f1daed864362b095": true,
+      "58208438fd114ddd6a01b940": true
     }
   }
 }
