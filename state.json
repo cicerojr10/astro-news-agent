@@ -9618,6 +9618,15 @@
       "link": "https://www.space.com/space-exploration/nonprofit-wants-to-launch-80-000-year-mission-to-alpha-centauri-in-2029-video",
       "score": 2.8,
       "published_utc": "2026-09-01T20:00:15+00:00"
+    },
+    "8261db1fdcf0419b207eda39": {
+      "ts": 1788345796,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches Starlink mission from West Coast",
+      "link": "https://spaceflightnow.com/2026/09/01/spacex-to-launch-starlink-mission-from-west-coast/",
+      "score": 0.0,
+      "published_utc": "2026-09-01T20:56:22+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
