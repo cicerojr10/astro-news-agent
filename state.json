@@ -9750,6 +9750,14 @@
       "link": "https://www.space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival",
       "score": 2.8,
       "published_utc": "2026-09-03T16:25:20+00:00"
+    },
+    "35398d40ccf5215ce0b86313": {
+      "ts": 1788465489,
+      "source": "NASA Breaking News",
+      "title": "NASA to Cover Progress 96 Spacecraft Launch, Docking",
+      "link": "https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/",
+      "score": 5.2,
+      "published_utc": "2026-09-03T17:06:00+00:00"
     }
   },
   "digest_queue": [
@@ -10340,6 +10348,18 @@
       "day_brt": "2026-09-03",
       "resumo_pt": "Resumo (PT-BR): Explore Hubble Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space? Hubble by the Numbers At the Museum FAQs Impact & Benefits Hubble's Impact & Benefits Science Impacts Cultural Impact Technology Benefits Impact on Human Spaceflight Astro Community Impacts Science Hubble Science Science Themes Science Highlights Science Behind Discoveries Universe Uncovered Hubble's Partners in Science Hubble & Citizen Science AI & Hubble Science Explore the Night Sky Observatory Hubble Observatory Hubble Design Mission Operations Science Operations Astronaut Missions to Hubble Hubble vs.",
       "queued_ts": 1788456349
+    },
+    {
+      "fp": "35398d40ccf5215ce0b86313",
+      "title": "NASA to Cover Progress 96 Spacecraft Launch, Docking",
+      "link": "https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/",
+      "source": "NASA Breaking News",
+      "score": 5.2,
+      "is_anomaly": false,
+      "published_utc": "2026-09-03T17:06:00+00:00",
+      "day_brt": "2026-09-03",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA to Cover Progress 96 Spacecraft Launch, Docking Jessica Taveau Sep 03, 2026 RELEASE M26-065 NASA Headquarters The Roscosmos Progress 92 cargo spacecraft is photographed in March 2026 from the International Space Station as it flies into an orbital sunset 267 miles above Earth’s surface. Credit: NASA NASA will provide live coverage of the launch and docking of a Roscosmos cargo spacecraft carrying about three tons of food, fuel, and supplies for the crew aboard the International Space Station.",
+      "queued_ts": 1788465492
     }
   ],
   "digests_sent": {
@@ -10899,7 +10919,8 @@
     "2026-09-03": {
       "baff659bf4e34fbfac815219": true,
       "fcafb961230223aed3794738": true,
-      "b60af30cf427576d913d505e": true
+      "b60af30cf427576d913d505e": true,
+      "35398d40ccf5215ce0b86313": true
     }
   }
 }
