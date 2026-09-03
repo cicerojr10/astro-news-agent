@@ -9701,6 +9701,31 @@
       "link": "https://www.nasaspaceflight.com/2026/09/rocket-lab-update/",
       "score": 3.6,
       "published_utc": "2026-09-02T21:06:05+00:00"
+    },
+    "28525ef7ddf2515b4d94841d": {
+      "ts": 1788443848,
+      "source": "Space.com",
+      "title": "Watch India launch its 1st geosynchronous Earth-imaging satellite today",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/gslv-mark-ii-eos-05-launch-first-indian-geo-earth-observing-satellite",
+      "score": 2.8,
+      "published_utc": "2026-09-03T12:00:00+00:00"
+    },
+    "baff659bf4e34fbfac815219": {
+      "ts": 1788443848,
+      "source": "Space.com",
+      "title": "Rocket issues delay 1st-ever private mission to Venus: 'We are awaiting Neutron readiness'",
+      "link": "https://www.space.com/astronomy/venus/rocket-issues-delay-1st-ever-private-mission-to-venus-we-are-awaiting-neutron-readiness",
+      "score": 7.0,
+      "published_utc": "2026-09-03T10:00:00+00:00"
+    },
+    "17432b617acd0fee7c5847e3": {
+      "ts": 1788443848,
+      "source": "Space.com",
+      "title": "2 spacecraft headed to Mercury are about to begin their long-awaited arrival for Europe and Japan — watch it live today",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/bepicolombo-mission-begins-mercury-arrival-phase-esa-jaxa",
+      "score": 0.0,
+      "published_utc": "2026-09-02T18:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -10754,6 +10779,9 @@
     "2026-09-02": {
       "morning": true,
       "night": true
+    },
+    "2026-09-03": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -10819,6 +10847,9 @@
       "52aa4991f1daed864362b095": true,
       "58208438fd114ddd6a01b940": true,
       "b36cf0b42c2a3a4b232659f5": true
+    },
+    "2026-09-03": {
+      "baff659bf4e34fbfac815219": true
     }
   }
 }
