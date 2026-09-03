@@ -10267,42 +10267,6 @@
       "day_brt": "2026-08-31",
       "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1788227476
-    },
-    {
-      "fp": "52aa4991f1daed864362b095",
-      "title": "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
-      "link": "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-02T19:01:05+00:00",
-      "day_brt": "2026-09-02",
-      "resumo_pt": "Resumo (PT-BR): 4 Min Read NASA Revamps Challenge Linking Community College Studies to Aerospace Careers NASA STEM Team Sep 02, 2026 Article Contents A launch pad for new possibilities NCAS relaunches with updated mission, prize potential Community college students across the U.S. now have another opportunity to discover how their education can lead to fulfilling roles at the forefront of aerospace, science, engineering, and technology.",
-      "queued_ts": 1788382678
-    },
-    {
-      "fp": "58208438fd114ddd6a01b940",
-      "title": "NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole",
-      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-02T18:00:37+00:00",
-      "day_brt": "2026-09-02",
-      "resumo_pt": "Resumo (PT-BR): Explore Hubble Science Hubble Space Telescope NASA’s Hubble Tracks New... Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space?",
-      "queued_ts": 1788382678
-    },
-    {
-      "fp": "b36cf0b42c2a3a4b232659f5",
-      "title": "Rocket Lab’s Hungry Hippo completes testing",
-      "link": "https://www.nasaspaceflight.com/2026/09/rocket-lab-update/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-09-02T21:06:05+00:00",
-      "day_brt": "2026-09-02",
-      "resumo_pt": "Resumo (PT-BR): Rocket Lab’s Hungry Hippo completes testing by Eleanor Day September 2, 2026 written by Eleanor Day September 2, 2026 3 With Rocket Lab targeting to launch its Neutron vehicle by the end of this year, the company is rapidly clearing milestones in the vehicle’s development. Neutron’s “Hungry Hippo” fairing has completed all testing and integration of key subsystems, meanwhile, the company has performed hundreds of Archimedes engine hot-fires in preparation for Neutron’s debut.",
-      "queued_ts": 1788389746
     }
   ],
   "digests_sent": {
@@ -10788,7 +10752,8 @@
       "night": true
     },
     "2026-09-02": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
