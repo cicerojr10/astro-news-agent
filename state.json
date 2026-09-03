@@ -9726,6 +9726,30 @@
       "score": 0.0,
       "published_utc": "2026-09-02T18:00:00+00:00",
       "note": "not_today"
+    },
+    "fcafb961230223aed3794738": {
+      "ts": 1788456345,
+      "source": "NASA Breaking News",
+      "title": "Igniting Roman’s Journey",
+      "link": "https://www.nasa.gov/image-article/igniting-romans-journey/",
+      "score": 4.0,
+      "published_utc": "2026-09-03T14:24:23+00:00"
+    },
+    "b60af30cf427576d913d505e": {
+      "ts": 1788456345,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Hubble Spies Superbubble Scene",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene/",
+      "score": 4.0,
+      "published_utc": "2026-09-03T13:16:02+00:00"
+    },
+    "8e541c2ae47bba7140814055": {
+      "ts": 1788456348,
+      "source": "Space.com",
+      "title": "'A new mission starting today': 8 years after launch, BepiColombo begins Mercury arrival",
+      "link": "https://www.space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival",
+      "score": 2.8,
+      "published_utc": "2026-09-03T16:25:20+00:00"
     }
   },
   "digest_queue": [
@@ -10292,6 +10316,30 @@
       "day_brt": "2026-08-31",
       "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1788227476
+    },
+    {
+      "fp": "fcafb961230223aed3794738",
+      "title": "Igniting Roman’s Journey",
+      "link": "https://www.nasa.gov/image-article/igniting-romans-journey/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-03T14:24:23+00:00",
+      "day_brt": "2026-09-03",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Igniting Roman’s Journey HQ Web Team Sep 03, 2026 Image Article A SpaceX Falcon Heavy rocket launches with NASA’S Nancy Grace Roman Space Telescope onboard from Launch Complex 39A on Aug. NASA/Joel Kowsky Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets.",
+      "queued_ts": 1788456349
+    },
+    {
+      "fp": "b60af30cf427576d913d505e",
+      "title": "NASA’s Hubble Spies Superbubble Scene",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-03T13:16:02+00:00",
+      "day_brt": "2026-09-03",
+      "resumo_pt": "Resumo (PT-BR): Explore Hubble Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space? Hubble by the Numbers At the Museum FAQs Impact & Benefits Hubble's Impact & Benefits Science Impacts Cultural Impact Technology Benefits Impact on Human Spaceflight Astro Community Impacts Science Hubble Science Science Themes Science Highlights Science Behind Discoveries Universe Uncovered Hubble's Partners in Science Hubble & Citizen Science AI & Hubble Science Explore the Night Sky Observatory Hubble Observatory Hubble Design Mission Operations Science Operations Astronaut Missions to Hubble Hubble vs.",
+      "queued_ts": 1788456349
     }
   ],
   "digests_sent": {
@@ -10849,7 +10897,9 @@
       "b36cf0b42c2a3a4b232659f5": true
     },
     "2026-09-03": {
-      "baff659bf4e34fbfac815219": true
+      "baff659bf4e34fbfac815219": true,
+      "fcafb961230223aed3794738": true,
+      "b60af30cf427576d913d505e": true
     }
   }
 }
