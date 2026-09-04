@@ -9774,6 +9774,38 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-sept-4-1962-nasas-mariner-2-spacecrafts-performs-the-1st-ever-maneuver-in-deep-space-so-it-could-reach-venus",
       "score": 2.8,
       "published_utc": "2026-09-04T14:00:00+00:00"
+    },
+    "626f2243f8b188138d6b933a": {
+      "ts": 1788557037,
+      "source": "NASA Breaking News",
+      "title": "NASA Ames Fire Department Aircraft Firefighting Training",
+      "link": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/",
+      "score": 4.0,
+      "published_utc": "2026-09-04T19:51:56+00:00"
+    },
+    "9a675ad4c3c48ea70895b51a": {
+      "ts": 1788557037,
+      "source": "NASA Breaking News",
+      "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
+      "link": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/",
+      "score": 4.0,
+      "published_utc": "2026-09-04T16:48:59+00:00"
+    },
+    "61f1c7e65d2226f2420df393": {
+      "ts": 1788557038,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 September 4 – Na Uhane Mahoe Huki Pu i ke Ola",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-4-na-uhane-mahoe-huki-pu-i-ke-ola/",
+      "score": 4.0,
+      "published_utc": "2026-09-04T04:05:00+00:00"
+    },
+    "167a105938a22f8ce6f07907": {
+      "ts": 1788557040,
+      "source": "NASASpaceflight",
+      "title": "Blue Origin expands test and launch sites across the Cape",
+      "link": "https://www.nasaspaceflight.com/2026/09/blue-origin-expands-test-launch-cape/",
+      "score": 3.6,
+      "published_utc": "2026-09-04T20:37:43+00:00"
     }
   },
   "digest_queue": [
@@ -10340,6 +10372,54 @@
       "day_brt": "2026-08-31",
       "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1788227476
+    },
+    {
+      "fp": "626f2243f8b188138d6b933a",
+      "title": "NASA Ames Fire Department Aircraft Firefighting Training",
+      "link": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-04T19:51:56+00:00",
+      "day_brt": "2026-09-04",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA Ames Fire Department Aircraft Firefighting Training Jeanne Neal Sep 04, 2026 MEDIA ADVISORY Ames Research Center The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. The training will involve the use of a propane-fueled aircraft fire simulator and be conducted from 8 a.m.",
+      "queued_ts": 1788557042
+    },
+    {
+      "fp": "9a675ad4c3c48ea70895b51a",
+      "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
+      "link": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-04T16:48:59+00:00",
+      "day_brt": "2026-09-04",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community Lauren E. Low Sep 04, 2026 Article Two technicians at NASA’s Michoud Assembly Facility in New Orleans stand around one of the four RS-25 engines for the agency’s SLS (Space Launch System) rocket on Sept.",
+      "queued_ts": 1788557042
+    },
+    {
+      "fp": "61f1c7e65d2226f2420df393",
+      "title": "APOD: 2026 September 4 – Na Uhane Mahoe Huki Pu i ke Ola",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-4-na-uhane-mahoe-huki-pu-i-ke-ola/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-04T04:05:00+00:00",
+      "day_brt": "2026-09-04",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1788557042
+    },
+    {
+      "fp": "167a105938a22f8ce6f07907",
+      "title": "Blue Origin expands test and launch sites across the Cape",
+      "link": "https://www.nasaspaceflight.com/2026/09/blue-origin-expands-test-launch-cape/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-09-04T20:37:43+00:00",
+      "day_brt": "2026-09-04",
+      "resumo_pt": "Resumo (PT-BR): Blue Origin expands test and launch sites across the Cape by Alejandro Alcantarilla Romera and Chris Bergin September 4, 2026 written by Alejandro Alcantarilla Romera and Chris Bergin September 4, 2026 1 Blue Origin is expanding its Kennedy Space Center and Cape Canaveral footprint on multiple fronts, from a new Merritt Island test site and Rocket Park production buildings to the rebuild of Launch Complex 36 and early work on nearby processing facilities. NSF’s latest Space Coast flyover captured that progress in sequence, as the company ramps up to its proposed launch and production cadence.",
+      "queued_ts": 1788557042
     }
   ],
   "digests_sent": {
@@ -10837,38 +10917,6 @@
     }
   },
   "sent_updates": {
-    "2026-08-25": {
-      "ec092855fdd82da0f4cbb243": true,
-      "6aabc09de85821d28cb30da6": true,
-      "53ec1638fa6cc4b846842bff": true,
-      "afc039ed431d0dc737a2694a": true,
-      "b9636f44257acf8c9f59ca02": true,
-      "890381bbb1ddca08258a7f37": true,
-      "f4818546e6c598b43bd9c22c": true,
-      "c021208f36f9364839ff8811": true,
-      "f151402678c94dedeeb542c1": true
-    },
-    "2026-08-26": {
-      "7d2d715e993e7f8606df2b6d": true,
-      "05c408f2dea3f9ea996abc45": true,
-      "38af20881a1907be369f0f27": true,
-      "767ea758f8749f4ec78b2b4c": true,
-      "b5f0587f40668607f4ed68cb": true,
-      "46d1788cd4337f588971324a": true
-    },
-    "2026-08-27": {
-      "99cb4c8ce204eb49c1d5ff97": true,
-      "b507fdfa4a961631c87a4176": true,
-      "ee5bff0ea32cdd0dc10cab56": true,
-      "e54a1e728ff12ae26017abe4": true,
-      "44b5d7cb0482cce73c0151fb": true
-    },
-    "2026-08-28": {
-      "2f2e20f9bcdc853b33716630": true,
-      "c59dae07fd09e0069023bb01": true,
-      "885c5778167a5d1f11ead765": true,
-      "fcbd11193b0fef2147fc48ad": true
-    },
     "2026-08-29": {
       "f7328f6f25ccf6364f687b3b": true,
       "5f12385572e06036081e87c8": true,
@@ -10905,6 +10953,11 @@
       "fcafb961230223aed3794738": true,
       "b60af30cf427576d913d505e": true,
       "35398d40ccf5215ce0b86313": true
+    },
+    "2026-09-04": {
+      "626f2243f8b188138d6b933a": true,
+      "9a675ad4c3c48ea70895b51a": true,
+      "61f1c7e65d2226f2420df393": true
     }
   }
 }
