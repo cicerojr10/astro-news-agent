@@ -10372,54 +10372,6 @@
       "day_brt": "2026-08-31",
       "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1788227476
-    },
-    {
-      "fp": "626f2243f8b188138d6b933a",
-      "title": "NASA Ames Fire Department Aircraft Firefighting Training",
-      "link": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-04T19:51:56+00:00",
-      "day_brt": "2026-09-04",
-      "resumo_pt": "Resumo (PT-BR): 1 min read NASA Ames Fire Department Aircraft Firefighting Training Jeanne Neal Sep 04, 2026 MEDIA ADVISORY Ames Research Center The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. The training will involve the use of a propane-fueled aircraft fire simulator and be conducted from 8 a.m.",
-      "queued_ts": 1788557042
-    },
-    {
-      "fp": "9a675ad4c3c48ea70895b51a",
-      "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
-      "link": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-04T16:48:59+00:00",
-      "day_brt": "2026-09-04",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community Lauren E. Low Sep 04, 2026 Article Two technicians at NASA’s Michoud Assembly Facility in New Orleans stand around one of the four RS-25 engines for the agency’s SLS (Space Launch System) rocket on Sept.",
-      "queued_ts": 1788557042
-    },
-    {
-      "fp": "61f1c7e65d2226f2420df393",
-      "title": "APOD: 2026 September 4 – Na Uhane Mahoe Huki Pu i ke Ola",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-4-na-uhane-mahoe-huki-pu-i-ke-ola/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-04T04:05:00+00:00",
-      "day_brt": "2026-09-04",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1788557042
-    },
-    {
-      "fp": "167a105938a22f8ce6f07907",
-      "title": "Blue Origin expands test and launch sites across the Cape",
-      "link": "https://www.nasaspaceflight.com/2026/09/blue-origin-expands-test-launch-cape/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-09-04T20:37:43+00:00",
-      "day_brt": "2026-09-04",
-      "resumo_pt": "Resumo (PT-BR): Blue Origin expands test and launch sites across the Cape by Alejandro Alcantarilla Romera and Chris Bergin September 4, 2026 written by Alejandro Alcantarilla Romera and Chris Bergin September 4, 2026 1 Blue Origin is expanding its Kennedy Space Center and Cape Canaveral footprint on multiple fronts, from a new Merritt Island test site and Rocket Park production buildings to the rebuild of Launch Complex 36 and early work on nearby processing facilities. NSF’s latest Space Coast flyover captured that progress in sequence, as the company ramps up to its proposed launch and production cadence.",
-      "queued_ts": 1788557042
     }
   ],
   "digests_sent": {
@@ -10913,7 +10865,8 @@
       "night": true
     },
     "2026-09-04": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
