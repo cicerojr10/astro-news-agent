@@ -9758,6 +9758,14 @@
       "link": "https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/",
       "score": 5.2,
       "published_utc": "2026-09-03T17:06:00+00:00"
+    },
+    "23c3346e37152e872d3fabb2": {
+      "ts": 1788480404,
+      "source": "Space.com",
+      "title": "India sends Earth-imaging satellite toward geosynchronous orbit in milestone launch (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/gslv-mark-ii-eos-05-launch-first-indian-geo-earth-observing-satellite",
+      "score": 2.8,
+      "published_utc": "2026-09-03T12:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -10324,42 +10332,6 @@
       "day_brt": "2026-08-31",
       "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1788227476
-    },
-    {
-      "fp": "fcafb961230223aed3794738",
-      "title": "Igniting Roman’s Journey",
-      "link": "https://www.nasa.gov/image-article/igniting-romans-journey/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-03T14:24:23+00:00",
-      "day_brt": "2026-09-03",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Igniting Roman’s Journey HQ Web Team Sep 03, 2026 Image Article A SpaceX Falcon Heavy rocket launches with NASA’S Nancy Grace Roman Space Telescope onboard from Launch Complex 39A on Aug. NASA/Joel Kowsky Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets.",
-      "queued_ts": 1788456349
-    },
-    {
-      "fp": "b60af30cf427576d913d505e",
-      "title": "NASA’s Hubble Spies Superbubble Scene",
-      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-03T13:16:02+00:00",
-      "day_brt": "2026-09-03",
-      "resumo_pt": "Resumo (PT-BR): Explore Hubble Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space? Hubble by the Numbers At the Museum FAQs Impact & Benefits Hubble's Impact & Benefits Science Impacts Cultural Impact Technology Benefits Impact on Human Spaceflight Astro Community Impacts Science Hubble Science Science Themes Science Highlights Science Behind Discoveries Universe Uncovered Hubble's Partners in Science Hubble & Citizen Science AI & Hubble Science Explore the Night Sky Observatory Hubble Observatory Hubble Design Mission Operations Science Operations Astronaut Missions to Hubble Hubble vs.",
-      "queued_ts": 1788456349
-    },
-    {
-      "fp": "35398d40ccf5215ce0b86313",
-      "title": "NASA to Cover Progress 96 Spacecraft Launch, Docking",
-      "link": "https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/",
-      "source": "NASA Breaking News",
-      "score": 5.2,
-      "is_anomaly": false,
-      "published_utc": "2026-09-03T17:06:00+00:00",
-      "day_brt": "2026-09-03",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NASA to Cover Progress 96 Spacecraft Launch, Docking Jessica Taveau Sep 03, 2026 RELEASE M26-065 NASA Headquarters The Roscosmos Progress 92 cargo spacecraft is photographed in March 2026 from the International Space Station as it flies into an orbital sunset 267 miles above Earth’s surface. Credit: NASA NASA will provide live coverage of the launch and docking of a Roscosmos cargo spacecraft carrying about three tons of food, fuel, and supplies for the crew aboard the International Space Station.",
-      "queued_ts": 1788465492
     }
   ],
   "digests_sent": {
@@ -10849,7 +10821,8 @@
       "night": true
     },
     "2026-09-03": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
