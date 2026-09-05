@@ -9846,6 +9846,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
       "score": 2.8,
       "published_utc": "2026-09-05T14:00:00+00:00"
+    },
+    "b81fdf20906cd6e35f420be3": {
+      "ts": 1788648897,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 80th Starlink mission of 2026",
+      "link": "https://spaceflightnow.com/2026/09/05/live-coverage-spacex-to-launch-80th-starlink-mission-of-2026/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-09-05T22:06:47+00:00"
     }
   },
   "digest_queue": [
@@ -10436,6 +10444,18 @@
       "day_brt": "2026-09-05",
       "resumo_pt": "Resumo (PT-BR): Isar Aerospace launches Spectrum rocket after months of delays by Justin Davenport September 5, 2026 written by Justin Davenport September 5, 2026 283 The European private space launch provider Isar Aerospace, headquartered in Ottobrunn, Germany, launched its Spectrum small-satellite rocket on its second mission after months of delays and aborted launch attempts. About a year and an half after Spectrum’s first flight failed, the company flew the “Onward and Upward” mission from the Orbital Launch Pad at the Andoya Spaceport in Norway.",
       "queued_ts": 1788642689
+    },
+    {
+      "fp": "b81fdf20906cd6e35f420be3",
+      "title": "Live coverage: SpaceX to launch 80th Starlink mission of 2026",
+      "link": "https://spaceflightnow.com/2026/09/05/live-coverage-spacex-to-launch-80th-starlink-mission-of-2026/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-09-05T22:06:47+00:00",
+      "day_brt": "2026-09-05",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 80th Starlink mission of 2026 September 5, 2026 Will Robinson-Smith A Falcon 9 rocket stands poised to launch from the Space Launch Complex 4E at Vandenberg Space Force Base in California. SpaceX is gearing up for a Labor Day weekend launch of its Falcon 9 rocket from Vandenberg Space Force Base.",
+      "queued_ts": 1788648899
     }
   ],
   "digests_sent": {
@@ -10981,7 +11001,8 @@
     },
     "2026-09-05": {
       "1799810eb1963d417b50dfc2": true,
-      "7652ed02ce1eafa95de15f93": true
+      "7652ed02ce1eafa95de15f93": true,
+      "b81fdf20906cd6e35f420be3": true
     }
   }
 }
