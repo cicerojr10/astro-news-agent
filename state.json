@@ -9830,6 +9830,22 @@
       "link": "https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/",
       "score": 3.6,
       "published_utc": "2026-09-05T09:41:57+00:00"
+    },
+    "7652ed02ce1eafa95de15f93": {
+      "ts": 1788642688,
+      "source": "NASASpaceflight",
+      "title": "Isar Aerospace launches Spectrum rocket after months of delays",
+      "link": "https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/",
+      "score": 3.6,
+      "published_utc": "2026-09-05T09:41:57+00:00"
+    },
+    "6a07b4d8332a445db6760551": {
+      "ts": 1788642689,
+      "source": "Space.com",
+      "title": "Private German rocket makes history, reaches orbit from European soil",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "score": 2.8,
+      "published_utc": "2026-09-05T14:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -10408,6 +10424,18 @@
       "day_brt": "2026-09-05",
       "resumo_pt": "Resumo (PT-BR): Isar Aerospace attempts launch of Spectrum rocket after months of delays by Justin Davenport September 5, 2026 written by Justin Davenport September 5, 2026 280 The European private space launch provider Isar Aerospace, headquartered in Ottobrunn, Germany, is set to fly its Spectrum small-satellite launcher on its second mission after months of delays and aborted launch attempts. About a year and an half after Spectrum’s first flight failed, the company is to fly the “Onward and Upward” mission from the Orbital Launch Pad at the Andoya Spaceport in Norway.",
       "queued_ts": 1788628933
+    },
+    {
+      "fp": "7652ed02ce1eafa95de15f93",
+      "title": "Isar Aerospace launches Spectrum rocket after months of delays",
+      "link": "https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-09-05T09:41:57+00:00",
+      "day_brt": "2026-09-05",
+      "resumo_pt": "Resumo (PT-BR): Isar Aerospace launches Spectrum rocket after months of delays by Justin Davenport September 5, 2026 written by Justin Davenport September 5, 2026 283 The European private space launch provider Isar Aerospace, headquartered in Ottobrunn, Germany, launched its Spectrum small-satellite rocket on its second mission after months of delays and aborted launch attempts. About a year and an half after Spectrum’s first flight failed, the company flew the “Onward and Upward” mission from the Orbital Launch Pad at the Andoya Spaceport in Norway.",
+      "queued_ts": 1788642689
     }
   ],
   "digests_sent": {
@@ -10952,7 +10980,8 @@
       "61f1c7e65d2226f2420df393": true
     },
     "2026-09-05": {
-      "1799810eb1963d417b50dfc2": true
+      "1799810eb1963d417b50dfc2": true,
+      "7652ed02ce1eafa95de15f93": true
     }
   }
 }
