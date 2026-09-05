@@ -9822,6 +9822,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
       "score": 2.8,
       "published_utc": "2026-09-05T14:00:00+00:00"
+    },
+    "1799810eb1963d417b50dfc2": {
+      "ts": 1788628932,
+      "source": "NASASpaceflight",
+      "title": "Isar Aerospace attempts launch of Spectrum rocket after months of delays",
+      "link": "https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/",
+      "score": 3.6,
+      "published_utc": "2026-09-05T09:41:57+00:00"
     }
   },
   "digest_queue": [
@@ -10388,6 +10396,18 @@
       "day_brt": "2026-08-31",
       "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1788227476
+    },
+    {
+      "fp": "1799810eb1963d417b50dfc2",
+      "title": "Isar Aerospace attempts launch of Spectrum rocket after months of delays",
+      "link": "https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-09-05T09:41:57+00:00",
+      "day_brt": "2026-09-05",
+      "resumo_pt": "Resumo (PT-BR): Isar Aerospace attempts launch of Spectrum rocket after months of delays by Justin Davenport September 5, 2026 written by Justin Davenport September 5, 2026 280 The European private space launch provider Isar Aerospace, headquartered in Ottobrunn, Germany, is set to fly its Spectrum small-satellite launcher on its second mission after months of delays and aborted launch attempts. About a year and an half after Spectrum’s first flight failed, the company is to fly the “Onward and Upward” mission from the Orbital Launch Pad at the Andoya Spaceport in Norway.",
+      "queued_ts": 1788628933
     }
   ],
   "digests_sent": {
@@ -10930,6 +10950,9 @@
       "626f2243f8b188138d6b933a": true,
       "9a675ad4c3c48ea70895b51a": true,
       "61f1c7e65d2226f2420df393": true
+    },
+    "2026-09-05": {
+      "1799810eb1963d417b50dfc2": true
     }
   }
 }
