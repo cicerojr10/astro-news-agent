@@ -9871,6 +9871,30 @@
       "score": 0.0,
       "published_utc": "2026-09-05T22:06:47+00:00",
       "note": "not_today"
+    },
+    "534302b490a47c66881d934e": {
+      "ts": 1788716425,
+      "source": "NASASpaceflight",
+      "title": "Cape neighbors Stoke and Relativity advance LC-14 and LC-16 toward first flights",
+      "link": "https://www.nasaspaceflight.com/2026/09/cape-neighbors-stoke-relativity-advance-lc-14-lc-16/",
+      "score": 3.6,
+      "published_utc": "2026-09-06T15:52:38+00:00"
+    },
+    "036ef335c50883dd7819a392": {
+      "ts": 1788716426,
+      "source": "Space.com",
+      "title": "On this day in space! Sept. 6, 1947: The US Navy launches 1st V-2 rocket at sea in ballistic missile test",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-6-2026",
+      "score": 2.8,
+      "published_utc": "2026-09-06T16:23:04+00:00"
+    },
+    "90fa966f79ca155b3936b0ac": {
+      "ts": 1788716426,
+      "source": "Space.com",
+      "title": "SpaceX Falcon 9 rocket launches 27 Starlink satellites, lands on ship at sea (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink/group-15-24-launch-ocisly",
+      "score": 2.8,
+      "published_utc": "2026-09-06T15:54:11+00:00"
     }
   },
   "digest_queue": [
@@ -10437,6 +10461,18 @@
       "day_brt": "2026-08-31",
       "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1788227476
+    },
+    {
+      "fp": "534302b490a47c66881d934e",
+      "title": "Cape neighbors Stoke and Relativity advance LC-14 and LC-16 toward first flights",
+      "link": "https://www.nasaspaceflight.com/2026/09/cape-neighbors-stoke-relativity-advance-lc-14-lc-16/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-09-06T15:52:38+00:00",
+      "day_brt": "2026-09-06",
+      "resumo_pt": "Resumo (PT-BR): Cape neighbors Stoke and Relativity advance LC-14 and LC-16 toward first flights by Alejandro Alcantarilla Romera and Chris Bergin September 6, 2026 written by Alejandro Alcantarilla Romera and Chris Bergin September 6, 2026 1 Along Missile Row at Cape Canaveral Space Force Station, Stoke Space and Relativity Space are building out launch sites almost side by side. Launch Complex 14 and Launch Complex 16 sit as neighbors on the Space Coast, two historic pads now being readied for two different reusable rockets: Stoke’s fully reusable medium-lift Nova and Relativity’s partially reusable heavy-lift Terran R.",
+      "queued_ts": 1788716426
     }
   ],
   "digests_sent": {
@@ -10988,6 +11024,9 @@
       "1799810eb1963d417b50dfc2": true,
       "7652ed02ce1eafa95de15f93": true,
       "b81fdf20906cd6e35f420be3": true
+    },
+    "2026-09-06": {
+      "534302b490a47c66881d934e": true
     }
   }
 }
