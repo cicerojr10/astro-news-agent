@@ -9854,6 +9854,14 @@
       "link": "https://spaceflightnow.com/2026/09/05/live-coverage-spacex-to-launch-80th-starlink-mission-of-2026/",
       "score": 4.680000000000001,
       "published_utc": "2026-09-05T22:06:47+00:00"
+    },
+    "a0f3c59564d95ebb88931561": {
+      "ts": 1788697751,
+      "source": "Space.com",
+      "title": "NASA expands Deep Space Network with giant new dish in California desert",
+      "link": "https://www.space.com/astronomy/nasa-expands-deep-space-network-with-giant-new-dish-in-california-desert",
+      "score": 2.8,
+      "published_utc": "2026-09-06T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -10919,6 +10927,9 @@
     "2026-09-05": {
       "morning": true,
       "night": true
+    },
+    "2026-09-06": {
+      "morning": true
     }
   },
   "sent_updates": {
