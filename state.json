@@ -10469,30 +10469,6 @@
       "day_brt": "2026-08-31",
       "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1788227476
-    },
-    {
-      "fp": "534302b490a47c66881d934e",
-      "title": "Cape neighbors Stoke and Relativity advance LC-14 and LC-16 toward first flights",
-      "link": "https://www.nasaspaceflight.com/2026/09/cape-neighbors-stoke-relativity-advance-lc-14-lc-16/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-09-06T15:52:38+00:00",
-      "day_brt": "2026-09-06",
-      "resumo_pt": "Resumo (PT-BR): Cape neighbors Stoke and Relativity advance LC-14 and LC-16 toward first flights by Alejandro Alcantarilla Romera and Chris Bergin September 6, 2026 written by Alejandro Alcantarilla Romera and Chris Bergin September 6, 2026 1 Along Missile Row at Cape Canaveral Space Force Station, Stoke Space and Relativity Space are building out launch sites almost side by side. Launch Complex 14 and Launch Complex 16 sit as neighbors on the Space Coast, two historic pads now being readied for two different reusable rockets: Stoke’s fully reusable medium-lift Nova and Relativity’s partially reusable heavy-lift Terran R.",
-      "queued_ts": 1788716426
-    },
-    {
-      "fp": "5f07b51719345a69ac55a8a4",
-      "title": "Starbase Infrastructure Advances Toward Flight 14",
-      "link": "https://www.nasaspaceflight.com/2026/09/starbase-infrastructure-spacex-flight-14/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-09-06T18:49:44+00:00",
-      "day_brt": "2026-09-06",
-      "resumo_pt": "Resumo (PT-BR): Starbase Infrastructure Advances Toward Flight 14 by Ryan Weber September 6, 2026 written by Ryan Weber September 6, 2026 3 SpaceX is still building out assembly, test, and launch infrastructure at Starbase while Flight 14 hardware moves toward the pad. New flyover footage shows work on structural test articles for this flight and later vehicles, plus construction at Massey’s, Gigabay, and Pad 1.",
-      "queued_ts": 1788723086
     }
   ],
   "digests_sent": {
@@ -10994,7 +10970,8 @@
       "night": true
     },
     "2026-09-06": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
