@@ -9895,6 +9895,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink/group-15-24-launch-ocisly",
       "score": 2.8,
       "published_utc": "2026-09-06T15:54:11+00:00"
+    },
+    "5f07b51719345a69ac55a8a4": {
+      "ts": 1788723085,
+      "source": "NASASpaceflight",
+      "title": "Starbase Infrastructure Advances Toward Flight 14",
+      "link": "https://www.nasaspaceflight.com/2026/09/starbase-infrastructure-spacex-flight-14/",
+      "score": 3.6,
+      "published_utc": "2026-09-06T18:49:44+00:00"
     }
   },
   "digest_queue": [
@@ -10473,6 +10481,18 @@
       "day_brt": "2026-09-06",
       "resumo_pt": "Resumo (PT-BR): Cape neighbors Stoke and Relativity advance LC-14 and LC-16 toward first flights by Alejandro Alcantarilla Romera and Chris Bergin September 6, 2026 written by Alejandro Alcantarilla Romera and Chris Bergin September 6, 2026 1 Along Missile Row at Cape Canaveral Space Force Station, Stoke Space and Relativity Space are building out launch sites almost side by side. Launch Complex 14 and Launch Complex 16 sit as neighbors on the Space Coast, two historic pads now being readied for two different reusable rockets: Stoke’s fully reusable medium-lift Nova and Relativity’s partially reusable heavy-lift Terran R.",
       "queued_ts": 1788716426
+    },
+    {
+      "fp": "5f07b51719345a69ac55a8a4",
+      "title": "Starbase Infrastructure Advances Toward Flight 14",
+      "link": "https://www.nasaspaceflight.com/2026/09/starbase-infrastructure-spacex-flight-14/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-09-06T18:49:44+00:00",
+      "day_brt": "2026-09-06",
+      "resumo_pt": "Resumo (PT-BR): Starbase Infrastructure Advances Toward Flight 14 by Ryan Weber September 6, 2026 written by Ryan Weber September 6, 2026 3 SpaceX is still building out assembly, test, and launch infrastructure at Starbase while Flight 14 hardware moves toward the pad. New flyover footage shows work on structural test articles for this flight and later vehicles, plus construction at Massey’s, Gigabay, and Pad 1.",
+      "queued_ts": 1788723086
     }
   ],
   "digests_sent": {
@@ -11026,7 +11046,8 @@
       "b81fdf20906cd6e35f420be3": true
     },
     "2026-09-06": {
-      "534302b490a47c66881d934e": true
+      "534302b490a47c66881d934e": true,
+      "5f07b51719345a69ac55a8a4": true
     }
   }
 }
