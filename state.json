@@ -9943,6 +9943,14 @@
       "link": "https://www.space.com/astronomy/earth/the-future-of-earth-observation-private-satellites-and-ai-bring-benefits-but-also-pose-risks",
       "score": 2.8,
       "published_utc": "2026-09-07T13:00:00+00:00"
+    },
+    "64455f0ed276e655a39aadfe": {
+      "ts": 1788810686,
+      "source": "NASASpaceflight",
+      "title": "Artemis III SLS stacking advances as Orion results confirm trajectory fix",
+      "link": "https://www.nasaspaceflight.com/2026/09/artemis-iii-sls-stacking-artemis-ii-orion-fix/",
+      "score": 3.6,
+      "published_utc": "2026-09-07T18:39:52+00:00"
     }
   },
   "digest_queue": [
@@ -10533,6 +10541,18 @@
       "day_brt": "2026-09-07",
       "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory A Bright Spot at Mount Michael Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 3 min read A Bright Spot at Mount Michael Image of the Day for September 7, 2026 With austral winter nearing its end, clouds cleared for a satellite view of volcanic activity in the remote South Atlantic. NASA Earth Observatory Sep 07, 2026 Article View more Images of the Day: Sep 4, 2026 Instruments: Landsat 8 — OLI Landsat 9 — OLI Topics: Clouds Volcanoes Mount Michael on Saunders Island, seen in this image acquired with the OLI (Operational Land Imager) on Landsat 8 on August 24, 2026, hosts a frequently active lava lake in its summit crater.",
       "queued_ts": 1788758481
+    },
+    {
+      "fp": "64455f0ed276e655a39aadfe",
+      "title": "Artemis III SLS stacking advances as Orion results confirm trajectory fix",
+      "link": "https://www.nasaspaceflight.com/2026/09/artemis-iii-sls-stacking-artemis-ii-orion-fix/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-09-07T18:39:52+00:00",
+      "day_brt": "2026-09-07",
+      "resumo_pt": "Resumo (PT-BR): Artemis III SLS stacking advances as Orion results confirm trajectory fix by Alejandro Alcantarilla Romera and Chris Bergin September 7, 2026 written by Alejandro Alcantarilla Romera and Chris Bergin September 7, 2026 1 Teams at NASA’s Kennedy Space Center have pushed Artemis III Space Launch System hardware another step forward, stacking the next pair of solid rocket booster segments inside the Vehicle Assembly Building while Core Stage-3 engine work and early Artemis IV processing also continue. The progress comes as NASA’s Aerospace Safety Advisory Panel (ASAP) reviewed post-flight analysis of Orion’s Artemis II heat shield, confirming that a modified reentry profile sharply reduced the Avcoat char-loss seen after Artemis I.",
+      "queued_ts": 1788810687
     }
   ],
   "digests_sent": {
@@ -11092,7 +11112,8 @@
     },
     "2026-09-07": {
       "904cfe51bd14c27a1920c4eb": true,
-      "7c0e8ed5f52a94cbcfc8b072": true
+      "7c0e8ed5f52a94cbcfc8b072": true,
+      "64455f0ed276e655a39aadfe": true
     }
   }
 }
