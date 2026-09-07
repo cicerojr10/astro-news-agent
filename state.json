@@ -9903,6 +9903,22 @@
       "link": "https://www.nasaspaceflight.com/2026/09/starbase-infrastructure-spacex-flight-14/",
       "score": 3.6,
       "published_utc": "2026-09-06T18:49:44+00:00"
+    },
+    "904cfe51bd14c27a1920c4eb": {
+      "ts": 1788758477,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
+      "score": 4.0,
+      "published_utc": "2026-09-07T04:05:00+00:00"
+    },
+    "7c0e8ed5f52a94cbcfc8b072": {
+      "ts": 1788758478,
+      "source": "NASA Breaking News",
+      "title": "A Bright Spot at Mount Michael",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/",
+      "score": 4.0,
+      "published_utc": "2026-09-07T04:01:00+00:00"
     }
   },
   "digest_queue": [
@@ -10469,6 +10485,30 @@
       "day_brt": "2026-08-31",
       "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1788227476
+    },
+    {
+      "fp": "904cfe51bd14c27a1920c4eb",
+      "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-07T04:05:00+00:00",
+      "day_brt": "2026-09-07",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1788758481
+    },
+    {
+      "fp": "7c0e8ed5f52a94cbcfc8b072",
+      "title": "A Bright Spot at Mount Michael",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-07T04:01:00+00:00",
+      "day_brt": "2026-09-07",
+      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory A Bright Spot at Mount Michael Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 3 min read A Bright Spot at Mount Michael Image of the Day for September 7, 2026 With austral winter nearing its end, clouds cleared for a satellite view of volcanic activity in the remote South Atlantic. NASA Earth Observatory Sep 07, 2026 Article View more Images of the Day: Sep 4, 2026 Instruments: Landsat 8 — OLI Landsat 9 — OLI Topics: Clouds Volcanoes Mount Michael on Saunders Island, seen in this image acquired with the OLI (Operational Land Imager) on Landsat 8 on August 24, 2026, hosts a frequently active lava lake in its summit crater.",
+      "queued_ts": 1788758481
     }
   ],
   "digests_sent": {
@@ -11025,6 +11065,10 @@
     "2026-09-06": {
       "534302b490a47c66881d934e": true,
       "5f07b51719345a69ac55a8a4": true
+    },
+    "2026-09-07": {
+      "904cfe51bd14c27a1920c4eb": true,
+      "7c0e8ed5f52a94cbcfc8b072": true
     }
   }
 }
