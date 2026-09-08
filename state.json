@@ -9959,6 +9959,22 @@
       "link": "https://www.space.com/entertainment/space-games/the-last-starship-is-2026s-most-slept-on-space-game-you-need-to-check-out-this-ftl-like-shipbuilding-strategy-gem",
       "score": 2.8,
       "published_utc": "2026-09-07T20:00:00+00:00"
+    },
+    "600f9fc7074ef894993e515c": {
+      "ts": 1788843558,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole/",
+      "score": 4.0,
+      "published_utc": "2026-09-08T04:05:00+00:00"
+    },
+    "53c0675ac11c6fa628d906f1": {
+      "ts": 1788843559,
+      "source": "NASA Breaking News",
+      "title": "The Otherworldly Geology of Vasquez Rocks",
+      "link": "https://science.nasa.gov/earth/earth-observatory/the-otherworldly-geology-of-vasquez-rocks/",
+      "score": 4.0,
+      "published_utc": "2026-09-08T04:01:00+00:00"
     }
   },
   "digest_queue": [
@@ -10525,6 +10541,30 @@
       "day_brt": "2026-08-31",
       "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1788227476
+    },
+    {
+      "fp": "600f9fc7074ef894993e515c",
+      "title": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-08T04:05:00+00:00",
+      "day_brt": "2026-09-08",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1788843562
+    },
+    {
+      "fp": "53c0675ac11c6fa628d906f1",
+      "title": "The Otherworldly Geology of Vasquez Rocks",
+      "link": "https://science.nasa.gov/earth/earth-observatory/the-otherworldly-geology-of-vasquez-rocks/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-08T04:01:00+00:00",
+      "day_brt": "2026-09-08",
+      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory The Otherworldly Geology of... Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 4 min read The Otherworldly Geology of Vasquez Rocks Image of the Day for September 8, 2026 Layers of sedimentary rock that jut from the Soledad Basin at surprising angles have long enthralled television and film producers, including the team behind Star Trek.",
+      "queued_ts": 1788843562
     }
   ],
   "digests_sent": {
@@ -11034,32 +11074,6 @@
     }
   },
   "sent_updates": {
-    "2026-08-29": {
-      "f7328f6f25ccf6364f687b3b": true,
-      "5f12385572e06036081e87c8": true,
-      "77df0f6a791ac648036188c1": true
-    },
-    "2026-08-30": {
-      "0767592f58c5c3b71452ecdd": true,
-      "9045070ac6e7c5ed3ba5be6b": true,
-      "c11c9585d63d58941d67c8b2": true,
-      "9940027e0d5f9de2446552a9": true
-    },
-    "2026-08-31": {
-      "db62f7e30ff21a1706344aca": true,
-      "4ef0df3f60c548afcd0f4593": true,
-      "4ee3861e60e954ba2f1b9a8f": true,
-      "def83d69b1d4cc7bf69f9ca4": true,
-      "3873a9779faababb4f41c3b5": true,
-      "3e7a24fb71e6cea7ddccd26a": true,
-      "769e25255b466cbd4f6b2f6b": true
-    },
-    "2026-09-01": {
-      "3c97be607973a68054b3f39b": true,
-      "c63123e0a3626868a7a6ae9f": true,
-      "106ca98e503a59a15c3875e4": true,
-      "30a0cf91e4af32b3403517d1": true
-    },
     "2026-09-02": {
       "52aa4991f1daed864362b095": true,
       "58208438fd114ddd6a01b940": true,
@@ -11089,6 +11103,10 @@
       "904cfe51bd14c27a1920c4eb": true,
       "7c0e8ed5f52a94cbcfc8b072": true,
       "64455f0ed276e655a39aadfe": true
+    },
+    "2026-09-08": {
+      "600f9fc7074ef894993e515c": true,
+      "53c0675ac11c6fa628d906f1": true
     }
   }
 }
