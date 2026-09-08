@@ -10047,6 +10047,14 @@
       "link": "https://www.space.com/stargazing/astrophotography/astrophotographer-captures-jaw-dropping-view-of-the-crescent-nebula",
       "score": 2.8,
       "published_utc": "2026-09-08T18:00:00+00:00"
+    },
+    "efda0a3fd909b99bdacb7e05": {
+      "ts": 1788907272,
+      "source": "NASA Breaking News",
+      "title": "From the Corps to the Cosmos, featuring Jaden Caradine",
+      "link": "https://www.nasa.gov/general/from-the-corps-to-the-cosmos-featuring-jaden-caradine/",
+      "score": 4.0,
+      "published_utc": "2026-09-08T20:29:59+00:00"
     }
   },
   "digest_queue": [
@@ -10649,6 +10657,18 @@
       "day_brt": "2026-09-08",
       "resumo_pt": "Resumo (PT-BR): Explore Hubble Science Hubble Space Telescope NASA’s Hubble, Webb Find... Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space?",
       "queued_ts": 1788888676
+    },
+    {
+      "fp": "efda0a3fd909b99bdacb7e05",
+      "title": "From the Corps to the Cosmos, featuring Jaden Caradine",
+      "link": "https://www.nasa.gov/general/from-the-corps-to-the-cosmos-featuring-jaden-caradine/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-08T20:29:59+00:00",
+      "day_brt": "2026-09-08",
+      "resumo_pt": "Resumo (PT-BR): 7 min read From the Corps to the Cosmos, featuring Jaden Caradine Sondra Woodward Sep 08, 2026 Article Contents Finding the Overlap Chasing the Signal Work Worth Doing No Silos On Caradine's Sci-Fi Shelf Jaden Caradine knew he wanted to be an engineer at eight years old. Before he enrolled at Embry-Riddle Aeronautical University, before he discovered the field that would become his focus, and before he landed a Pathways internship at NASA’s Langley Research Center in Hampton, Virginia, Caradine spent five years as a mechanic in the United States Marine Corps, four of them stationed in Japan.",
+      "queued_ts": 1788907275
     }
   ],
   "digests_sent": {
@@ -11197,7 +11217,8 @@
       "4a5f1f43872b9704e17b879a": true,
       "287f4120cfdaa17680a6053d": true,
       "665d377126277fd0153f6d99": true,
-      "3d4da4a2dd0322f11d4ce507": true
+      "3d4da4a2dd0322f11d4ce507": true,
+      "efda0a3fd909b99bdacb7e05": true
     }
   }
 }
