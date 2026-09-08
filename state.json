@@ -9991,6 +9991,46 @@
       "link": "https://www.space.com/space-exploration/satellites/the-vela-incident-did-an-american-satellite-detect-a-secret-nuclear-test-in-1979",
       "score": 7.0,
       "published_utc": "2026-09-08T10:00:00+00:00"
+    },
+    "287f4120cfdaa17680a6053d": {
+      "ts": 1788888670,
+      "source": "NASA Breaking News",
+      "title": "Superbubble in the Large Magellanic Cloud",
+      "link": "https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/",
+      "score": 4.0,
+      "published_utc": "2026-09-08T16:49:15+00:00"
+    },
+    "665d377126277fd0153f6d99": {
+      "ts": 1788888670,
+      "source": "NASA Breaking News",
+      "title": "1,000 Museum Visitors Dive Into NASA Sea Level Science on World Ocean Day",
+      "link": "https://science.nasa.gov/learning-resources/science-activation/1000-museum-visitors-dive-into-nasa-sea-level-science-on-world-ocean-day/",
+      "score": 4.0,
+      "published_utc": "2026-09-08T14:06:52+00:00"
+    },
+    "3d4da4a2dd0322f11d4ce507": {
+      "ts": 1788888670,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/",
+      "score": 4.0,
+      "published_utc": "2026-09-08T14:00:28+00:00"
+    },
+    "6a0be5e5e8270ebd5e31972e": {
+      "ts": 1788888674,
+      "source": "Space.com",
+      "title": "On this day in space! Sept. 8, 2004: NASA's Genesis spacecraft crashed in the Utah desert, shattering its samples of solar wind particles from the sun",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-8-2026",
+      "score": 2.8,
+      "published_utc": "2026-09-08T17:17:42+00:00"
+    },
+    "cda6ec035e8f099e1da5b295": {
+      "ts": 1788888674,
+      "source": "Space.com",
+      "title": "2 satellites just burned up in Earth's atmosphere — and scientists were watching from a private jet. Here's why",
+      "link": "https://www.space.com/space-exploration/satellites/2-satellites-just-burned-up-in-earths-atmosphere-and-scientists-were-watching-from-a-private-jet-heres-why",
+      "score": 2.8,
+      "published_utc": "2026-09-08T16:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -10557,6 +10597,42 @@
       "day_brt": "2026-08-31",
       "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1788227476
+    },
+    {
+      "fp": "287f4120cfdaa17680a6053d",
+      "title": "Superbubble in the Large Magellanic Cloud",
+      "link": "https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-08T16:49:15+00:00",
+      "day_brt": "2026-09-08",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Superbubble in the Large Magellanic Cloud HQ Web Team Sep 08, 2026 Image Article NASA, ESA/Hubble, D. Gouliermis NASA’s Hubble Space Telescope captures a photogenic nebula, N44, in the Large Magellanic Cloud in this Sept.",
+      "queued_ts": 1788888676
+    },
+    {
+      "fp": "665d377126277fd0153f6d99",
+      "title": "1,000 Museum Visitors Dive Into NASA Sea Level Science on World Ocean Day",
+      "link": "https://science.nasa.gov/learning-resources/science-activation/1000-museum-visitors-dive-into-nasa-sea-level-science-on-world-ocean-day/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-08T14:06:52+00:00",
+      "day_brt": "2026-09-08",
+      "resumo_pt": "Resumo (PT-BR): Explore This Section Science Science Activation 1,000 Museum Visitors Dive... Overview Resources Opportunities Citizen Science Highlights About Science Activation 3 min read 1,000 Museum Visitors Dive Into NASA Sea Level Science on World Ocean Day NASA Science Editorial Team Sep 08, 2026 Article Participants reach into an augmented reality sandbox, reshaping the terrain as projected contour lines and colors illustrate topographic features and elevation changes.",
+      "queued_ts": 1788888676
+    },
+    {
+      "fp": "3d4da4a2dd0322f11d4ce507",
+      "title": "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-08T14:00:28+00:00",
+      "day_brt": "2026-09-08",
+      "resumo_pt": "Resumo (PT-BR): Explore Hubble Science Hubble Space Telescope NASA’s Hubble, Webb Find... Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space?",
+      "queued_ts": 1788888676
     }
   ],
   "digests_sent": {
@@ -11102,7 +11178,10 @@
     "2026-09-08": {
       "600f9fc7074ef894993e515c": true,
       "53c0675ac11c6fa628d906f1": true,
-      "4a5f1f43872b9704e17b879a": true
+      "4a5f1f43872b9704e17b879a": true,
+      "287f4120cfdaa17680a6053d": true,
+      "665d377126277fd0153f6d99": true,
+      "3d4da4a2dd0322f11d4ce507": true
     }
   }
 }
