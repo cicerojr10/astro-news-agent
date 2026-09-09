@@ -10127,6 +10127,22 @@
       "link": "https://www.space.com/astronomy/exoplanets/nasas-newly-launched-roman-space-telescope-will-directly-image-exoplanets-but-what-does-that-mean",
       "score": 2.8,
       "published_utc": "2026-09-09T18:00:00+00:00"
+    },
+    "54bcb2c2218484620c99ebf2": {
+      "ts": 1788991346,
+      "source": "NASASpaceflight",
+      "title": "Flight 15 pairing undergo testing at Massey’s",
+      "link": "https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/",
+      "score": 3.6,
+      "published_utc": "2026-09-09T20:22:02+00:00"
+    },
+    "d50d5eb838648b161cba921e": {
+      "ts": 1788991347,
+      "source": "Space.com",
+      "title": "This 'impossible' black hole merger may be explained by a warp in spacetime",
+      "link": "https://www.space.com/astronomy/black-holes/this-impossible-black-hole-merger-may-be-explained-by-a-warp-in-spacetime",
+      "score": 2.8,
+      "published_utc": "2026-09-09T21:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -10741,6 +10757,18 @@
       "day_brt": "2026-09-09",
       "resumo_pt": "Resumo (PT-BR): 5 min read NASA’s Chandra Unveils Mysterious X-Ray Objects Megan Watzke Sep 09, 2026 Article X-ray: NASA/CXC/Univ. Muhibullah et al.; Optical: NASA/ESA/STScI; Image Processing: NASA/CXC/SAO/N.",
       "queued_ts": 1788983580
+    },
+    {
+      "fp": "54bcb2c2218484620c99ebf2",
+      "title": "Flight 15 pairing undergo testing at Massey’s",
+      "link": "https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-09-09T20:22:02+00:00",
+      "day_brt": "2026-09-09",
+      "resumo_pt": "Resumo (PT-BR): Flight 15 pairing undergo testing at Massey’s by Eleanor Day and Chris Bergin September 9, 2026 written by Eleanor Day and Chris Bergin September 9, 2026 1 SpaceX has rolled Super Heavy Booster 22 out of Mega Bay 1 to Massey’s for cryogenic proof testing. Ship 42 has since joined it there on its second trip to the test site.",
+      "queued_ts": 1788991348
     }
   ],
   "digests_sent": {
@@ -11301,7 +11329,8 @@
       "55395aef20f2d91c606cee15": true,
       "b48dfff84bae56f78374ed25": true,
       "1cb32c7ec5b8da24fe105786": true,
-      "c023c733a042b3b81f8c1bfe": true
+      "c023c733a042b3b81f8c1bfe": true,
+      "54bcb2c2218484620c99ebf2": true
     }
   }
 }
