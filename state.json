@@ -10055,6 +10055,22 @@
       "link": "https://www.nasa.gov/general/from-the-corps-to-the-cosmos-featuring-jaden-caradine/",
       "score": 4.0,
       "published_utc": "2026-09-08T20:29:59+00:00"
+    },
+    "3d7e82a353c7f1e11c8981f9": {
+      "ts": 1788962174,
+      "source": "Space.com",
+      "title": "A photon from the biggest cosmic explosion since the Big Bang appears to have defied Einstein. Scientists may finally know how",
+      "link": "https://www.space.com/science/astrophysics/a-photon-from-the-biggest-cosmic-explosion-since-the-big-bang-appears-to-have-defied-einstein-scientists-may-finally-know-how",
+      "score": 8.399999999999999,
+      "published_utc": "2026-09-09T13:00:00+00:00"
+    },
+    "b5823b3b63058007cc943602": {
+      "ts": 1788962174,
+      "source": "Space.com",
+      "title": "China on track to launch Mars sample-return mission in 2028: 'If accurate, this represents a Sputnik moment'",
+      "link": "https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment",
+      "score": 2.8,
+      "published_utc": "2026-09-09T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -11131,6 +11147,9 @@
     "2026-09-08": {
       "morning": true,
       "night": true
+    },
+    "2026-09-09": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -11172,6 +11191,9 @@
       "665d377126277fd0153f6d99": true,
       "3d4da4a2dd0322f11d4ce507": true,
       "efda0a3fd909b99bdacb7e05": true
+    },
+    "2026-09-09": {
+      "3d7e82a353c7f1e11c8981f9": true
     }
   }
 }
