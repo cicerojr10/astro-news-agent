@@ -10111,6 +10111,22 @@
       "link": "https://www.space.com/space-exploration/satellites/us-military-practices-orbital-dogfighting-in-1st-ever-live-fly-exercise-in-space",
       "score": 2.8,
       "published_utc": "2026-09-09T15:00:00+00:00"
+    },
+    "c023c733a042b3b81f8c1bfe": {
+      "ts": 1788983577,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Chandra Unveils Mysterious X-Ray Objects",
+      "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/",
+      "score": 4.0,
+      "published_utc": "2026-09-09T18:11:24+00:00"
+    },
+    "e13ae2e7713e0c76f180204e": {
+      "ts": 1788983579,
+      "source": "Space.com",
+      "title": "NASA's newly launched Roman Space Telescope will 'directly' image exoplanets. But what does that mean?",
+      "link": "https://www.space.com/astronomy/exoplanets/nasas-newly-launched-roman-space-telescope-will-directly-image-exoplanets-but-what-does-that-mean",
+      "score": 2.8,
+      "published_utc": "2026-09-09T18:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -10713,6 +10729,18 @@
       "day_brt": "2026-09-09",
       "resumo_pt": "Resumo (PT-BR): 1 min read Artemis II Crew at NASA Marshall HQ Web Team Sep 09, 2026 Image Article NASA/Brandon Hancock The crew of NASA’s Artemis II mission – NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman and CSA (Canadian Space Agency) astronaut Jeremy Hansen – visited Huntsville, Alabama, Sept. 1, 2026, where they met with the NASA workforce at NASA’s Marshall Space Flight Center.",
       "queued_ts": 1788974698
+    },
+    {
+      "fp": "c023c733a042b3b81f8c1bfe",
+      "title": "NASA’s Chandra Unveils Mysterious X-Ray Objects",
+      "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-09T18:11:24+00:00",
+      "day_brt": "2026-09-09",
+      "resumo_pt": "Resumo (PT-BR): 5 min read NASA’s Chandra Unveils Mysterious X-Ray Objects Megan Watzke Sep 09, 2026 Article X-ray: NASA/CXC/Univ. Muhibullah et al.; Optical: NASA/ESA/STScI; Image Processing: NASA/CXC/SAO/N.",
+      "queued_ts": 1788983580
     }
   ],
   "digests_sent": {
@@ -11272,7 +11300,8 @@
       "3d7e82a353c7f1e11c8981f9": true,
       "55395aef20f2d91c606cee15": true,
       "b48dfff84bae56f78374ed25": true,
-      "1cb32c7ec5b8da24fe105786": true
+      "1cb32c7ec5b8da24fe105786": true,
+      "c023c733a042b3b81f8c1bfe": true
     }
   }
 }
