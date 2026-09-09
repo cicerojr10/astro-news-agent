@@ -10087,6 +10087,30 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-9-2026",
       "score": 2.8,
       "published_utc": "2026-09-09T14:00:00+00:00"
+    },
+    "b48dfff84bae56f78374ed25": {
+      "ts": 1788974694,
+      "source": "NASA Breaking News",
+      "title": "How 2 US, European Satellites Are Studying Hurricanes During El Niño",
+      "link": "https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/",
+      "score": 4.0,
+      "published_utc": "2026-09-09T16:00:00+00:00"
+    },
+    "1cb32c7ec5b8da24fe105786": {
+      "ts": 1788974694,
+      "source": "NASA Breaking News",
+      "title": "Artemis II Crew at NASA Marshall",
+      "link": "https://www.nasa.gov/image-article/artemis-ii-crew-at-nasa-marshall/",
+      "score": 4.0,
+      "published_utc": "2026-09-09T15:31:44+00:00"
+    },
+    "4ff6edf0edce45cd11f2193e": {
+      "ts": 1788974697,
+      "source": "Space.com",
+      "title": "US military practices orbital dogfighting in 1st-ever 'live fly' exercise in space",
+      "link": "https://www.space.com/space-exploration/satellites/us-military-practices-orbital-dogfighting-in-1st-ever-live-fly-exercise-in-space",
+      "score": 2.8,
+      "published_utc": "2026-09-09T15:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -10665,6 +10689,30 @@
       "day_brt": "2026-09-09",
       "resumo_pt": "Resumo (PT-BR): 4 min read NASA Names Two Artemis II Astronauts to Emeritus Program Gerelle Q. Dodson Sep 09, 2026 RELEASE 26-074 NASA Headquarters From left, NASA astronauts Victor Glover, Artemis II pilot, and Reid Wiseman, Artemis II commander, conduct leak checks on their spacesuits inside the crew suit-up room in the Neil A.",
       "queued_ts": 1788965455
+    },
+    {
+      "fp": "b48dfff84bae56f78374ed25",
+      "title": "How 2 US, European Satellites Are Studying Hurricanes During El Niño",
+      "link": "https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-09T16:00:00+00:00",
+      "day_brt": "2026-09-09",
+      "resumo_pt": "Resumo (PT-BR): 5 min read How 2 US, European Satellites Are Studying Hurricanes During El Niño Jet Propulsion Laboratory Sep 09, 2026 Article Contents Predicting hurricane strength More about Sentinel-6B Hurricane Melissa is seen 50 miles south of Jamaica in this photograph taken from the International Space Station on Oct. NASA Last November, NASA and its European partners launched the Sentinel-6B satellite to improve hurricane forecasts, help protect infrastructure, and benefit commercial industries, including shipping.",
+      "queued_ts": 1788974698
+    },
+    {
+      "fp": "1cb32c7ec5b8da24fe105786",
+      "title": "Artemis II Crew at NASA Marshall",
+      "link": "https://www.nasa.gov/image-article/artemis-ii-crew-at-nasa-marshall/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-09T15:31:44+00:00",
+      "day_brt": "2026-09-09",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Artemis II Crew at NASA Marshall HQ Web Team Sep 09, 2026 Image Article NASA/Brandon Hancock The crew of NASA’s Artemis II mission – NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman and CSA (Canadian Space Agency) astronaut Jeremy Hansen – visited Huntsville, Alabama, Sept. 1, 2026, where they met with the NASA workforce at NASA’s Marshall Space Flight Center.",
+      "queued_ts": 1788974698
     }
   ],
   "digests_sent": {
@@ -11222,7 +11270,9 @@
     },
     "2026-09-09": {
       "3d7e82a353c7f1e11c8981f9": true,
-      "55395aef20f2d91c606cee15": true
+      "55395aef20f2d91c606cee15": true,
+      "b48dfff84bae56f78374ed25": true,
+      "1cb32c7ec5b8da24fe105786": true
     }
   }
 }
