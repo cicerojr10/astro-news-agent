@@ -10071,6 +10071,22 @@
       "link": "https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment",
       "score": 2.8,
       "published_utc": "2026-09-09T10:00:00+00:00"
+    },
+    "55395aef20f2d91c606cee15": {
+      "ts": 1788965452,
+      "source": "NASA Breaking News",
+      "title": "NASA Names Two Artemis II Astronauts to Emeritus Program",
+      "link": "https://www.nasa.gov/news-release/nasa-names-two-artemis-ii-astronauts-to-emeritus-program/",
+      "score": 4.0,
+      "published_utc": "2026-09-09T13:24:37+00:00"
+    },
+    "e93d887fa7fb749555bd05da": {
+      "ts": 1788965455,
+      "source": "Space.com",
+      "title": "On this day in space! Sept. 9, 1982: The 1st private rocket, called Conestoga 1, launches from a Texas cattle ranch",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-9-2026",
+      "score": 2.8,
+      "published_utc": "2026-09-09T14:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -10637,6 +10653,18 @@
       "day_brt": "2026-08-31",
       "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1788227476
+    },
+    {
+      "fp": "55395aef20f2d91c606cee15",
+      "title": "NASA Names Two Artemis II Astronauts to Emeritus Program",
+      "link": "https://www.nasa.gov/news-release/nasa-names-two-artemis-ii-astronauts-to-emeritus-program/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-09T13:24:37+00:00",
+      "day_brt": "2026-09-09",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA Names Two Artemis II Astronauts to Emeritus Program Gerelle Q. Dodson Sep 09, 2026 RELEASE 26-074 NASA Headquarters From left, NASA astronauts Victor Glover, Artemis II pilot, and Reid Wiseman, Artemis II commander, conduct leak checks on their spacesuits inside the crew suit-up room in the Neil A.",
+      "queued_ts": 1788965455
     }
   ],
   "digests_sent": {
@@ -11193,7 +11221,8 @@
       "efda0a3fd909b99bdacb7e05": true
     },
     "2026-09-09": {
-      "3d7e82a353c7f1e11c8981f9": true
+      "3d7e82a353c7f1e11c8981f9": true,
+      "55395aef20f2d91c606cee15": true
     }
   }
 }
