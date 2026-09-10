@@ -10741,18 +10741,6 @@
       "day_brt": "2026-08-31",
       "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1788227476
-    },
-    {
-      "fp": "10873e423b9df2a69a0734f3",
-      "title": "APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-10T04:05:00+00:00",
-      "day_brt": "2026-09-10",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1789030975
     }
   ],
   "digests_sent": {
@@ -11267,6 +11255,9 @@
     "2026-09-09": {
       "morning": true,
       "night": true
+    },
+    "2026-09-10": {
+      "morning": true
     }
   },
   "sent_updates": {
