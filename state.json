@@ -10143,6 +10143,22 @@
       "link": "https://www.space.com/astronomy/black-holes/this-impossible-black-hole-merger-may-be-explained-by-a-warp-in-spacetime",
       "score": 2.8,
       "published_utc": "2026-09-09T21:00:00+00:00"
+    },
+    "3c1ea0ad40afcdc3155d97f6": {
+      "ts": 1788998726,
+      "source": "NASA Breaking News",
+      "title": "NASA Adds Relativity Space’s Terran R to Launch Services Contract",
+      "link": "https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/",
+      "score": 4.0,
+      "published_utc": "2026-09-09T20:11:58+00:00"
+    },
+    "1bafcc744f44fdca8a6297f3": {
+      "ts": 1788998727,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+      "link": "https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-09-09T22:32:04+00:00"
     }
   },
   "digest_queue": [
@@ -10709,66 +10725,6 @@
       "day_brt": "2026-08-31",
       "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1788227476
-    },
-    {
-      "fp": "55395aef20f2d91c606cee15",
-      "title": "NASA Names Two Artemis II Astronauts to Emeritus Program",
-      "link": "https://www.nasa.gov/news-release/nasa-names-two-artemis-ii-astronauts-to-emeritus-program/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-09T13:24:37+00:00",
-      "day_brt": "2026-09-09",
-      "resumo_pt": "Resumo (PT-BR): 4 min read NASA Names Two Artemis II Astronauts to Emeritus Program Gerelle Q. Dodson Sep 09, 2026 RELEASE 26-074 NASA Headquarters From left, NASA astronauts Victor Glover, Artemis II pilot, and Reid Wiseman, Artemis II commander, conduct leak checks on their spacesuits inside the crew suit-up room in the Neil A.",
-      "queued_ts": 1788965455
-    },
-    {
-      "fp": "b48dfff84bae56f78374ed25",
-      "title": "How 2 US, European Satellites Are Studying Hurricanes During El Niño",
-      "link": "https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-09T16:00:00+00:00",
-      "day_brt": "2026-09-09",
-      "resumo_pt": "Resumo (PT-BR): 5 min read How 2 US, European Satellites Are Studying Hurricanes During El Niño Jet Propulsion Laboratory Sep 09, 2026 Article Contents Predicting hurricane strength More about Sentinel-6B Hurricane Melissa is seen 50 miles south of Jamaica in this photograph taken from the International Space Station on Oct. NASA Last November, NASA and its European partners launched the Sentinel-6B satellite to improve hurricane forecasts, help protect infrastructure, and benefit commercial industries, including shipping.",
-      "queued_ts": 1788974698
-    },
-    {
-      "fp": "1cb32c7ec5b8da24fe105786",
-      "title": "Artemis II Crew at NASA Marshall",
-      "link": "https://www.nasa.gov/image-article/artemis-ii-crew-at-nasa-marshall/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-09T15:31:44+00:00",
-      "day_brt": "2026-09-09",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Artemis II Crew at NASA Marshall HQ Web Team Sep 09, 2026 Image Article NASA/Brandon Hancock The crew of NASA’s Artemis II mission – NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman and CSA (Canadian Space Agency) astronaut Jeremy Hansen – visited Huntsville, Alabama, Sept. 1, 2026, where they met with the NASA workforce at NASA’s Marshall Space Flight Center.",
-      "queued_ts": 1788974698
-    },
-    {
-      "fp": "c023c733a042b3b81f8c1bfe",
-      "title": "NASA’s Chandra Unveils Mysterious X-Ray Objects",
-      "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-09T18:11:24+00:00",
-      "day_brt": "2026-09-09",
-      "resumo_pt": "Resumo (PT-BR): 5 min read NASA’s Chandra Unveils Mysterious X-Ray Objects Megan Watzke Sep 09, 2026 Article X-ray: NASA/CXC/Univ. Muhibullah et al.; Optical: NASA/ESA/STScI; Image Processing: NASA/CXC/SAO/N.",
-      "queued_ts": 1788983580
-    },
-    {
-      "fp": "54bcb2c2218484620c99ebf2",
-      "title": "Flight 15 pairing undergo testing at Massey’s",
-      "link": "https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-09-09T20:22:02+00:00",
-      "day_brt": "2026-09-09",
-      "resumo_pt": "Resumo (PT-BR): Flight 15 pairing undergo testing at Massey’s by Eleanor Day and Chris Bergin September 9, 2026 written by Eleanor Day and Chris Bergin September 9, 2026 1 SpaceX has rolled Super Heavy Booster 22 out of Mega Bay 1 to Massey’s for cryogenic proof testing. Ship 42 has since joined it there on its second trip to the test site.",
-      "queued_ts": 1788991348
     }
   ],
   "digests_sent": {
@@ -11281,7 +11237,8 @@
       "night": true
     },
     "2026-09-09": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -11330,7 +11287,9 @@
       "b48dfff84bae56f78374ed25": true,
       "1cb32c7ec5b8da24fe105786": true,
       "c023c733a042b3b81f8c1bfe": true,
-      "54bcb2c2218484620c99ebf2": true
+      "54bcb2c2218484620c99ebf2": true,
+      "1bafcc744f44fdca8a6297f3": true,
+      "3c1ea0ad40afcdc3155d97f6": true
     }
   }
 }
