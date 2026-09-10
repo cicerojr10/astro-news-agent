@@ -10175,6 +10175,23 @@
       "link": "https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula/",
       "score": 4.0,
       "published_utc": "2026-09-10T04:05:00+00:00"
+    },
+    "63dc01f2a072654ea83821e2": {
+      "ts": 1789060071,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches classified payload for the U.S. Space Force",
+      "link": "https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/",
+      "score": 0.0,
+      "published_utc": "2026-09-09T22:32:04+00:00",
+      "note": "not_today"
+    },
+    "a8aacd6d51c6a8c92b3251f3": {
+      "ts": 1789060072,
+      "source": "Space.com",
+      "title": "SpaceX launches classified mission for the US Space Force from California (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-classified-space-force-mission-ussf-153",
+      "score": 2.8,
+      "published_utc": "2026-09-10T04:05:00+00:00"
     }
   },
   "digest_queue": [
