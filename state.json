@@ -10208,6 +10208,38 @@
       "link": "https://www.space.com/space-exploration/missions/link-spacecraft-gets-close-to-nasas-swift-observatory-but-not-close-enough-to-save-it",
       "score": 2.8,
       "published_utc": "2026-09-10T18:00:00+00:00"
+    },
+    "4fdacc9c286a476873a77b15": {
+      "ts": 1789076920,
+      "source": "NASA Breaking News",
+      "title": "NASA Invites Media to Djibouti Artemis Accords Signing Ceremony",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/",
+      "score": 4.0,
+      "published_utc": "2026-09-10T21:11:32+00:00"
+    },
+    "d63bcfb79518ff6538edd774": {
+      "ts": 1789076920,
+      "source": "NASA Breaking News",
+      "title": "NASA Answers President’s Call to Establish United States Space Academy",
+      "link": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/",
+      "score": 4.0,
+      "published_utc": "2026-09-10T20:26:52+00:00"
+    },
+    "49aaa55fbf83db2ec60a05e0": {
+      "ts": 1789076920,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Life-Saving Technology Where Cell Signals Can’t Go",
+      "link": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go/",
+      "score": 4.0,
+      "published_utc": "2026-09-10T20:12:39+00:00"
+    },
+    "ae1dec66e26cc882db76f939": {
+      "ts": 1789076922,
+      "source": "Space.com",
+      "title": "The Summer Triangle — 3 stars, 1 seasonal mystery",
+      "link": "https://www.space.com/stargazing/the-summer-triangle-3-stars-1-seasonal-mystery",
+      "score": 2.8,
+      "published_utc": "2026-09-10T20:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -10786,6 +10818,42 @@
       "day_brt": "2026-09-10",
       "resumo_pt": "Resumo (PT-BR): 1 min read Dust and Water in Sagittarius A* HQ Web Team Sep 10, 2026 Image Article ESA/Webb, NASA & CSA, F. Chan A brilliant concentration of stars takes center stage in this Aug.",
       "queued_ts": 1789068960
+    },
+    {
+      "fp": "4fdacc9c286a476873a77b15",
+      "title": "NASA Invites Media to Djibouti Artemis Accords Signing Ceremony",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-10T21:11:32+00:00",
+      "day_brt": "2026-09-10",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA Invites Media to Djibouti Artemis Accords Signing Ceremony Jessica Taveau Sep 10, 2026 MEDIA ADVISORY M26-067 NASA Headquarters Credit: NASA The Republic of Djibouti will sign the Artemis Accords during a ceremony at 11 a.m. 14, at NASA Headquarters in Washington, becoming the 72nd country signatory.",
+      "queued_ts": 1789076924
+    },
+    {
+      "fp": "d63bcfb79518ff6538edd774",
+      "title": "NASA Answers President’s Call to Establish United States Space Academy",
+      "link": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-10T20:26:52+00:00",
+      "day_brt": "2026-09-10",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Answers President’s Call to Establish United States Space Academy Lauren E. Low Sep 10, 2026 RELEASE 26-075 NASA Headquarters President Donald Trump presents an executive order establishing the United States Space Academy during an event to award the Congressional Space Medal of Honor to the Artemis II crew as Michael Kratsios, director of the Office of Science and Technology Policy, left; Kevin Hassett, director of the National Economic Council, third from left; and NASA Administrator Jared Isaacman, right, applaud, Friday, Aug.",
+      "queued_ts": 1789076924
+    },
+    {
+      "fp": "49aaa55fbf83db2ec60a05e0",
+      "title": "NASA’s Life-Saving Technology Where Cell Signals Can’t Go",
+      "link": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-10T20:12:39+00:00",
+      "day_brt": "2026-09-10",
+      "resumo_pt": "Resumo (PT-BR): 3 Min Read NASA’s Life-Saving Technology Where Cell Signals Can’t Go Rescued after more than four hours in the water, Easton Barrett (center, red shorts) and his friend were picked up by the U.S. The devise sends a distress signal to satellites that are relayed back to Earth, launching a rescue operation.",
+      "queued_ts": 1789076924
     }
   ],
   "digests_sent": {
@@ -11357,7 +11425,10 @@
     },
     "2026-09-10": {
       "10873e423b9df2a69a0734f3": true,
-      "6da5e856e4122c37d01f8703": true
+      "6da5e856e4122c37d01f8703": true,
+      "4fdacc9c286a476873a77b15": true,
+      "d63bcfb79518ff6538edd774": true,
+      "49aaa55fbf83db2ec60a05e0": true
     }
   }
 }
