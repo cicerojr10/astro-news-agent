@@ -10280,6 +10280,30 @@
       "link": "https://www.space.com/space-exploration/human-spaceflight/25-years-ago-a-nasa-astronaut-witnessed-the-tragic-9-11-attacks-from-space-heres-what-he-saw",
       "score": 2.8,
       "published_utc": "2026-09-11T12:00:00+00:00"
+    },
+    "ac92489997d6f21d74b9a583": {
+      "ts": 1789160047,
+      "source": "NASA Breaking News",
+      "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
+      "score": 4.0,
+      "published_utc": "2026-09-11T19:48:09+00:00"
+    },
+    "ecd87619d06b85fdfb353b33": {
+      "ts": 1789160047,
+      "source": "NASA Breaking News",
+      "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
+      "link": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/",
+      "score": 4.0,
+      "published_utc": "2026-09-11T15:05:20+00:00"
+    },
+    "93edf9009d1cc32f898f6da6": {
+      "ts": 1789160050,
+      "source": "Space.com",
+      "title": "Rocket Lab launches mystery satellite to orbit for secret customer (photo)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-mystery-satellite-to-orbit-for-secret-customer-photo",
+      "score": 2.8,
+      "published_utc": "2026-09-11T19:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -10846,6 +10870,30 @@
       "day_brt": "2026-08-31",
       "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1788227476
+    },
+    {
+      "fp": "ac92489997d6f21d74b9a583",
+      "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-11T19:48:09+00:00",
+      "day_brt": "2026-09-11",
+      "resumo_pt": "Resumo (PT-BR): Explore This Section Science Citizen Science Help Refine Data from Space... Overview Resources Opportunities Citizen Science Highlights About Science Activation 3 min read Help Refine Data from Space Telescopes with Artifact InSPECtor NASA Science Editorial Team Sep 11, 2026 Article How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real?",
+      "queued_ts": 1789160051
+    },
+    {
+      "fp": "ecd87619d06b85fdfb353b33",
+      "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
+      "link": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-11T15:05:20+00:00",
+      "day_brt": "2026-09-11",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return Gerelle Q. Dodson Sep 11, 2026 MEDIA ADVISORY M26-066 NASA Headquarters NASA’s SpaceX Crew-12 members suit up in the Neil A.",
+      "queued_ts": 1789160051
     }
   ],
   "digests_sent": {
@@ -11428,7 +11476,9 @@
       "af6bd29e0255879524a0426a": true
     },
     "2026-09-11": {
-      "06b15ff9d36470f682141057": true
+      "06b15ff9d36470f682141057": true,
+      "ac92489997d6f21d74b9a583": true,
+      "ecd87619d06b85fdfb353b33": true
     }
   }
 }
