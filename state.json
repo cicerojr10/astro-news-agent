@@ -10256,6 +10256,14 @@
       "link": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/",
       "score": 4.0,
       "published_utc": "2026-09-11T04:05:00+00:00"
+    },
+    "e36be4c3aa835063aed39a00": {
+      "ts": 1789124924,
+      "source": "Space.com",
+      "title": "Scientists discover mysterious new X-ray objects 'unlike any they have seen before'",
+      "link": "https://www.space.com/astronomy/galaxies/scientists-discover-mysterious-new-x-ray-objects-unlike-any-they-have-seen-before",
+      "score": 2.8,
+      "published_utc": "2026-09-11T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -10822,18 +10830,6 @@
       "day_brt": "2026-08-31",
       "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1788227476
-    },
-    {
-      "fp": "06b15ff9d36470f682141057",
-      "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-11T04:05:00+00:00",
-      "day_brt": "2026-09-11",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1789106447
     }
   ],
   "digests_sent": {
@@ -11352,6 +11348,9 @@
     "2026-09-10": {
       "morning": true,
       "night": true
+    },
+    "2026-09-11": {
+      "morning": true
     }
   },
   "sent_updates": {
