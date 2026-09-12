@@ -10328,6 +10328,14 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026",
       "score": 2.8,
       "published_utc": "2026-09-12T14:00:00+00:00"
+    },
+    "51501e8334bc84a25074a286": {
+      "ts": 1789255474,
+      "source": "NASASpaceflight",
+      "title": "Europe’s commercial launch sector picking up the pace",
+      "link": "https://www.nasaspaceflight.com/2026/09/europes-commercial-launch-sector-pace/",
+      "score": 3.6,
+      "published_utc": "2026-09-12T22:54:08+00:00"
     }
   },
   "digest_queue": [
@@ -11418,31 +11426,11 @@
       "night": true
     },
     "2026-09-12": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
-    "2026-09-02": {
-      "52aa4991f1daed864362b095": true,
-      "58208438fd114ddd6a01b940": true,
-      "b36cf0b42c2a3a4b232659f5": true
-    },
-    "2026-09-03": {
-      "baff659bf4e34fbfac815219": true,
-      "fcafb961230223aed3794738": true,
-      "b60af30cf427576d913d505e": true,
-      "35398d40ccf5215ce0b86313": true
-    },
-    "2026-09-04": {
-      "626f2243f8b188138d6b933a": true,
-      "9a675ad4c3c48ea70895b51a": true,
-      "61f1c7e65d2226f2420df393": true
-    },
-    "2026-09-05": {
-      "1799810eb1963d417b50dfc2": true,
-      "7652ed02ce1eafa95de15f93": true,
-      "b81fdf20906cd6e35f420be3": true
-    },
     "2026-09-06": {
       "534302b490a47c66881d934e": true,
       "5f07b51719345a69ac55a8a4": true
@@ -11483,6 +11471,9 @@
       "06b15ff9d36470f682141057": true,
       "ac92489997d6f21d74b9a583": true,
       "ecd87619d06b85fdfb353b33": true
+    },
+    "2026-09-12": {
+      "51501e8334bc84a25074a286": true
     }
   }
 }
