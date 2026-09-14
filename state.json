@@ -10465,6 +10465,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/vega-rocket-launch-europe-flex-sentinel-3c-earth-observation-satellites",
       "score": 2.8,
       "published_utc": "2026-09-14T18:00:00+00:00"
+    },
+    "b1e8508f6a6f1488ccd49a53": {
+      "ts": 1789427757,
+      "source": "NASA Breaking News",
+      "title": "Webinar 9/23: NASA CSDA Program Update 2026",
+      "link": "https://science.nasa.gov/science-research/earth-science/webinar-9-23-nasa-csda-program-update-2026/",
+      "score": 4.0,
+      "published_utc": "2026-09-14T21:04:04+00:00"
+    },
+    "e4cf269a63252dbaa1a6c75d": {
+      "ts": 1789427761,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: Avio to launch spacecraft to monitor plant health and ocean conditions",
+      "link": "https://spaceflightnow.com/2026/09/14/live-coverage-avio-to-launch-spacecraft-to-monitor-plant-health-and-ocean-conditions/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-09-14T22:05:37+00:00"
     }
   },
   "digest_queue": [
@@ -11031,66 +11047,6 @@
       "day_brt": "2026-08-31",
       "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1788227476
-    },
-    {
-      "fp": "336f0bb058a62b9ba96b18ff",
-      "title": "APOD: 2026 September 14 – Where Your Elements Came From",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-14T04:05:00+00:00",
-      "day_brt": "2026-09-14",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1789382393
-    },
-    {
-      "fp": "a88cfb5766e53ef1ef32f49f",
-      "title": "NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game",
-      "link": "https://www.nasa.gov/image-article/nasa-kicks-off-inspiration-tour-with-steelers-vs-falcons-game/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-14T16:00:11+00:00",
-      "day_brt": "2026-09-14",
-      "resumo_pt": "Resumo (PT-BR): 1 min read NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game HQ Web Team Sep 14, 2026 Image Article NASA/Aubrey Gemignani Fans pose for a photo with an astronaut in the NASA Experience Zone at an NFL game between the Pittsburgh Steelers and the Atlanta Falcons at Acrisure Stadium, Sunday, Sept.",
-      "queued_ts": 1789403968
-    },
-    {
-      "fp": "845336091a86bac2d0e335a1",
-      "title": "Summer Training: Catching Up With NASA’s Astronaut Candidates",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/summer-training-catching-up-with-nasas-astronaut-candidates/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-14T15:00:00+00:00",
-      "day_brt": "2026-09-14",
-      "resumo_pt": "Resumo (PT-BR): 3 min read Summer Training: Catching Up With NASA’s Astronaut Candidates Linda E. Grimm Sep 14, 2026 Article Contents Geology Studies Flight Training Altitude Chamber Runs Water Survival Training The members of NASA’s 2025 Astronaut Candidate Class pose with rock samples collected during their geology training at the Rio Grande del Norte National Monument, New Mexico, in May 2026.",
-      "queued_ts": 1789403968
-    },
-    {
-      "fp": "55b2de433c7ea11d3bb0fa53",
-      "title": "New Crops, Health Research Proposals to Help NASA Advance Exploration",
-      "link": "https://science.nasa.gov/science-research/biological-physical-sciences/new-crops-health-research-proposals-to-help-nasa-advance-exploration/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-14T19:00:00+00:00",
-      "day_brt": "2026-09-14",
-      "resumo_pt": "Resumo (PT-BR): 4 min read New Crops, Health Research Proposals to Help NASA Advance Exploration NASA Science Editorial Team Sep 14, 2026 Article Contents Selected Space Crops Investigations Selected Precision Health Investigations NASA has selected 12 new investigations to help support human explorers in space. Six will help advance the ability to produce food off-planet, while another six advance the understanding of how unique conditions associated with space exploration can impact the health and physiology of astronauts.",
-      "queued_ts": 1789417693
-    },
-    {
-      "fp": "634001e6085d3dcca8180ce0",
-      "title": "Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22",
-      "link": "https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-09-14T17:25:17+00:00",
-      "day_brt": "2026-09-14",
-      "resumo_pt": "Resumo (PT-BR): Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22 by Eleanor Day and Chris Bergin September 14, 2026 written by Eleanor Day and Chris Bergin September 14, 2026 5 SpaceX has completed multi-day catch-related testing with unflown Ship 42 at Pad 2, then rolled the vehicle back to the production site for engine installation ahead of Massey’s static fire testing.",
-      "queued_ts": 1789417693
     }
   ],
   "digests_sent": {
@@ -11621,6 +11577,9 @@
     "2026-09-13": {
       "morning": true,
       "night": true
+    },
+    "2026-09-14": {
+      "night": true
     }
   },
   "sent_updates": {
@@ -11679,7 +11638,9 @@
       "a88cfb5766e53ef1ef32f49f": true,
       "845336091a86bac2d0e335a1": true,
       "55b2de433c7ea11d3bb0fa53": true,
-      "634001e6085d3dcca8180ce0": true
+      "634001e6085d3dcca8180ce0": true,
+      "e4cf269a63252dbaa1a6c75d": true,
+      "b1e8508f6a6f1488ccd49a53": true
     }
   }
 }
