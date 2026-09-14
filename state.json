@@ -10425,6 +10425,22 @@
       "link": "https://www.space.com/stargazing/skywatching-kit/pre-order-the-unistellar-envision-ar-binoculars-and-learn-about-the-night-sky-in-real-time",
       "score": 2.8,
       "published_utc": "2026-09-14T12:00:00+00:00"
+    },
+    "a88cfb5766e53ef1ef32f49f": {
+      "ts": 1789403964,
+      "source": "NASA Breaking News",
+      "title": "NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game",
+      "link": "https://www.nasa.gov/image-article/nasa-kicks-off-inspiration-tour-with-steelers-vs-falcons-game/",
+      "score": 4.0,
+      "published_utc": "2026-09-14T16:00:11+00:00"
+    },
+    "845336091a86bac2d0e335a1": {
+      "ts": 1789403965,
+      "source": "NASA Breaking News",
+      "title": "Summer Training: Catching Up With NASA’s Astronaut Candidates",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/summer-training-catching-up-with-nasas-astronaut-candidates/",
+      "score": 4.0,
+      "published_utc": "2026-09-14T15:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -11003,6 +11019,30 @@
       "day_brt": "2026-09-14",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1789382393
+    },
+    {
+      "fp": "a88cfb5766e53ef1ef32f49f",
+      "title": "NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game",
+      "link": "https://www.nasa.gov/image-article/nasa-kicks-off-inspiration-tour-with-steelers-vs-falcons-game/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-14T16:00:11+00:00",
+      "day_brt": "2026-09-14",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game HQ Web Team Sep 14, 2026 Image Article NASA/Aubrey Gemignani Fans pose for a photo with an astronaut in the NASA Experience Zone at an NFL game between the Pittsburgh Steelers and the Atlanta Falcons at Acrisure Stadium, Sunday, Sept.",
+      "queued_ts": 1789403968
+    },
+    {
+      "fp": "845336091a86bac2d0e335a1",
+      "title": "Summer Training: Catching Up With NASA’s Astronaut Candidates",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/summer-training-catching-up-with-nasas-astronaut-candidates/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-14T15:00:00+00:00",
+      "day_brt": "2026-09-14",
+      "resumo_pt": "Resumo (PT-BR): 3 min read Summer Training: Catching Up With NASA’s Astronaut Candidates Linda E. Grimm Sep 14, 2026 Article Contents Geology Studies Flight Training Altitude Chamber Runs Water Survival Training The members of NASA’s 2025 Astronaut Candidate Class pose with rock samples collected during their geology training at the Rio Grande del Norte National Monument, New Mexico, in May 2026.",
+      "queued_ts": 1789403968
     }
   ],
   "digests_sent": {
@@ -11587,7 +11627,9 @@
       "e97e692477ce35a842e21fcd": true
     },
     "2026-09-14": {
-      "336f0bb058a62b9ba96b18ff": true
+      "336f0bb058a62b9ba96b18ff": true,
+      "a88cfb5766e53ef1ef32f49f": true,
+      "845336091a86bac2d0e335a1": true
     }
   }
 }
