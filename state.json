@@ -10441,6 +10441,30 @@
       "link": "https://www.nasa.gov/centers-and-facilities/johnson/summer-training-catching-up-with-nasas-astronaut-candidates/",
       "score": 4.0,
       "published_utc": "2026-09-14T15:00:00+00:00"
+    },
+    "55b2de433c7ea11d3bb0fa53": {
+      "ts": 1789417689,
+      "source": "NASA Breaking News",
+      "title": "New Crops, Health Research Proposals to Help NASA Advance Exploration",
+      "link": "https://science.nasa.gov/science-research/biological-physical-sciences/new-crops-health-research-proposals-to-help-nasa-advance-exploration/",
+      "score": 4.0,
+      "published_utc": "2026-09-14T19:00:00+00:00"
+    },
+    "634001e6085d3dcca8180ce0": {
+      "ts": 1789417691,
+      "source": "NASASpaceflight",
+      "title": "Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22",
+      "link": "https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/",
+      "score": 3.6,
+      "published_utc": "2026-09-14T17:25:17+00:00"
+    },
+    "10e8acd8c5cda9d21c82e14e": {
+      "ts": 1789417691,
+      "source": "Space.com",
+      "title": "2 European Earth-observing satellites launching to orbit from South America tonight: Watch it live",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/vega-rocket-launch-europe-flex-sentinel-3c-earth-observation-satellites",
+      "score": 2.8,
+      "published_utc": "2026-09-14T18:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -11043,6 +11067,30 @@
       "day_brt": "2026-09-14",
       "resumo_pt": "Resumo (PT-BR): 3 min read Summer Training: Catching Up With NASA’s Astronaut Candidates Linda E. Grimm Sep 14, 2026 Article Contents Geology Studies Flight Training Altitude Chamber Runs Water Survival Training The members of NASA’s 2025 Astronaut Candidate Class pose with rock samples collected during their geology training at the Rio Grande del Norte National Monument, New Mexico, in May 2026.",
       "queued_ts": 1789403968
+    },
+    {
+      "fp": "55b2de433c7ea11d3bb0fa53",
+      "title": "New Crops, Health Research Proposals to Help NASA Advance Exploration",
+      "link": "https://science.nasa.gov/science-research/biological-physical-sciences/new-crops-health-research-proposals-to-help-nasa-advance-exploration/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-14T19:00:00+00:00",
+      "day_brt": "2026-09-14",
+      "resumo_pt": "Resumo (PT-BR): 4 min read New Crops, Health Research Proposals to Help NASA Advance Exploration NASA Science Editorial Team Sep 14, 2026 Article Contents Selected Space Crops Investigations Selected Precision Health Investigations NASA has selected 12 new investigations to help support human explorers in space. Six will help advance the ability to produce food off-planet, while another six advance the understanding of how unique conditions associated with space exploration can impact the health and physiology of astronauts.",
+      "queued_ts": 1789417693
+    },
+    {
+      "fp": "634001e6085d3dcca8180ce0",
+      "title": "Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22",
+      "link": "https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-09-14T17:25:17+00:00",
+      "day_brt": "2026-09-14",
+      "resumo_pt": "Resumo (PT-BR): Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22 by Eleanor Day and Chris Bergin September 14, 2026 written by Eleanor Day and Chris Bergin September 14, 2026 5 SpaceX has completed multi-day catch-related testing with unflown Ship 42 at Pad 2, then rolled the vehicle back to the production site for engine installation ahead of Massey’s static fire testing.",
+      "queued_ts": 1789417693
     }
   ],
   "digests_sent": {
@@ -11629,7 +11677,9 @@
     "2026-09-14": {
       "336f0bb058a62b9ba96b18ff": true,
       "a88cfb5766e53ef1ef32f49f": true,
-      "845336091a86bac2d0e335a1": true
+      "845336091a86bac2d0e335a1": true,
+      "55b2de433c7ea11d3bb0fa53": true,
+      "634001e6085d3dcca8180ce0": true
     }
   }
 }
