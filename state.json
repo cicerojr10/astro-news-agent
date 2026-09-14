@@ -10385,6 +10385,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-3-telecom-satellites-to-orbit-on-700th-falcon-mission-of-all-time-video",
       "score": 2.8,
       "published_utc": "2026-09-13T21:41:26+00:00"
+    },
+    "e97e692477ce35a842e21fcd": {
+      "ts": 1789345354,
+      "source": "NASASpaceflight",
+      "title": "Vega C set to launch the ESA Sentinel-3C and FLEX missions from Kourou",
+      "link": "https://www.nasaspaceflight.com/2026/09/vega-c-launch-sentinel-3c-flex/",
+      "score": 3.6,
+      "published_utc": "2026-09-13T22:45:53+00:00"
     }
   },
   "digest_queue": [
@@ -10951,30 +10959,6 @@
       "day_brt": "2026-08-31",
       "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1788227476
-    },
-    {
-      "fp": "80036f7e5655e4f2d6e9e196",
-      "title": "Live coverage: SpaceX to launch final 3 O3b mPOWER satellites for SES",
-      "link": "https://spaceflightnow.com/2026/09/13/live-coverage-spacex-to-launch-final-3-o3b-mpower-satellites-for-ses/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-09-13T16:45:33+00:00",
-      "day_brt": "2026-09-13",
-      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch final 3 O3b mPOWER satellites for SES September 13, 2026 Will Robinson-Smith Boeing technicians stack two of the three O3b mPOWER satellites for delivery to SES prior to launch. Image: Alex Aristei/Boeing SpaceX is preparing to launch a trio of satellites for its oldest commercial customer, SES, on a Falcon 9 rocket flying Sunday afternoon from Florida.",
-      "queued_ts": 1789322922
-    },
-    {
-      "fp": "17a3424f669629eb0336008f",
-      "title": "SpaceX launches 700th Falcon rocket, carries final 3 O3b mPOWER satellites to orbit for SES",
-      "link": "https://spaceflightnow.com/2026/09/13/live-coverage-spacex-to-launch-final-3-o3b-mpower-satellites-for-ses/",
-      "source": "Spaceflight Now",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-09-13T16:45:33+00:00",
-      "day_brt": "2026-09-13",
-      "resumo_pt": "Resumo (PT-BR): SpaceX launches 700th Falcon rocket, carries final 3 O3b mPOWER satellites to orbit for SES September 13, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket soars past the American flag during the launch of the O3b mPOWER mission for SES. Image: John Pisani/Spaceflight Now SpaceX launched a trio of satellites for its oldest commercial customer, SES, on a Falcon 9 rocket flying Sunday afternoon from Florida.",
-      "queued_ts": 1789339059
     }
   ],
   "digests_sent": {
@@ -11503,7 +11487,8 @@
       "night": true
     },
     "2026-09-13": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -11554,7 +11539,8 @@
     "2026-09-13": {
       "c238db10c8273722094cd972": true,
       "80036f7e5655e4f2d6e9e196": true,
-      "17a3424f669629eb0336008f": true
+      "17a3424f669629eb0336008f": true,
+      "e97e692477ce35a842e21fcd": true
     }
   }
 }
