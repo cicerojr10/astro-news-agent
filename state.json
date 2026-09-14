@@ -10393,6 +10393,22 @@
       "link": "https://www.nasaspaceflight.com/2026/09/vega-c-launch-sentinel-3c-flex/",
       "score": 3.6,
       "published_utc": "2026-09-13T22:45:53+00:00"
+    },
+    "336f0bb058a62b9ba96b18ff": {
+      "ts": 1789382389,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 September 14 – Where Your Elements Came From",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/",
+      "score": 4.0,
+      "published_utc": "2026-09-14T04:05:00+00:00"
+    },
+    "100d84db4a2204119ac7a363": {
+      "ts": 1789382392,
+      "source": "Space.com",
+      "title": "James Webb Space Telescope and Hubble discover 27 puzzling new objects orbiting the sun far beyond Neptune",
+      "link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-and-hubble-discover-27-puzzling-new-objects-orbiting-the-sun-far-beyond-neptune",
+      "score": 2.8,
+      "published_utc": "2026-09-14T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -10959,6 +10975,18 @@
       "day_brt": "2026-08-31",
       "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1788227476
+    },
+    {
+      "fp": "336f0bb058a62b9ba96b18ff",
+      "title": "APOD: 2026 September 14 – Where Your Elements Came From",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-14T04:05:00+00:00",
+      "day_brt": "2026-09-14",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1789382393
     }
   ],
   "digests_sent": {
@@ -11541,6 +11569,9 @@
       "80036f7e5655e4f2d6e9e196": true,
       "17a3424f669629eb0336008f": true,
       "e97e692477ce35a842e21fcd": true
+    },
+    "2026-09-14": {
+      "336f0bb058a62b9ba96b18ff": true
     }
   }
 }
