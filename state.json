@@ -10481,6 +10481,23 @@
       "link": "https://spaceflightnow.com/2026/09/14/live-coverage-avio-to-launch-spacecraft-to-monitor-plant-health-and-ocean-conditions/",
       "score": 4.680000000000001,
       "published_utc": "2026-09-14T22:05:37+00:00"
+    },
+    "ed35d0afbac00fb969ed2f7e": {
+      "ts": 1789453590,
+      "source": "Spaceflight Now",
+      "title": "Avio launches pair of climate monitoring European spacecraft to study plants, oceans and atmospheric changes",
+      "link": "https://spaceflightnow.com/2026/09/15/avio-launches-pair-of-climate-monitoring-european-spacecraft-to-study-plants-oceans-and-atmospheric-changes/",
+      "score": 3.6,
+      "published_utc": "2026-09-15T03:51:39+00:00"
+    },
+    "7f8b4d6946b2f7ef3d334d79": {
+      "ts": 1789453591,
+      "source": "Space.com",
+      "title": "Vega C rocket launches 2 European Earth-observing satellites to orbit from South America",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/vega-rocket-launch-europe-flex-sentinel-3c-earth-observation-satellites",
+      "score": 0.0,
+      "published_utc": "2026-09-14T18:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -11047,6 +11064,18 @@
       "day_brt": "2026-08-31",
       "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1788227476
+    },
+    {
+      "fp": "ed35d0afbac00fb969ed2f7e",
+      "title": "Avio launches pair of climate monitoring European spacecraft to study plants, oceans and atmospheric changes",
+      "link": "https://spaceflightnow.com/2026/09/15/avio-launches-pair-of-climate-monitoring-european-spacecraft-to-study-plants-oceans-and-atmospheric-changes/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-09-15T03:51:39+00:00",
+      "day_brt": "2026-09-15",
+      "resumo_pt": "Resumo (PT-BR): Avio launches pair of climate monitoring European spacecraft to study plants, oceans and atmospheric changes September 15, 2026 Will Robinson-Smith ESA’s state-of-the-art FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite have been launched together aboard a Vega-C rocket from Europe’s Spaceport in French Guiana, marking a new milestone in Europe’s Earth Observation Programmes. Flight VV30 lifted off on 15 September at 03:21 (14 September at 22:21 local time).",
+      "queued_ts": 1789453591
     }
   ],
   "digests_sent": {
@@ -11641,6 +11670,9 @@
       "634001e6085d3dcca8180ce0": true,
       "e4cf269a63252dbaa1a6c75d": true,
       "b1e8508f6a6f1488ccd49a53": true
+    },
+    "2026-09-15": {
+      "ed35d0afbac00fb969ed2f7e": true
     }
   }
 }
