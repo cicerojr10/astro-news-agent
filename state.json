@@ -10507,6 +10507,30 @@
       "score": 0.0,
       "published_utc": "2026-09-14T18:00:00+00:00",
       "note": "not_today"
+    },
+    "90148d1d2b2cdc9d5d88d6ef": {
+      "ts": 1789485502,
+      "source": "NASA Breaking News",
+      "title": "Travel",
+      "link": "https://www.nasa.gov/centers-and-facilities/nssc/travel/",
+      "score": 4.0,
+      "published_utc": "2026-09-15T13:38:56+00:00"
+    },
+    "6c77e69acaeeef79a75e2ec5": {
+      "ts": 1789485506,
+      "source": "Space.com",
+      "title": "'The violence leaves a mark': How satellites are helping the world monitor war and atrocities",
+      "link": "https://www.space.com/space-exploration/satellites/the-violence-leaves-a-mark-how-satellites-are-helping-the-world-monitor-war-and-atrocities",
+      "score": 2.8,
+      "published_utc": "2026-09-15T15:00:00+00:00"
+    },
+    "92270c6dfeb6a422ee53114c": {
+      "ts": 1789485507,
+      "source": "Space.com",
+      "title": "SpaceX launching 2nd classified mission for US Space Force in less than a week tonight: Watch it live",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-2nd-classified-mission-for-us-space-force-in-less-than-a-week-tonight-watch-it-live",
+      "score": 2.8,
+      "published_utc": "2026-09-15T12:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -11073,6 +11097,18 @@
       "day_brt": "2026-08-31",
       "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1788227476
+    },
+    {
+      "fp": "90148d1d2b2cdc9d5d88d6ef",
+      "title": "Travel",
+      "link": "https://www.nasa.gov/centers-and-facilities/nssc/travel/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-15T13:38:56+00:00",
+      "day_brt": "2026-09-15",
+      "resumo_pt": "Resumo (PT-BR): 5 Min Read Travel NASA Sep 15, 2026 Article Contents References Change of Station Domestic Travel Extended Temporary Duty (ETDY) Foreign Travel The NSSC provides travel reimbursement services for all authorized Agency travel including: domestic, foreign, local, ETDY, and Change of Station (COS). References Federal Travel Regulations (FTR) Traveler Extended TDY and Taxes Domestic Per Diem Rates Foreign Per Diem Rates Change of Station NSSC Travel now has another way that a transferee Traveler may submit his or her vouchers.",
+      "queued_ts": 1789485507
     }
   ],
   "digests_sent": {
@@ -11672,7 +11708,8 @@
       "b1e8508f6a6f1488ccd49a53": true
     },
     "2026-09-15": {
-      "ed35d0afbac00fb969ed2f7e": true
+      "ed35d0afbac00fb969ed2f7e": true,
+      "90148d1d2b2cdc9d5d88d6ef": true
     }
   }
 }
