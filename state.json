@@ -10531,6 +10531,30 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-2nd-classified-mission-for-us-space-force-in-less-than-a-week-tonight-watch-it-live",
       "score": 2.8,
       "published_utc": "2026-09-15T12:00:00+00:00"
+    },
+    "a44bbb3d71ffb6a4e8edcfa0": {
+      "ts": 1789499956,
+      "source": "NASA Breaking News",
+      "title": "Artemis III Crew Visits NASA Kennedy’s Vehicle Assembly Building",
+      "link": "https://www.nasa.gov/image-article/artemis-iii-crew-visits-nasa-kennedys-vehicle-assembly-building/",
+      "score": 4.0,
+      "published_utc": "2026-09-15T16:14:24+00:00"
+    },
+    "95680c059130ebf370875052": {
+      "ts": 1789499959,
+      "source": "Space.com",
+      "title": "SpaceX's next Starship launch will lift off on Sept. 22 and aim to reach orbit for 1st time",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-starship-launch-will-lift-off-on-sept-22-and-aim-to-reach-orbit-for-1st-time",
+      "score": 2.8,
+      "published_utc": "2026-09-15T18:33:25+00:00"
+    },
+    "c0c5fd11f6b86935196ebdb3": {
+      "ts": 1789499959,
+      "source": "Space.com",
+      "title": "Making rocket fuel out of Mars' thin air: New breakthrough could make it happen",
+      "link": "https://www.space.com/astronomy/mars/making-rocket-fuel-out-of-mars-thin-air-new-breakthrough-could-make-it-happen",
+      "score": 2.8,
+      "published_utc": "2026-09-15T16:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -11109,6 +11133,18 @@
       "day_brt": "2026-09-15",
       "resumo_pt": "Resumo (PT-BR): 5 Min Read Travel NASA Sep 15, 2026 Article Contents References Change of Station Domestic Travel Extended Temporary Duty (ETDY) Foreign Travel The NSSC provides travel reimbursement services for all authorized Agency travel including: domestic, foreign, local, ETDY, and Change of Station (COS). References Federal Travel Regulations (FTR) Traveler Extended TDY and Taxes Domestic Per Diem Rates Foreign Per Diem Rates Change of Station NSSC Travel now has another way that a transferee Traveler may submit his or her vouchers.",
       "queued_ts": 1789485507
+    },
+    {
+      "fp": "a44bbb3d71ffb6a4e8edcfa0",
+      "title": "Artemis III Crew Visits NASA Kennedy’s Vehicle Assembly Building",
+      "link": "https://www.nasa.gov/image-article/artemis-iii-crew-visits-nasa-kennedys-vehicle-assembly-building/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-15T16:14:24+00:00",
+      "day_brt": "2026-09-15",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Artemis III Crew Visits NASA Kennedy’s Vehicle Assembly Building HQ Web Team Sep 15, 2026 Image Article NASA/Kim Shiflett NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Wednesday, Sept. Bresnik, Parmitano, and NASA astronauts Andre Douglas, Frank Rubio, and Bob Hines made the first visit to Kennedy by the entire crew and backup crew members of the Artemis III mission.",
+      "queued_ts": 1789499960
     }
   ],
   "digests_sent": {
@@ -11709,7 +11745,8 @@
     },
     "2026-09-15": {
       "ed35d0afbac00fb969ed2f7e": true,
-      "90148d1d2b2cdc9d5d88d6ef": true
+      "90148d1d2b2cdc9d5d88d6ef": true,
+      "a44bbb3d71ffb6a4e8edcfa0": true
     }
   }
 }
