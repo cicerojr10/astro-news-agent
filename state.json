@@ -10555,6 +10555,30 @@
       "link": "https://www.space.com/astronomy/mars/making-rocket-fuel-out-of-mars-thin-air-new-breakthrough-could-make-it-happen",
       "score": 2.8,
       "published_utc": "2026-09-15T16:00:00+00:00"
+    },
+    "37c385801c420799f8a0ae1a": {
+      "ts": 1789510674,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch national security payload for the U.S. Space Force on Falcon 9 rocket from Vandenberg",
+      "link": "https://spaceflightnow.com/2026/09/15/live-coverage-spacex-to-launch-national-security-payload-for-the-u-s-space-force-on-falcon-9-rocket-from-vandenberg/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-09-15T21:29:03+00:00"
+    },
+    "b6bab832cbcdbfc2e977a3f9": {
+      "ts": 1789510675,
+      "source": "Space.com",
+      "title": "22 years of science! NASA's Roman Space Telescope doubles its lifetime with super-precise engine burn",
+      "link": "https://www.space.com/astronomy/22-years-of-science-nasas-roman-space-telescope-doubles-its-lifetime-with-super-precise-engine-burn",
+      "score": 2.8,
+      "published_utc": "2026-09-15T21:24:37+00:00"
+    },
+    "fdeabfa97e69776b6f6181bd": {
+      "ts": 1789510675,
+      "source": "Space.com",
+      "title": "US Space Force says it operates weapons in orbit: 'Our aim is deterrence'",
+      "link": "https://www.space.com/space-exploration/satellites/us-space-force-says-it-operates-weapons-in-orbit-our-aim-is-deterrence",
+      "score": 2.8,
+      "published_utc": "2026-09-15T19:54:56+00:00"
     }
   },
   "digest_queue": [
@@ -11145,6 +11169,18 @@
       "day_brt": "2026-09-15",
       "resumo_pt": "Resumo (PT-BR): 1 min read Artemis III Crew Visits NASA Kennedy’s Vehicle Assembly Building HQ Web Team Sep 15, 2026 Image Article NASA/Kim Shiflett NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Wednesday, Sept. Bresnik, Parmitano, and NASA astronauts Andre Douglas, Frank Rubio, and Bob Hines made the first visit to Kennedy by the entire crew and backup crew members of the Artemis III mission.",
       "queued_ts": 1789499960
+    },
+    {
+      "fp": "37c385801c420799f8a0ae1a",
+      "title": "Live coverage: SpaceX to launch national security payload for the U.S. Space Force on Falcon 9 rocket from Vandenberg",
+      "link": "https://spaceflightnow.com/2026/09/15/live-coverage-spacex-to-launch-national-security-payload-for-the-u-s-space-force-on-falcon-9-rocket-from-vandenberg/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-09-15T21:29:03+00:00",
+      "day_brt": "2026-09-15",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch national security payload for the U.S. Space Force on Falcon 9 rocket from Vandenberg September 15, 2026 Will Robinson-Smith A Falcon 9 stands on Space Launch Complex 4E ahead of the USSF-259 mission at Vandenberg Space Force Base, California.",
+      "queued_ts": 1789510676
     }
   ],
   "digests_sent": {
@@ -11746,7 +11782,8 @@
     "2026-09-15": {
       "ed35d0afbac00fb969ed2f7e": true,
       "90148d1d2b2cdc9d5d88d6ef": true,
-      "a44bbb3d71ffb6a4e8edcfa0": true
+      "a44bbb3d71ffb6a4e8edcfa0": true,
+      "37c385801c420799f8a0ae1a": true
     }
   }
 }
