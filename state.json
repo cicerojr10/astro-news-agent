@@ -10644,6 +10644,87 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-16-2026",
       "score": 2.8,
       "published_utc": "2026-09-16T15:00:00+00:00"
+    },
+    "1a4b1627ae1d05e2c116d6b7": {
+      "ts": 1789582523,
+      "source": "NASA Breaking News",
+      "title": "NASA Celebrates Restoration of Guam Station Damaged by Typhoon Mawar",
+      "link": "https://www.nasa.gov/technology/space-comms/nasa-celebrates-restoration-of-guam-station-damaged-by-typhoon-mawar/",
+      "score": 4.0,
+      "published_utc": "2026-09-16T16:12:01+00:00"
+    },
+    "35995dffde69ab86639e4f93": {
+      "ts": 1789582523,
+      "source": "NASA Breaking News",
+      "title": "NASA Watches Earth’s Weight, Finds Center of Mass",
+      "link": "https://www.nasa.gov/science-research/earth-science/nasa-watches-earths-weight-finds-center-of-mass/",
+      "score": 4.0,
+      "published_utc": "2026-09-16T16:08:00+00:00"
+    },
+    "aed7672f36f28a4a531c88ff": {
+      "ts": 1789582523,
+      "source": "NASA Breaking News",
+      "title": "Indonesia’s Anak Krakatau",
+      "link": "https://www.nasa.gov/image-article/indonesias-anak-krakatau/",
+      "score": 4.0,
+      "published_utc": "2026-09-16T15:23:51+00:00"
+    },
+    "a2eeb6d456271011b9404fec": {
+      "ts": 1789582523,
+      "source": "NASA Breaking News",
+      "title": "Curiosity Postcard Celebrates Rover’s 5,000th Day on Mars",
+      "link": "https://science.nasa.gov/photojournal/curiosity-postcard-celebrates-rovers-5000th-day-on-mars/",
+      "score": 4.0,
+      "published_utc": "2026-09-16T15:21:27+00:00"
+    },
+    "9004dffac3c4010a0d8409b8": {
+      "ts": 1789582524,
+      "source": "NASA Breaking News",
+      "title": "NASA Visits Schools Strengthening Florida’s Skilled Workforce",
+      "link": "https://www.nasa.gov/image-article/nasa-visits-schools-strengthening-floridas-skilled-workforce/",
+      "score": 4.0,
+      "published_utc": "2026-09-16T15:14:57+00:00"
+    },
+    "71df91d02c6adf577bc0f893": {
+      "ts": 1789582524,
+      "source": "NASA Breaking News",
+      "title": "NASA Astronaut Reid Wiseman to Join NFL Fans in Baltimore",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-reid-wiseman-to-join-nfl-fans-in-baltimore/",
+      "score": 4.0,
+      "published_utc": "2026-09-16T15:00:18+00:00"
+    },
+    "2820459f26c0eec1722dfeb8": {
+      "ts": 1789582524,
+      "source": "NASA Breaking News",
+      "title": "Newfound ‘Baby’ Planet Smashes Record for Youngest Known World",
+      "link": "https://science.nasa.gov/universe/newfound-baby-planet-smashes-record-for-youngest-known-world/",
+      "score": 4.0,
+      "published_utc": "2026-09-16T14:34:47+00:00"
+    },
+    "891b50e557bb4c7f645227a5": {
+      "ts": 1789582525,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch national security payload for U.S. Space Force from Vandenberg",
+      "link": "https://spaceflightnow.com/2026/09/15/live-coverage-spacex-to-launch-national-security-payload-for-the-u-s-space-force-on-falcon-9-rocket-from-vandenberg/",
+      "score": 0.0,
+      "published_utc": "2026-09-15T21:29:03+00:00",
+      "note": "not_today"
+    },
+    "3ab9798c6d80a63b2486a33d": {
+      "ts": 1789582526,
+      "source": "Space.com",
+      "title": "Roman Space Telescope starts waking up as NASA powers on instruments for the 1st time",
+      "link": "https://www.space.com/space-exploration/missions/roman-space-telescope-starts-waking-up-as-nasa-powers-on-instruments-for-the-1st-time",
+      "score": 2.8,
+      "published_utc": "2026-09-16T18:00:00+00:00"
+    },
+    "bcebb1acebd7e6a37f6eca8a": {
+      "ts": 1789582526,
+      "source": "Space.com",
+      "title": "The universe's most extreme dead stars can form from vampire white dwarfs — and scientists finally know how",
+      "link": "https://www.space.com/astronomy/stars/the-universes-most-extreme-dead-stars-can-form-from-vampire-white-dwarfs-and-scientists-finally-know-how",
+      "score": 2.8,
+      "published_utc": "2026-09-16T16:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -11234,6 +11315,90 @@
       "day_brt": "2026-09-15",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Ames Stars of the Month: September 2026 Aaron McKinnon Sep 15, 2026 Article Contents Space Biosciences Star: Steve Ormsby Space Biosciences Star: Aphrodite Kostakis Astrophysics Star: Alejandro Borlaff Astrophysics Star: Sarah Nickerson Planetary Science and Exobiology Star: Martina Caussi Earth Science Star: Keiko Nomura Earth Science Star: Stephen Broccardo The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
       "queued_ts": 1789520957
+    },
+    {
+      "fp": "1a4b1627ae1d05e2c116d6b7",
+      "title": "NASA Celebrates Restoration of Guam Station Damaged by Typhoon Mawar",
+      "link": "https://www.nasa.gov/technology/space-comms/nasa-celebrates-restoration-of-guam-station-damaged-by-typhoon-mawar/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-16T16:12:01+00:00",
+      "day_brt": "2026-09-16",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Celebrates Restoration of Guam Station Damaged by Typhoon Mawar Korine Powers Lead Writer and Communications Strategist Sep 16, 2026 Article On Sept. 10, 2026, NASA commemorated the completed repairs of the Guam Remote Station’s central antenna with a ribbon-cutting ceremony.",
+      "queued_ts": 1789582528
+    },
+    {
+      "fp": "35995dffde69ab86639e4f93",
+      "title": "NASA Watches Earth’s Weight, Finds Center of Mass",
+      "link": "https://www.nasa.gov/science-research/earth-science/nasa-watches-earths-weight-finds-center-of-mass/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-16T16:08:00+00:00",
+      "day_brt": "2026-09-16",
+      "resumo_pt": "Resumo (PT-BR): 5 min read NASA Watches Earth’s Weight, Finds Center of Mass Jet Propulsion Laboratory Sep 16, 2026 Article Water sloshing between the land and oceans shifts Earth’s center of mass relative to its geometric center. NASA scientists have developed a new technique using ultraprecise satellite tracking to estimate the displacement to within fractions of inches.",
+      "queued_ts": 1789582528
+    },
+    {
+      "fp": "aed7672f36f28a4a531c88ff",
+      "title": "Indonesia’s Anak Krakatau",
+      "link": "https://www.nasa.gov/image-article/indonesias-anak-krakatau/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-16T15:23:51+00:00",
+      "day_brt": "2026-09-16",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Indonesia’s Anak Krakatau HQ Web Team Sep 16, 2026 Image Article NASA/Michala Garrison Anak Krakatau erupts ash and volcanic gases in this Sept. 5, 2026, image acquired with the OLI (Operational Land Imager) on Landsat 8 .",
+      "queued_ts": 1789582528
+    },
+    {
+      "fp": "a2eeb6d456271011b9404fec",
+      "title": "Curiosity Postcard Celebrates Rover’s 5,000th Day on Mars",
+      "link": "https://science.nasa.gov/photojournal/curiosity-postcard-celebrates-rovers-5000th-day-on-mars/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-16T15:21:27+00:00",
+      "day_brt": "2026-09-16",
+      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal Curiosity Postcard Celebrates... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 2 Min Read Curiosity Postcard Celebrates Rover’s 5,000th Day on Mars PIA26700 Credits: NASA/JPL-Caltech Image Addition Date: 09/16/2026 Downloads Curiosity Postcard Celebrates Rover’s 5,000th Day on Mars JPEG (459.76 KB) Description While parked at a sand ridge nicknamed “Chocolatal,” NASA’s Curiosity Mars rover used its black-and-white navigation cameras to capture panoramas at two times of day.",
+      "queued_ts": 1789582528
+    },
+    {
+      "fp": "9004dffac3c4010a0d8409b8",
+      "title": "NASA Visits Schools Strengthening Florida’s Skilled Workforce",
+      "link": "https://www.nasa.gov/image-article/nasa-visits-schools-strengthening-floridas-skilled-workforce/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-16T15:14:57+00:00",
+      "day_brt": "2026-09-16",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Visits Schools Strengthening Florida’s Skilled Workforce NASA STEM Team Sep 16, 2026 Image Article NASA recently awarded $10.5 million to seven organizations nationwide through its new State Hubs initiative . Space Florida was selected for Project ORBIT, which aims to expand opportunities for middle and high school students, boost enrollment in key career and technical programs, and create a statewide portal connecting skilled workers with aerospace employers.",
+      "queued_ts": 1789582528
+    },
+    {
+      "fp": "71df91d02c6adf577bc0f893",
+      "title": "NASA Astronaut Reid Wiseman to Join NFL Fans in Baltimore",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-reid-wiseman-to-join-nfl-fans-in-baltimore/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-16T15:00:18+00:00",
+      "day_brt": "2026-09-16",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Astronaut Reid Wiseman to Join NFL Fans in Baltimore Jessica Taveau Sep 16, 2026 MEDIA ADVISORY M26-068 NASA Headquarters NASA astronaut Reid Wiseman prepares to depart the Neil A. Armstrong Operations and Checkout Building for Launch Complex 39B at the agency’s Kennedy Space Center in Florida to board NASA’s Artemis II SLS (Space Launch System) rocket and Orion spacecraft for the agency’s Artemis II launch on April 1, 2026.",
+      "queued_ts": 1789582528
+    },
+    {
+      "fp": "2820459f26c0eec1722dfeb8",
+      "title": "Newfound ‘Baby’ Planet Smashes Record for Youngest Known World",
+      "link": "https://science.nasa.gov/universe/newfound-baby-planet-smashes-record-for-youngest-known-world/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-16T14:34:47+00:00",
+      "day_brt": "2026-09-16",
+      "resumo_pt": "Resumo (PT-BR): 5 Min Read Newfound ‘Baby’ Planet Smashes Record for Youngest Known World An artist's concept of the youngest known exoplanet, Elias 2-24 b. Keck Observatory/Adam Makarenko Ashley Balzer Sep 16, 2026 Article Contents Construction zone Connecting dots Astronomers have confirmed a world that’s less than a million years old as the youngest known planet, using data from NASA-funded archives.",
+      "queued_ts": 1789582528
     }
   ],
   "digests_sent": {
@@ -11817,7 +11982,10 @@
       "1e65562f5e3defdf0d3e7915": true
     },
     "2026-09-16": {
-      "9ba690c1edf8ea1a3b2a0298": true
+      "9ba690c1edf8ea1a3b2a0298": true,
+      "1a4b1627ae1d05e2c116d6b7": true,
+      "35995dffde69ab86639e4f93": true,
+      "aed7672f36f28a4a531c88ff": true
     }
   }
 }
