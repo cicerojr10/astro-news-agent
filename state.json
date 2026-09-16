@@ -10579,6 +10579,22 @@
       "link": "https://www.space.com/space-exploration/satellites/us-space-force-says-it-operates-weapons-in-orbit-our-aim-is-deterrence",
       "score": 2.8,
       "published_utc": "2026-09-15T19:54:56+00:00"
+    },
+    "1e65562f5e3defdf0d3e7915": {
+      "ts": 1789520954,
+      "source": "NASA Breaking News",
+      "title": "NASA Ames Stars of the Month: September 2026",
+      "link": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/",
+      "score": 4.0,
+      "published_utc": "2026-09-15T23:46:11+00:00"
+    },
+    "dbdb8efabce6bbf8a128b6f2": {
+      "ts": 1789520955,
+      "source": "Spaceflight Now",
+      "title": "SpaceX scrubs Vandenberg launch of national security payload, targets backup window on Wednesday",
+      "link": "https://spaceflightnow.com/2026/09/15/live-coverage-spacex-to-launch-national-security-payload-for-the-u-s-space-force-on-falcon-9-rocket-from-vandenberg/",
+      "score": 6.3,
+      "published_utc": "2026-09-15T21:29:03+00:00"
     }
   },
   "digest_queue": [
@@ -11145,6 +11161,30 @@
       "day_brt": "2026-08-31",
       "resumo_pt": "Resumo (PT-BR): 2 min read September 2026 Satellite Puzzler NASA Earth Observatory Aug 31, 2026 Article Puzzler More Puzzler Every month, NASA Earth Observatory features a puzzling satellite image. Your Challenge I dentify the location shown in this satellite image.",
       "queued_ts": 1788227476
+    },
+    {
+      "fp": "dbdb8efabce6bbf8a128b6f2",
+      "title": "SpaceX scrubs Vandenberg launch of national security payload, targets backup window on Wednesday",
+      "link": "https://spaceflightnow.com/2026/09/15/live-coverage-spacex-to-launch-national-security-payload-for-the-u-s-space-force-on-falcon-9-rocket-from-vandenberg/",
+      "source": "Spaceflight Now",
+      "score": 6.3,
+      "is_anomaly": false,
+      "published_utc": "2026-09-15T21:29:03+00:00",
+      "day_brt": "2026-09-15",
+      "resumo_pt": "Resumo (PT-BR): SpaceX scrubs Vandenberg launch of national security payload, targets backup window on Wednesday September 15, 2026 Will Robinson-Smith A Falcon 9 stands on Space Launch Complex 4E ahead of the USSF-259 mission at Vandenberg Space Force Base, California. EDT (0105 UTC): SpaceX scrubbed the launch attempt for the mission prior to fueling; targets backup opportunity on Wednesday, Sept.",
+      "queued_ts": 1789520957
+    },
+    {
+      "fp": "1e65562f5e3defdf0d3e7915",
+      "title": "NASA Ames Stars of the Month: September 2026",
+      "link": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-15T23:46:11+00:00",
+      "day_brt": "2026-09-15",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Ames Stars of the Month: September 2026 Aaron McKinnon Sep 15, 2026 Article Contents Space Biosciences Star: Steve Ormsby Space Biosciences Star: Aphrodite Kostakis Astrophysics Star: Alejandro Borlaff Astrophysics Star: Sarah Nickerson Planetary Science and Exobiology Star: Martina Caussi Earth Science Star: Keiko Nomura Earth Science Star: Stephen Broccardo The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
+      "queued_ts": 1789520957
     }
   ],
   "digests_sent": {
@@ -11748,7 +11788,9 @@
       "ed35d0afbac00fb969ed2f7e": true,
       "90148d1d2b2cdc9d5d88d6ef": true,
       "a44bbb3d71ffb6a4e8edcfa0": true,
-      "37c385801c420799f8a0ae1a": true
+      "37c385801c420799f8a0ae1a": true,
+      "dbdb8efabce6bbf8a128b6f2": true,
+      "1e65562f5e3defdf0d3e7915": true
     }
   }
 }
