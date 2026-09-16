@@ -10595,6 +10595,15 @@
       "link": "https://spaceflightnow.com/2026/09/15/live-coverage-spacex-to-launch-national-security-payload-for-the-u-s-space-force-on-falcon-9-rocket-from-vandenberg/",
       "score": 6.3,
       "published_utc": "2026-09-15T21:29:03+00:00"
+    },
+    "a00e0fcda6414758061f8d91": {
+      "ts": 1789534785,
+      "source": "NASASpaceflight",
+      "title": "Progress MS-35 poised to launch cargo to ISS from Kazakhstan",
+      "link": "https://www.nasaspaceflight.com/2026/09/progress-ms-35-launch/",
+      "score": 0.0,
+      "published_utc": "2026-09-16T02:05:15+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
