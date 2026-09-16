@@ -10604,6 +10604,38 @@
       "score": 0.0,
       "published_utc": "2026-09-16T02:05:15+00:00",
       "note": "not_today"
+    },
+    "9ba690c1edf8ea1a3b2a0298": {
+      "ts": 1789568505,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 September 16 – Webb’s View of M64",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/",
+      "score": 4.0,
+      "published_utc": "2026-09-16T04:05:00+00:00"
+    },
+    "7b1604c14d16fac118a29920": {
+      "ts": 1789568507,
+      "source": "Space.com",
+      "title": "'Lost in Space': Celebrity astrophysicist Neil deGrasse Tyson on his lavish new encyclopedia of the cosmos (interview)",
+      "link": "https://www.space.com/entertainment/space-books/lost-in-space-celebrity-astrophysicist-neil-degrasse-tyson-on-his-lavish-new-encyclopedia-of-the-cosmos-interview",
+      "score": 2.8,
+      "published_utc": "2026-09-16T14:00:00+00:00"
+    },
+    "230fd000220978d13781e2cd": {
+      "ts": 1789568507,
+      "source": "Space.com",
+      "title": "Where will the US Space Academy be based? NASA wants class to start by 2028",
+      "link": "https://www.space.com/space-exploration/where-will-the-us-space-academy-be-based-nasa-wants-class-to-start-by-2028",
+      "score": 2.8,
+      "published_utc": "2026-09-16T12:00:00+00:00"
+    },
+    "35a43a5de06e1137f6806a59": {
+      "ts": 1789568508,
+      "source": "Space.com",
+      "title": "Russia launches Progress 96 with 3 tons of cargo to the space station (video)",
+      "link": "https://www.space.com/space-exploration/international-space-station/russia-progress-96-cargo-launch-international-space-station",
+      "score": 2.8,
+      "published_utc": "2026-09-16T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -11731,37 +11763,12 @@
     "2026-09-15": {
       "morning": true,
       "night": true
+    },
+    "2026-09-16": {
+      "morning": true
     }
   },
   "sent_updates": {
-    "2026-09-06": {
-      "534302b490a47c66881d934e": true,
-      "5f07b51719345a69ac55a8a4": true
-    },
-    "2026-09-07": {
-      "904cfe51bd14c27a1920c4eb": true,
-      "7c0e8ed5f52a94cbcfc8b072": true,
-      "64455f0ed276e655a39aadfe": true
-    },
-    "2026-09-08": {
-      "600f9fc7074ef894993e515c": true,
-      "53c0675ac11c6fa628d906f1": true,
-      "4a5f1f43872b9704e17b879a": true,
-      "287f4120cfdaa17680a6053d": true,
-      "665d377126277fd0153f6d99": true,
-      "3d4da4a2dd0322f11d4ce507": true,
-      "efda0a3fd909b99bdacb7e05": true
-    },
-    "2026-09-09": {
-      "3d7e82a353c7f1e11c8981f9": true,
-      "55395aef20f2d91c606cee15": true,
-      "b48dfff84bae56f78374ed25": true,
-      "1cb32c7ec5b8da24fe105786": true,
-      "c023c733a042b3b81f8c1bfe": true,
-      "54bcb2c2218484620c99ebf2": true,
-      "1bafcc744f44fdca8a6297f3": true,
-      "3c1ea0ad40afcdc3155d97f6": true
-    },
     "2026-09-10": {
       "10873e423b9df2a69a0734f3": true,
       "6da5e856e4122c37d01f8703": true,
@@ -11800,6 +11807,9 @@
       "37c385801c420799f8a0ae1a": true,
       "dbdb8efabce6bbf8a128b6f2": true,
       "1e65562f5e3defdf0d3e7915": true
+    },
+    "2026-09-16": {
+      "9ba690c1edf8ea1a3b2a0298": true
     }
   }
 }
