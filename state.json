@@ -10759,6 +10759,14 @@
       "score": 0.0,
       "published_utc": "2026-09-15T21:29:03+00:00",
       "note": "not_today"
+    },
+    "efc055d9bb86b182a9a88e24": {
+      "ts": 1789646581,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/",
+      "score": 4.0,
+      "published_utc": "2026-09-17T04:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -11890,6 +11898,9 @@
     "2026-09-16": {
       "morning": true,
       "night": true
+    },
+    "2026-09-17": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -11938,6 +11949,9 @@
       "35995dffde69ab86639e4f93": true,
       "aed7672f36f28a4a531c88ff": true,
       "ac1df5f9fff8301272cd8cbc": true
+    },
+    "2026-09-17": {
+      "efc055d9bb86b182a9a88e24": true
     }
   }
 }
