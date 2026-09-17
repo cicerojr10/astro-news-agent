@@ -10767,6 +10767,22 @@
       "link": "https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/",
       "score": 4.0,
       "published_utc": "2026-09-17T04:05:00+00:00"
+    },
+    "5397ff7c095a0c73d3e4d943": {
+      "ts": 1789674909,
+      "source": "NASA Breaking News",
+      "title": "NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/",
+      "score": 4.0,
+      "published_utc": "2026-09-17T18:32:30+00:00"
+    },
+    "49d5285dfff62082f3dea783": {
+      "ts": 1789674909,
+      "source": "NASA Breaking News",
+      "title": "NASA Unveils Enterprise, the First Space Shuttle",
+      "link": "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
+      "score": 4.0,
+      "published_utc": "2026-09-17T15:22:42+00:00"
     }
   },
   "digest_queue": [
@@ -11357,6 +11373,30 @@
       "day_brt": "2026-09-15",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Ames Stars of the Month: September 2026 Aaron McKinnon Sep 15, 2026 Article Contents Space Biosciences Star: Steve Ormsby Space Biosciences Star: Aphrodite Kostakis Astrophysics Star: Alejandro Borlaff Astrophysics Star: Sarah Nickerson Planetary Science and Exobiology Star: Martina Caussi Earth Science Star: Keiko Nomura Earth Science Star: Stephen Broccardo The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
       "queued_ts": 1789520957
+    },
+    {
+      "fp": "5397ff7c095a0c73d3e4d943",
+      "title": "NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-17T18:32:30+00:00",
+      "day_brt": "2026-09-17",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station Lauren E. Low Sep 17, 2026 MEDIA ADVISORY 26-069 NASA Headquarters Kennedy Space Center A SpaceX Falcon 9 rocket launches on May 15, 2026, carrying about 6,500 pounds of science, supplies, and equipment to the International Space Station during the company’s 34th commercial resupply mission for NASA.",
+      "queued_ts": 1789674913
+    },
+    {
+      "fp": "49d5285dfff62082f3dea783",
+      "title": "NASA Unveils Enterprise, the First Space Shuttle",
+      "link": "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-17T15:22:42+00:00",
+      "day_brt": "2026-09-17",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Unveils Enterprise, the First Space Shuttle HQ Web Team Sep 17, 2026 Image Article The rollout ceremony for NASA’s first space shuttle, OV-101, coincided with Constitution Day of the nation’s bicentennial on Sept.17, 1976. Although the orbiter was originally planned to be named Constitution, Star Trek fans successfully convinced President Gerald Ford to name it Enterprise after the series’ fictional starship.",
+      "queued_ts": 1789674913
     }
   ],
   "digests_sent": {
@@ -11951,7 +11991,9 @@
       "ac1df5f9fff8301272cd8cbc": true
     },
     "2026-09-17": {
-      "efc055d9bb86b182a9a88e24": true
+      "efc055d9bb86b182a9a88e24": true,
+      "5397ff7c095a0c73d3e4d943": true,
+      "49d5285dfff62082f3dea783": true
     }
   }
 }
