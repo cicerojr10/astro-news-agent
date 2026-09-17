@@ -10783,6 +10783,14 @@
       "link": "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
       "score": 4.0,
       "published_utc": "2026-09-17T15:22:42+00:00"
+    },
+    "00adbd4d733fddd3229faf1d": {
+      "ts": 1789684169,
+      "source": "NASA Breaking News",
+      "title": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
+      "link": "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
+      "score": 4.0,
+      "published_utc": "2026-09-17T20:37:09+00:00"
     }
   },
   "digest_queue": [
@@ -11397,6 +11405,18 @@
       "day_brt": "2026-09-17",
       "resumo_pt": "Resumo (PT-BR): 2 min read NASA Unveils Enterprise, the First Space Shuttle HQ Web Team Sep 17, 2026 Image Article The rollout ceremony for NASA’s first space shuttle, OV-101, coincided with Constitution Day of the nation’s bicentennial on Sept.17, 1976. Although the orbiter was originally planned to be named Constitution, Star Trek fans successfully convinced President Gerald Ford to name it Enterprise after the series’ fictional starship.",
       "queued_ts": 1789674913
+    },
+    {
+      "fp": "00adbd4d733fddd3229faf1d",
+      "title": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
+      "link": "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-17T20:37:09+00:00",
+      "day_brt": "2026-09-17",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Awards Launch Services for StarBurst Gamma-Ray Detector Jessica Taveau Sep 17, 2026 CONTRACT RELEASE C26-012 NASA Headquarters Credit: NASA NASA has selected SpaceX to provide launch services for the agency’s StarBurst mission, a small satellite designed to investigate neutron star mergers and the origins of short gamma-ray bursts. StarBurst will launch aboard a Bandwagon rideshare mission on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida no earlier than 2028.",
+      "queued_ts": 1789684171
     }
   ],
   "digests_sent": {
@@ -11993,7 +12013,8 @@
     "2026-09-17": {
       "efc055d9bb86b182a9a88e24": true,
       "5397ff7c095a0c73d3e4d943": true,
-      "49d5285dfff62082f3dea783": true
+      "49d5285dfff62082f3dea783": true,
+      "00adbd4d733fddd3229faf1d": true
     }
   }
 }
