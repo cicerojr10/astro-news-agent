@@ -10799,6 +10799,14 @@
       "link": "https://www.nasaspaceflight.com/2026/09/starships-upcoming-missions-orbit-cape/",
       "score": 3.6,
       "published_utc": "2026-09-18T00:06:52+00:00"
+    },
+    "a1c93012bb615926f511de22": {
+      "ts": 1789708053,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 September 18 – Messier 33: The Triangulum Galaxy",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/",
+      "score": 4.0,
+      "published_utc": "2026-09-18T04:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -11389,6 +11397,18 @@
       "day_brt": "2026-09-15",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Ames Stars of the Month: September 2026 Aaron McKinnon Sep 15, 2026 Article Contents Space Biosciences Star: Steve Ormsby Space Biosciences Star: Aphrodite Kostakis Astrophysics Star: Alejandro Borlaff Astrophysics Star: Sarah Nickerson Planetary Science and Exobiology Star: Martina Caussi Earth Science Star: Keiko Nomura Earth Science Star: Stephen Broccardo The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
       "queued_ts": 1789520957
+    },
+    {
+      "fp": "a1c93012bb615926f511de22",
+      "title": "APOD: 2026 September 18 – Messier 33: The Triangulum Galaxy",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-18T04:05:00+00:00",
+      "day_brt": "2026-09-18",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1789708055
     }
   ],
   "digests_sent": {
@@ -11989,6 +12009,9 @@
       "49d5285dfff62082f3dea783": true,
       "00adbd4d733fddd3229faf1d": true,
       "653c7bbb257eaedf36fb7220": true
+    },
+    "2026-09-18": {
+      "a1c93012bb615926f511de22": true
     }
   }
 }
