@@ -10831,6 +10831,14 @@
       "link": "https://www.nasa.gov/image-article/cosi-telescope-comes-together/",
       "score": 4.0,
       "published_utc": "2026-09-18T15:45:03+00:00"
+    },
+    "cd76762ea0215765441bd5aa": {
+      "ts": 1789760228,
+      "source": "NASA Breaking News",
+      "title": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’",
+      "link": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/",
+      "score": 4.0,
+      "published_utc": "2026-09-18T18:02:53+00:00"
     }
   },
   "digest_queue": [
@@ -11445,6 +11453,18 @@
       "day_brt": "2026-09-18",
       "resumo_pt": "Resumo (PT-BR): 1 min read COSI Telescope Comes Together HQ Web Team Sep 18, 2026 Image Article UC Berkeley/Alan Toth UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image. The four pieces of silver material on the top of the detector box cover the flex circuits, which carry signals from the detectors to the readout electronics.",
       "queued_ts": 1789751745
+    },
+    {
+      "fp": "cd76762ea0215765441bd5aa",
+      "title": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’",
+      "link": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-18T18:02:53+00:00",
+      "day_brt": "2026-09-18",
+      "resumo_pt": "Resumo (PT-BR): 5 min read NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’ Francis Reddy Sep 18, 2026 Article Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by its compact companion and providing the power source for strong X-ray flares. The research is part of NASA’s exploration of the extreme universe to better understand how the cosmos works.",
+      "queued_ts": 1789760230
     }
   ],
   "digests_sent": {
@@ -12053,7 +12073,8 @@
       "a1c93012bb615926f511de22": true,
       "2ecacfc8358efaf922f21957": true,
       "b9064e4b5898a189ebd5704f": true,
-      "d5128a02b304096d109cd3bb": true
+      "d5128a02b304096d109cd3bb": true,
+      "cd76762ea0215765441bd5aa": true
     }
   }
 }
