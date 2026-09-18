@@ -10839,6 +10839,22 @@
       "link": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/",
       "score": 4.0,
       "published_utc": "2026-09-18T18:02:53+00:00"
+    },
+    "f4b6120ad6fd8696103dbb91": {
+      "ts": 1789774634,
+      "source": "NASA Breaking News",
+      "title": "NASA Invites Media to Albania Artemis Accords Signing Ceremony",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/",
+      "score": 4.0,
+      "published_utc": "2026-09-18T19:56:08+00:00"
+    },
+    "0e825dc0ec32eb4c715ca15a": {
+      "ts": 1789774636,
+      "source": "NASASpaceflight",
+      "title": "China progresses plans for Mars sample return, asteroid flyby and more launch sites",
+      "link": "https://www.nasaspaceflight.com/2026/09/china-roundup-202609/",
+      "score": 3.6,
+      "published_utc": "2026-09-18T21:58:14+00:00"
     }
   },
   "digest_queue": [
@@ -11429,42 +11445,6 @@
       "day_brt": "2026-09-15",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Ames Stars of the Month: September 2026 Aaron McKinnon Sep 15, 2026 Article Contents Space Biosciences Star: Steve Ormsby Space Biosciences Star: Aphrodite Kostakis Astrophysics Star: Alejandro Borlaff Astrophysics Star: Sarah Nickerson Planetary Science and Exobiology Star: Martina Caussi Earth Science Star: Keiko Nomura Earth Science Star: Stephen Broccardo The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
       "queued_ts": 1789520957
-    },
-    {
-      "fp": "b9064e4b5898a189ebd5704f",
-      "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
-      "link": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-18T16:02:31+00:00",
-      "day_brt": "2026-09-18",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Awards SpaceX Three Crew Flights to Space Station Mark A. Garcia Sep 18, 2026 Article A SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft launches NASA’s SpaceX Crew-10 mission to the International Space Station on March 14, 2025.",
-      "queued_ts": 1789751745
-    },
-    {
-      "fp": "d5128a02b304096d109cd3bb",
-      "title": "COSI Telescope Comes Together",
-      "link": "https://www.nasa.gov/image-article/cosi-telescope-comes-together/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-18T15:45:03+00:00",
-      "day_brt": "2026-09-18",
-      "resumo_pt": "Resumo (PT-BR): 1 min read COSI Telescope Comes Together HQ Web Team Sep 18, 2026 Image Article UC Berkeley/Alan Toth UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image. The four pieces of silver material on the top of the detector box cover the flex circuits, which carry signals from the detectors to the readout electronics.",
-      "queued_ts": 1789751745
-    },
-    {
-      "fp": "cd76762ea0215765441bd5aa",
-      "title": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’",
-      "link": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-18T18:02:53+00:00",
-      "day_brt": "2026-09-18",
-      "resumo_pt": "Resumo (PT-BR): 5 min read NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’ Francis Reddy Sep 18, 2026 Article Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by its compact companion and providing the power source for strong X-ray flares. The research is part of NASA’s exploration of the extreme universe to better understand how the cosmos works.",
-      "queued_ts": 1789760230
     }
   ],
   "digests_sent": {
@@ -12012,7 +11992,8 @@
       "night": true
     },
     "2026-09-18": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -12074,7 +12055,9 @@
       "2ecacfc8358efaf922f21957": true,
       "b9064e4b5898a189ebd5704f": true,
       "d5128a02b304096d109cd3bb": true,
-      "cd76762ea0215765441bd5aa": true
+      "cd76762ea0215765441bd5aa": true,
+      "f4b6120ad6fd8696103dbb91": true,
+      "0e825dc0ec32eb4c715ca15a": true
     }
   }
 }
