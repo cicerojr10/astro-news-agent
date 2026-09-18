@@ -10815,6 +10815,22 @@
       "link": "https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/",
       "score": 4.0,
       "published_utc": "2026-09-18T13:38:12+00:00"
+    },
+    "b9064e4b5898a189ebd5704f": {
+      "ts": 1789751741,
+      "source": "NASA Breaking News",
+      "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
+      "link": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
+      "score": 4.0,
+      "published_utc": "2026-09-18T16:02:31+00:00"
+    },
+    "d5128a02b304096d109cd3bb": {
+      "ts": 1789751741,
+      "source": "NASA Breaking News",
+      "title": "COSI Telescope Comes Together",
+      "link": "https://www.nasa.gov/image-article/cosi-telescope-comes-together/",
+      "score": 4.0,
+      "published_utc": "2026-09-18T15:45:03+00:00"
     }
   },
   "digest_queue": [
@@ -11405,6 +11421,30 @@
       "day_brt": "2026-09-15",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Ames Stars of the Month: September 2026 Aaron McKinnon Sep 15, 2026 Article Contents Space Biosciences Star: Steve Ormsby Space Biosciences Star: Aphrodite Kostakis Astrophysics Star: Alejandro Borlaff Astrophysics Star: Sarah Nickerson Planetary Science and Exobiology Star: Martina Caussi Earth Science Star: Keiko Nomura Earth Science Star: Stephen Broccardo The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
       "queued_ts": 1789520957
+    },
+    {
+      "fp": "b9064e4b5898a189ebd5704f",
+      "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
+      "link": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-18T16:02:31+00:00",
+      "day_brt": "2026-09-18",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Awards SpaceX Three Crew Flights to Space Station Mark A. Garcia Sep 18, 2026 Article A SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft launches NASA’s SpaceX Crew-10 mission to the International Space Station on March 14, 2025.",
+      "queued_ts": 1789751745
+    },
+    {
+      "fp": "d5128a02b304096d109cd3bb",
+      "title": "COSI Telescope Comes Together",
+      "link": "https://www.nasa.gov/image-article/cosi-telescope-comes-together/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-18T15:45:03+00:00",
+      "day_brt": "2026-09-18",
+      "resumo_pt": "Resumo (PT-BR): 1 min read COSI Telescope Comes Together HQ Web Team Sep 18, 2026 Image Article UC Berkeley/Alan Toth UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image. The four pieces of silver material on the top of the detector box cover the flex circuits, which carry signals from the detectors to the readout electronics.",
+      "queued_ts": 1789751745
     }
   ],
   "digests_sent": {
@@ -12011,7 +12051,9 @@
     },
     "2026-09-18": {
       "a1c93012bb615926f511de22": true,
-      "2ecacfc8358efaf922f21957": true
+      "2ecacfc8358efaf922f21957": true,
+      "b9064e4b5898a189ebd5704f": true,
+      "d5128a02b304096d109cd3bb": true
     }
   }
 }
