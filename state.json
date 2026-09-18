@@ -10791,6 +10791,14 @@
       "link": "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
       "score": 4.0,
       "published_utc": "2026-09-17T20:37:09+00:00"
+    },
+    "653c7bbb257eaedf36fb7220": {
+      "ts": 1789691841,
+      "source": "NASASpaceflight",
+      "title": "Starship’s upcoming missions: Waiting on Orbit, Building toward the Cape",
+      "link": "https://www.nasaspaceflight.com/2026/09/starships-upcoming-missions-orbit-cape/",
+      "score": 3.6,
+      "published_utc": "2026-09-18T00:06:52+00:00"
     }
   },
   "digest_queue": [
@@ -11381,42 +11389,6 @@
       "day_brt": "2026-09-15",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Ames Stars of the Month: September 2026 Aaron McKinnon Sep 15, 2026 Article Contents Space Biosciences Star: Steve Ormsby Space Biosciences Star: Aphrodite Kostakis Astrophysics Star: Alejandro Borlaff Astrophysics Star: Sarah Nickerson Planetary Science and Exobiology Star: Martina Caussi Earth Science Star: Keiko Nomura Earth Science Star: Stephen Broccardo The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
       "queued_ts": 1789520957
-    },
-    {
-      "fp": "5397ff7c095a0c73d3e4d943",
-      "title": "NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-17T18:32:30+00:00",
-      "day_brt": "2026-09-17",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station Lauren E. Low Sep 17, 2026 MEDIA ADVISORY 26-069 NASA Headquarters Kennedy Space Center A SpaceX Falcon 9 rocket launches on May 15, 2026, carrying about 6,500 pounds of science, supplies, and equipment to the International Space Station during the company’s 34th commercial resupply mission for NASA.",
-      "queued_ts": 1789674913
-    },
-    {
-      "fp": "49d5285dfff62082f3dea783",
-      "title": "NASA Unveils Enterprise, the First Space Shuttle",
-      "link": "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-17T15:22:42+00:00",
-      "day_brt": "2026-09-17",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Unveils Enterprise, the First Space Shuttle HQ Web Team Sep 17, 2026 Image Article The rollout ceremony for NASA’s first space shuttle, OV-101, coincided with Constitution Day of the nation’s bicentennial on Sept.17, 1976. Although the orbiter was originally planned to be named Constitution, Star Trek fans successfully convinced President Gerald Ford to name it Enterprise after the series’ fictional starship.",
-      "queued_ts": 1789674913
-    },
-    {
-      "fp": "00adbd4d733fddd3229faf1d",
-      "title": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
-      "link": "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-17T20:37:09+00:00",
-      "day_brt": "2026-09-17",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Awards Launch Services for StarBurst Gamma-Ray Detector Jessica Taveau Sep 17, 2026 CONTRACT RELEASE C26-012 NASA Headquarters Credit: NASA NASA has selected SpaceX to provide launch services for the agency’s StarBurst mission, a small satellite designed to investigate neutron star mergers and the origins of short gamma-ray bursts. StarBurst will launch aboard a Bandwagon rideshare mission on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida no earlier than 2028.",
-      "queued_ts": 1789684171
     }
   ],
   "digests_sent": {
@@ -11960,7 +11932,8 @@
       "night": true
     },
     "2026-09-17": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -12014,7 +11987,8 @@
       "efc055d9bb86b182a9a88e24": true,
       "5397ff7c095a0c73d3e4d943": true,
       "49d5285dfff62082f3dea783": true,
-      "00adbd4d733fddd3229faf1d": true
+      "00adbd4d733fddd3229faf1d": true,
+      "653c7bbb257eaedf36fb7220": true
     }
   }
 }
