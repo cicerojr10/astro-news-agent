@@ -10863,6 +10863,14 @@
       "link": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/",
       "score": 4.0,
       "published_utc": "2026-09-19T04:05:00+00:00"
+    },
+    "337111ea1176c39b627c63c0": {
+      "ts": 1789853485,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 27 Starlink V2 Mini satellites on Falcon 9 rocket from Vandenberg",
+      "link": "https://spaceflightnow.com/2026/09/19/live-coverage-spacex-to-launch-27-starlink-v2-mini-satellites-on-falcon-9-rocket-from-vandenberg/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-09-19T20:06:04+00:00"
     }
   },
   "digest_queue": [
@@ -11453,6 +11461,18 @@
       "day_brt": "2026-09-15",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Ames Stars of the Month: September 2026 Aaron McKinnon Sep 15, 2026 Article Contents Space Biosciences Star: Steve Ormsby Space Biosciences Star: Aphrodite Kostakis Astrophysics Star: Alejandro Borlaff Astrophysics Star: Sarah Nickerson Planetary Science and Exobiology Star: Martina Caussi Earth Science Star: Keiko Nomura Earth Science Star: Stephen Broccardo The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
       "queued_ts": 1789520957
+    },
+    {
+      "fp": "337111ea1176c39b627c63c0",
+      "title": "Live coverage: SpaceX to launch 27 Starlink V2 Mini satellites on Falcon 9 rocket from Vandenberg",
+      "link": "https://spaceflightnow.com/2026/09/19/live-coverage-spacex-to-launch-27-starlink-v2-mini-satellites-on-falcon-9-rocket-from-vandenberg/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-09-19T20:06:04+00:00",
+      "day_brt": "2026-09-19",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 27 Starlink V2 Mini satellites on Falcon 9 rocket from Vandenberg September 19, 2026 Will Robinson-Smith File: SpaceX’s Falcon 9 rocket stands at Space Launch Complex 4 East at Vandenberg Space Force Base ahead of the Starlink 17-31 mission on March 13, 2026. Image: SpaceX An early-evening Falcon 9 launch from Vandenberg Space Force Base Saturday will add another 27 satellites to SpaceX’s Starlink constellation.",
+      "queued_ts": 1789853487
     }
   ],
   "digests_sent": {
@@ -12071,7 +12091,8 @@
       "0e825dc0ec32eb4c715ca15a": true
     },
     "2026-09-19": {
-      "fd263e62c2da56b803119e72": true
+      "fd263e62c2da56b803119e72": true,
+      "337111ea1176c39b627c63c0": true
     }
   }
 }
