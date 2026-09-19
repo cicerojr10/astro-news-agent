@@ -10855,6 +10855,14 @@
       "link": "https://www.nasaspaceflight.com/2026/09/china-roundup-202609/",
       "score": 3.6,
       "published_utc": "2026-09-18T21:58:14+00:00"
+    },
+    "fd263e62c2da56b803119e72": {
+      "ts": 1789799492,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 September 19 – A Zodiacal Night",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/",
+      "score": 4.0,
+      "published_utc": "2026-09-19T04:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -11445,6 +11453,18 @@
       "day_brt": "2026-09-15",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Ames Stars of the Month: September 2026 Aaron McKinnon Sep 15, 2026 Article Contents Space Biosciences Star: Steve Ormsby Space Biosciences Star: Aphrodite Kostakis Astrophysics Star: Alejandro Borlaff Astrophysics Star: Sarah Nickerson Planetary Science and Exobiology Star: Martina Caussi Earth Science Star: Keiko Nomura Earth Science Star: Stephen Broccardo The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
       "queued_ts": 1789520957
+    },
+    {
+      "fp": "fd263e62c2da56b803119e72",
+      "title": "APOD: 2026 September 19 – A Zodiacal Night",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-19T04:05:00+00:00",
+      "day_brt": "2026-09-19",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1789799494
     }
   ],
   "digests_sent": {
@@ -12058,6 +12078,9 @@
       "cd76762ea0215765441bd5aa": true,
       "f4b6120ad6fd8696103dbb91": true,
       "0e825dc0ec32eb4c715ca15a": true
+    },
+    "2026-09-19": {
+      "fd263e62c2da56b803119e72": true
     }
   }
 }
