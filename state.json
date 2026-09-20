@@ -11486,18 +11486,6 @@
       "day_brt": "2026-09-15",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Ames Stars of the Month: September 2026 Aaron McKinnon Sep 15, 2026 Article Contents Space Biosciences Star: Steve Ormsby Space Biosciences Star: Aphrodite Kostakis Astrophysics Star: Alejandro Borlaff Astrophysics Star: Sarah Nickerson Planetary Science and Exobiology Star: Martina Caussi Earth Science Star: Keiko Nomura Earth Science Star: Stephen Broccardo The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
       "queued_ts": 1789520957
-    },
-    {
-      "fp": "d103e3e3b4e82f7b34292ea7",
-      "title": "LRO discovers large new lunar crater, finds interesting thermal emission phenomenon",
-      "link": "https://www.nasaspaceflight.com/2026/09/lro-mcgetchin-crater/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-09-20T21:13:19+00:00",
-      "day_brt": "2026-09-20",
-      "resumo_pt": "Resumo (PT-BR): LRO discovers large new lunar crater, finds interesting thermal emission phenomenon by Haygen Warren September 20, 2026 written by Haygen Warren September 20, 2026 2 Using NASA’s Lunar Reconnaissance Orbiter, a team of scientists has discovered the largest, newly formed crater ever found in the solar system. Identified during a routine data-quality check as a bright spot with a dark halo, the discovery highlights the ever-changing landscape of our celestial neighbor.",
-      "queued_ts": 1789941059
     }
   ],
   "digests_sent": {
@@ -12053,7 +12041,8 @@
       "night": true
     },
     "2026-09-20": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
