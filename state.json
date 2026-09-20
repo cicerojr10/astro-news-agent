@@ -10871,6 +10871,23 @@
       "link": "https://spaceflightnow.com/2026/09/19/live-coverage-spacex-to-launch-27-starlink-v2-mini-satellites-on-falcon-9-rocket-from-vandenberg/",
       "score": 4.680000000000001,
       "published_utc": "2026-09-19T20:06:04+00:00"
+    },
+    "2dc4ec72d5612cf8df369137": {
+      "ts": 1789885727,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/",
+      "score": 4.0,
+      "published_utc": "2026-09-20T04:05:00+00:00"
+    },
+    "9e2f97a81277955eb9c4f972": {
+      "ts": 1789885728,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches 27 Starlink V2 Mini satellites on Falcon 9 rocket from Vandenberg",
+      "link": "https://spaceflightnow.com/2026/09/19/live-coverage-spacex-to-launch-27-starlink-v2-mini-satellites-on-falcon-9-rocket-from-vandenberg/",
+      "score": 0.0,
+      "published_utc": "2026-09-19T20:06:04+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -11461,6 +11478,18 @@
       "day_brt": "2026-09-15",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Ames Stars of the Month: September 2026 Aaron McKinnon Sep 15, 2026 Article Contents Space Biosciences Star: Steve Ormsby Space Biosciences Star: Aphrodite Kostakis Astrophysics Star: Alejandro Borlaff Astrophysics Star: Sarah Nickerson Planetary Science and Exobiology Star: Martina Caussi Earth Science Star: Keiko Nomura Earth Science Star: Stephen Broccardo The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
       "queued_ts": 1789520957
+    },
+    {
+      "fp": "2dc4ec72d5612cf8df369137",
+      "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-20T04:05:00+00:00",
+      "day_brt": "2026-09-20",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1789885729
     }
   ],
   "digests_sent": {
@@ -12017,28 +12046,6 @@
     }
   },
   "sent_updates": {
-    "2026-09-10": {
-      "10873e423b9df2a69a0734f3": true,
-      "6da5e856e4122c37d01f8703": true,
-      "4fdacc9c286a476873a77b15": true,
-      "d63bcfb79518ff6538edd774": true,
-      "49aaa55fbf83db2ec60a05e0": true,
-      "af6bd29e0255879524a0426a": true
-    },
-    "2026-09-11": {
-      "06b15ff9d36470f682141057": true,
-      "ac92489997d6f21d74b9a583": true,
-      "ecd87619d06b85fdfb353b33": true
-    },
-    "2026-09-12": {
-      "51501e8334bc84a25074a286": true
-    },
-    "2026-09-13": {
-      "c238db10c8273722094cd972": true,
-      "80036f7e5655e4f2d6e9e196": true,
-      "17a3424f669629eb0336008f": true,
-      "e97e692477ce35a842e21fcd": true
-    },
     "2026-09-14": {
       "336f0bb058a62b9ba96b18ff": true,
       "a88cfb5766e53ef1ef32f49f": true,
@@ -12082,6 +12089,9 @@
     "2026-09-19": {
       "fd263e62c2da56b803119e72": true,
       "337111ea1176c39b627c63c0": true
+    },
+    "2026-09-20": {
+      "2dc4ec72d5612cf8df369137": true
     }
   }
 }
