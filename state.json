@@ -10896,6 +10896,30 @@
       "link": "https://www.nasaspaceflight.com/2026/09/lro-mcgetchin-crater/",
       "score": 3.6,
       "published_utc": "2026-09-20T21:13:19+00:00"
+    },
+    "2056696d02a8e2482d41c03a": {
+      "ts": 1789998987,
+      "source": "NASA Breaking News",
+      "title": "Johnson Space Center Sparks Curiosity at Houston’s 33rd Annual Japan Festival",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-sparks-curiosity-at-houstons-33rd-annual-japan-festival/",
+      "score": 4.0,
+      "published_utc": "2026-09-21T11:11:42+00:00"
+    },
+    "ac1a6bb25760a6966c757192": {
+      "ts": 1789998987,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/",
+      "score": 4.0,
+      "published_utc": "2026-09-21T04:05:00+00:00"
+    },
+    "9c06181fdc64f29215a0d906": {
+      "ts": 1789998988,
+      "source": "NASA Breaking News",
+      "title": "Arctic Melt Season Length Levels Off",
+      "link": "https://science.nasa.gov/earth/earth-observatory/arctic-melt-season-length-levels-off/",
+      "score": 4.0,
+      "published_utc": "2026-09-21T04:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -12043,6 +12067,9 @@
     "2026-09-20": {
       "morning": true,
       "night": true
+    },
+    "2026-09-21": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -12093,6 +12120,11 @@
     "2026-09-20": {
       "2dc4ec72d5612cf8df369137": true,
       "d103e3e3b4e82f7b34292ea7": true
+    },
+    "2026-09-21": {
+      "2056696d02a8e2482d41c03a": true,
+      "ac1a6bb25760a6966c757192": true,
+      "9c06181fdc64f29215a0d906": true
     }
   }
 }
