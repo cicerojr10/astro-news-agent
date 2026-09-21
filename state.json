@@ -10920,6 +10920,22 @@
       "link": "https://science.nasa.gov/earth/earth-observatory/arctic-melt-season-length-levels-off/",
       "score": 4.0,
       "published_utc": "2026-09-21T04:00:00+00:00"
+    },
+    "8c04ad943410050a9cfb8ca3": {
+      "ts": 1790017110,
+      "source": "Spaceflight Now",
+      "title": "SpaceX’s Super Heavy booster arrives at pad ahead of first orbital Starship launch",
+      "link": "https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch/",
+      "score": 3.6,
+      "published_utc": "2026-09-21T17:25:37+00:00"
+    },
+    "30bbdb630f6e70f3d3618025": {
+      "ts": 1790017111,
+      "source": "NASASpaceflight",
+      "title": "Exolaunch, Space Cargo book Starship Starfall missions",
+      "link": "https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall/",
+      "score": 3.6,
+      "published_utc": "2026-09-21T16:57:40+00:00"
     }
   },
   "digest_queue": [
@@ -11510,6 +11526,30 @@
       "day_brt": "2026-09-15",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Ames Stars of the Month: September 2026 Aaron McKinnon Sep 15, 2026 Article Contents Space Biosciences Star: Steve Ormsby Space Biosciences Star: Aphrodite Kostakis Astrophysics Star: Alejandro Borlaff Astrophysics Star: Sarah Nickerson Planetary Science and Exobiology Star: Martina Caussi Earth Science Star: Keiko Nomura Earth Science Star: Stephen Broccardo The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
       "queued_ts": 1789520957
+    },
+    {
+      "fp": "8c04ad943410050a9cfb8ca3",
+      "title": "SpaceX’s Super Heavy booster arrives at pad ahead of first orbital Starship launch",
+      "link": "https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-09-21T17:25:37+00:00",
+      "day_brt": "2026-09-21",
+      "resumo_pt": "Resumo (PT-BR): SpaceX’s Super Heavy booster arrives at pad ahead of first orbital Starship launch September 21, 2026 Will Robinson-Smith SpaceX rolled its Super Heavy booster, tail number B21, out to Pad 2 late Sunday night, Sept. 20, in preparation for the launch of Starship Flight 14 no earlier than Sept.",
+      "queued_ts": 1790017112
+    },
+    {
+      "fp": "30bbdb630f6e70f3d3618025",
+      "title": "Exolaunch, Space Cargo book Starship Starfall missions",
+      "link": "https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-09-21T16:57:40+00:00",
+      "day_brt": "2026-09-21",
+      "resumo_pt": "Resumo (PT-BR): Exolaunch, Space Cargo book Starship Starfall missions by Chris Bergin September 21, 2026 written by Chris Bergin September 21, 2026 1 SpaceX’s disk-shaped Starfall reentry capsule, first flown on Falcon 9 in June, now has two European integrator contracts for commercial Starship missions in 2028 and 2029. Space Cargo Unlimited plans a one-tonne in-space factory flight; Exolaunch will aggregate research and manufacturing payloads and return them to Earth.",
+      "queued_ts": 1790017112
     }
   ],
   "digests_sent": {
@@ -12124,7 +12164,9 @@
     "2026-09-21": {
       "2056696d02a8e2482d41c03a": true,
       "ac1a6bb25760a6966c757192": true,
-      "9c06181fdc64f29215a0d906": true
+      "9c06181fdc64f29215a0d906": true,
+      "8c04ad943410050a9cfb8ca3": true,
+      "30bbdb630f6e70f3d3618025": true
     }
   }
 }
