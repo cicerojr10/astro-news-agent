@@ -10968,6 +10968,22 @@
       "link": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/",
       "score": 4.0,
       "published_utc": "2026-09-21T16:54:43+00:00"
+    },
+    "c918d701ad6276ff710ba343": {
+      "ts": 1790089033,
+      "source": "NASA Breaking News",
+      "title": "NASA Astronaut to Answer Questions from New Hampshire Students",
+      "link": "https://www.nasa.gov/learning-resources/nasa-astronaut-to-answer-questions-from-new-hampshire-students/",
+      "score": 4.0,
+      "published_utc": "2026-09-22T13:38:53+00:00"
+    },
+    "efe9dec53e19d27f20345343": {
+      "ts": 1790089033,
+      "source": "NASA Breaking News",
+      "title": "An Epic View of the Seasons",
+      "link": "https://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons/",
+      "score": 4.0,
+      "published_utc": "2026-09-22T04:01:00+00:00"
     }
   },
   "digest_queue": [
@@ -12119,6 +12135,9 @@
     "2026-09-21": {
       "morning": true,
       "night": true
+    },
+    "2026-09-22": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -12179,6 +12198,10 @@
       "b98047df51a95cba97664783": true,
       "dd95f7a74f5d5ba96906d59b": true,
       "740cbf29b9b50d3f8303996f": true
+    },
+    "2026-09-22": {
+      "c918d701ad6276ff710ba343": true,
+      "efe9dec53e19d27f20345343": true
     }
   }
 }
