@@ -10984,6 +10984,30 @@
       "link": "https://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons/",
       "score": 4.0,
       "published_utc": "2026-09-22T04:01:00+00:00"
+    },
+    "c31d67033c8a362a7dce581a": {
+      "ts": 1790112663,
+      "source": "NASA Breaking News",
+      "title": "NASA-Funded Research Finds Complex Life Defying Record Heat",
+      "link": "https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/",
+      "score": 4.0,
+      "published_utc": "2026-09-22T17:33:10+00:00"
+    },
+    "08a83f6fd7e247555468330b": {
+      "ts": 1790112663,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy",
+      "link": "https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy/",
+      "score": 4.0,
+      "published_utc": "2026-09-22T15:40:48+00:00"
+    },
+    "6f64e457f8ba9d9fdae57f5a": {
+      "ts": 1790112663,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 September 22 – Chance Triple Alignment: Plane, Space Station, Sun",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-22-chance-triple-alignment-plane-space-station-sun/",
+      "score": 4.0,
+      "published_utc": "2026-09-22T04:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -11574,6 +11598,42 @@
       "day_brt": "2026-09-15",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Ames Stars of the Month: September 2026 Aaron McKinnon Sep 15, 2026 Article Contents Space Biosciences Star: Steve Ormsby Space Biosciences Star: Aphrodite Kostakis Astrophysics Star: Alejandro Borlaff Astrophysics Star: Sarah Nickerson Planetary Science and Exobiology Star: Martina Caussi Earth Science Star: Keiko Nomura Earth Science Star: Stephen Broccardo The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
       "queued_ts": 1789520957
+    },
+    {
+      "fp": "c31d67033c8a362a7dce581a",
+      "title": "NASA-Funded Research Finds Complex Life Defying Record Heat",
+      "link": "https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-22T17:33:10+00:00",
+      "day_brt": "2026-09-22",
+      "resumo_pt": "Resumo (PT-BR): 6 min read NASA-Funded Research Finds Complex Life Defying Record Heat Aaron Gronstal Sep 22, 2026 Article Contents Complex life on Earth Complexity in Extreme Heat Search for life beyond Earth This video shows Incendiamoeba cascadensis motility at 60ºC. cascadensis can remain partially active at 150.8 degrees Fahrenheit (66 degrees Celsius) and can recover from exposure to a staggering 158 degrees Fahrenheit (70 degrees Celsius) for five minutes.",
+      "queued_ts": 1790112666
+    },
+    {
+      "fp": "08a83f6fd7e247555468330b",
+      "title": "NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy",
+      "link": "https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-22T15:40:48+00:00",
+      "day_brt": "2026-09-22",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy HQ Web Team Sep 22, 2026 Image Article X-ray: NASA/CXC/Univ. Muhibullah et al.; Optical: NASA/ESA/STScI; Image Processing: NASA/CXC/SAO/N.",
+      "queued_ts": 1790112666
+    },
+    {
+      "fp": "6f64e457f8ba9d9fdae57f5a",
+      "title": "APOD: 2026 September 22 – Chance Triple Alignment: Plane, Space Station, Sun",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-22-chance-triple-alignment-plane-space-station-sun/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-22T04:05:00+00:00",
+      "day_brt": "2026-09-22",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1790112666
     }
   ],
   "digests_sent": {
@@ -12201,7 +12261,10 @@
     },
     "2026-09-22": {
       "c918d701ad6276ff710ba343": true,
-      "efe9dec53e19d27f20345343": true
+      "efe9dec53e19d27f20345343": true,
+      "c31d67033c8a362a7dce581a": true,
+      "08a83f6fd7e247555468330b": true,
+      "6f64e457f8ba9d9fdae57f5a": true
     }
   }
 }
