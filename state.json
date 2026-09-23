@@ -11050,6 +11050,14 @@
       "score": 0.0,
       "published_utc": "2026-09-23T00:40:16+00:00",
       "note": "not_today"
+    },
+    "a5c6ed7fef8b9ce8b9e89037": {
+      "ts": 1790182780,
+      "source": "NASA Breaking News",
+      "title": "Shannon Lucid’s Record-Setting Mission Aboard Mir",
+      "link": "https://www.nasa.gov/image-article/shannon-lucids-record-setting-mission-aboard-mir/",
+      "score": 4.0,
+      "published_utc": "2026-09-23T16:03:37+00:00"
     }
   },
   "digest_queue": [
@@ -11676,6 +11684,18 @@
       "day_brt": "2026-09-23",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1790176360
+    },
+    {
+      "fp": "a5c6ed7fef8b9ce8b9e89037",
+      "title": "Shannon Lucid’s Record-Setting Mission Aboard Mir",
+      "link": "https://www.nasa.gov/image-article/shannon-lucids-record-setting-mission-aboard-mir/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-23T16:03:37+00:00",
+      "day_brt": "2026-09-23",
+      "resumo_pt": "Resumo (PT-BR): 2 min read Shannon Lucid’s Record-Setting Mission Aboard Mir NASA History Office NASA History Office Sep 23, 2026 Image Article Astronaut Shannon W. Lucid checked on wheat plants aboard Russia’s Mir Space Station on Sept.",
+      "queued_ts": 1790182782
     }
   ],
   "digests_sent": {
@@ -12315,7 +12335,8 @@
     "2026-09-23": {
       "2b4eec411641d79c64b2be85": true,
       "0673b6d084acd7d3104d451d": true,
-      "0015862770f0337c4bab84e9": true
+      "0015862770f0337c4bab84e9": true,
+      "a5c6ed7fef8b9ce8b9e89037": true
     }
   }
 }
