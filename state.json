@@ -11008,6 +11008,15 @@
       "link": "https://science.nasa.gov/image-article/apod-2026-september-22-chance-triple-alignment-plane-space-station-sun/",
       "score": 4.0,
       "published_utc": "2026-09-22T04:05:00+00:00"
+    },
+    "49dee303a0de4141a865ade8": {
+      "ts": 1790145892,
+      "source": "NASASpaceflight",
+      "title": "Ship 41 rolls to Pad 2 carrying two flown tiles from Ship 40",
+      "link": "https://www.nasaspaceflight.com/2026/09/ship-41-pad-2-two-tiles-ship-40/",
+      "score": 0.0,
+      "published_utc": "2026-09-23T02:42:12+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
