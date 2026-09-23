@@ -11058,6 +11058,30 @@
       "link": "https://www.nasa.gov/image-article/shannon-lucids-record-setting-mission-aboard-mir/",
       "score": 4.0,
       "published_utc": "2026-09-23T16:03:37+00:00"
+    },
+    "c961bdd7f592a3fbeae37b00": {
+      "ts": 1790193490,
+      "source": "NASA Breaking News",
+      "title": "NASA Aircraft to Make Low-Altitude Research Flights Over Colorado",
+      "link": "https://www.nasa.gov/general/nasa-aircraft-to-make-low-altitude-research-flights-over-colorado/",
+      "score": 4.0,
+      "published_utc": "2026-09-23T19:03:03+00:00"
+    },
+    "0d761b492845329546dc40b5": {
+      "ts": 1790193490,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova",
+      "link": "https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/",
+      "score": 4.0,
+      "published_utc": "2026-09-23T18:43:43+00:00"
+    },
+    "da4881cc4db573a114ba4ce2": {
+      "ts": 1790193490,
+      "source": "NASA Breaking News",
+      "title": "Arctic Sea Ice Reaches 2026 Annual Minimum Extent",
+      "link": "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/",
+      "score": 4.0,
+      "published_utc": "2026-09-23T17:15:32+00:00"
     }
   },
   "digest_queue": [
@@ -11696,6 +11720,42 @@
       "day_brt": "2026-09-23",
       "resumo_pt": "Resumo (PT-BR): 2 min read Shannon Lucid’s Record-Setting Mission Aboard Mir NASA History Office NASA History Office Sep 23, 2026 Image Article Astronaut Shannon W. Lucid checked on wheat plants aboard Russia’s Mir Space Station on Sept.",
       "queued_ts": 1790182782
+    },
+    {
+      "fp": "c961bdd7f592a3fbeae37b00",
+      "title": "NASA Aircraft to Make Low-Altitude Research Flights Over Colorado",
+      "link": "https://www.nasa.gov/general/nasa-aircraft-to-make-low-altitude-research-flights-over-colorado/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-23T19:03:03+00:00",
+      "day_brt": "2026-09-23",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA Aircraft to Make Low-Altitude Research Flights Over Colorado Gianine Figliozzi Sep 23, 2026 Article A photo of the Dynamic Aviation A200 aircraft, which will conduct low-flying research flights over farmland near Greeley, Colorado, to measure emissions in October 2026. Dynamic Aviation Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems.",
+      "queued_ts": 1790193494
+    },
+    {
+      "fp": "0d761b492845329546dc40b5",
+      "title": "NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova",
+      "link": "https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-23T18:43:43+00:00",
+      "day_brt": "2026-09-23",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova HQ Web Team Sep 23, 2026 Image Article An image from NASA’s Hubble Space Telescope of galaxy cluster MACS J0417 is part of repeated observations to monitor for the reappearance of supernova Athena, which can help astronomers measure the expansion rate of the universe. DePasquale (STScI) NASA’s Hubble Space Telescope captured this image of massive galaxy cluster MACS J0417 (left of center) on Sept.",
+      "queued_ts": 1790193494
+    },
+    {
+      "fp": "da4881cc4db573a114ba4ce2",
+      "title": "Arctic Sea Ice Reaches 2026 Annual Minimum Extent",
+      "link": "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-23T17:15:32+00:00",
+      "day_brt": "2026-09-23",
+      "resumo_pt": "Resumo (PT-BR): 3 min read Arctic Sea Ice Reaches 2026 Annual Minimum Extent James Riordon Senior Science Writer Sep 23, 2026 Article Daily images of ice cover in the Arctic Ocean show sea ice melting around the pole from March 15, 2026 to Sept. Trent Schindler/NASA’s Scientific Visualization Studio Arctic sea ice reached its annual minimum extent on Sept.",
+      "queued_ts": 1790193494
     }
   ],
   "digests_sent": {
@@ -12336,7 +12396,10 @@
       "2b4eec411641d79c64b2be85": true,
       "0673b6d084acd7d3104d451d": true,
       "0015862770f0337c4bab84e9": true,
-      "a5c6ed7fef8b9ce8b9e89037": true
+      "a5c6ed7fef8b9ce8b9e89037": true,
+      "c961bdd7f592a3fbeae37b00": true,
+      "0d761b492845329546dc40b5": true,
+      "da4881cc4db573a114ba4ce2": true
     }
   }
 }
