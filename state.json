@@ -11082,6 +11082,46 @@
       "link": "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/",
       "score": 4.0,
       "published_utc": "2026-09-23T17:15:32+00:00"
+    },
+    "c411f5951bf2614920baeae9": {
+      "ts": 1790203112,
+      "source": "NASA Breaking News",
+      "title": "NASA Modernizes Commercial Airline Systems",
+      "link": "https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/",
+      "score": 6.0,
+      "published_utc": "2026-09-23T22:08:54+00:00"
+    },
+    "e58aeecbdd7a6f690a972510": {
+      "ts": 1790203112,
+      "source": "NASA Breaking News",
+      "title": "NASA Welcomes Croatia as Newest Artemis Accords Signatory",
+      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/",
+      "score": 4.0,
+      "published_utc": "2026-09-23T20:37:19+00:00"
+    },
+    "d96fa3da9fec494544145a74": {
+      "ts": 1790203112,
+      "source": "NASA Breaking News",
+      "title": "NASA Selects Far-Infrared Telescope as First in New Mission Class",
+      "link": "https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
+      "score": 4.0,
+      "published_utc": "2026-09-23T20:09:42+00:00"
+    },
+    "c15b74202414a0672e6ca7cb": {
+      "ts": 1790203113,
+      "source": "Spaceflight Now",
+      "title": "SpaceX stack Starship and Super Heavy for first orbital flight",
+      "link": "https://spaceflightnow.com/2026/09/23/spacex-stack-starship-and-super-heavy-for-first-orbital-flight/",
+      "score": 3.6,
+      "published_utc": "2026-09-23T21:47:00+00:00"
+    },
+    "e6ee4299e1beb58a3540c166": {
+      "ts": 1790203114,
+      "source": "NASASpaceflight",
+      "title": "Ship 41 and Booster 21 head into key pre-flight test",
+      "link": "https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/",
+      "score": 3.6,
+      "published_utc": "2026-09-23T21:21:24+00:00"
     }
   },
   "digest_queue": [
@@ -11756,6 +11796,66 @@
       "day_brt": "2026-09-23",
       "resumo_pt": "Resumo (PT-BR): 3 min read Arctic Sea Ice Reaches 2026 Annual Minimum Extent James Riordon Senior Science Writer Sep 23, 2026 Article Daily images of ice cover in the Arctic Ocean show sea ice melting around the pole from March 15, 2026 to Sept. Trent Schindler/NASA’s Scientific Visualization Studio Arctic sea ice reached its annual minimum extent on Sept.",
       "queued_ts": 1790193494
+    },
+    {
+      "fp": "c411f5951bf2614920baeae9",
+      "title": "NASA Modernizes Commercial Airline Systems",
+      "link": "https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/",
+      "source": "NASA Breaking News",
+      "score": 6.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-23T22:08:54+00:00",
+      "day_brt": "2026-09-23",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA Modernizes Commercial Airline Systems Tara Friesen Ames Research Center Teresa Whiting NASA Armstrong Public Affairs Specialist Sep 23, 2026 Article Testing at NASA’s Ames Research Center in California’s Silicon Valley in March 2026 demonstrated autonomous technology that could identify an incursion – a vehicle, wayward suitcase, or other runway obstacle that could impact an aircraft’s safe landing. NASA/Brandon Torres-Navarrete NASA’s researchers know that when you settle into your seat on a commercial flight, you expect a smooth takeoff, views over the clouds, a steady descent, and hopefully an early arrival at your destination.",
+      "queued_ts": 1790203116
+    },
+    {
+      "fp": "e58aeecbdd7a6f690a972510",
+      "title": "NASA Welcomes Croatia as Newest Artemis Accords Signatory",
+      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-23T20:37:19+00:00",
+      "day_brt": "2026-09-23",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Welcomes Croatia as Newest Artemis Accords Signatory Elizabeth Shaw Sep 23, 2026 Article Credit: NASA The Republic of Croatia became the 74th signatory to the Artemis Accords on Wednesday during a ceremony in the capital city of Zagreb with NASA and U.S. “It is my privilege to welcome the Republic of Croatia as the latest signatory of the Artemis Accords,” said NASA Deputy Matt Anderson in pre-recorded remarks during the ceremony.",
+      "queued_ts": 1790203116
+    },
+    {
+      "fp": "d96fa3da9fec494544145a74",
+      "title": "NASA Selects Far-Infrared Telescope as First in New Mission Class",
+      "link": "https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-23T20:09:42+00:00",
+      "day_brt": "2026-09-23",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA Selects Far-Infrared Telescope as First in New Mission Class Jessica Taveau Sep 23, 2026 RELEASE 26-076 NASA Headquarters Credit: NASA NASA announced Wednesday a mission to explore the history and evolution of the universe, PRIMA (PRobe far-Infrared Mission for Astrophysics), is advancing to the next phase of development. This space telescope is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program.",
+      "queued_ts": 1790203116
+    },
+    {
+      "fp": "c15b74202414a0672e6ca7cb",
+      "title": "SpaceX stack Starship and Super Heavy for first orbital flight",
+      "link": "https://spaceflightnow.com/2026/09/23/spacex-stack-starship-and-super-heavy-for-first-orbital-flight/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-09-23T21:47:00+00:00",
+      "day_brt": "2026-09-23",
+      "resumo_pt": "Resumo (PT-BR): SpaceX stack Starship and Super Heavy for first orbital flight September 23, 2026 Will Robinson-Smith SpaceX’s Starship-Super Heavy rocket stacked at Pad 2 at Starbase, Texas, ahead of the Starship Flight 14 mission. Image: SpaceX via video SpaceX assembled a Starship-Super Heavy rocket on the launch pad at Starbase in south Texas early Wednesday as it awaited approval for the vehicle’s first orbital flight.",
+      "queued_ts": 1790203116
+    },
+    {
+      "fp": "e6ee4299e1beb58a3540c166",
+      "title": "Ship 41 and Booster 21 head into key pre-flight test",
+      "link": "https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-09-23T21:21:24+00:00",
+      "day_brt": "2026-09-23",
+      "resumo_pt": "Resumo (PT-BR): Ship 41 and Booster 21 head into key pre-flight test by Ryan Weber September 23, 2026 written by Ryan Weber September 23, 2026 2 With Booster 21 and Ship 41 stacked at the launch site as of early morning Sept. 23, SpaceX is poised to perform a Wet Dress Rehearsal (WDR) no earlier than Sept.",
+      "queued_ts": 1790203116
     }
   ],
   "digests_sent": {
@@ -12399,7 +12499,10 @@
       "a5c6ed7fef8b9ce8b9e89037": true,
       "c961bdd7f592a3fbeae37b00": true,
       "0d761b492845329546dc40b5": true,
-      "da4881cc4db573a114ba4ce2": true
+      "da4881cc4db573a114ba4ce2": true,
+      "c411f5951bf2614920baeae9": true,
+      "e58aeecbdd7a6f690a972510": true,
+      "d96fa3da9fec494544145a74": true
     }
   }
 }
