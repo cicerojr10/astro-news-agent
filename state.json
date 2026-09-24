@@ -11146,6 +11146,30 @@
       "link": "https://www.nasaspaceflight.com/2026/09/starfish-spaces-otter-transporter-18/",
       "score": 3.6,
       "published_utc": "2026-09-24T13:00:13+00:00"
+    },
+    "5254fdde9391ea44962e8879": {
+      "ts": 1790277575,
+      "source": "NASA Breaking News",
+      "title": "NASA Unveils Winning Designs for Mars Space Food Systems Challenge",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/",
+      "score": 4.0,
+      "published_utc": "2026-09-24T18:01:45+00:00"
+    },
+    "be556a5f8c752176d853570f": {
+      "ts": 1790277575,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Machines for Mars Make Beer Bubbly",
+      "link": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/",
+      "score": 4.0,
+      "published_utc": "2026-09-24T16:41:01+00:00"
+    },
+    "876de48b823a903cc6ee4601": {
+      "ts": 1790277575,
+      "source": "NASA Breaking News",
+      "title": "US-India Satellite Captures Time-lapse Video of Volcanic Eruption",
+      "link": "https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/",
+      "score": 4.0,
+      "published_utc": "2026-09-24T15:47:17+00:00"
     }
   },
   "digest_queue": [
@@ -11772,6 +11796,42 @@
       "day_brt": "2026-09-24",
       "resumo_pt": "Resumo (PT-BR): Starfish Space’s first Otter servicing vehicle slated for Transporter-18 by Chris Bergin September 24, 2026 written by Chris Bergin September 24, 2026 1 Starfish Space has confirmed that its first full-scale Otter satellite servicing vehicle is complete and assigned to a customer mission, marking the Seattle-area company’s shift from technology demonstrations to operational service. The spacecraft is scheduled to launch no earlier than October 2026 on SpaceX’s Transporter-18 rideshare, a dedicated Falcon 9 mission to sun-synchronous orbit from Vandenberg Space Force Base.",
       "queued_ts": 1790263236
+    },
+    {
+      "fp": "5254fdde9391ea44962e8879",
+      "title": "NASA Unveils Winning Designs for Mars Space Food Systems Challenge",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-24T18:01:45+00:00",
+      "day_brt": "2026-09-24",
+      "resumo_pt": "Resumo (PT-BR): 5 min read NASA Unveils Winning Designs for Mars Space Food Systems Challenge Bailey G. Light Sep 24, 2026 Article NASA announced the winners of the Deep Space Food Challenge: Mars to Table Thursday, with the top $300,000 prize being awarded to Chinyere Ukeje of Philadelphia, Pa.",
+      "queued_ts": 1790277578
+    },
+    {
+      "fp": "be556a5f8c752176d853570f",
+      "title": "NASA’s Machines for Mars Make Beer Bubbly",
+      "link": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-24T16:41:01+00:00",
+      "day_brt": "2026-09-24",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA’s Machines for Mars Make Beer Bubbly Mike DiCicco Science Writer Sep 24, 2026 Article A brewer makes adjustments to the Earthly Labs carbon-capture unit, which purifies carbon dioxide from the beer brewing process for use in carbonation. In 2021, Maine Beer Company’s carbon dioxide supplier ran short on carbon dioxide.",
+      "queued_ts": 1790277578
+    },
+    {
+      "fp": "876de48b823a903cc6ee4601",
+      "title": "US-India Satellite Captures Time-lapse Video of Volcanic Eruption",
+      "link": "https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-24T15:47:17+00:00",
+      "day_brt": "2026-09-24",
+      "resumo_pt": "Resumo (PT-BR): 5 min read US-India Satellite Captures Time-lapse Video of Volcanic Eruption Jet Propulsion Laboratory Sep 24, 2026 Article Contents Images from microwaves More about NISAR In this animation, frames of NISAR data from December 2025 to August 2026 show the spread of lava from the northern crater of Krasheninnikov, a volcano pair on Russia’s Kamchatka Peninsula. In the image, the lava field appears brighter in the foreground than the surrounding surfaces.",
+      "queued_ts": 1790277578
     }
   ],
   "digests_sent": {
@@ -12393,7 +12453,10 @@
     "2026-09-24": {
       "1b9cd311c6d9a146a6bd322e": true,
       "38f7bbf985d96dbddbbae102": true,
-      "a0ae297a46cdec8ef04348b6": true
+      "a0ae297a46cdec8ef04348b6": true,
+      "5254fdde9391ea44962e8879": true,
+      "be556a5f8c752176d853570f": true,
+      "876de48b823a903cc6ee4601": true
     }
   }
 }
