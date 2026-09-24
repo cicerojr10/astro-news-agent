@@ -11122,6 +11122,14 @@
       "link": "https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/",
       "score": 3.6,
       "published_utc": "2026-09-23T21:21:24+00:00"
+    },
+    "1b9cd311c6d9a146a6bd322e": {
+      "ts": 1790228094,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 September 24 – The Ghosts of Five Supernovas",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/",
+      "score": 4.0,
+      "published_utc": "2026-09-24T04:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -11712,6 +11720,18 @@
       "day_brt": "2026-09-15",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Ames Stars of the Month: September 2026 Aaron McKinnon Sep 15, 2026 Article Contents Space Biosciences Star: Steve Ormsby Space Biosciences Star: Aphrodite Kostakis Astrophysics Star: Alejandro Borlaff Astrophysics Star: Sarah Nickerson Planetary Science and Exobiology Star: Martina Caussi Earth Science Star: Keiko Nomura Earth Science Star: Stephen Broccardo The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
       "queued_ts": 1789520957
+    },
+    {
+      "fp": "1b9cd311c6d9a146a6bd322e",
+      "title": "APOD: 2026 September 24 – The Ghosts of Five Supernovas",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-24T04:05:00+00:00",
+      "day_brt": "2026-09-24",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1790228097
     }
   ],
   "digests_sent": {
@@ -12284,37 +12304,6 @@
     }
   },
   "sent_updates": {
-    "2026-09-14": {
-      "336f0bb058a62b9ba96b18ff": true,
-      "a88cfb5766e53ef1ef32f49f": true,
-      "845336091a86bac2d0e335a1": true,
-      "55b2de433c7ea11d3bb0fa53": true,
-      "634001e6085d3dcca8180ce0": true,
-      "e4cf269a63252dbaa1a6c75d": true,
-      "b1e8508f6a6f1488ccd49a53": true
-    },
-    "2026-09-15": {
-      "ed35d0afbac00fb969ed2f7e": true,
-      "90148d1d2b2cdc9d5d88d6ef": true,
-      "a44bbb3d71ffb6a4e8edcfa0": true,
-      "37c385801c420799f8a0ae1a": true,
-      "dbdb8efabce6bbf8a128b6f2": true,
-      "1e65562f5e3defdf0d3e7915": true
-    },
-    "2026-09-16": {
-      "9ba690c1edf8ea1a3b2a0298": true,
-      "1a4b1627ae1d05e2c116d6b7": true,
-      "35995dffde69ab86639e4f93": true,
-      "aed7672f36f28a4a531c88ff": true,
-      "ac1df5f9fff8301272cd8cbc": true
-    },
-    "2026-09-17": {
-      "efc055d9bb86b182a9a88e24": true,
-      "5397ff7c095a0c73d3e4d943": true,
-      "49d5285dfff62082f3dea783": true,
-      "00adbd4d733fddd3229faf1d": true,
-      "653c7bbb257eaedf36fb7220": true
-    },
     "2026-09-18": {
       "a1c93012bb615926f511de22": true,
       "2ecacfc8358efaf922f21957": true,
@@ -12360,6 +12349,9 @@
       "c411f5951bf2614920baeae9": true,
       "e58aeecbdd7a6f690a972510": true,
       "d96fa3da9fec494544145a74": true
+    },
+    "2026-09-24": {
+      "1b9cd311c6d9a146a6bd322e": true
     }
   }
 }
