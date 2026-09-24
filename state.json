@@ -11170,6 +11170,30 @@
       "link": "https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/",
       "score": 4.0,
       "published_utc": "2026-09-24T15:47:17+00:00"
+    },
+    "2343ce1f01978a3d814e8262": {
+      "ts": 1790288931,
+      "source": "NASA Breaking News",
+      "title": "NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory",
+      "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/",
+      "score": 4.0,
+      "published_utc": "2026-09-24T21:27:17+00:00"
+    },
+    "bb7f58a22743c952f6ae21e6": {
+      "ts": 1790288931,
+      "source": "NASA Breaking News",
+      "title": "NASA Shares SpaceX Crew-14 Assignments for Space Station Mission",
+      "link": "https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/",
+      "score": 4.0,
+      "published_utc": "2026-09-24T21:15:46+00:00"
+    },
+    "c655216e666be9664f117446": {
+      "ts": 1790288933,
+      "source": "NASASpaceflight",
+      "title": "Expedition 75 astronauts continue science work as Crew-13 readies for launch",
+      "link": "https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/",
+      "score": 3.6,
+      "published_utc": "2026-09-24T22:06:28+00:00"
     }
   },
   "digest_queue": [
@@ -11832,6 +11856,42 @@
       "day_brt": "2026-09-24",
       "resumo_pt": "Resumo (PT-BR): 5 min read US-India Satellite Captures Time-lapse Video of Volcanic Eruption Jet Propulsion Laboratory Sep 24, 2026 Article Contents Images from microwaves More about NISAR In this animation, frames of NISAR data from December 2025 to August 2026 show the spread of lava from the northern crater of Krasheninnikov, a volcano pair on Russia’s Kamchatka Peninsula. In the image, the lava field appears brighter in the foreground than the surrounding surfaces.",
       "queued_ts": 1790277578
+    },
+    {
+      "fp": "2343ce1f01978a3d814e8262",
+      "title": "NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory",
+      "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-24T21:27:17+00:00",
+      "day_brt": "2026-09-24",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory Jennifer M. Dooren Sep 24, 2026 Article Credit: NASA Côte d’Ivoire signed the Artemis Accords on Thursday as the 75th signatory during a signing ceremony in the nation’s largest city Abidjan, marking the largest milestone yet for the international coalition of like-minded countries committed to peaceful and responsible space exploration.",
+      "queued_ts": 1790288935
+    },
+    {
+      "fp": "bb7f58a22743c952f6ae21e6",
+      "title": "NASA Shares SpaceX Crew-14 Assignments for Space Station Mission",
+      "link": "https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-24T21:15:46+00:00",
+      "day_brt": "2026-09-24",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA Shares SpaceX Crew-14 Assignments for Space Station Mission Lauren E. Low Sep 24, 2026 RELEASE 26-077 NASA Headquarters Johnson Space Center NASA’s SpaceX Crew-14 crew members during preflight training at SpaceX’s facility in Hawthorne, California (from left, Roscosmos cosmonaut Arutyun Kiviryan, NASA astronaut Chris Birch, NASA astronaut Kayla Barron, and JAXA (Japan Aerospace Exploration Agency) astronaut Makoto Suwa).",
+      "queued_ts": 1790288935
+    },
+    {
+      "fp": "c655216e666be9664f117446",
+      "title": "Expedition 75 astronauts continue science work as Crew-13 readies for launch",
+      "link": "https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-09-24T22:06:28+00:00",
+      "day_brt": "2026-09-24",
+      "resumo_pt": "Resumo (PT-BR): Expedition 75 astronauts continue science work as Crew-13 readies for launch by Justin Davenport September 24, 2026 written by Justin Davenport September 24, 2026 1 AS the International Space Station continues to orbit Earth as it has for over a quarter of a century, the Expedition 75 astronauts aboard have been busy performing science and maintenance tasks, and preparing for new arrivals and a crew handover early next month. Just before the end of August, the Cygnus XL cargo ship S.S.",
+      "queued_ts": 1790288935
     }
   ],
   "digests_sent": {
@@ -12456,7 +12516,10 @@
       "a0ae297a46cdec8ef04348b6": true,
       "5254fdde9391ea44962e8879": true,
       "be556a5f8c752176d853570f": true,
-      "876de48b823a903cc6ee4601": true
+      "876de48b823a903cc6ee4601": true,
+      "2343ce1f01978a3d814e8262": true,
+      "bb7f58a22743c952f6ae21e6": true,
+      "c655216e666be9664f117446": true
     }
   }
 }
