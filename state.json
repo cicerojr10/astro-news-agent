@@ -11130,6 +11130,22 @@
       "link": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/",
       "score": 4.0,
       "published_utc": "2026-09-24T04:05:00+00:00"
+    },
+    "38f7bbf985d96dbddbbae102": {
+      "ts": 1790263233,
+      "source": "NASA Breaking News",
+      "title": "NASA to Study Human Health, Performance During Crew-13 Mission",
+      "link": "https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission/",
+      "score": 4.0,
+      "published_utc": "2026-09-24T13:53:48+00:00"
+    },
+    "a0ae297a46cdec8ef04348b6": {
+      "ts": 1790263235,
+      "source": "NASASpaceflight",
+      "title": "Starfish Space’s first Otter servicing vehicle slated for Transporter-18",
+      "link": "https://www.nasaspaceflight.com/2026/09/starfish-spaces-otter-transporter-18/",
+      "score": 3.6,
+      "published_utc": "2026-09-24T13:00:13+00:00"
     }
   },
   "digest_queue": [
@@ -11732,6 +11748,30 @@
       "day_brt": "2026-09-24",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1790228097
+    },
+    {
+      "fp": "38f7bbf985d96dbddbbae102",
+      "title": "NASA to Study Human Health, Performance During Crew-13 Mission",
+      "link": "https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-24T13:53:48+00:00",
+      "day_brt": "2026-09-24",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA to Study Human Health, Performance During Crew-13 Mission Monica Edwards Sep 24, 2026 Article (April 30, 2026) — The SpaceX Crew-13 members are pictured in their pressure suits seated inside a mockup Dragon spacecraft during a preflight training session at the company’s headquarters in Hawthorne, California. From left are, Roscosmos Sergey Teteryatnikov, NASA astronauts Luke Delaney and Jessica Watkins, and CSA (Canadian Space Agency) astronaut Joshua Kutryk.",
+      "queued_ts": 1790263236
+    },
+    {
+      "fp": "a0ae297a46cdec8ef04348b6",
+      "title": "Starfish Space’s first Otter servicing vehicle slated for Transporter-18",
+      "link": "https://www.nasaspaceflight.com/2026/09/starfish-spaces-otter-transporter-18/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-09-24T13:00:13+00:00",
+      "day_brt": "2026-09-24",
+      "resumo_pt": "Resumo (PT-BR): Starfish Space’s first Otter servicing vehicle slated for Transporter-18 by Chris Bergin September 24, 2026 written by Chris Bergin September 24, 2026 1 Starfish Space has confirmed that its first full-scale Otter satellite servicing vehicle is complete and assigned to a customer mission, marking the Seattle-area company’s shift from technology demonstrations to operational service. The spacecraft is scheduled to launch no earlier than October 2026 on SpaceX’s Transporter-18 rideshare, a dedicated Falcon 9 mission to sun-synchronous orbit from Vandenberg Space Force Base.",
+      "queued_ts": 1790263236
     }
   ],
   "digests_sent": {
@@ -12351,7 +12391,9 @@
       "d96fa3da9fec494544145a74": true
     },
     "2026-09-24": {
-      "1b9cd311c6d9a146a6bd322e": true
+      "1b9cd311c6d9a146a6bd322e": true,
+      "38f7bbf985d96dbddbbae102": true,
+      "a0ae297a46cdec8ef04348b6": true
     }
   }
 }
