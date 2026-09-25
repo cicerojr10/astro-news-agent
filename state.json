@@ -11243,6 +11243,30 @@
       "link": "https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/",
       "score": 4.0,
       "published_utc": "2026-09-25T15:54:10+00:00"
+    },
+    "806b5b36ee89aa8b1c7cff57": {
+      "ts": 1790375084,
+      "source": "NASA Breaking News",
+      "title": "NASA Welcomes San Marino Signing the Artemis Accords",
+      "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/",
+      "score": 4.0,
+      "published_utc": "2026-09-25T19:53:03+00:00"
+    },
+    "00cd8bec8abfbdc40d50297d": {
+      "ts": 1790375084,
+      "source": "NASA Breaking News",
+      "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
+      "link": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
+      "score": 4.0,
+      "published_utc": "2026-09-25T19:36:10+00:00"
+    },
+    "0cec7e9e8a72e377765e769b": {
+      "ts": 1790375086,
+      "source": "Spaceflight Now",
+      "title": "SpaceX Falcon 9 to launch classified mission for U.S. Space Force from West Coast",
+      "link": "https://spaceflightnow.com/2026/09/25/spacex-falcon-9-to-launch-classified-mission-for-u-s-space-force-from-west-coast/",
+      "score": 3.6,
+      "published_utc": "2026-09-25T20:26:14+00:00"
     }
   },
   "digest_queue": [
@@ -11893,6 +11917,42 @@
       "day_brt": "2026-09-25",
       "resumo_pt": "Resumo (PT-BR): 1 min read Hubble Spots Chaotic Secret in Galaxy HQ Web Team Sep 25, 2026 Image Article ESA/Hubble & NASA, D. Thilker, the MAUVE-HST Team A chaotic secret hides within this seemingly serene image of spiral galaxy NGC 4698 taken by NASA’s Hubble Space Telescope and released on Sept.",
       "queued_ts": 1790363871
+    },
+    {
+      "fp": "806b5b36ee89aa8b1c7cff57",
+      "title": "NASA Welcomes San Marino Signing the Artemis Accords",
+      "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-25T19:53:03+00:00",
+      "day_brt": "2026-09-25",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Welcomes San Marino Signing the Artemis Accords Elizabeth Shaw Sep 25, 2026 Article Minister of Industry and Technological Research Rossano Fabbri signed on behalf of San Marino. Consul General in Florence Joseph Tordella participated in the event on Friday, Sept.",
+      "queued_ts": 1790375089
+    },
+    {
+      "fp": "00cd8bec8abfbdc40d50297d",
+      "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
+      "link": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-25T19:36:10+00:00",
+      "day_brt": "2026-09-25",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch Joel Wallace Public Affairs Officer Sep 25, 2026 Article Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical tests on a new small satellite designed to make spaceflight safer and more efficient.",
+      "queued_ts": 1790375089
+    },
+    {
+      "fp": "0cec7e9e8a72e377765e769b",
+      "title": "SpaceX Falcon 9 to launch classified mission for U.S. Space Force from West Coast",
+      "link": "https://spaceflightnow.com/2026/09/25/spacex-falcon-9-to-launch-classified-mission-for-u-s-space-force-from-west-coast/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-09-25T20:26:14+00:00",
+      "day_brt": "2026-09-25",
+      "resumo_pt": "Resumo (PT-BR): Space Force from West Coast September 25, 2026 Steven Young File photo of a Falcon 9 at Space Launch Complex 4-East at Vandenberg Space Force Base in California. military satellite constellation before dawn on Saturday from Vandenberg Space Force Base in California.",
+      "queued_ts": 1790375089
     }
   ],
   "digests_sent": {
@@ -12530,7 +12590,10 @@
       "a2c4bb9b9df6557082fd991a": true,
       "b7c1420d93b00b6e1b8f3eca": true,
       "dffcfc200ab1129e2256c824": true,
-      "9357554b246038b63c84790e": true
+      "9357554b246038b63c84790e": true,
+      "806b5b36ee89aa8b1c7cff57": true,
+      "00cd8bec8abfbdc40d50297d": true,
+      "0cec7e9e8a72e377765e769b": true
     }
   }
 }
