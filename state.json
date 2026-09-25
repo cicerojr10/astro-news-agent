@@ -11211,6 +11211,14 @@
       "link": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/",
       "score": 4.0,
       "published_utc": "2026-09-25T04:05:00+00:00"
+    },
+    "a2c4bb9b9df6557082fd991a": {
+      "ts": 1790350587,
+      "source": "NASA Breaking News",
+      "title": "TB 26-07 Aluminum Alloy 2219 Material Guidance",
+      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/",
+      "score": 4.0,
+      "published_utc": "2026-09-25T14:45:51+00:00"
     }
   },
   "digest_queue": [
@@ -11813,6 +11821,18 @@
       "day_brt": "2026-09-25",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1790331543
+    },
+    {
+      "fp": "a2c4bb9b9df6557082fd991a",
+      "title": "TB 26-07 Aluminum Alloy 2219 Material Guidance",
+      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-25T14:45:51+00:00",
+      "day_brt": "2026-09-25",
+      "resumo_pt": "Resumo (PT-BR): 4 min read TB 26-07 Aluminum Alloy 2219 Material Guidance Meagan Chappell Sep 25, 2026 Article For more information, contact Donald S. Parker, Kennedy Space Center, donald.s.parker@nasa.gov Download the PDF version Improper casting and forging processes in the manufacture of aluminum alloy 2219 can lead to microstructural defects that result in a sub-optimal response to anodic surface treatments and an increase in corrosion susceptibility.",
+      "queued_ts": 1790350590
     }
   ],
   "digests_sent": {
@@ -12446,7 +12466,8 @@
       "c655216e666be9664f117446": true
     },
     "2026-09-25": {
-      "f12df9500d69755a28d6058b": true
+      "f12df9500d69755a28d6058b": true,
+      "a2c4bb9b9df6557082fd991a": true
     }
   }
 }
