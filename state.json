@@ -11219,6 +11219,30 @@
       "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/",
       "score": 4.0,
       "published_utc": "2026-09-25T14:45:51+00:00"
+    },
+    "b7c1420d93b00b6e1b8f3eca": {
+      "ts": 1790363867,
+      "source": "NASA Breaking News",
+      "title": "2026-2027 DWU: Middle School Design Challenge",
+      "link": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/",
+      "score": 4.0,
+      "published_utc": "2026-09-25T17:20:51+00:00"
+    },
+    "dffcfc200ab1129e2256c824": {
+      "ts": 1790363867,
+      "source": "NASA Breaking News",
+      "title": "2026-2027 DWU: High School Engineering Challenge",
+      "link": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/",
+      "score": 4.0,
+      "published_utc": "2026-09-25T17:19:42+00:00"
+    },
+    "9357554b246038b63c84790e": {
+      "ts": 1790363867,
+      "source": "NASA Breaking News",
+      "title": "Hubble Spots Chaotic Secret in Galaxy",
+      "link": "https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/",
+      "score": 4.0,
+      "published_utc": "2026-09-25T15:54:10+00:00"
     }
   },
   "digest_queue": [
@@ -11833,6 +11857,42 @@
       "day_brt": "2026-09-25",
       "resumo_pt": "Resumo (PT-BR): 4 min read TB 26-07 Aluminum Alloy 2219 Material Guidance Meagan Chappell Sep 25, 2026 Article For more information, contact Donald S. Parker, Kennedy Space Center, donald.s.parker@nasa.gov Download the PDF version Improper casting and forging processes in the manufacture of aluminum alloy 2219 can lead to microstructural defects that result in a sub-optimal response to anodic surface treatments and an increase in corrosion susceptibility.",
       "queued_ts": 1790350590
+    },
+    {
+      "fp": "b7c1420d93b00b6e1b8f3eca",
+      "title": "2026-2027 DWU: Middle School Design Challenge",
+      "link": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-25T17:20:51+00:00",
+      "day_brt": "2026-09-25",
+      "resumo_pt": "Resumo (PT-BR): 10 min read 2026-2027 DWU: Middle School Design Challenge April Lanotte Senior Workforce Dev & Stakeholder Specialist Sep 25, 2026 Article Contents 2026-2027 DWU: Middle School Design Challenge Overview Challenge Description Challenge Rules Use of AI Grade Eligibility Dates Key Dates Challenge Rules Requirements Technical Category Requirements Creative Product Submitting Entries Challenge Resources Judging and Criteria Mid-Point Check-In 2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, make flight more affordable, find new fuels for aircraft, and reduce the amount of time passengers and cargo spend in the air. This year’s Dream with Us Challenge focuses on new aircraft fuels and how even the addition of one new fuel will change both the aircraft they are used in and the airports where aircraft take off and land.",
+      "queued_ts": 1790363871
+    },
+    {
+      "fp": "dffcfc200ab1129e2256c824",
+      "title": "2026-2027 DWU: High School Engineering Challenge",
+      "link": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-25T17:19:42+00:00",
+      "day_brt": "2026-09-25",
+      "resumo_pt": "Resumo (PT-BR): 9 min read 2026-2027 DWU: High School Engineering Challenge April Lanotte Senior Workforce Dev & Stakeholder Specialist Sep 25, 2026 Article Contents 2026-2027 DWU: High School Engineering Challenge Challenge Materials Overview Scenario Challenge Rules Use of AI Engineering Design Notebook Resources Important Dates and Deadlines Submitting Entries Judging and Criteria Mid-Point Check-In 2026-2027 DWU: High School Engineering Challenge Challenge Materials Engineering Notebook Template Scoring Rubric Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, make flight more affordable, find new fuels for aircraft, and reduce the amount of time passengers and cargo spend in the air. This year’s Dream with Us Challenge focuses on new aircraft fuels and how even the addition of one new fuel will change both the aircraft they are used in and the airports where aircraft take off and land.",
+      "queued_ts": 1790363871
+    },
+    {
+      "fp": "9357554b246038b63c84790e",
+      "title": "Hubble Spots Chaotic Secret in Galaxy",
+      "link": "https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-25T15:54:10+00:00",
+      "day_brt": "2026-09-25",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Hubble Spots Chaotic Secret in Galaxy HQ Web Team Sep 25, 2026 Image Article ESA/Hubble & NASA, D. Thilker, the MAUVE-HST Team A chaotic secret hides within this seemingly serene image of spiral galaxy NGC 4698 taken by NASA’s Hubble Space Telescope and released on Sept.",
+      "queued_ts": 1790363871
     }
   ],
   "digests_sent": {
@@ -12467,7 +12527,10 @@
     },
     "2026-09-25": {
       "f12df9500d69755a28d6058b": true,
-      "a2c4bb9b9df6557082fd991a": true
+      "a2c4bb9b9df6557082fd991a": true,
+      "b7c1420d93b00b6e1b8f3eca": true,
+      "dffcfc200ab1129e2256c824": true,
+      "9357554b246038b63c84790e": true
     }
   }
 }
