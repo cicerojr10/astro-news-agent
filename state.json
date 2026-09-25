@@ -11203,6 +11203,14 @@
       "score": 0.0,
       "published_utc": "2026-09-23T21:21:24+00:00",
       "note": "not_today"
+    },
+    "f12df9500d69755a28d6058b": {
+      "ts": 1790331541,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/",
+      "score": 4.0,
+      "published_utc": "2026-09-25T04:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -11793,6 +11801,18 @@
       "day_brt": "2026-09-15",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Ames Stars of the Month: September 2026 Aaron McKinnon Sep 15, 2026 Article Contents Space Biosciences Star: Steve Ormsby Space Biosciences Star: Aphrodite Kostakis Astrophysics Star: Alejandro Borlaff Astrophysics Star: Sarah Nickerson Planetary Science and Exobiology Star: Martina Caussi Earth Science Star: Keiko Nomura Earth Science Star: Stephen Broccardo The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
       "queued_ts": 1789520957
+    },
+    {
+      "fp": "f12df9500d69755a28d6058b",
+      "title": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-25T04:05:00+00:00",
+      "day_brt": "2026-09-25",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1790331543
     }
   ],
   "digests_sent": {
@@ -12424,6 +12444,9 @@
       "2343ce1f01978a3d814e8262": true,
       "bb7f58a22743c952f6ae21e6": true,
       "c655216e666be9664f117446": true
+    },
+    "2026-09-25": {
+      "f12df9500d69755a28d6058b": true
     }
   }
 }
