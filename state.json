@@ -11194,6 +11194,15 @@
       "link": "https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/",
       "score": 3.6,
       "published_utc": "2026-09-24T22:06:28+00:00"
+    },
+    "95794d90e93119c78671e441": {
+      "ts": 1790296772,
+      "source": "NASASpaceflight",
+      "title": "Ship 41 and Booster 21 complete key pre-flight test",
+      "link": "https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/",
+      "score": 0.0,
+      "published_utc": "2026-09-23T21:21:24+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -11784,114 +11793,6 @@
       "day_brt": "2026-09-15",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Ames Stars of the Month: September 2026 Aaron McKinnon Sep 15, 2026 Article Contents Space Biosciences Star: Steve Ormsby Space Biosciences Star: Aphrodite Kostakis Astrophysics Star: Alejandro Borlaff Astrophysics Star: Sarah Nickerson Planetary Science and Exobiology Star: Martina Caussi Earth Science Star: Keiko Nomura Earth Science Star: Stephen Broccardo The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
       "queued_ts": 1789520957
-    },
-    {
-      "fp": "1b9cd311c6d9a146a6bd322e",
-      "title": "APOD: 2026 September 24 – The Ghosts of Five Supernovas",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-24T04:05:00+00:00",
-      "day_brt": "2026-09-24",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1790228097
-    },
-    {
-      "fp": "38f7bbf985d96dbddbbae102",
-      "title": "NASA to Study Human Health, Performance During Crew-13 Mission",
-      "link": "https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-24T13:53:48+00:00",
-      "day_brt": "2026-09-24",
-      "resumo_pt": "Resumo (PT-BR): 4 min read NASA to Study Human Health, Performance During Crew-13 Mission Monica Edwards Sep 24, 2026 Article (April 30, 2026) — The SpaceX Crew-13 members are pictured in their pressure suits seated inside a mockup Dragon spacecraft during a preflight training session at the company’s headquarters in Hawthorne, California. From left are, Roscosmos Sergey Teteryatnikov, NASA astronauts Luke Delaney and Jessica Watkins, and CSA (Canadian Space Agency) astronaut Joshua Kutryk.",
-      "queued_ts": 1790263236
-    },
-    {
-      "fp": "a0ae297a46cdec8ef04348b6",
-      "title": "Starfish Space’s first Otter servicing vehicle slated for Transporter-18",
-      "link": "https://www.nasaspaceflight.com/2026/09/starfish-spaces-otter-transporter-18/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-09-24T13:00:13+00:00",
-      "day_brt": "2026-09-24",
-      "resumo_pt": "Resumo (PT-BR): Starfish Space’s first Otter servicing vehicle slated for Transporter-18 by Chris Bergin September 24, 2026 written by Chris Bergin September 24, 2026 1 Starfish Space has confirmed that its first full-scale Otter satellite servicing vehicle is complete and assigned to a customer mission, marking the Seattle-area company’s shift from technology demonstrations to operational service. The spacecraft is scheduled to launch no earlier than October 2026 on SpaceX’s Transporter-18 rideshare, a dedicated Falcon 9 mission to sun-synchronous orbit from Vandenberg Space Force Base.",
-      "queued_ts": 1790263236
-    },
-    {
-      "fp": "5254fdde9391ea44962e8879",
-      "title": "NASA Unveils Winning Designs for Mars Space Food Systems Challenge",
-      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-24T18:01:45+00:00",
-      "day_brt": "2026-09-24",
-      "resumo_pt": "Resumo (PT-BR): 5 min read NASA Unveils Winning Designs for Mars Space Food Systems Challenge Bailey G. Light Sep 24, 2026 Article NASA announced the winners of the Deep Space Food Challenge: Mars to Table Thursday, with the top $300,000 prize being awarded to Chinyere Ukeje of Philadelphia, Pa.",
-      "queued_ts": 1790277578
-    },
-    {
-      "fp": "be556a5f8c752176d853570f",
-      "title": "NASA’s Machines for Mars Make Beer Bubbly",
-      "link": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-24T16:41:01+00:00",
-      "day_brt": "2026-09-24",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA’s Machines for Mars Make Beer Bubbly Mike DiCicco Science Writer Sep 24, 2026 Article A brewer makes adjustments to the Earthly Labs carbon-capture unit, which purifies carbon dioxide from the beer brewing process for use in carbonation. In 2021, Maine Beer Company’s carbon dioxide supplier ran short on carbon dioxide.",
-      "queued_ts": 1790277578
-    },
-    {
-      "fp": "876de48b823a903cc6ee4601",
-      "title": "US-India Satellite Captures Time-lapse Video of Volcanic Eruption",
-      "link": "https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-24T15:47:17+00:00",
-      "day_brt": "2026-09-24",
-      "resumo_pt": "Resumo (PT-BR): 5 min read US-India Satellite Captures Time-lapse Video of Volcanic Eruption Jet Propulsion Laboratory Sep 24, 2026 Article Contents Images from microwaves More about NISAR In this animation, frames of NISAR data from December 2025 to August 2026 show the spread of lava from the northern crater of Krasheninnikov, a volcano pair on Russia’s Kamchatka Peninsula. In the image, the lava field appears brighter in the foreground than the surrounding surfaces.",
-      "queued_ts": 1790277578
-    },
-    {
-      "fp": "2343ce1f01978a3d814e8262",
-      "title": "NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory",
-      "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-24T21:27:17+00:00",
-      "day_brt": "2026-09-24",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory Jennifer M. Dooren Sep 24, 2026 Article Credit: NASA Côte d’Ivoire signed the Artemis Accords on Thursday as the 75th signatory during a signing ceremony in the nation’s largest city Abidjan, marking the largest milestone yet for the international coalition of like-minded countries committed to peaceful and responsible space exploration.",
-      "queued_ts": 1790288935
-    },
-    {
-      "fp": "bb7f58a22743c952f6ae21e6",
-      "title": "NASA Shares SpaceX Crew-14 Assignments for Space Station Mission",
-      "link": "https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-09-24T21:15:46+00:00",
-      "day_brt": "2026-09-24",
-      "resumo_pt": "Resumo (PT-BR): 4 min read NASA Shares SpaceX Crew-14 Assignments for Space Station Mission Lauren E. Low Sep 24, 2026 RELEASE 26-077 NASA Headquarters Johnson Space Center NASA’s SpaceX Crew-14 crew members during preflight training at SpaceX’s facility in Hawthorne, California (from left, Roscosmos cosmonaut Arutyun Kiviryan, NASA astronaut Chris Birch, NASA astronaut Kayla Barron, and JAXA (Japan Aerospace Exploration Agency) astronaut Makoto Suwa).",
-      "queued_ts": 1790288935
-    },
-    {
-      "fp": "c655216e666be9664f117446",
-      "title": "Expedition 75 astronauts continue science work as Crew-13 readies for launch",
-      "link": "https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-09-24T22:06:28+00:00",
-      "day_brt": "2026-09-24",
-      "resumo_pt": "Resumo (PT-BR): Expedition 75 astronauts continue science work as Crew-13 readies for launch by Justin Davenport September 24, 2026 written by Justin Davenport September 24, 2026 1 AS the International Space Station continues to orbit Earth as it has for over a quarter of a century, the Expedition 75 astronauts aboard have been busy performing science and maintenance tasks, and preparing for new arrivals and a crew handover early next month. Just before the end of August, the Cygnus XL cargo ship S.S.",
-      "queued_ts": 1790288935
     }
   ],
   "digests_sent": {
@@ -12460,6 +12361,9 @@
     },
     "2026-09-23": {
       "morning": true,
+      "night": true
+    },
+    "2026-09-24": {
       "night": true
     }
   },
