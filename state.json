@@ -11318,6 +11318,14 @@
       "score": 0.0,
       "published_utc": "2026-09-26T04:01:59+00:00",
       "note": "not_today"
+    },
+    "4a931cd4d7ef6adb047f5a09": {
+      "ts": 1790538842,
+      "source": "NASASpaceflight",
+      "title": "Starship Flight 14: SpaceX Attempts Orbit",
+      "link": "https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/",
+      "score": 3.6,
+      "published_utc": "2026-09-27T16:59:56+00:00"
     }
   },
   "digest_queue": [
@@ -11908,6 +11916,18 @@
       "day_brt": "2026-09-15",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Ames Stars of the Month: September 2026 Aaron McKinnon Sep 15, 2026 Article Contents Space Biosciences Star: Steve Ormsby Space Biosciences Star: Aphrodite Kostakis Astrophysics Star: Alejandro Borlaff Astrophysics Star: Sarah Nickerson Planetary Science and Exobiology Star: Martina Caussi Earth Science Star: Keiko Nomura Earth Science Star: Stephen Broccardo The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
       "queued_ts": 1789520957
+    },
+    {
+      "fp": "4a931cd4d7ef6adb047f5a09",
+      "title": "Starship Flight 14: SpaceX Attempts Orbit",
+      "link": "https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-09-27T16:59:56+00:00",
+      "day_brt": "2026-09-27",
+      "resumo_pt": "Resumo (PT-BR): Starship Flight 14: SpaceX Attempts Orbit by Ryan Weber September 27, 2026 written by Ryan Weber September 27, 2026 14 After more than a decade of development in many forms, SpaceX’s Starship is slated to attempt its first orbital mission and deploy Starlink V3 satellites into an operational orbit. This marks a historic mission for the world’s largest and most powerful rocket ever and could help usher in a new era of spaceflight.",
+      "queued_ts": 1790538843
     }
   ],
   "digests_sent": {
@@ -12565,7 +12585,8 @@
       "13e011a2f759bbae6aa49945": true
     },
     "2026-09-27": {
-      "2e2623bb1ad0bc469833964c": true
+      "2e2623bb1ad0bc469833964c": true,
+      "4a931cd4d7ef6adb047f5a09": true
     }
   }
 }
