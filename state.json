@@ -11891,18 +11891,6 @@
       "day_brt": "2026-09-15",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Ames Stars of the Month: September 2026 Aaron McKinnon Sep 15, 2026 Article Contents Space Biosciences Star: Steve Ormsby Space Biosciences Star: Aphrodite Kostakis Astrophysics Star: Alejandro Borlaff Astrophysics Star: Sarah Nickerson Planetary Science and Exobiology Star: Martina Caussi Earth Science Star: Keiko Nomura Earth Science Star: Stephen Broccardo The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
       "queued_ts": 1789520957
-    },
-    {
-      "fp": "13e011a2f759bbae6aa49945",
-      "title": "Next crew bound for the space station arrive in Florida",
-      "link": "https://spaceflightnow.com/2026/09/26/next-crew-bound-for-the-space-station-arrive-in-florida/",
-      "source": "Spaceflight Now",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-09-26T19:36:47+00:00",
-      "day_brt": "2026-09-26",
-      "resumo_pt": "Resumo (PT-BR): Next crew bound for the space station arrive in Florida September 26, 2026 Will Robinson-Smith The four members of NASA’s SpaceX Crew-13 mission arrived onboard T-38 jets at the Kennedy Space Center on Saturday, Sept. Left to right: Canadian Space Agency astronaut Joshua Kutryk, Roscomos cosmonaut Sergey Teteryatnikov, NASA astronaut Jessica Watkins, and NASA astronaut Luke Delaney.",
-      "queued_ts": 1790453754
     }
   ],
   "digests_sent": {
@@ -12480,7 +12468,8 @@
       "night": true
     },
     "2026-09-26": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
