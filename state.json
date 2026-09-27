@@ -11301,6 +11301,23 @@
       "link": "https://spaceflightnow.com/2026/09/26/next-crew-bound-for-the-space-station-arrive-in-florida/",
       "score": 3.6,
       "published_utc": "2026-09-26T19:36:47+00:00"
+    },
+    "2e2623bb1ad0bc469833964c": {
+      "ts": 1790489670,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 September 27 – Andromeda Before and After Photoshop",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/",
+      "score": 4.0,
+      "published_utc": "2026-09-27T04:05:00+00:00"
+    },
+    "24fdca73d13831d642809efc": {
+      "ts": 1790489672,
+      "source": "NASASpaceflight",
+      "title": "Flight 14 approaches as a near-term manifest sketches Starship’s next steps",
+      "link": "https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/",
+      "score": 0.0,
+      "published_utc": "2026-09-26T04:01:59+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -11891,6 +11908,18 @@
       "day_brt": "2026-09-15",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Ames Stars of the Month: September 2026 Aaron McKinnon Sep 15, 2026 Article Contents Space Biosciences Star: Steve Ormsby Space Biosciences Star: Aphrodite Kostakis Astrophysics Star: Alejandro Borlaff Astrophysics Star: Sarah Nickerson Planetary Science and Exobiology Star: Martina Caussi Earth Science Star: Keiko Nomura Earth Science Star: Stephen Broccardo The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
       "queued_ts": 1789520957
+    },
+    {
+      "fp": "2e2623bb1ad0bc469833964c",
+      "title": "APOD: 2026 September 27 – Andromeda Before and After Photoshop",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-27T04:05:00+00:00",
+      "day_brt": "2026-09-27",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1790489673
     }
   ],
   "digests_sent": {
@@ -12543,6 +12572,9 @@
     "2026-09-26": {
       "1f33c106f67a53007dc2a664": true,
       "13e011a2f759bbae6aa49945": true
+    },
+    "2026-09-27": {
+      "2e2623bb1ad0bc469833964c": true
     }
   }
 }
