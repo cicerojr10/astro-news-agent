@@ -11359,6 +11359,62 @@
       "score": 0.0,
       "published_utc": "2026-09-27T16:59:56+00:00",
       "note": "not_today"
+    },
+    "3831a807b7f519d17d811986": {
+      "ts": 1790628186,
+      "source": "NASA Breaking News",
+      "title": "NASA, Boeing Share Update on Commercial Starliner Development Plans",
+      "link": "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/",
+      "score": 4.0,
+      "published_utc": "2026-09-28T19:26:57+00:00"
+    },
+    "ad67b13c03a51da724e0785c": {
+      "ts": 1790628186,
+      "source": "NASA Breaking News",
+      "title": "NASA Armstrong Celebrates 80 Years of Flight Innovation",
+      "link": "https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/",
+      "score": 4.0,
+      "published_utc": "2026-09-28T19:20:01+00:00"
+    },
+    "b99e340433d1225434e34e4d": {
+      "ts": 1790628186,
+      "source": "NASA Breaking News",
+      "title": "NASA Highlights Lessons Learned From Swift Boost Mission",
+      "link": "https://science.nasa.gov/missions/swift/nasa-highlights-lessons-learned-from-swift-boost-mission/",
+      "score": 4.0,
+      "published_utc": "2026-09-28T17:44:33+00:00"
+    },
+    "5658512aec43432c4bddc284": {
+      "ts": 1790628186,
+      "source": "NASA Breaking News",
+      "title": "NASA Celebrates as Artemis Accords Surpasses 75 Signatories",
+      "link": "https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/",
+      "score": 4.0,
+      "published_utc": "2026-09-28T16:26:45+00:00"
+    },
+    "30b779037b8ca394224a7641": {
+      "ts": 1790628187,
+      "source": "NASA Breaking News",
+      "title": "What You Need to Know About NASA’s SpaceX Crew-13 Mission",
+      "link": "https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-13-mission/",
+      "score": 4.0,
+      "published_utc": "2026-09-28T16:09:09+00:00"
+    },
+    "8b77f8dfca8c1468f08afe1d": {
+      "ts": 1790628187,
+      "source": "NASA Breaking News",
+      "title": "Space Station View of Earth at Night",
+      "link": "https://www.nasa.gov/image-article/space-station-view-of-earth-at-night/",
+      "score": 4.0,
+      "published_utc": "2026-09-28T15:21:36+00:00"
+    },
+    "181b483e28b679adf3d3bc1f": {
+      "ts": 1790628187,
+      "source": "NASA Breaking News",
+      "title": "NASA ORBIT Challenge 2027",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-orbit-challenge-2027/",
+      "score": 4.0,
+      "published_utc": "2026-09-28T14:56:39+00:00"
     }
   },
   "digest_queue": [
@@ -11949,6 +12005,90 @@
       "day_brt": "2026-09-15",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Ames Stars of the Month: September 2026 Aaron McKinnon Sep 15, 2026 Article Contents Space Biosciences Star: Steve Ormsby Space Biosciences Star: Aphrodite Kostakis Astrophysics Star: Alejandro Borlaff Astrophysics Star: Sarah Nickerson Planetary Science and Exobiology Star: Martina Caussi Earth Science Star: Keiko Nomura Earth Science Star: Stephen Broccardo The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
       "queued_ts": 1789520957
+    },
+    {
+      "fp": "3831a807b7f519d17d811986",
+      "title": "NASA, Boeing Share Update on Commercial Starliner Development Plans",
+      "link": "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-28T19:26:57+00:00",
+      "day_brt": "2026-09-28",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA, Boeing Share Update on Commercial Starliner Development Plans Gerelle Q. Dodson Sep 28, 2026 RELEASE 26-079 NASA Headquarters Boeing’s Starliner spacecraft that launched NASA’s Crew Flight Test astronauts Butch Wilmore and Suni Williams to the International Space Station is pictured docked to the Harmony module’s forward port.",
+      "queued_ts": 1790628191
+    },
+    {
+      "fp": "ad67b13c03a51da724e0785c",
+      "title": "NASA Armstrong Celebrates 80 Years of Flight Innovation",
+      "link": "https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-28T19:20:01+00:00",
+      "day_brt": "2026-09-28",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Armstrong Celebrates 80 Years of Flight Innovation Teresa Whiting NASA Armstrong Public Affairs Specialist Sep 28, 2026 RELEASE 26-02NR Armstrong Flight Research Center On Sept. 30, 1946, five National Advisory Committee of Aeronautics (NACA) engineers arrived at Muroc Army Airfield in California’s high desert to achieve supersonic flight for the first time.",
+      "queued_ts": 1790628191
+    },
+    {
+      "fp": "b99e340433d1225434e34e4d",
+      "title": "NASA Highlights Lessons Learned From Swift Boost Mission",
+      "link": "https://science.nasa.gov/missions/swift/nasa-highlights-lessons-learned-from-swift-boost-mission/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-28T17:44:33+00:00",
+      "day_brt": "2026-09-28",
+      "resumo_pt": "Resumo (PT-BR): 6 min read NASA Highlights Lessons Learned From Swift Boost Mission Jeanette Kazmierczak Science writer Sep 28, 2026 Article A commercial mission to boost NASA’s Neil Gehrels Swift Observatory concluded without raising the spacecraft’s orbit, but the agency and industry vendor Katalyst Space have gained valuable experience that will benefit future in-space servicing programs. “From the beginning, this was a high-risk, high-reward mission,” said Shawn Domagal-Goldman, Astrophysics Division director at NASA Headquarters in Washington.",
+      "queued_ts": 1790628191
+    },
+    {
+      "fp": "5658512aec43432c4bddc284",
+      "title": "NASA Celebrates as Artemis Accords Surpasses 75 Signatories",
+      "link": "https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-28T16:26:45+00:00",
+      "day_brt": "2026-09-28",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Celebrates as Artemis Accords Surpasses 75 Signatories Jennifer M. Dooren Sep 28, 2026 RELEASE 26-078 NASA Headquarters Credit: NASA Marking a significant expansion in the number of signatories to the Artemis Accords, NASA welcomed Albania , Croatia , Côte d’Ivoire , and San Marino , bringing total participation to 76 countries.",
+      "queued_ts": 1790628191
+    },
+    {
+      "fp": "30b779037b8ca394224a7641",
+      "title": "What You Need to Know About NASA’s SpaceX Crew-13 Mission",
+      "link": "https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-13-mission/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-28T16:09:09+00:00",
+      "day_brt": "2026-09-28",
+      "resumo_pt": "Resumo (PT-BR): 6 min read What You Need to Know About NASA’s SpaceX Crew-13 Mission Mark A. Garcia Sep 28, 2026 Article Contents Commander Jessica Watkins Pilot Luke Delaney Mission Specialist Joshua Kutryk Mission Specialist Sergey Teteryatnikov The SpaceX Crew-13 members pose for a portrait in their pressure suits during a preflight training session at the company’s headquarters in Hawthorne, California.",
+      "queued_ts": 1790628191
+    },
+    {
+      "fp": "8b77f8dfca8c1468f08afe1d",
+      "title": "Space Station View of Earth at Night",
+      "link": "https://www.nasa.gov/image-article/space-station-view-of-earth-at-night/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-28T15:21:36+00:00",
+      "day_brt": "2026-09-28",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Space Station View of Earth at Night HQ Web Team Sep 28, 2026 Image Article NASA/Jessica Meir This nighttime view of the United States, dotted with city lights looking toward New York City (center), was taken at approximately 3:40 a.m. 8, 2026, from the International Space Station as it orbited 259 miles above Earth.",
+      "queued_ts": 1790628191
+    },
+    {
+      "fp": "181b483e28b679adf3d3bc1f",
+      "title": "NASA ORBIT Challenge 2027",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-orbit-challenge-2027/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-28T14:56:39+00:00",
+      "day_brt": "2026-09-28",
+      "resumo_pt": "Resumo (PT-BR): Light Sep 28, 2026 Article The NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology for the Workforce) Challenge invites university and community college students nationwide to work with real NASA intellectual property and mission challenges. Choose your path: develop commercial applications of NASA patents that solve problems here on Earth (ORBIT Earth), or design next-generation technologies for space exploration (ORBIT Space).",
+      "queued_ts": 1790628191
     }
   ],
   "digests_sent": {
@@ -12589,7 +12729,10 @@
     },
     "2026-09-28": {
       "bdd64388b1ef03bd86220c1b": true,
-      "5237e4b676e65046fc3d76f7": true
+      "5237e4b676e65046fc3d76f7": true,
+      "3831a807b7f519d17d811986": true,
+      "ad67b13c03a51da724e0785c": true,
+      "b99e340433d1225434e34e4d": true
     }
   }
 }
