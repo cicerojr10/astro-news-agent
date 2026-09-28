@@ -11350,6 +11350,15 @@
       "link": "https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/",
       "score": 4.0,
       "published_utc": "2026-09-28T10:00:00+00:00"
+    },
+    "ffc0d9cc5a4671812fab7086": {
+      "ts": 1790619430,
+      "source": "NASASpaceflight",
+      "title": "Ship 41 Makes it to Orbit, Booster 21 Nearly Perfect",
+      "link": "https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/",
+      "score": 0.0,
+      "published_utc": "2026-09-27T16:59:56+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
