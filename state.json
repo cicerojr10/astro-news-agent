@@ -11334,6 +11334,22 @@
       "link": "https://spaceflightnow.com/2026/09/28/live-coverage-spacex-to-launch-first-starlink-v3-satellites-to-orbit-on-starship/",
       "score": 4.680000000000001,
       "published_utc": "2026-09-28T00:21:39+00:00"
+    },
+    "bdd64388b1ef03bd86220c1b": {
+      "ts": 1790605839,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 September 28 – Cosmic Latte: The Average Color of the Universe",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-28-cosmic-latte-the-average-color-of-the-universe/",
+      "score": 4.0,
+      "published_utc": "2026-09-28T11:14:27+00:00"
+    },
+    "5237e4b676e65046fc3d76f7": {
+      "ts": 1790605839,
+      "source": "NASA Breaking News",
+      "title": "Reliable Robots: Meet Johnson’s Dexterous Robotics Team",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/",
+      "score": 4.0,
+      "published_utc": "2026-09-28T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -12507,36 +12523,12 @@
     "2026-09-27": {
       "morning": true,
       "night": true
+    },
+    "2026-09-28": {
+      "morning": true
     }
   },
   "sent_updates": {
-    "2026-09-18": {
-      "a1c93012bb615926f511de22": true,
-      "2ecacfc8358efaf922f21957": true,
-      "b9064e4b5898a189ebd5704f": true,
-      "d5128a02b304096d109cd3bb": true,
-      "cd76762ea0215765441bd5aa": true,
-      "f4b6120ad6fd8696103dbb91": true,
-      "0e825dc0ec32eb4c715ca15a": true
-    },
-    "2026-09-19": {
-      "fd263e62c2da56b803119e72": true,
-      "337111ea1176c39b627c63c0": true
-    },
-    "2026-09-20": {
-      "2dc4ec72d5612cf8df369137": true,
-      "d103e3e3b4e82f7b34292ea7": true
-    },
-    "2026-09-21": {
-      "2056696d02a8e2482d41c03a": true,
-      "ac1a6bb25760a6966c757192": true,
-      "9c06181fdc64f29215a0d906": true,
-      "8c04ad943410050a9cfb8ca3": true,
-      "30bbdb630f6e70f3d3618025": true,
-      "b98047df51a95cba97664783": true,
-      "dd95f7a74f5d5ba96906d59b": true,
-      "740cbf29b9b50d3f8303996f": true
-    },
     "2026-09-22": {
       "c918d701ad6276ff710ba343": true,
       "efe9dec53e19d27f20345343": true,
@@ -12585,6 +12577,10 @@
       "2e2623bb1ad0bc469833964c": true,
       "4a931cd4d7ef6adb047f5a09": true,
       "92fde765e4ebbbfedcf09a55": true
+    },
+    "2026-09-28": {
+      "bdd64388b1ef03bd86220c1b": true,
+      "5237e4b676e65046fc3d76f7": true
     }
   }
 }
