@@ -11439,6 +11439,30 @@
       "link": "https://spaceflightnow.com/2026/09/29/nasa-plans-unpiloted-starliner-test-flight-at-end-of-year/",
       "score": 13.5,
       "published_utc": "2026-09-29T01:14:36+00:00"
+    },
+    "e6daddf56a5ede229eb3b2be": {
+      "ts": 1790699988,
+      "source": "NASA Breaking News",
+      "title": "Crew-13 Rocket and Spacecraft at Launch Pad",
+      "link": "https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/",
+      "score": 4.0,
+      "published_utc": "2026-09-29T15:31:56+00:00"
+    },
+    "c6ea3caaea21c39555ab9dd8": {
+      "ts": 1790699988,
+      "source": "NASA Breaking News",
+      "title": "NASA Opens Applications for Second Season of ORBIT Student Challenge",
+      "link": "https://www.nasa.gov/learning-resources/research-program-for-students/",
+      "score": 4.0,
+      "published_utc": "2026-09-29T15:11:15+00:00"
+    },
+    "84e189fb378b452dc046e6ec": {
+      "ts": 1790699988,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 September 29 – Sh2-188: The Shrimp Nebula",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/",
+      "score": 4.0,
+      "published_utc": "2026-09-29T04:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -12053,6 +12077,42 @@
       "day_brt": "2026-09-28",
       "resumo_pt": "Resumo (PT-BR): Explore This Section Perseverance Home Mission Overview Rover Components Mars Rock Samples Where is Perseverance? Ingenuity Mars Helicopter Mission Updates Science Overview Objectives Instruments Highlights Exploration Goals News and Features Multimedia Perseverance Raw Images Images Videos Audio More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Mars Has Its Charmes Mars 2020 Mission Team Members Sep 28, 2026 Article NASA's Mars Perseverance rover acquired this image using its SHERLOC WATSON camera, located on the turret at the end of the rover's robotic arm.",
       "queued_ts": 1790649023
+    },
+    {
+      "fp": "e6daddf56a5ede229eb3b2be",
+      "title": "Crew-13 Rocket and Spacecraft at Launch Pad",
+      "link": "https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-29T15:31:56+00:00",
+      "day_brt": "2026-09-29",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Crew-13 Rocket and Spacecraft at Launch Pad HQ Web Team Sep 29, 2026 Image Article SpaceX Ahead of NASA’s SpaceX Crew-13 mission launch, a SpaceX Falcon 9 rocket and Dragon spacecraft are vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida in this Sept. NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov are scheduled to launch to the International Space Station for a long-duration science mission on Oct.",
+      "queued_ts": 1790699991
+    },
+    {
+      "fp": "c6ea3caaea21c39555ab9dd8",
+      "title": "NASA Opens Applications for Second Season of ORBIT Student Challenge",
+      "link": "https://www.nasa.gov/learning-resources/research-program-for-students/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-29T15:11:15+00:00",
+      "day_brt": "2026-09-29",
+      "resumo_pt": "Resumo (PT-BR): 2 Min Read NASA Opens Applications for Second Season of ORBIT Student Challenge NASA STEM Team Sep 29, 2026 Article Following a successful inaugural year of ingenuity and career building, NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology) has officially returned for a second season to bring university and college student innovation to the forefront of Earth technology development and deep-space exploration. Registration for the 2026–2027 challenge is open through Monday, Nov.",
+      "queued_ts": 1790699991
+    },
+    {
+      "fp": "84e189fb378b452dc046e6ec",
+      "title": "APOD: 2026 September 29 – Sh2-188: The Shrimp Nebula",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-29T04:05:00+00:00",
+      "day_brt": "2026-09-29",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1790699991
     }
   ],
   "digests_sent": {
@@ -12704,6 +12764,11 @@
       "43547611eaf1c5e8d61e642e": true,
       "2cddcb61ff659080ac7bbfad": true,
       "b04a58921fa49b56e995a3dd": true
+    },
+    "2026-09-29": {
+      "e6daddf56a5ede229eb3b2be": true,
+      "c6ea3caaea21c39555ab9dd8": true,
+      "84e189fb378b452dc046e6ec": true
     }
   }
 }
