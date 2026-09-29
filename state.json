@@ -11463,6 +11463,30 @@
       "link": "https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/",
       "score": 4.0,
       "published_utc": "2026-09-29T04:05:00+00:00"
+    },
+    "73f434784f5c1a922a953cbc": {
+      "ts": 1790720262,
+      "source": "NASA Breaking News",
+      "title": "NASA Awards Orbital Safety Analysis Support Services Contract",
+      "link": "https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract/",
+      "score": 4.0,
+      "published_utc": "2026-09-29T21:00:00+00:00"
+    },
+    "b5c66509f83942472fdc15c5": {
+      "ts": 1790720262,
+      "source": "NASA Breaking News",
+      "title": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
+      "link": "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
+      "score": 4.0,
+      "published_utc": "2026-09-29T20:08:01+00:00"
+    },
+    "8c47432321955845009338a8": {
+      "ts": 1790720262,
+      "source": "NASA Breaking News",
+      "title": "NASA Sets Crew-13 Launch, Docking Coverage",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/",
+      "score": 5.2,
+      "published_utc": "2026-09-29T18:57:14+00:00"
     }
   },
   "digest_queue": [
@@ -12113,6 +12137,42 @@
       "day_brt": "2026-09-29",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1790699991
+    },
+    {
+      "fp": "8c47432321955845009338a8",
+      "title": "NASA Sets Crew-13 Launch, Docking Coverage",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/",
+      "source": "NASA Breaking News",
+      "score": 5.2,
+      "is_anomaly": false,
+      "published_utc": "2026-09-29T18:57:14+00:00",
+      "day_brt": "2026-09-29",
+      "resumo_pt": "Resumo (PT-BR): 6 min read NASA Sets Crew-13 Launch, Docking Coverage Jessica Taveau Sep 29, 2026 MEDIA ADVISORY M26-071 NASA Headquarters Johnson Space Center Kennedy Space Center The four members of NASA’s SpaceX Crew-13 mission to the International Space Station pose together for an official crew portrait. From left are Roscosmos cosmonaut Sergey Teteryatnikov, NASA astronauts Luke Delaney and Jessica Watkins, and CSA (Canadian Space Agency) astronaut Joshua Kutryk.",
+      "queued_ts": 1790720265
+    },
+    {
+      "fp": "73f434784f5c1a922a953cbc",
+      "title": "NASA Awards Orbital Safety Analysis Support Services Contract",
+      "link": "https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-29T21:00:00+00:00",
+      "day_brt": "2026-09-29",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA Awards Orbital Safety Analysis Support Services Contract Rob Garner News Chief Sep 29, 2026 CONTRACT RELEASE C26-002 (Goddard) Goddard Space Flight Center NASA has awarded a contract to Omitron Inc. for the acquisition of orbital safety analysis services, which provide for critical protection of NASA spaceflight assets and astronaut lives.",
+      "queued_ts": 1790720265
+    },
+    {
+      "fp": "b5c66509f83942472fdc15c5",
+      "title": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
+      "link": "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-29T20:08:01+00:00",
+      "day_brt": "2026-09-29",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract Jennifer M. Dooren Sep 29, 2026 CONTRACT RELEASE C26-013 NASA Headquarters Credit: NASA In accordance with a contract on-ramp clause, NASA has added Blue Origin’s New Glenn 9×4 launch service to the NASA Launch Services (NLS) II contract.",
+      "queued_ts": 1790720265
     }
   ],
   "digests_sent": {
@@ -12768,7 +12828,10 @@
     "2026-09-29": {
       "e6daddf56a5ede229eb3b2be": true,
       "c6ea3caaea21c39555ab9dd8": true,
-      "84e189fb378b452dc046e6ec": true
+      "84e189fb378b452dc046e6ec": true,
+      "8c47432321955845009338a8": true,
+      "73f434784f5c1a922a953cbc": true,
+      "b5c66509f83942472fdc15c5": true
     }
   }
 }
