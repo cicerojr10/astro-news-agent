@@ -11423,6 +11423,22 @@
       "link": "https://www.nasaspaceflight.com/2026/09/nasa-boeing-starliners-return-iss-crew/",
       "score": 3.6,
       "published_utc": "2026-09-28T22:13:09+00:00"
+    },
+    "b04a58921fa49b56e995a3dd": {
+      "ts": 1790649018,
+      "source": "NASA Breaking News",
+      "title": "Mars Has Its Charmes",
+      "link": "https://science.nasa.gov/blog/mars-has-its-charmes/",
+      "score": 4.0,
+      "published_utc": "2026-09-29T01:27:52+00:00"
+    },
+    "2cddcb61ff659080ac7bbfad": {
+      "ts": 1790649020,
+      "source": "Spaceflight Now",
+      "title": "NASA plans unpiloted Starliner test flight at end of year",
+      "link": "https://spaceflightnow.com/2026/09/29/nasa-plans-unpiloted-starliner-test-flight-at-end-of-year/",
+      "score": 13.5,
+      "published_utc": "2026-09-29T01:14:36+00:00"
     }
   },
   "digest_queue": [
@@ -12013,6 +12029,30 @@
       "day_brt": "2026-09-15",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Ames Stars of the Month: September 2026 Aaron McKinnon Sep 15, 2026 Article Contents Space Biosciences Star: Steve Ormsby Space Biosciences Star: Aphrodite Kostakis Astrophysics Star: Alejandro Borlaff Astrophysics Star: Sarah Nickerson Planetary Science and Exobiology Star: Martina Caussi Earth Science Star: Keiko Nomura Earth Science Star: Stephen Broccardo The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
       "queued_ts": 1789520957
+    },
+    {
+      "fp": "2cddcb61ff659080ac7bbfad",
+      "title": "NASA plans unpiloted Starliner test flight at end of year",
+      "link": "https://spaceflightnow.com/2026/09/29/nasa-plans-unpiloted-starliner-test-flight-at-end-of-year/",
+      "source": "Spaceflight Now",
+      "score": 13.5,
+      "is_anomaly": true,
+      "published_utc": "2026-09-29T01:14:36+00:00",
+      "day_brt": "2026-09-28",
+      "resumo_pt": "Resumo (PT-BR): NASA plans unpiloted Starliner test flight at end of year September 29, 2026 William Harwood Boeing’s Starliner spacecraft, seen in the company’s Kennedy Space Center hangar in July. Image: Boeing NASA is working with Boeing to launch an unpiloted Starliner capsule in the December-January time frame to test upgrades and improvements ordered in the wake of a 2024 mission that suffered multiple propulsion system failures, stranding two astronauts on the space station for more than nine months.",
+      "queued_ts": 1790649023
+    },
+    {
+      "fp": "b04a58921fa49b56e995a3dd",
+      "title": "Mars Has Its Charmes",
+      "link": "https://science.nasa.gov/blog/mars-has-its-charmes/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-29T01:27:52+00:00",
+      "day_brt": "2026-09-28",
+      "resumo_pt": "Resumo (PT-BR): Explore This Section Perseverance Home Mission Overview Rover Components Mars Rock Samples Where is Perseverance? Ingenuity Mars Helicopter Mission Updates Science Overview Objectives Instruments Highlights Exploration Goals News and Features Multimedia Perseverance Raw Images Images Videos Audio More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Mars Has Its Charmes Mars 2020 Mission Team Members Sep 28, 2026 Article NASA's Mars Perseverance rover acquired this image using its SHERLOC WATSON camera, located on the turret at the end of the rover's robotic arm.",
+      "queued_ts": 1790649023
     }
   ],
   "digests_sent": {
@@ -12658,7 +12698,9 @@
       "3831a807b7f519d17d811986": true,
       "ad67b13c03a51da724e0785c": true,
       "b99e340433d1225434e34e4d": true,
-      "43547611eaf1c5e8d61e642e": true
+      "43547611eaf1c5e8d61e642e": true,
+      "2cddcb61ff659080ac7bbfad": true,
+      "b04a58921fa49b56e995a3dd": true
     }
   }
 }
