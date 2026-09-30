@@ -11487,6 +11487,14 @@
       "link": "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/",
       "score": 5.2,
       "published_utc": "2026-09-29T18:57:14+00:00"
+    },
+    "ca511aef6a14979bd081b079": {
+      "ts": 1790750907,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/",
+      "score": 4.0,
+      "published_utc": "2026-09-30T04:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -12101,6 +12109,18 @@
       "day_brt": "2026-09-28",
       "resumo_pt": "Resumo (PT-BR): Explore This Section Perseverance Home Mission Overview Rover Components Mars Rock Samples Where is Perseverance? Ingenuity Mars Helicopter Mission Updates Science Overview Objectives Instruments Highlights Exploration Goals News and Features Multimedia Perseverance Raw Images Images Videos Audio More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Mars Has Its Charmes Mars 2020 Mission Team Members Sep 28, 2026 Article NASA's Mars Perseverance rover acquired this image using its SHERLOC WATSON camera, located on the turret at the end of the rover's robotic arm.",
       "queued_ts": 1790649023
+    },
+    {
+      "fp": "ca511aef6a14979bd081b079",
+      "title": "APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-09-30T04:05:00+00:00",
+      "day_brt": "2026-09-30",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1790750910
     }
   ],
   "digests_sent": {
@@ -12761,6 +12781,9 @@
       "8c47432321955845009338a8": true,
       "73f434784f5c1a922a953cbc": true,
       "b5c66509f83942472fdc15c5": true
+    },
+    "2026-09-30": {
+      "ca511aef6a14979bd081b079": true
     }
   }
 }
