@@ -11495,6 +11495,14 @@
       "link": "https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/",
       "score": 4.0,
       "published_utc": "2026-09-30T04:05:00+00:00"
+    },
+    "d7a98fdb2ef0b55ed316006e": {
+      "ts": 1790785913,
+      "source": "NASASpaceflight",
+      "title": "Starship makes orbit, Flight 15 preps in full swing",
+      "link": "https://www.nasaspaceflight.com/2026/09/starship-14-orbit-flight-15/",
+      "score": 3.6,
+      "published_utc": "2026-09-30T15:17:07+00:00"
     }
   },
   "digest_queue": [
@@ -12109,6 +12117,18 @@
       "day_brt": "2026-09-28",
       "resumo_pt": "Resumo (PT-BR): Explore This Section Perseverance Home Mission Overview Rover Components Mars Rock Samples Where is Perseverance? Ingenuity Mars Helicopter Mission Updates Science Overview Objectives Instruments Highlights Exploration Goals News and Features Multimedia Perseverance Raw Images Images Videos Audio More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Mars Has Its Charmes Mars 2020 Mission Team Members Sep 28, 2026 Article NASA's Mars Perseverance rover acquired this image using its SHERLOC WATSON camera, located on the turret at the end of the rover's robotic arm.",
       "queued_ts": 1790649023
+    },
+    {
+      "fp": "d7a98fdb2ef0b55ed316006e",
+      "title": "Starship makes orbit, Flight 15 preps in full swing",
+      "link": "https://www.nasaspaceflight.com/2026/09/starship-14-orbit-flight-15/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-09-30T15:17:07+00:00",
+      "day_brt": "2026-09-30",
+      "resumo_pt": "Resumo (PT-BR): Starship makes orbit, Flight 15 preps in full swing by Ryan Weber September 30, 2026 written by Ryan Weber September 30, 2026 3 SpaceX made significant strides in the Starship program during Flight 14. Booster 21, despite losing a few engines, still completed its entire flight.",
+      "queued_ts": 1790785913
     }
   ],
   "digests_sent": {
@@ -12774,7 +12794,8 @@
       "b5c66509f83942472fdc15c5": true
     },
     "2026-09-30": {
-      "ca511aef6a14979bd081b079": true
+      "ca511aef6a14979bd081b079": true,
+      "d7a98fdb2ef0b55ed316006e": true
     }
   }
 }
