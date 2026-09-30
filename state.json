@@ -11503,6 +11503,14 @@
       "link": "https://www.nasaspaceflight.com/2026/09/starship-14-orbit-flight-15/",
       "score": 3.6,
       "published_utc": "2026-09-30T15:17:07+00:00"
+    },
+    "352adc076f7b579c556343c5": {
+      "ts": 1790807106,
+      "source": "NASASpaceflight",
+      "title": "Crew-13 astronauts set for launch to ISS after weeks of delays",
+      "link": "https://www.nasaspaceflight.com/2026/09/crew-13-launch/",
+      "score": 3.6,
+      "published_utc": "2026-09-30T21:04:39+00:00"
     }
   },
   "digest_queue": [
@@ -12129,6 +12137,18 @@
       "day_brt": "2026-09-30",
       "resumo_pt": "Resumo (PT-BR): Starship makes orbit, Flight 15 preps in full swing by Ryan Weber September 30, 2026 written by Ryan Weber September 30, 2026 3 SpaceX made significant strides in the Starship program during Flight 14. Booster 21, despite losing a few engines, still completed its entire flight.",
       "queued_ts": 1790785913
+    },
+    {
+      "fp": "352adc076f7b579c556343c5",
+      "title": "Crew-13 astronauts set for launch to ISS after weeks of delays",
+      "link": "https://www.nasaspaceflight.com/2026/09/crew-13-launch/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-09-30T21:04:39+00:00",
+      "day_brt": "2026-09-30",
+      "resumo_pt": "Resumo (PT-BR): Crew-13 astronauts set for launch to ISS after weeks of delays by Sawyer Rosenstein September 30, 2026 written by Sawyer Rosenstein September 30, 2026 3 One veteran astronaut and three first-time flyers are ready to begin a six-month mission to the International Space Station as part of the NASA and SpaceX Crew-13 mission. NASA astronauts Jessica Watkins and Luke Delaney, as well as Canadian Space Agency astronaut Joshua Kutryk and cosmonaut Sergey Teteryatnikov, will launch on Thursday, Oct.",
+      "queued_ts": 1790807107
     }
   ],
   "digests_sent": {
@@ -12795,7 +12815,8 @@
     },
     "2026-09-30": {
       "ca511aef6a14979bd081b079": true,
-      "d7a98fdb2ef0b55ed316006e": true
+      "d7a98fdb2ef0b55ed316006e": true,
+      "352adc076f7b579c556343c5": true
     }
   }
 }
