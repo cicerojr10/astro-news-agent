@@ -11528,6 +11528,14 @@
       "score": 0.0,
       "published_utc": "2026-10-01T02:03:53+00:00",
       "note": "not_today"
+    },
+    "0d342ae0582c381165ba9d33": {
+      "ts": 1790865099,
+      "source": "NASASpaceflight",
+      "title": "Starfish Otter, other payloads set to launch on Transporter 18",
+      "link": "https://www.nasaspaceflight.com/2026/10/transporter-18/",
+      "score": 3.6,
+      "published_utc": "2026-10-01T12:55:06+00:00"
     }
   },
   "digest_queue": [
@@ -12737,6 +12745,9 @@
     "2026-09-30": {
       "morning": true,
       "night": true
+    },
+    "2026-10-01": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -12812,6 +12823,9 @@
       "d7a98fdb2ef0b55ed316006e": true,
       "352adc076f7b579c556343c5": true,
       "0d46b164f1b465638b5a6f5d": true
+    },
+    "2026-10-01": {
+      "0d342ae0582c381165ba9d33": true
     }
   }
 }
