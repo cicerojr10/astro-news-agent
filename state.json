@@ -11594,6 +11594,22 @@
       "score": 0.0,
       "published_utc": "2026-09-30T21:04:39+00:00",
       "note": "not_today"
+    },
+    "d69bdf25a48e84c9dde2e02f": {
+      "ts": 1790897146,
+      "source": "Spaceflight Now",
+      "title": "Falcon Heavy to fly its first mission for U.S. spy satellite agency",
+      "link": "https://spaceflightnow.com/2026/10/01/falcon-heavy-to-fly-its-first-mission-for-u-s-spy-satellite-agency/",
+      "score": 3.6,
+      "published_utc": "2026-10-01T22:37:30+00:00"
+    },
+    "b1033246456895d4d494420e": {
+      "ts": 1790897146,
+      "source": "Spaceflight Now",
+      "title": "Fresh crew takes off for six-month stay aboard space station",
+      "link": "https://spaceflightnow.com/2026/10/01/fresh-crew-takes-off-for-six-month-stay-aboard-space-station/",
+      "score": 3.6,
+      "published_utc": "2026-10-01T20:46:05+00:00"
     }
   },
   "digest_queue": [
@@ -12208,66 +12224,6 @@
       "day_brt": "2026-09-28",
       "resumo_pt": "Resumo (PT-BR): Explore This Section Perseverance Home Mission Overview Rover Components Mars Rock Samples Where is Perseverance? Ingenuity Mars Helicopter Mission Updates Science Overview Objectives Instruments Highlights Exploration Goals News and Features Multimedia Perseverance Raw Images Images Videos Audio More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Mars Has Its Charmes Mars 2020 Mission Team Members Sep 28, 2026 Article NASA's Mars Perseverance rover acquired this image using its SHERLOC WATSON camera, located on the turret at the end of the rover's robotic arm.",
       "queued_ts": 1790649023
-    },
-    {
-      "fp": "2c0355d84dab7fc976110cc0",
-      "title": "NASA’s SpaceX Crew-13 Launches to International Space Station",
-      "link": "https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-01T15:59:24+00:00",
-      "day_brt": "2026-10-01",
-      "resumo_pt": "Resumo (PT-BR): 4 min read NASA’s SpaceX Crew-13 Launches to International Space Station Lauren E. Low Oct 01, 2026 RELEASE 26-081 NASA Headquarters A SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft launched on NASA’s SpaceX Crew-13 mission to the International Space Station with NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov onboard, Thursday, Oct.",
-      "queued_ts": 1790874581
-    },
-    {
-      "fp": "6c5710001d60552e7be23d82",
-      "title": "Canada Rocket Company plans first large-scale engine test site in London, Ontario",
-      "link": "https://www.nasaspaceflight.com/2026/10/canada-rocket-company-engine-test-site-ontario/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-10-01T15:30:36+00:00",
-      "day_brt": "2026-10-01",
-      "resumo_pt": "Resumo (PT-BR): Canada Rocket Company plans first large-scale engine test site in London, Ontario by Chris Bergin October 1, 2026 written by Chris Bergin October 1, 2026 2 Canada Rocket Company (CRC) will build Canada’s first large-scale rocket engine test facility at London International Airport, a $30 million complex intended for static firing of the company’s methalox engines as it develops a reusable medium-lift launch vehicle. The Jeremy Hansen Test Facility is named for Canadian astronaut Jeremy Hansen, the first Canadian to fly around the Moon.",
-      "queued_ts": 1790874581
-    },
-    {
-      "fp": "4cb96cd696b0d119a382baa5",
-      "title": "Live coverage: AI datacenter prototypes, energy redirection demonstrators and more launching on SpaceX’s Transporter-18",
-      "link": "https://spaceflightnow.com/2026/10/01/live-coverage-ai-datacenter-prototypes-energy-redirection-demonstrators-and-more-launching-on-spacexs-transporter-18/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-10-01T17:51:39+00:00",
-      "day_brt": "2026-10-01",
-      "resumo_pt": "Resumo (PT-BR): Live coverage: AI datacenter prototypes, energy redirection demonstrators and more launching on SpaceX’s Transporter-18 October 1, 2026 Will Robinson-Smith A Falcon 9 rocket stands ready for launch from Vandenberg in this file photo. An artificial intelligence prototype from Google, a methane-tracker, pharmaceutical manufacturing labs, and more are hitching a ride onboard a SpaceX Falcon 9 rocket flying from Vandenberg Space Force Base on Thursday afternoon.",
-      "queued_ts": 1790883944
-    },
-    {
-      "fp": "4c3f0d76f8d138dd65111719",
-      "title": "Falcon Heavy set to launch classified NROL-97 to high-energy orbit",
-      "link": "https://www.nasaspaceflight.com/2026/10/nrol97-launch/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-10-01T19:17:40+00:00",
-      "day_brt": "2026-10-01",
-      "resumo_pt": "Resumo (PT-BR): Falcon Heavy set to launch classified NROL-97 to high-energy orbit by Eleanor Day October 1, 2026 written by Eleanor Day October 1, 2026 5 SpaceX’s Falcon Heavy is poised atop Launch Complex 39A once again, this time to launch the classified NROL-97 payload for the United States National Reconnaissance Office. Falcon Heavy is scheduled to liftoff from the Kennedy Space Center at 11:53 PM EDT (03:53 UTC) on Oct.",
-      "queued_ts": 1790883944
-    },
-    {
-      "fp": "ea0dbf91cb245acd420f1f00",
-      "title": "Starfish Otter, other payloads launch on Transporter 18",
-      "link": "https://www.nasaspaceflight.com/2026/10/transporter-18/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-10-01T12:55:06+00:00",
-      "day_brt": "2026-10-01",
-      "resumo_pt": "Resumo (PT-BR): Starfish Otter, other payloads launch on Transporter 18 by Justin Davenport October 1, 2026 written by Justin Davenport October 1, 2026 29 SpaceX launched a Transporter rideshare mission aboard a Falcon 9 from California, on the same day as the Crew-13 and NROL-97 Falcon Heavy missions were scheduled out of Florida. This is the first time in a while that the company is using all three Falcon-capable launch pads in the same general time period.",
-      "queued_ts": 1790883944
     }
   ],
   "digests_sent": {
@@ -12865,7 +12821,8 @@
       "night": true
     },
     "2026-10-01": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -12948,7 +12905,9 @@
       "6c5710001d60552e7be23d82": true,
       "4cb96cd696b0d119a382baa5": true,
       "4c3f0d76f8d138dd65111719": true,
-      "ea0dbf91cb245acd420f1f00": true
+      "ea0dbf91cb245acd420f1f00": true,
+      "d69bdf25a48e84c9dde2e02f": true,
+      "b1033246456895d4d494420e": true
     }
   }
 }
