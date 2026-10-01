@@ -11552,6 +11552,48 @@
       "link": "https://www.nasaspaceflight.com/2026/10/canada-rocket-company-engine-test-site-ontario/",
       "score": 3.6,
       "published_utc": "2026-10-01T15:30:36+00:00"
+    },
+    "4cb96cd696b0d119a382baa5": {
+      "ts": 1790883941,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: AI datacenter prototypes, energy redirection demonstrators and more launching on SpaceX’s Transporter-18",
+      "link": "https://spaceflightnow.com/2026/10/01/live-coverage-ai-datacenter-prototypes-energy-redirection-demonstrators-and-more-launching-on-spacexs-transporter-18/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-10-01T17:51:39+00:00"
+    },
+    "bdc118f926b8c876fc633e2f": {
+      "ts": 1790883941,
+      "source": "Spaceflight Now",
+      "title": "NASA, SpaceX launch next crewed mission to the International Space Station",
+      "link": "https://spaceflightnow.com/2026/10/01/live-coverage-nasa-spacex-to-launch-next-crewed-mission-to-the-international-space-station/",
+      "score": 0.0,
+      "published_utc": "2026-10-01T02:03:53+00:00",
+      "note": "not_today"
+    },
+    "4c3f0d76f8d138dd65111719": {
+      "ts": 1790883942,
+      "source": "NASASpaceflight",
+      "title": "Falcon Heavy set to launch classified NROL-97 to high-energy orbit",
+      "link": "https://www.nasaspaceflight.com/2026/10/nrol97-launch/",
+      "score": 3.6,
+      "published_utc": "2026-10-01T19:17:40+00:00"
+    },
+    "ea0dbf91cb245acd420f1f00": {
+      "ts": 1790883942,
+      "source": "NASASpaceflight",
+      "title": "Starfish Otter, other payloads launch on Transporter 18",
+      "link": "https://www.nasaspaceflight.com/2026/10/transporter-18/",
+      "score": 3.6,
+      "published_utc": "2026-10-01T12:55:06+00:00"
+    },
+    "245542e5f4a2d1037f6786dd": {
+      "ts": 1790883942,
+      "source": "NASASpaceflight",
+      "title": "Crew-13 astronauts launch to ISS after weeks of delays",
+      "link": "https://www.nasaspaceflight.com/2026/09/crew-13-launch/",
+      "score": 0.0,
+      "published_utc": "2026-09-30T21:04:39+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -12190,6 +12232,42 @@
       "day_brt": "2026-10-01",
       "resumo_pt": "Resumo (PT-BR): Canada Rocket Company plans first large-scale engine test site in London, Ontario by Chris Bergin October 1, 2026 written by Chris Bergin October 1, 2026 2 Canada Rocket Company (CRC) will build Canada’s first large-scale rocket engine test facility at London International Airport, a $30 million complex intended for static firing of the company’s methalox engines as it develops a reusable medium-lift launch vehicle. The Jeremy Hansen Test Facility is named for Canadian astronaut Jeremy Hansen, the first Canadian to fly around the Moon.",
       "queued_ts": 1790874581
+    },
+    {
+      "fp": "4cb96cd696b0d119a382baa5",
+      "title": "Live coverage: AI datacenter prototypes, energy redirection demonstrators and more launching on SpaceX’s Transporter-18",
+      "link": "https://spaceflightnow.com/2026/10/01/live-coverage-ai-datacenter-prototypes-energy-redirection-demonstrators-and-more-launching-on-spacexs-transporter-18/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-10-01T17:51:39+00:00",
+      "day_brt": "2026-10-01",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: AI datacenter prototypes, energy redirection demonstrators and more launching on SpaceX’s Transporter-18 October 1, 2026 Will Robinson-Smith A Falcon 9 rocket stands ready for launch from Vandenberg in this file photo. An artificial intelligence prototype from Google, a methane-tracker, pharmaceutical manufacturing labs, and more are hitching a ride onboard a SpaceX Falcon 9 rocket flying from Vandenberg Space Force Base on Thursday afternoon.",
+      "queued_ts": 1790883944
+    },
+    {
+      "fp": "4c3f0d76f8d138dd65111719",
+      "title": "Falcon Heavy set to launch classified NROL-97 to high-energy orbit",
+      "link": "https://www.nasaspaceflight.com/2026/10/nrol97-launch/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-10-01T19:17:40+00:00",
+      "day_brt": "2026-10-01",
+      "resumo_pt": "Resumo (PT-BR): Falcon Heavy set to launch classified NROL-97 to high-energy orbit by Eleanor Day October 1, 2026 written by Eleanor Day October 1, 2026 5 SpaceX’s Falcon Heavy is poised atop Launch Complex 39A once again, this time to launch the classified NROL-97 payload for the United States National Reconnaissance Office. Falcon Heavy is scheduled to liftoff from the Kennedy Space Center at 11:53 PM EDT (03:53 UTC) on Oct.",
+      "queued_ts": 1790883944
+    },
+    {
+      "fp": "ea0dbf91cb245acd420f1f00",
+      "title": "Starfish Otter, other payloads launch on Transporter 18",
+      "link": "https://www.nasaspaceflight.com/2026/10/transporter-18/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-10-01T12:55:06+00:00",
+      "day_brt": "2026-10-01",
+      "resumo_pt": "Resumo (PT-BR): Starfish Otter, other payloads launch on Transporter 18 by Justin Davenport October 1, 2026 written by Justin Davenport October 1, 2026 29 SpaceX launched a Transporter rideshare mission aboard a Falcon 9 from California, on the same day as the Crew-13 and NROL-97 Falcon Heavy missions were scheduled out of Florida. This is the first time in a while that the company is using all three Falcon-capable launch pads in the same general time period.",
+      "queued_ts": 1790883944
     }
   ],
   "digests_sent": {
@@ -12867,7 +12945,10 @@
     "2026-10-01": {
       "0d342ae0582c381165ba9d33": true,
       "2c0355d84dab7fc976110cc0": true,
-      "6c5710001d60552e7be23d82": true
+      "6c5710001d60552e7be23d82": true,
+      "4cb96cd696b0d119a382baa5": true,
+      "4c3f0d76f8d138dd65111719": true,
+      "ea0dbf91cb245acd420f1f00": true
     }
   }
 }
