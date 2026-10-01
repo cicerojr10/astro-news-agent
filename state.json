@@ -11511,6 +11511,14 @@
       "link": "https://www.nasaspaceflight.com/2026/09/crew-13-launch/",
       "score": 3.6,
       "published_utc": "2026-09-30T21:04:39+00:00"
+    },
+    "0d46b164f1b465638b5a6f5d": {
+      "ts": 1790817693,
+      "source": "NASA Breaking News",
+      "title": "Curiosity Blog, Sols 5016–5021: Fantastic Minerals and How To Detect Them",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them/",
+      "score": 4.0,
+      "published_utc": "2026-09-30T23:37:47+00:00"
     }
   },
   "digest_queue": [
@@ -12125,30 +12133,6 @@
       "day_brt": "2026-09-28",
       "resumo_pt": "Resumo (PT-BR): Explore This Section Perseverance Home Mission Overview Rover Components Mars Rock Samples Where is Perseverance? Ingenuity Mars Helicopter Mission Updates Science Overview Objectives Instruments Highlights Exploration Goals News and Features Multimedia Perseverance Raw Images Images Videos Audio More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Mars Has Its Charmes Mars 2020 Mission Team Members Sep 28, 2026 Article NASA's Mars Perseverance rover acquired this image using its SHERLOC WATSON camera, located on the turret at the end of the rover's robotic arm.",
       "queued_ts": 1790649023
-    },
-    {
-      "fp": "d7a98fdb2ef0b55ed316006e",
-      "title": "Starship makes orbit, Flight 15 preps in full swing",
-      "link": "https://www.nasaspaceflight.com/2026/09/starship-14-orbit-flight-15/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-09-30T15:17:07+00:00",
-      "day_brt": "2026-09-30",
-      "resumo_pt": "Resumo (PT-BR): Starship makes orbit, Flight 15 preps in full swing by Ryan Weber September 30, 2026 written by Ryan Weber September 30, 2026 3 SpaceX made significant strides in the Starship program during Flight 14. Booster 21, despite losing a few engines, still completed its entire flight.",
-      "queued_ts": 1790785913
-    },
-    {
-      "fp": "352adc076f7b579c556343c5",
-      "title": "Crew-13 astronauts set for launch to ISS after weeks of delays",
-      "link": "https://www.nasaspaceflight.com/2026/09/crew-13-launch/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-09-30T21:04:39+00:00",
-      "day_brt": "2026-09-30",
-      "resumo_pt": "Resumo (PT-BR): Crew-13 astronauts set for launch to ISS after weeks of delays by Sawyer Rosenstein September 30, 2026 written by Sawyer Rosenstein September 30, 2026 3 One veteran astronaut and three first-time flyers are ready to begin a six-month mission to the International Space Station as part of the NASA and SpaceX Crew-13 mission. NASA astronauts Jessica Watkins and Luke Delaney, as well as Canadian Space Agency astronaut Joshua Kutryk and cosmonaut Sergey Teteryatnikov, will launch on Thursday, Oct.",
-      "queued_ts": 1790807107
     }
   ],
   "digests_sent": {
@@ -12742,7 +12726,8 @@
       "night": true
     },
     "2026-09-30": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -12816,7 +12801,8 @@
     "2026-09-30": {
       "ca511aef6a14979bd081b079": true,
       "d7a98fdb2ef0b55ed316006e": true,
-      "352adc076f7b579c556343c5": true
+      "352adc076f7b579c556343c5": true,
+      "0d46b164f1b465638b5a6f5d": true
     }
   }
 }
