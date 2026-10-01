@@ -11519,6 +11519,15 @@
       "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them/",
       "score": 4.0,
       "published_utc": "2026-09-30T23:37:47+00:00"
+    },
+    "efdbbe358045071332c3b967": {
+      "ts": 1790839086,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: NASA, SpaceX to launch next crewed mission to the International Space Station",
+      "link": "https://spaceflightnow.com/2026/10/01/live-coverage-nasa-spacex-to-launch-next-crewed-mission-to-the-international-space-station/",
+      "score": 0.0,
+      "published_utc": "2026-10-01T02:03:53+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
