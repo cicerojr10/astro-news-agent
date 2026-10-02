@@ -12283,54 +12283,6 @@
       "day_brt": "2026-09-28",
       "resumo_pt": "Resumo (PT-BR): Explore This Section Perseverance Home Mission Overview Rover Components Mars Rock Samples Where is Perseverance? Ingenuity Mars Helicopter Mission Updates Science Overview Objectives Instruments Highlights Exploration Goals News and Features Multimedia Perseverance Raw Images Images Videos Audio More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Mars Has Its Charmes Mars 2020 Mission Team Members Sep 28, 2026 Article NASA's Mars Perseverance rover acquired this image using its SHERLOC WATSON camera, located on the turret at the end of the rover's robotic arm.",
       "queued_ts": 1790649023
-    },
-    {
-      "fp": "4621c6d5267ddef702b1710b",
-      "title": "APOD: 2026 October 2 – The Complete Sharpless Catalog: 313 Nebulas",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-02T04:05:00+00:00",
-      "day_brt": "2026-10-02",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1790958204
-    },
-    {
-      "fp": "2a7f84b30b2f25df1b9bedc2",
-      "title": "NASA’s DAVINCI Probe Can Stand the Heat",
-      "link": "https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-02T19:00:36+00:00",
-      "day_brt": "2026-10-02",
-      "resumo_pt": "Resumo (PT-BR): 1 min read NASA’s DAVINCI Probe Can Stand the Heat HQ Web Team Oct 02, 2026 Image Article An engineering model of NASA’s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) descent probe passed a key test that ran from Aug. 10, showing it can survive the extreme temperatures of Venus.",
-      "queued_ts": 1790970743
-    },
-    {
-      "fp": "68f78bd7291c55e5599fba60",
-      "title": "La NASA abre solicitudes para próxima promoción de directores de vuelo",
-      "link": "https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-02T16:36:25+00:00",
-      "day_brt": "2026-10-02",
-      "resumo_pt": "Resumo (PT-BR): 3 min read La NASA abre solicitudes para próxima promoción de directores de vuelo María José Viñas Oct 02, 2026 RELEASE 26-082 NASA Headquarters El equipo de control de vuelo de Artemis II, en la Sala Blanca de Control de Vuelo del centro de control de misiones del Centro Espacial Johnson de la NASA, en Houston, el 10 de abril de 2026, durante el amerizaje y la recuperación de la misión Artemis II. Crédito: NASA/Robert Markowitz Lee esta nota de prensa en inglés aquí .",
-      "queued_ts": 1790970743
-    },
-    {
-      "fp": "555834f6f6d1efce6c6f27f0",
-      "title": "NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests",
-      "link": "https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-02T16:10:55+00:00",
-      "day_brt": "2026-10-02",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests Brandon Ingram Oct 02, 2026 Article Left: The Benchmark Supercritical Wing not illuminated in unsteady Pressure Sensitive Paint inside the Transonic Dynamics Tunnel at NASA’s Langley Research Center. Right: The Benchmark Supercritical Wing illuminated in unsteady Pressure Sensitive Paint during testing inside the Transonic Dynamics Tunnel at NASA’s Langley Research Center.",
-      "queued_ts": 1790970743
     }
   ],
   "digests_sent": {
@@ -12929,6 +12881,9 @@
     },
     "2026-10-01": {
       "morning": true,
+      "night": true
+    },
+    "2026-10-02": {
       "night": true
     }
   },
