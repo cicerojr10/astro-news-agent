@@ -11610,6 +11610,15 @@
       "link": "https://spaceflightnow.com/2026/10/01/fresh-crew-takes-off-for-six-month-stay-aboard-space-station/",
       "score": 3.6,
       "published_utc": "2026-10-01T20:46:05+00:00"
+    },
+    "f3f47bdca2e523da303b328a": {
+      "ts": 1790930501,
+      "source": "Spaceflight Now",
+      "title": "Falcon Heavy flies its first mission for U.S. spy satellite agency",
+      "link": "https://spaceflightnow.com/2026/10/01/falcon-heavy-to-fly-its-first-mission-for-u-s-spy-satellite-agency/",
+      "score": 0.0,
+      "published_utc": "2026-10-01T22:37:30+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
