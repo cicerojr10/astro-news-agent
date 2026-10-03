@@ -11669,6 +11669,22 @@
       "link": "https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/",
       "score": 4.0,
       "published_utc": "2026-10-02T16:10:55+00:00"
+    },
+    "4c28eb62f1852214c765f92b": {
+      "ts": 1790991994,
+      "source": "NASA Breaking News",
+      "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/",
+      "score": 4.0,
+      "published_utc": "2026-10-02T19:54:54+00:00"
+    },
+    "63c045bd85c9c03727aec356": {
+      "ts": 1790991994,
+      "source": "NASA Breaking News",
+      "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
+      "link": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/",
+      "score": 4.0,
+      "published_utc": "2026-10-02T19:30:00+00:00"
     }
   },
   "digest_queue": [
@@ -12283,6 +12299,30 @@
       "day_brt": "2026-09-28",
       "resumo_pt": "Resumo (PT-BR): Explore This Section Perseverance Home Mission Overview Rover Components Mars Rock Samples Where is Perseverance? Ingenuity Mars Helicopter Mission Updates Science Overview Objectives Instruments Highlights Exploration Goals News and Features Multimedia Perseverance Raw Images Images Videos Audio More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Mars Has Its Charmes Mars 2020 Mission Team Members Sep 28, 2026 Article NASA's Mars Perseverance rover acquired this image using its SHERLOC WATSON camera, located on the turret at the end of the rover's robotic arm.",
       "queued_ts": 1790649023
+    },
+    {
+      "fp": "4c28eb62f1852214c765f92b",
+      "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
+      "link": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-02T19:54:54+00:00",
+      "day_brt": "2026-10-02",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia Jessica Taveau Oct 02, 2026 MEDIA ADVISORY M26-072 NASA Headquarters NASA astronaut Christina Koch is seen during an event to award the Congressional Space Medal of Honor to the Artemis II crew, Friday, Aug. Credit: NASA/John Kraus As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs.",
+      "queued_ts": 1790991997
+    },
+    {
+      "fp": "63c045bd85c9c03727aec356",
+      "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
+      "link": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-02T19:30:00+00:00",
+      "day_brt": "2026-10-02",
+      "resumo_pt": "Resumo (PT-BR): 5 Min Read Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission Destiny Doran International Space Station Research Communications Team Oct 02, 2026 Article Contents Orbital transit Crystalline clues Boosting quantum science Branching beyond bone loss In-space suspension Decoding microbial secrets Fresh delivery Reshaping cartilage Printing meets metal Vital fluids Multiplying stem cells Training bone cells NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will head home from the International Space Station after supporting research that benefits life on Earth and prepares humans for missions into deep space.",
+      "queued_ts": 1790991997
     }
   ],
   "digests_sent": {
@@ -12935,7 +12975,9 @@
       "4621c6d5267ddef702b1710b": true,
       "2a7f84b30b2f25df1b9bedc2": true,
       "68f78bd7291c55e5599fba60": true,
-      "555834f6f6d1efce6c6f27f0": true
+      "555834f6f6d1efce6c6f27f0": true,
+      "4c28eb62f1852214c765f92b": true,
+      "63c045bd85c9c03727aec356": true
     }
   }
 }
