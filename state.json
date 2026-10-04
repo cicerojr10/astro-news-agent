@@ -12347,18 +12347,6 @@
       "day_brt": "2026-10-02",
       "resumo_pt": "Resumo (PT-BR): 5 Min Read Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission Destiny Doran International Space Station Research Communications Team Oct 02, 2026 Article Contents Orbital transit Crystalline clues Boosting quantum science Branching beyond bone loss In-space suspension Decoding microbial secrets Fresh delivery Reshaping cartilage Printing meets metal Vital fluids Multiplying stem cells Training bone cells NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will head home from the International Space Station after supporting research that benefits life on Earth and prepares humans for missions into deep space.",
       "queued_ts": 1790991997
-    },
-    {
-      "fp": "c3c88bb8aaa4aef59bff35f6",
-      "title": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-04T04:05:00+00:00",
-      "day_brt": "2026-10-04",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1791098749
     }
   ],
   "digests_sent": {
@@ -12965,6 +12953,9 @@
     "2026-10-03": {
       "morning": true,
       "night": true
+    },
+    "2026-10-04": {
+      "morning": true
     }
   },
   "sent_updates": {
