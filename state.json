@@ -11709,6 +11709,23 @@
       "link": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/",
       "score": 4.0,
       "published_utc": "2026-10-04T04:05:00+00:00"
+    },
+    "aab4e22bd026d83a5ed42255": {
+      "ts": 1791155955,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 21 data transport satellites for the Space Development Agency",
+      "link": "https://spaceflightnow.com/2026/10/04/live-coverage-spacex-to-launch-21-data-transport-satellites-for-the-space-development-agency/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-10-04T20:33:26+00:00"
+    },
+    "3cc43bc4e44cc3155d18c3a4": {
+      "ts": 1791155956,
+      "source": "NASASpaceflight",
+      "title": "Falcon Heavy launches classified NROL-97 to high-energy orbit",
+      "link": "https://www.nasaspaceflight.com/2026/10/nrol97-launch/",
+      "score": 0.0,
+      "published_utc": "2026-10-01T19:17:40+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -12955,7 +12972,8 @@
       "night": true
     },
     "2026-10-04": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -13015,7 +13033,8 @@
       "8f4a2f6a704b8d5946d30dc3": true
     },
     "2026-10-04": {
-      "c3c88bb8aaa4aef59bff35f6": true
+      "c3c88bb8aaa4aef59bff35f6": true,
+      "aab4e22bd026d83a5ed42255": true
     }
   }
 }
