@@ -12339,18 +12339,6 @@
       "day_brt": "2026-10-02",
       "resumo_pt": "Resumo (PT-BR): 5 Min Read Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission Destiny Doran International Space Station Research Communications Team Oct 02, 2026 Article Contents Orbital transit Crystalline clues Boosting quantum science Branching beyond bone loss In-space suspension Decoding microbial secrets Fresh delivery Reshaping cartilage Printing meets metal Vital fluids Multiplying stem cells Training bone cells NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will head home from the International Space Station after supporting research that benefits life on Earth and prepares humans for missions into deep space.",
       "queued_ts": 1790991997
-    },
-    {
-      "fp": "8f4a2f6a704b8d5946d30dc3",
-      "title": "ESA to pursue crew transport and space stations as European launchers come online",
-      "link": "https://www.nasaspaceflight.com/2026/10/europe-update/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-10-03T22:11:23+00:00",
-      "day_brt": "2026-10-03",
-      "resumo_pt": "Resumo (PT-BR): ESA to pursue crew transport and space stations as European launchers come online by Martijn Luinstra October 3, 2026 written by Martijn Luinstra October 3, 2026 1 The European Space Agency (ESA) recently started investigating options for a European-led space station. The announcement follows “A Call to Boost European Space Exploration,” which ESA’s member states recently endorsed.",
-      "queued_ts": 1791066549
     }
   ],
   "digests_sent": {
@@ -12955,7 +12943,8 @@
       "night": true
     },
     "2026-10-03": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
