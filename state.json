@@ -11751,6 +11751,22 @@
       "score": 0.0,
       "published_utc": "2026-10-04T20:33:26+00:00",
       "note": "not_today"
+    },
+    "aaa1d1f8c35e14b76b7b18fb": {
+      "ts": 1791221400,
+      "source": "NASA Breaking News",
+      "title": "NASA Testing Aims at Supercooled Large Droplet Aviation Safety",
+      "link": "https://www.nasa.gov/image-article/nasa-testing-aims-at-supercooled-large-droplet-aviation-safety/",
+      "score": 4.0,
+      "published_utc": "2026-10-05T15:27:23+00:00"
+    },
+    "ef6b84e0277652a790da07ed": {
+      "ts": 1791221400,
+      "source": "NASA Breaking News",
+      "title": "Suspected Second-generation Planet Solves NASA Hubble Cold Case",
+      "link": "https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/",
+      "score": 4.0,
+      "published_utc": "2026-10-05T15:00:35+00:00"
     }
   },
   "digest_queue": [
@@ -12413,6 +12429,30 @@
       "day_brt": "2026-10-05",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1791190297
+    },
+    {
+      "fp": "aaa1d1f8c35e14b76b7b18fb",
+      "title": "NASA Testing Aims at Supercooled Large Droplet Aviation Safety",
+      "link": "https://www.nasa.gov/image-article/nasa-testing-aims-at-supercooled-large-droplet-aviation-safety/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-05T15:27:23+00:00",
+      "day_brt": "2026-10-05",
+      "resumo_pt": "Resumo (PT-BR): 3 Min Read NASA Testing Aims at Supercooled Large Droplet Aviation Safety Ice collection seen on un-heated sections of the 1D2D-X ice drop detection probe in the test section of the IRT (Icing Research Tunnel). Drop Size Probe testing - SFD (Subsonic Flight Demonstrator) of SLD (Supercooled Large Drop) Instrumentation Test in IRT (Icing Research Tunnel) – Particle Size Distribution Entry, June 8-11, 2026 Large Drop Testing in IRT Credits: NASA/Quentin Schwinn Sarah Mann NASA Armstrong Public Affairs Specialist Oct 05, 2026 Image Article NASA is leveraging its expertise and enhancing its test facilities to help address a rare but persistent aviation hazard: icing that occurs when aircraft encounter unusually large, very cold water droplets in clouds.",
+      "queued_ts": 1791221404
+    },
+    {
+      "fp": "ef6b84e0277652a790da07ed",
+      "title": "Suspected Second-generation Planet Solves NASA Hubble Cold Case",
+      "link": "https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-05T15:00:35+00:00",
+      "day_brt": "2026-10-05",
+      "resumo_pt": "Resumo (PT-BR): Explore Hubble Science Hubble Space Telescope Suspected Second-generation... Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space?",
+      "queued_ts": 1791221404
     }
   ],
   "digests_sent": {
@@ -13087,7 +13127,9 @@
       "b4a1a5ee4f4ff311e7d0553e": true
     },
     "2026-10-05": {
-      "b2aedd8d4bf70ddef997f1e7": true
+      "b2aedd8d4bf70ddef997f1e7": true,
+      "aaa1d1f8c35e14b76b7b18fb": true,
+      "ef6b84e0277652a790da07ed": true
     }
   }
 }
