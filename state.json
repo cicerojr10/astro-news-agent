@@ -11726,6 +11726,14 @@
       "score": 0.0,
       "published_utc": "2026-10-01T19:17:40+00:00",
       "note": "not_today"
+    },
+    "b4a1a5ee4f4ff311e7d0553e": {
+      "ts": 1791164542,
+      "source": "NASA Breaking News",
+      "title": "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/",
+      "score": 4.0,
+      "published_utc": "2026-10-04T21:13:07+00:00"
     }
   },
   "digest_queue": [
@@ -12364,6 +12372,18 @@
       "day_brt": "2026-10-02",
       "resumo_pt": "Resumo (PT-BR): 5 Min Read Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission Destiny Doran International Space Station Research Communications Team Oct 02, 2026 Article Contents Orbital transit Crystalline clues Boosting quantum science Branching beyond bone loss In-space suspension Decoding microbial secrets Fresh delivery Reshaping cartilage Printing meets metal Vital fluids Multiplying stem cells Training bone cells NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will head home from the International Space Station after supporting research that benefits life on Earth and prepares humans for missions into deep space.",
       "queued_ts": 1790991997
+    },
+    {
+      "fp": "b4a1a5ee4f4ff311e7d0553e",
+      "title": "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-04T21:13:07+00:00",
+      "day_brt": "2026-10-04",
+      "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek Mars Science Laboratory Mission Team Members Oct 04, 2026 Article NASA's Mars rover Curiosity acquired this image of the “Basque Lakes” drill site after the pre-load test, using its Mars Hand Lens Imager (MAHLI), a close-up camera located on the turret at the end of the rover's robotic arm.",
+      "queued_ts": 1791164546
     }
   ],
   "digests_sent": {
@@ -13034,7 +13054,8 @@
     },
     "2026-10-04": {
       "c3c88bb8aaa4aef59bff35f6": true,
-      "aab4e22bd026d83a5ed42255": true
+      "aab4e22bd026d83a5ed42255": true,
+      "b4a1a5ee4f4ff311e7d0553e": true
     }
   }
 }
