@@ -11734,6 +11734,23 @@
       "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/",
       "score": 4.0,
       "published_utc": "2026-10-04T21:13:07+00:00"
+    },
+    "b2aedd8d4bf70ddef997f1e7": {
+      "ts": 1791190294,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/",
+      "score": 4.0,
+      "published_utc": "2026-10-05T04:05:00+00:00"
+    },
+    "908e4710240803cdc3a36e93": {
+      "ts": 1791190295,
+      "source": "Spaceflight Now",
+      "title": "SpaceX scrubs launch attempt for 21 data transport satellites for the Space Development Agency",
+      "link": "https://spaceflightnow.com/2026/10/04/live-coverage-spacex-to-launch-21-data-transport-satellites-for-the-space-development-agency/",
+      "score": 0.0,
+      "published_utc": "2026-10-04T20:33:26+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -12384,6 +12401,18 @@
       "day_brt": "2026-10-04",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek Mars Science Laboratory Mission Team Members Oct 04, 2026 Article NASA's Mars rover Curiosity acquired this image of the “Basque Lakes” drill site after the pre-load test, using its Mars Hand Lens Imager (MAHLI), a close-up camera located on the turret at the end of the rover's robotic arm.",
       "queued_ts": 1791164546
+    },
+    {
+      "fp": "b2aedd8d4bf70ddef997f1e7",
+      "title": "APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-05T04:05:00+00:00",
+      "day_brt": "2026-10-05",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1791190297
     }
   ],
   "digests_sent": {
@@ -13056,6 +13085,9 @@
       "c3c88bb8aaa4aef59bff35f6": true,
       "aab4e22bd026d83a5ed42255": true,
       "b4a1a5ee4f4ff311e7d0553e": true
+    },
+    "2026-10-05": {
+      "b2aedd8d4bf70ddef997f1e7": true
     }
   }
 }
