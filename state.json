@@ -11799,6 +11799,30 @@
       "link": "https://science.nasa.gov/earth/earth-observatory/the-beaver-brown-waters-of-rupert-bay/",
       "score": 4.0,
       "published_utc": "2026-10-06T04:01:00+00:00"
+    },
+    "89ced39aff746355e67f1acb": {
+      "ts": 1791304873,
+      "source": "NASA Breaking News",
+      "title": "Astronomers Solve Cosmic Cold Case with NASA Hubble Data",
+      "link": "https://www.nasa.gov/image-article/astronomers-solve-cosmic-cold-case-with-nasa-hubble-data/",
+      "score": 4.0,
+      "published_utc": "2026-10-06T16:09:13+00:00"
+    },
+    "a07727337882b8c70fe7a3e0": {
+      "ts": 1791304873,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Webb Captures Commotion From Nebula’s Stellar Jets",
+      "link": "https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/",
+      "score": 4.0,
+      "published_utc": "2026-10-06T13:00:00+00:00"
+    },
+    "e585644da5a347754036cef7": {
+      "ts": 1791304875,
+      "source": "NASASpaceflight",
+      "title": "NASA progress with SLS vehicles for upcoming Artemis missions",
+      "link": "https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/",
+      "score": 3.6,
+      "published_utc": "2026-10-06T12:35:41+00:00"
     }
   },
   "digest_queue": [
@@ -12473,6 +12497,42 @@
       "day_brt": "2026-10-06",
       "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory The Beaver Brown Waters of... Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 4 min read The Beaver Brown Waters of Rupert Bay Image of the Day for October 6, 2026 Dissolved organic matter and suspended sediment mingle in the southernmost extent of James Bay.",
       "queued_ts": 1791281144
+    },
+    {
+      "fp": "89ced39aff746355e67f1acb",
+      "title": "Astronomers Solve Cosmic Cold Case with NASA Hubble Data",
+      "link": "https://www.nasa.gov/image-article/astronomers-solve-cosmic-cold-case-with-nasa-hubble-data/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-06T16:09:13+00:00",
+      "day_brt": "2026-10-06",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Astronomers Solve Cosmic Cold Case with NASA Hubble Data HQ Web Team Oct 06, 2026 Image Article NASA, ESA, Leah Hustak (STScI) Diligent sleuthing by astronomers uncovered a surprising chemical clue that indicates the white dwarf star HS 0209+0832 may host a second-generation planet. The white dwarf is the “dead” core of a star that burned through all of its nuclear fuel and lost its outer envelope of gas and dust to space.",
+      "queued_ts": 1791304877
+    },
+    {
+      "fp": "a07727337882b8c70fe7a3e0",
+      "title": "NASA’s Webb Captures Commotion From Nebula’s Stellar Jets",
+      "link": "https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-06T13:00:00+00:00",
+      "day_brt": "2026-10-06",
+      "resumo_pt": "Resumo (PT-BR): Explore Webb Science James Webb Space Telescope (JWST) NASA’s Webb Captures... Webb News Latest News Latest Images Webb's Blog Awards X (offsite - login reqd) Instagram (offsite - login reqd) Facebook (offsite- login reqd) Youtube (offsite) Overview About Who is James Webb?",
+      "queued_ts": 1791304877
+    },
+    {
+      "fp": "e585644da5a347754036cef7",
+      "title": "NASA progress with SLS vehicles for upcoming Artemis missions",
+      "link": "https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-10-06T12:35:41+00:00",
+      "day_brt": "2026-10-06",
+      "resumo_pt": "Resumo (PT-BR): NASA progress with SLS vehicles for upcoming Artemis missions by Alejandro Alcantarilla Romera and Chris Bergin October 6, 2026 written by Alejandro Alcantarilla Romera and Chris Bergin October 6, 2026 2 NASA has stacked the center segments of both Artemis III solid rocket boosters on Mobile Launcher 1, ahead of mating with the Core Stage. Artemis III is currently targeted for no earlier than June 2027.",
+      "queued_ts": 1791304877
     }
   ],
   "digests_sent": {
@@ -13131,7 +13191,10 @@
     },
     "2026-10-06": {
       "6eb8e2e13c43c6e62823ed9c": true,
-      "f808270ae8b75e78c24fd778": true
+      "f808270ae8b75e78c24fd778": true,
+      "89ced39aff746355e67f1acb": true,
+      "a07727337882b8c70fe7a3e0": true,
+      "e585644da5a347754036cef7": true
     }
   }
 }
