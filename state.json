@@ -11872,6 +11872,22 @@
       "score": 0.0,
       "published_utc": "2026-10-06T23:43:49+00:00",
       "note": "not_today"
+    },
+    "1510cda08df914ebfbd39d54": {
+      "ts": 1791401615,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Curiosity Looks Back After Reaching Elevation Milestone",
+      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/",
+      "score": 4.0,
+      "published_utc": "2026-10-07T17:00:47+00:00"
+    },
+    "da3de812c297ef4a9a851d3e": {
+      "ts": 1791401616,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs",
+      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-captures-dawn-breaking-on-wind-carved-cliffs/",
+      "score": 4.0,
+      "published_utc": "2026-10-07T16:49:50+00:00"
     }
   },
   "digest_queue": [
@@ -12522,6 +12538,30 @@
       "day_brt": "2026-10-04",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek Mars Science Laboratory Mission Team Members Oct 04, 2026 Article NASA's Mars rover Curiosity acquired this image of the “Basque Lakes” drill site after the pre-load test, using its Mars Hand Lens Imager (MAHLI), a close-up camera located on the turret at the end of the rover's robotic arm.",
       "queued_ts": 1791164546
+    },
+    {
+      "fp": "1510cda08df914ebfbd39d54",
+      "title": "NASA’s Curiosity Looks Back After Reaching Elevation Milestone",
+      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-07T17:00:47+00:00",
+      "day_brt": "2026-10-07",
+      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NASA’s Curiosity Looks Back... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 2 Min Read NASA’s Curiosity Looks Back After Reaching Elevation Milestone PIA26781 Credits: NASA/JPL-Caltech/MSSS Image Addition Date: 10/07/2026 Downloads NASA’s Curiosity Looks Back After Reaching Elevation Milestone PNG (73.39 MB) Description NASA’s Curiosity Mars rover captured this view looking back at the floor of Gale Crater, with the crater’s rim visible in the distance, on Sept.",
+      "queued_ts": 1791401619
+    },
+    {
+      "fp": "da3de812c297ef4a9a851d3e",
+      "title": "NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs",
+      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-captures-dawn-breaking-on-wind-carved-cliffs/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-07T16:49:50+00:00",
+      "day_brt": "2026-10-07",
+      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NASA’s Curiosity Captures... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 2 Min Read NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs PIA25629 Credits: NASA/JPL-Caltech/MSSS Image Addition Date: 10/07/2026 Downloads NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs PNG (11.91 MB) PIA25629 Figure A PNG (2.70 MB) Description NASA’s Curiosity Mars rover captured this panorama of sunrise illuminating distant, wind-carved features called yardangs on Aug.",
+      "queued_ts": 1791401619
     }
   ],
   "digests_sent": {
@@ -13195,7 +13235,9 @@
       "c46f405031aa278d38e650e5": true
     },
     "2026-10-07": {
-      "a7c1f67d03ecdc27278091f8": true
+      "a7c1f67d03ecdc27278091f8": true,
+      "1510cda08df914ebfbd39d54": true,
+      "da3de812c297ef4a9a851d3e": true
     }
   }
 }
