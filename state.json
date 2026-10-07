@@ -11823,6 +11823,38 @@
       "link": "https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/",
       "score": 3.6,
       "published_utc": "2026-10-06T12:35:41+00:00"
+    },
+    "6a55ba8799883db79ffb649c": {
+      "ts": 1791333777,
+      "source": "NASA Breaking News",
+      "title": "NASA to Cover Northrop Grumman CRS-24 Spacecraft Departure",
+      "link": "https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/",
+      "score": 5.2,
+      "published_utc": "2026-10-06T18:31:40+00:00"
+    },
+    "f8892c04c17a60918ad1ab26": {
+      "ts": 1791333778,
+      "source": "NASA Breaking News",
+      "title": "October 2026 Satellite Puzzler",
+      "link": "https://science.nasa.gov/earth/earth-observatory/october-2026-satellite-puzzler/",
+      "score": 4.0,
+      "published_utc": "2026-10-06T18:27:38+00:00"
+    },
+    "c46f405031aa278d38e650e5": {
+      "ts": 1791333778,
+      "source": "NASA Breaking News",
+      "title": "NASA Glenn Invites Phase 1 Proposals for Aerospace Power Systems Laboratory",
+      "link": "https://www.nasa.gov/news-release/nasa-glenn-invites-phase-1-proposals-for-aerospace-power-systems-laboratory/",
+      "score": 4.0,
+      "published_utc": "2026-10-06T17:55:52+00:00"
+    },
+    "3d0a5597252e18f641f4bb09": {
+      "ts": 1791333780,
+      "source": "NASASpaceflight",
+      "title": "Crew-12 set to depart the ISS after eighth months in orbit",
+      "link": "https://www.nasaspaceflight.com/2026/10/crew-12-return/",
+      "score": 3.6,
+      "published_utc": "2026-10-06T23:43:49+00:00"
     }
   },
   "digest_queue": [
@@ -12473,66 +12505,6 @@
       "day_brt": "2026-10-04",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek Mars Science Laboratory Mission Team Members Oct 04, 2026 Article NASA's Mars rover Curiosity acquired this image of the “Basque Lakes” drill site after the pre-load test, using its Mars Hand Lens Imager (MAHLI), a close-up camera located on the turret at the end of the rover's robotic arm.",
       "queued_ts": 1791164546
-    },
-    {
-      "fp": "6eb8e2e13c43c6e62823ed9c",
-      "title": "APOD: 2026 October 6 – A Complete Auroral Oval from SMILE",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-06T04:05:00+00:00",
-      "day_brt": "2026-10-06",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1791281144
-    },
-    {
-      "fp": "f808270ae8b75e78c24fd778",
-      "title": "The Beaver Brown Waters of Rupert Bay",
-      "link": "https://science.nasa.gov/earth/earth-observatory/the-beaver-brown-waters-of-rupert-bay/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-06T04:01:00+00:00",
-      "day_brt": "2026-10-06",
-      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory The Beaver Brown Waters of... Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 4 min read The Beaver Brown Waters of Rupert Bay Image of the Day for October 6, 2026 Dissolved organic matter and suspended sediment mingle in the southernmost extent of James Bay.",
-      "queued_ts": 1791281144
-    },
-    {
-      "fp": "89ced39aff746355e67f1acb",
-      "title": "Astronomers Solve Cosmic Cold Case with NASA Hubble Data",
-      "link": "https://www.nasa.gov/image-article/astronomers-solve-cosmic-cold-case-with-nasa-hubble-data/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-06T16:09:13+00:00",
-      "day_brt": "2026-10-06",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Astronomers Solve Cosmic Cold Case with NASA Hubble Data HQ Web Team Oct 06, 2026 Image Article NASA, ESA, Leah Hustak (STScI) Diligent sleuthing by astronomers uncovered a surprising chemical clue that indicates the white dwarf star HS 0209+0832 may host a second-generation planet. The white dwarf is the “dead” core of a star that burned through all of its nuclear fuel and lost its outer envelope of gas and dust to space.",
-      "queued_ts": 1791304877
-    },
-    {
-      "fp": "a07727337882b8c70fe7a3e0",
-      "title": "NASA’s Webb Captures Commotion From Nebula’s Stellar Jets",
-      "link": "https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-06T13:00:00+00:00",
-      "day_brt": "2026-10-06",
-      "resumo_pt": "Resumo (PT-BR): Explore Webb Science James Webb Space Telescope (JWST) NASA’s Webb Captures... Webb News Latest News Latest Images Webb's Blog Awards X (offsite - login reqd) Instagram (offsite - login reqd) Facebook (offsite- login reqd) Youtube (offsite) Overview About Who is James Webb?",
-      "queued_ts": 1791304877
-    },
-    {
-      "fp": "e585644da5a347754036cef7",
-      "title": "NASA progress with SLS vehicles for upcoming Artemis missions",
-      "link": "https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-10-06T12:35:41+00:00",
-      "day_brt": "2026-10-06",
-      "resumo_pt": "Resumo (PT-BR): NASA progress with SLS vehicles for upcoming Artemis missions by Alejandro Alcantarilla Romera and Chris Bergin October 6, 2026 written by Alejandro Alcantarilla Romera and Chris Bergin October 6, 2026 2 NASA has stacked the center segments of both Artemis III solid rocket boosters on Mobile Launcher 1, ahead of mating with the Core Stage. Artemis III is currently targeted for no earlier than June 2027.",
-      "queued_ts": 1791304877
     }
   ],
   "digests_sent": {
@@ -13146,6 +13118,9 @@
     },
     "2026-10-05": {
       "night": true
+    },
+    "2026-10-06": {
+      "night": true
     }
   },
   "sent_updates": {
@@ -13194,7 +13169,10 @@
       "f808270ae8b75e78c24fd778": true,
       "89ced39aff746355e67f1acb": true,
       "a07727337882b8c70fe7a3e0": true,
-      "e585644da5a347754036cef7": true
+      "e585644da5a347754036cef7": true,
+      "6a55ba8799883db79ffb649c": true,
+      "f8892c04c17a60918ad1ab26": true,
+      "c46f405031aa278d38e650e5": true
     }
   }
 }
