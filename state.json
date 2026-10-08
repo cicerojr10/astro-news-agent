@@ -11952,6 +11952,47 @@
       "link": "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/",
       "score": 4.0,
       "published_utc": "2026-10-08T15:31:24+00:00"
+    },
+    "36706b876e9330d6ff39ed1b": {
+      "ts": 1791496026,
+      "source": "NASA Breaking News",
+      "title": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
+      "link": "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/",
+      "score": 4.0,
+      "published_utc": "2026-10-08T19:40:00+00:00"
+    },
+    "8251877e5cde439962ac3629": {
+      "ts": 1791496027,
+      "source": "NASA Breaking News",
+      "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
+      "link": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/",
+      "score": 4.0,
+      "published_utc": "2026-10-08T18:56:25+00:00"
+    },
+    "5ff51c13f61ab61ef0abd48e": {
+      "ts": 1791496027,
+      "source": "NASA Breaking News",
+      "title": "Crew-12 Returns to Earth",
+      "link": "https://www.nasa.gov/image-article/crew-12-returns-to-earth/",
+      "score": 4.0,
+      "published_utc": "2026-10-08T18:52:27+00:00"
+    },
+    "33e5aa45dc7b9930c506e7e3": {
+      "ts": 1791496027,
+      "source": "NASA Breaking News",
+      "title": "Webb Measures Distance to Farthest Fast Radio Burst, Suggesting Origin",
+      "link": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/",
+      "score": 4.0,
+      "published_utc": "2026-10-08T18:00:00+00:00"
+    },
+    "619bda53424f6566c6994f6f": {
+      "ts": 1791496028,
+      "source": "NASASpaceflight",
+      "title": "Crew-12 completes eight months mission at the ISS",
+      "link": "https://www.nasaspaceflight.com/2026/10/crew-12-return/",
+      "score": 0.0,
+      "published_utc": "2026-10-07T23:43:49+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -12662,6 +12703,54 @@
       "day_brt": "2026-10-08",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Advances LISA Mission Contributions With New Test Telescope Francis Reddy Oct 08, 2026 Article NASA has taken the next step in the process of developing a new all-glass telescope for the LISA (Laser Interferometer Space Antenna) mission, a space observatory designed to detect ripples in space-time called gravitational waves. L3Harris Technologies will design, assemble, and integrate the new telescope for NASA.",
       "queued_ts": 1791481038
+    },
+    {
+      "fp": "36706b876e9330d6ff39ed1b",
+      "title": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
+      "link": "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-08T19:40:00+00:00",
+      "day_brt": "2026-10-08",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Announces Bold Science Initiatives for America’s Golden Age Summit Jessica Taveau Oct 08, 2026 RELEASE 26-085 NASA Headquarters Credit: NASA NASA is launching two new science and technology initiatives to deepen scientific understanding and accelerate the innovation that will shape America’s future in space. The initiatives are announced in conjunction with the White House Office of Science and Technology Policy’s (OSTP) “Golden Age Summit” in Washington on Thursday with top U.S.",
+      "queued_ts": 1791496030
+    },
+    {
+      "fp": "8251877e5cde439962ac3629",
+      "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
+      "link": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-08T18:56:25+00:00",
+      "day_brt": "2026-10-08",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies Tara Friesen Ames Research Center Oct 08, 2026 Article Technicians at Starfish Space prepare the Otter spacecraft ahead of NASA’s SSPICY technology demonstration mission. The CubeSat spacecraft will demonstrate technologies that could reduce orbital debris.",
+      "queued_ts": 1791496030
+    },
+    {
+      "fp": "5ff51c13f61ab61ef0abd48e",
+      "title": "Crew-12 Returns to Earth",
+      "link": "https://www.nasa.gov/image-article/crew-12-returns-to-earth/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-08T18:52:27+00:00",
+      "day_brt": "2026-10-08",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Crew-12 Returns to Earth HQ Web Team Oct 08, 2026 Image Article NASA/Keegan Barber The SpaceX Crew Dragon Freedom spacecraft is seen moments before splashing down in the Pacific Ocean off the coast of California in this Oct. Aboard were NASA’s SpaceX Crew-12 members NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev.",
+      "queued_ts": 1791496030
+    },
+    {
+      "fp": "33e5aa45dc7b9930c506e7e3",
+      "title": "Webb Measures Distance to Farthest Fast Radio Burst, Suggesting Origin",
+      "link": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-08T18:00:00+00:00",
+      "day_brt": "2026-10-08",
+      "resumo_pt": "Resumo (PT-BR): Explore Webb Science James Webb Space Telescope (JWST) Webb Measures Distance to... Webb News Latest News Latest Images Webb's Blog Awards X (offsite - login reqd) Instagram (offsite - login reqd) Facebook (offsite- login reqd) Youtube (offsite) Overview About Who is James Webb?",
+      "queued_ts": 1791496030
     }
   ],
   "digests_sent": {
@@ -13348,7 +13437,10 @@
       "7b7bbd38a656f6d16aae80fc": true,
       "b3ebf66da4040420148c55c2": true,
       "54d524f313a7dd375b3f8599": true,
-      "d869254c8bc4b7c672ada050": true
+      "d869254c8bc4b7c672ada050": true,
+      "36706b876e9330d6ff39ed1b": true,
+      "8251877e5cde439962ac3629": true,
+      "5ff51c13f61ab61ef0abd48e": true
     }
   }
 }
