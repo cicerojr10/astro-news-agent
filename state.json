@@ -11928,6 +11928,30 @@
       "link": "https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/",
       "score": 4.0,
       "published_utc": "2026-10-08T04:01:00+00:00"
+    },
+    "b3ebf66da4040420148c55c2": {
+      "ts": 1791481034,
+      "source": "NASA Breaking News",
+      "title": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
+      "link": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
+      "score": 4.0,
+      "published_utc": "2026-10-08T17:02:28+00:00"
+    },
+    "54d524f313a7dd375b3f8599": {
+      "ts": 1791481035,
+      "source": "NASA Breaking News",
+      "title": "NASA, Energy Department Advance New Era of Nuclear-Powered Exploration",
+      "link": "https://www.nasa.gov/news-release/nasa-energy-department-advance-new-era-of-nuclear-powered-exploration/",
+      "score": 4.0,
+      "published_utc": "2026-10-08T15:46:25+00:00"
+    },
+    "d869254c8bc4b7c672ada050": {
+      "ts": 1791481035,
+      "source": "NASA Breaking News",
+      "title": "NASA Advances LISA Mission Contributions With New Test Telescope",
+      "link": "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/",
+      "score": 4.0,
+      "published_utc": "2026-10-08T15:31:24+00:00"
     }
   },
   "digest_queue": [
@@ -12602,6 +12626,42 @@
       "day_brt": "2026-10-08",
       "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Fighting Drought in... Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 6 min read Fighting Drought in Texas Cotton Country Image of the Day for October 8, 2026 Drought and an ailing aquifer were major topics of conversation when NASA scientists visited with farmers in the Texas High Plains.",
       "queued_ts": 1791452907
+    },
+    {
+      "fp": "b3ebf66da4040420148c55c2",
+      "title": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
+      "link": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-08T17:02:28+00:00",
+      "day_brt": "2026-10-08",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission Lauren E. Low Oct 08, 2026 RELEASE 26-083 NASA Headquarters The SpaceX Crew Dragon Freedom spacecraft is seen as it lands with NASA astronauts Jessica Meir, Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev aboard in the Pacific Ocean off the coast of Los Angeles on Oct.",
+      "queued_ts": 1791481038
+    },
+    {
+      "fp": "54d524f313a7dd375b3f8599",
+      "title": "NASA, Energy Department Advance New Era of Nuclear-Powered Exploration",
+      "link": "https://www.nasa.gov/news-release/nasa-energy-department-advance-new-era-of-nuclear-powered-exploration/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-08T15:46:25+00:00",
+      "day_brt": "2026-10-08",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA, Energy Department Advance New Era of Nuclear-Powered Exploration Gerelle Q. Dodson Oct 08, 2026 RELEASE 26-084 NASA Headquarters NASA Administrator Jared Isaacman, seated left, and U.S.",
+      "queued_ts": 1791481038
+    },
+    {
+      "fp": "d869254c8bc4b7c672ada050",
+      "title": "NASA Advances LISA Mission Contributions With New Test Telescope",
+      "link": "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-08T15:31:24+00:00",
+      "day_brt": "2026-10-08",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Advances LISA Mission Contributions With New Test Telescope Francis Reddy Oct 08, 2026 Article NASA has taken the next step in the process of developing a new all-glass telescope for the LISA (Laser Interferometer Space Antenna) mission, a space observatory designed to detect ripples in space-time called gravitational waves. L3Harris Technologies will design, assemble, and integrate the new telescope for NASA.",
+      "queued_ts": 1791481038
     }
   ],
   "digests_sent": {
@@ -13285,7 +13345,10 @@
     },
     "2026-10-08": {
       "42fb4497138af58dc487c320": true,
-      "7b7bbd38a656f6d16aae80fc": true
+      "7b7bbd38a656f6d16aae80fc": true,
+      "b3ebf66da4040420148c55c2": true,
+      "54d524f313a7dd375b3f8599": true,
+      "d869254c8bc4b7c672ada050": true
     }
   }
 }
