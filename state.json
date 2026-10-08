@@ -11912,6 +11912,22 @@
       "link": "https://science.nasa.gov/photojournal/nasas-prima-spacecraft-artists-concept/",
       "score": 4.0,
       "published_utc": "2026-10-07T20:15:49+00:00"
+    },
+    "42fb4497138af58dc487c320": {
+      "ts": 1791452903,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 October 8 – The Saturn System Smörgåsbord",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/",
+      "score": 4.0,
+      "published_utc": "2026-10-08T04:05:00+00:00"
+    },
+    "7b7bbd38a656f6d16aae80fc": {
+      "ts": 1791452903,
+      "source": "NASA Breaking News",
+      "title": "Fighting Drought in Texas Cotton Country",
+      "link": "https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/",
+      "score": 4.0,
+      "published_utc": "2026-10-08T04:01:00+00:00"
     }
   },
   "digest_queue": [
@@ -12562,6 +12578,30 @@
       "day_brt": "2026-10-04",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek Mars Science Laboratory Mission Team Members Oct 04, 2026 Article NASA's Mars rover Curiosity acquired this image of the “Basque Lakes” drill site after the pre-load test, using its Mars Hand Lens Imager (MAHLI), a close-up camera located on the turret at the end of the rover's robotic arm.",
       "queued_ts": 1791164546
+    },
+    {
+      "fp": "42fb4497138af58dc487c320",
+      "title": "APOD: 2026 October 8 – The Saturn System Smörgåsbord",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-08T04:05:00+00:00",
+      "day_brt": "2026-10-08",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1791452907
+    },
+    {
+      "fp": "7b7bbd38a656f6d16aae80fc",
+      "title": "Fighting Drought in Texas Cotton Country",
+      "link": "https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-08T04:01:00+00:00",
+      "day_brt": "2026-10-08",
+      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Fighting Drought in... Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 6 min read Fighting Drought in Texas Cotton Country Image of the Day for October 8, 2026 Drought and an ailing aquifer were major topics of conversation when NASA scientists visited with farmers in the Texas High Plains.",
+      "queued_ts": 1791452907
     }
   ],
   "digests_sent": {
@@ -13242,6 +13282,10 @@
       "d8b103a470f52503580581fb": true,
       "b61336c42fd421a70faf7b34": true,
       "01602af3453ce35281b4fbbb": true
+    },
+    "2026-10-08": {
+      "42fb4497138af58dc487c320": true,
+      "7b7bbd38a656f6d16aae80fc": true
     }
   }
 }
