@@ -12017,6 +12017,22 @@
       "link": "https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/",
       "score": 3.6,
       "published_utc": "2026-10-09T14:36:44+00:00"
+    },
+    "0ff301b0659f84625f24cc28": {
+      "ts": 1791588827,
+      "source": "NASA Breaking News",
+      "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
+      "link": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
+      "score": 4.0,
+      "published_utc": "2026-10-09T18:11:44+00:00"
+    },
+    "5b5d903c156d722777c3c7b1": {
+      "ts": 1791588829,
+      "source": "Spaceflight Now",
+      "title": "SpaceX to make another attempt to launch 21 data satellites for the Space Development Agency",
+      "link": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/",
+      "score": 3.6,
+      "published_utc": "2026-10-09T21:41:30+00:00"
     }
   },
   "digest_queue": [
@@ -13292,7 +13308,8 @@
       "night": true
     },
     "2026-10-09": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -13367,7 +13384,9 @@
     "2026-10-09": {
       "aa9197cf40fefa3fd53de2f3": true,
       "d278b02269bcbb694aacd0bf": true,
-      "4adab9606b7fd12596dfb92e": true
+      "4adab9606b7fd12596dfb92e": true,
+      "0ff301b0659f84625f24cc28": true,
+      "5b5d903c156d722777c3c7b1": true
     }
   }
 }
