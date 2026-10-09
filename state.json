@@ -12001,6 +12001,22 @@
       "link": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/",
       "score": 4.0,
       "published_utc": "2026-10-09T04:05:00+00:00"
+    },
+    "d278b02269bcbb694aacd0bf": {
+      "ts": 1791556858,
+      "source": "NASA Breaking News",
+      "title": "Cosmic House of Mirrors",
+      "link": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/",
+      "score": 4.0,
+      "published_utc": "2026-10-09T13:57:24+00:00"
+    },
+    "4adab9606b7fd12596dfb92e": {
+      "ts": 1791556860,
+      "source": "NASASpaceflight",
+      "title": "Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing",
+      "link": "https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/",
+      "score": 3.6,
+      "published_utc": "2026-10-09T14:36:44+00:00"
     }
   },
   "digest_queue": [
@@ -12651,18 +12667,6 @@
       "day_brt": "2026-10-04",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek Mars Science Laboratory Mission Team Members Oct 04, 2026 Article NASA's Mars rover Curiosity acquired this image of the “Basque Lakes” drill site after the pre-load test, using its Mars Hand Lens Imager (MAHLI), a close-up camera located on the turret at the end of the rover's robotic arm.",
       "queued_ts": 1791164546
-    },
-    {
-      "fp": "aa9197cf40fefa3fd53de2f3",
-      "title": "APOD: 2026 October 9 – Stickney Crater",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-09T04:05:00+00:00",
-      "day_brt": "2026-10-09",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1791531721
     }
   ],
   "digests_sent": {
@@ -13286,6 +13290,9 @@
     },
     "2026-10-08": {
       "night": true
+    },
+    "2026-10-09": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -13358,7 +13365,9 @@
       "5ff51c13f61ab61ef0abd48e": true
     },
     "2026-10-09": {
-      "aa9197cf40fefa3fd53de2f3": true
+      "aa9197cf40fefa3fd53de2f3": true,
+      "d278b02269bcbb694aacd0bf": true,
+      "4adab9606b7fd12596dfb92e": true
     }
   }
 }
