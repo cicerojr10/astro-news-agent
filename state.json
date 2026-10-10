@@ -12042,6 +12042,22 @@
       "score": 0.0,
       "published_utc": "2026-10-09T21:41:30+00:00",
       "note": "not_today"
+    },
+    "d042268a84d8666b5f8be247": {
+      "ts": 1791644255,
+      "source": "NASA Breaking News",
+      "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+      "link": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
+      "score": 4.0,
+      "published_utc": "2026-10-10T14:18:59+00:00"
+    },
+    "2315d24ff2c6a85aee998795": {
+      "ts": 1791644255,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 October 10 – Lunar Farside",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
+      "score": 4.0,
+      "published_utc": "2026-10-10T04:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -13319,37 +13335,12 @@
     "2026-10-09": {
       "morning": true,
       "night": true
+    },
+    "2026-10-10": {
+      "morning": true
     }
   },
   "sent_updates": {
-    "2026-09-30": {
-      "ca511aef6a14979bd081b079": true,
-      "d7a98fdb2ef0b55ed316006e": true,
-      "352adc076f7b579c556343c5": true,
-      "0d46b164f1b465638b5a6f5d": true
-    },
-    "2026-10-01": {
-      "0d342ae0582c381165ba9d33": true,
-      "2c0355d84dab7fc976110cc0": true,
-      "6c5710001d60552e7be23d82": true,
-      "4cb96cd696b0d119a382baa5": true,
-      "4c3f0d76f8d138dd65111719": true,
-      "ea0dbf91cb245acd420f1f00": true,
-      "d69bdf25a48e84c9dde2e02f": true,
-      "b1033246456895d4d494420e": true
-    },
-    "2026-10-02": {
-      "4621c6d5267ddef702b1710b": true,
-      "2a7f84b30b2f25df1b9bedc2": true,
-      "68f78bd7291c55e5599fba60": true,
-      "555834f6f6d1efce6c6f27f0": true,
-      "4c28eb62f1852214c765f92b": true,
-      "63c045bd85c9c03727aec356": true
-    },
-    "2026-10-03": {
-      "a1c13679fcc69d7431b23cca": true,
-      "8f4a2f6a704b8d5946d30dc3": true
-    },
     "2026-10-04": {
       "c3c88bb8aaa4aef59bff35f6": true,
       "aab4e22bd026d83a5ed42255": true,
@@ -13396,6 +13387,10 @@
       "4adab9606b7fd12596dfb92e": true,
       "0ff301b0659f84625f24cc28": true,
       "5b5d903c156d722777c3c7b1": true
+    },
+    "2026-10-10": {
+      "d042268a84d8666b5f8be247": true,
+      "2315d24ff2c6a85aee998795": true
     }
   }
 }
