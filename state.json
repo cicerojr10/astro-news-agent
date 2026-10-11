@@ -12058,6 +12058,14 @@
       "link": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
       "score": 4.0,
       "published_utc": "2026-10-10T04:05:00+00:00"
+    },
+    "614cc810046e226eacdd6e74": {
+      "ts": 1791726930,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
+      "score": 4.0,
+      "published_utc": "2026-10-11T04:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -13339,6 +13347,9 @@
     "2026-10-10": {
       "morning": true,
       "night": true
+    },
+    "2026-10-11": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -13392,6 +13403,9 @@
     "2026-10-10": {
       "d042268a84d8666b5f8be247": true,
       "2315d24ff2c6a85aee998795": true
+    },
+    "2026-10-11": {
+      "614cc810046e226eacdd6e74": true
     }
   }
 }
