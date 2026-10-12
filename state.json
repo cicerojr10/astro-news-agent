@@ -12724,18 +12724,6 @@
       "day_brt": "2026-10-04",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek Mars Science Laboratory Mission Team Members Oct 04, 2026 Article NASA's Mars rover Curiosity acquired this image of the “Basque Lakes” drill site after the pre-load test, using its Mars Hand Lens Imager (MAHLI), a close-up camera located on the turret at the end of the rover's robotic arm.",
       "queued_ts": 1791164546
-    },
-    {
-      "fp": "1ef3cb9387b6fd6e2ba6eb6d",
-      "title": "Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight",
-      "link": "https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-10-11T14:29:52+00:00",
-      "day_brt": "2026-10-11",
-      "resumo_pt": "Resumo (PT-BR): Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight by Ryan Caton October 11, 2026 written by Ryan Caton October 11, 2026 1 Four months after Blue Origin’s New Glenn rocket exploded on the launch pad, the company remains on track to return to flight before year-end. With roughly three months remaining, attention is focused on whether reconstruction of Launch Complex-36 (LC-36) is approaching the halfway mark.",
-      "queued_ts": 1791735975
     }
   ],
   "digests_sent": {
@@ -13369,7 +13357,8 @@
       "night": true
     },
     "2026-10-11": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
