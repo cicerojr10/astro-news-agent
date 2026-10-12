@@ -12074,6 +12074,14 @@
       "link": "https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn/",
       "score": 3.6,
       "published_utc": "2026-10-11T14:29:52+00:00"
+    },
+    "7d20f6e8d96ac9a596646af9": {
+      "ts": 1791790458,
+      "source": "NASA Breaking News",
+      "title": "Antarctic Sea Ice Grows to Its 2026 Maximum",
+      "link": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/",
+      "score": 4.0,
+      "published_utc": "2026-10-12T04:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -12724,6 +12732,18 @@
       "day_brt": "2026-10-04",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek Mars Science Laboratory Mission Team Members Oct 04, 2026 Article NASA's Mars rover Curiosity acquired this image of the “Basque Lakes” drill site after the pre-load test, using its Mars Hand Lens Imager (MAHLI), a close-up camera located on the turret at the end of the rover's robotic arm.",
       "queued_ts": 1791164546
+    },
+    {
+      "fp": "7d20f6e8d96ac9a596646af9",
+      "title": "Antarctic Sea Ice Grows to Its 2026 Maximum",
+      "link": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-12T04:00:00+00:00",
+      "day_brt": "2026-10-12",
+      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Antarctic Sea Ice Grows to Its... Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 3 min read Antarctic Sea Ice Grows to Its 2026 Maximum Image of the Day for October 12, 2026 The ice reached its third-lowest maximum extent since satellite observations began.",
+      "queued_ts": 1791790461
     }
   ],
   "digests_sent": {
@@ -13416,6 +13436,9 @@
     "2026-10-11": {
       "614cc810046e226eacdd6e74": true,
       "1ef3cb9387b6fd6e2ba6eb6d": true
+    },
+    "2026-10-12": {
+      "7d20f6e8d96ac9a596646af9": true
     }
   }
 }
