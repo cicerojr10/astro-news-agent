@@ -12213,6 +12213,46 @@
       "score": 0.0,
       "published_utc": "2026-10-07T05:53:30+00:00",
       "note": "not_today"
+    },
+    "505aa650f5b1c22bf9b339e6": {
+      "ts": 1791847431,
+      "source": "NASA Breaking News",
+      "title": "NASA’s SpaceX CRS-35 Mission to Launch Health Research",
+      "link": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/",
+      "score": 4.0,
+      "published_utc": "2026-10-12T17:45:27+00:00"
+    },
+    "79d8487b02212f81e9bb6ac3": {
+      "ts": 1791847432,
+      "source": "Spaceflight Now",
+      "title": "SpaceX Falcon 9 rocket to launch 27 Starlink satellites into orbit from California",
+      "link": "https://spaceflightnow.com/2026/10/12/spacex-falcon-9-rocket-to-launch-27-starlink-satellites-into-orbit-from-california/",
+      "score": 3.6,
+      "published_utc": "2026-10-12T22:21:40+00:00"
+    },
+    "7b52d7f416181acfb43682d0": {
+      "ts": 1791847433,
+      "source": "NASASpaceflight",
+      "title": "CRS-35 set to launch to ISS with final iROSA arrays, experiments, and other items",
+      "link": "https://www.nasaspaceflight.com/2026/10/crs-35-launch/",
+      "score": 3.6,
+      "published_utc": "2026-10-12T21:08:32+00:00"
+    },
+    "0d9a49065f3c7c71eb724c0b": {
+      "ts": 1791847434,
+      "source": "Space.com",
+      "title": "SpaceX launching 6,300 pounds of cargo to the ISS on Oct. 13: Watch it live",
+      "link": "https://www.space.com/space-exploration/international-space-station/spacex-crs-35-cargo-launch-international-space-station",
+      "score": 2.8,
+      "published_utc": "2026-10-12T21:00:00+00:00"
+    },
+    "63ea729d0e334cd8a2e3ea14": {
+      "ts": 1791847434,
+      "source": "Space.com",
+      "title": "Astronomers witness supermassive black hole gorge on a cosmic meal before 'burping' radio jets 300 days later",
+      "link": "https://www.space.com/astronomy/black-holes/nasa-spacecraft-sees-supermassive-black-hole-gorge-on-a-cosmic-meal-before-burping-radio-jets-300-days-later",
+      "score": 2.8,
+      "published_utc": "2026-10-12T20:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -12863,30 +12903,6 @@
       "day_brt": "2026-10-04",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek Mars Science Laboratory Mission Team Members Oct 04, 2026 Article NASA's Mars rover Curiosity acquired this image of the “Basque Lakes” drill site after the pre-load test, using its Mars Hand Lens Imager (MAHLI), a close-up camera located on the turret at the end of the rover's robotic arm.",
       "queued_ts": 1791164546
-    },
-    {
-      "fp": "7d20f6e8d96ac9a596646af9",
-      "title": "Antarctic Sea Ice Grows to Its 2026 Maximum",
-      "link": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-12T04:00:00+00:00",
-      "day_brt": "2026-10-12",
-      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Antarctic Sea Ice Grows to Its... Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 3 min read Antarctic Sea Ice Grows to Its 2026 Maximum Image of the Day for October 12, 2026 The ice reached its third-lowest maximum extent since satellite observations began.",
-      "queued_ts": 1791790461
-    },
-    {
-      "fp": "2b27714a1c24d92aebc791e6",
-      "title": "What caused a mysterious atmospheric explosion in Siberia in 1908?",
-      "link": "https://www.space.com/stargazing/meteor-showers/what-caused-a-mysterious-atmospheric-explosion-in-siberia-in-1908",
-      "source": "Space.com",
-      "score": 8.399999999999999,
-      "is_anomaly": true,
-      "published_utc": "2026-10-12T12:00:00+00:00",
-      "day_brt": "2026-10-12",
-      "resumo_pt": "Resumo (PT-BR): Stargazing Meteors & Meteor Showers What caused a mysterious atmospheric explosion in Siberia in 1908? News By Micah Hanks Published 12 October 2026 The blast produced enough energy to flatten a significant stretch of the Siberian wilderness, marking an event that still serves as a cautionary tale.",
-      "queued_ts": 1791824221
     }
   ],
   "digests_sent": {
@@ -13522,6 +13538,9 @@
     "2026-10-11": {
       "morning": true,
       "night": true
+    },
+    "2026-10-12": {
+      "night": true
     }
   },
   "sent_updates": {
@@ -13582,7 +13601,10 @@
     },
     "2026-10-12": {
       "7d20f6e8d96ac9a596646af9": true,
-      "2b27714a1c24d92aebc791e6": true
+      "2b27714a1c24d92aebc791e6": true,
+      "505aa650f5b1c22bf9b339e6": true,
+      "79d8487b02212f81e9bb6ac3": true,
+      "7b52d7f416181acfb43682d0": true
     }
   }
 }
