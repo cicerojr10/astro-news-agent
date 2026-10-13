@@ -12279,6 +12279,40 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-falcon-9-starlink-mission-for-1st-time-in-more-than-3-weeks-photo",
       "score": 2.8,
       "published_utc": "2026-10-13T03:15:45+00:00"
+    },
+    "ca10276c59ceaf144be91a9e": {
+      "ts": 1791889687,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 October 13 – Desert Stairway to Heaven",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/",
+      "score": 4.0,
+      "published_utc": "2026-10-13T04:05:00+00:00"
+    },
+    "8bc0643f42d03cc46b664423": {
+      "ts": 1791889687,
+      "source": "NASA Breaking News",
+      "title": "An Impact Structure With Legs",
+      "link": "https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/",
+      "score": 4.0,
+      "published_utc": "2026-10-13T04:01:00+00:00"
+    },
+    "fe7c2fde1cd13dfa71ff4516": {
+      "ts": 1791889689,
+      "source": "NASASpaceflight",
+      "title": "CRS-35 launches to ISS with final iROSA arrays, experiments, and other items",
+      "link": "https://www.nasaspaceflight.com/2026/10/crs-35-launch/",
+      "score": 0.0,
+      "published_utc": "2026-10-12T21:08:32+00:00",
+      "note": "not_today"
+    },
+    "a49fc1afd955e97ce560925b": {
+      "ts": 1791889689,
+      "source": "Space.com",
+      "title": "SpaceX successfully launches 6,300 pounds of cargo to the International Space Station",
+      "link": "https://www.space.com/space-exploration/international-space-station/spacex-crs-35-cargo-launch-international-space-station",
+      "score": 0.0,
+      "published_utc": "2026-10-12T21:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -13567,6 +13601,9 @@
     },
     "2026-10-12": {
       "night": true
+    },
+    "2026-10-13": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -13631,6 +13668,10 @@
       "505aa650f5b1c22bf9b339e6": true,
       "79d8487b02212f81e9bb6ac3": true,
       "7b52d7f416181acfb43682d0": true
+    },
+    "2026-10-13": {
+      "ca10276c59ceaf144be91a9e": true,
+      "8bc0643f42d03cc46b664423": true
     }
   }
 }
