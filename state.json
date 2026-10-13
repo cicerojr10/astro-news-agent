@@ -12369,6 +12369,38 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-falcon-9-starlink-mission-for-1st-time-in-more-than-3-weeks-photo",
       "score": 2.8,
       "published_utc": "2026-10-13T03:15:45+00:00"
+    },
+    "d7fafa06d44d5562f48e08a8": {
+      "ts": 1791931519,
+      "source": "NASA Breaking News",
+      "title": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer",
+      "link": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/",
+      "score": 4.0,
+      "published_utc": "2026-10-13T20:41:11+00:00"
+    },
+    "fbddcf974696239db5f78cf9": {
+      "ts": 1791931520,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Record-Setting Perseverance Rover Team",
+      "link": "https://science.nasa.gov/photojournal/nasas-record-setting-perseverance-rover-team/",
+      "score": 4.0,
+      "published_utc": "2026-10-13T17:48:46+00:00"
+    },
+    "050f10dceb9fe1d809259825": {
+      "ts": 1791931524,
+      "source": "Space.com",
+      "title": "See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York",
+      "link": "https://www.space.com/entertainment/star-treks-galileo-shuttle-warps-into-new-york-as-part-of-the-original-series-set-tour",
+      "score": 2.8,
+      "published_utc": "2026-10-13T20:00:00+00:00"
+    },
+    "19ad272d7ab7b81e4d37c8be": {
+      "ts": 1791931524,
+      "source": "Space.com",
+      "title": "Earth's poles shifted surprisingly fast during the age of dinosaurs, ancient sea levels reveal",
+      "link": "https://www.space.com/astronomy/earth/earths-poles-shifted-surprisingly-fast-during-the-age-of-dinosaurs-ancient-sea-levels-reveal",
+      "score": 2.8,
+      "published_utc": "2026-10-13T18:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -13055,6 +13087,30 @@
       "day_brt": "2026-10-13",
       "resumo_pt": "Resumo (PT-BR): SpaceX launches NASA science and cargo to the International Space Station October 13, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket’s booster and upper stage plume intermingle and are illuminated by the rising Sun during the launch of NASA’s SpaceX CRS-35 mission on Oct. Image: Michael Cain/Spaceflight Now Under the soft glow of sunrise Tuesday morning, SpaceX’s Falcon 9 rocket roared away from pad 40 at Cape Canaveral Space Force Station at 6:33 a.m.",
       "queued_ts": 1791913793
+    },
+    {
+      "fp": "d7fafa06d44d5562f48e08a8",
+      "title": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer",
+      "link": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-13T20:41:11+00:00",
+      "day_brt": "2026-10-13",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer Gerelle Q. Dodson Oct 13, 2026 RELEASE 26-088 NASA Headquarters NASA astronaut Christina Koch stands inside Kennedy Space Center’s Vehicle Assembly Building on July 14, 2021, in front of the agency’s Space Launch System (SLS) rocket that ultimately powered the Orion spacecraft on the Artemis I mission.",
+      "queued_ts": 1791931525
+    },
+    {
+      "fp": "fbddcf974696239db5f78cf9",
+      "title": "NASA’s Record-Setting Perseverance Rover Team",
+      "link": "https://science.nasa.gov/photojournal/nasas-record-setting-perseverance-rover-team/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-13T17:48:46+00:00",
+      "day_brt": "2026-10-13",
+      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NASA’s Record-Setting... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 1 Min Read NASA’s Record-Setting Perseverance Rover Team PIA26813 Credits: NASA/JPL-Caltech Image Addition Date: 10/13/2026 Downloads NASA’s Record-Setting Perseverance Rover Team JPEG (28.30 MB) Description Members of NASA’s Perseverance Mars mission team gather in the Mars Yard at the agency’s Jet Propulsion Laboratory in Southern California with a certificate from Guinness World Records marking the rover distance record on the Red Planet.",
+      "queued_ts": 1791931525
     }
   ],
   "digests_sent": {
@@ -13766,7 +13822,9 @@
       "8bc0643f42d03cc46b664423": true,
       "fda3f9fff52d7914ac08fedf": true,
       "4e015b3cb1f2c105ff3aa50a": true,
-      "33c5174875c3bfd7b464cc42": true
+      "33c5174875c3bfd7b464cc42": true,
+      "d7fafa06d44d5562f48e08a8": true,
+      "fbddcf974696239db5f78cf9": true
     }
   }
 }
