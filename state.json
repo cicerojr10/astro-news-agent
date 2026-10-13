@@ -12313,6 +12313,62 @@
       "score": 0.0,
       "published_utc": "2026-10-12T21:00:00+00:00",
       "note": "not_today"
+    },
+    "fda3f9fff52d7914ac08fedf": {
+      "ts": 1791913788,
+      "source": "NASA Breaking News",
+      "title": "TB 26-08 Complex Modes in Lightly Damped Structural Systems: A Two-Mode Interaction Perspective",
+      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/",
+      "score": 4.0,
+      "published_utc": "2026-10-13T15:02:21+00:00"
+    },
+    "4e015b3cb1f2c105ff3aa50a": {
+      "ts": 1791913788,
+      "source": "NASA Breaking News",
+      "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
+      "link": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
+      "score": 4.0,
+      "published_utc": "2026-10-13T11:12:18+00:00"
+    },
+    "33c5174875c3bfd7b464cc42": {
+      "ts": 1791913789,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches NASA science and cargo to the International Space Station",
+      "link": "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/",
+      "score": 3.6,
+      "published_utc": "2026-10-13T14:07:50+00:00"
+    },
+    "033cb6bc80a3bd2a73611c32": {
+      "ts": 1791913791,
+      "source": "Space.com",
+      "title": "SpaceX rocket launch creates incredible 'space jellyfish' visible throughout US East Coast (photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launch-creates-incredible-space-jellyfish-visible-throughout-us-east-coast-photos",
+      "score": 2.8,
+      "published_utc": "2026-10-13T17:02:48+00:00"
+    },
+    "700a64fe0a70a2cb2e7e938a": {
+      "ts": 1791913791,
+      "source": "Space.com",
+      "title": "2 spacecraft in orbit and 8 more coming soon: Varda has big plans for in-space manufacturing",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/2-spacecraft-in-orbit-and-8-more-coming-soon-varda-has-big-plans-for-in-space-manufacturing",
+      "score": 2.8,
+      "published_utc": "2026-10-13T16:00:00+00:00"
+    },
+    "e834bfd726431c389968d5e3": {
+      "ts": 1791913791,
+      "source": "Space.com",
+      "title": "NASA's Perseverance Mars rover breaks interplanetary driving record — and it's far from done",
+      "link": "https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-breaks-interplanetary-driving-record-and-its-far-from-done",
+      "score": 2.8,
+      "published_utc": "2026-10-13T14:14:29+00:00"
+    },
+    "533d2bea4a7f3401d286eaea": {
+      "ts": 1791913791,
+      "source": "Space.com",
+      "title": "SpaceX launches Falcon 9 Starlink mission for 1st time in more than 3 weeks (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-falcon-9-starlink-mission-for-1st-time-in-more-than-3-weeks-photo",
+      "score": 2.8,
+      "published_utc": "2026-10-13T03:15:45+00:00"
     }
   },
   "digest_queue": [
@@ -12963,6 +13019,42 @@
       "day_brt": "2026-10-04",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek Mars Science Laboratory Mission Team Members Oct 04, 2026 Article NASA's Mars rover Curiosity acquired this image of the “Basque Lakes” drill site after the pre-load test, using its Mars Hand Lens Imager (MAHLI), a close-up camera located on the turret at the end of the rover's robotic arm.",
       "queued_ts": 1791164546
+    },
+    {
+      "fp": "fda3f9fff52d7914ac08fedf",
+      "title": "TB 26-08 Complex Modes in Lightly Damped Structural Systems: A Two-Mode Interaction Perspective",
+      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-13T15:02:21+00:00",
+      "day_brt": "2026-10-13",
+      "resumo_pt": "Resumo (PT-BR): 3 min read TB 26-08 Complex Modes in Lightly Damped Structural Systems: A Two-Mode Interaction Perspective Meagan Chappell Oct 13, 2026 Article For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov Download the PDF version Complex mode shapes can emerge in a linear structure even when overall damping is low.",
+      "queued_ts": 1791913793
+    },
+    {
+      "fp": "4e015b3cb1f2c105ff3aa50a",
+      "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
+      "link": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-13T11:12:18+00:00",
+      "day_brt": "2026-10-13",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station Jessica Taveau Oct 13, 2026 RELEASE 26-087 NASA Headquarters A SpaceX Falcon 9 rocket and Dragon spacecraft launched on Tuesday, Oct. 13, 2026, from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida as part of the company’s 35th Commercial Resupply Services mission to the International Space Station for NASA.",
+      "queued_ts": 1791913793
+    },
+    {
+      "fp": "33c5174875c3bfd7b464cc42",
+      "title": "SpaceX launches NASA science and cargo to the International Space Station",
+      "link": "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-10-13T14:07:50+00:00",
+      "day_brt": "2026-10-13",
+      "resumo_pt": "Resumo (PT-BR): SpaceX launches NASA science and cargo to the International Space Station October 13, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket’s booster and upper stage plume intermingle and are illuminated by the rising Sun during the launch of NASA’s SpaceX CRS-35 mission on Oct. Image: Michael Cain/Spaceflight Now Under the soft glow of sunrise Tuesday morning, SpaceX’s Falcon 9 rocket roared away from pad 40 at Cape Canaveral Space Force Station at 6:33 a.m.",
+      "queued_ts": 1791913793
     }
   ],
   "digests_sent": {
@@ -13671,7 +13763,10 @@
     },
     "2026-10-13": {
       "ca10276c59ceaf144be91a9e": true,
-      "8bc0643f42d03cc46b664423": true
+      "8bc0643f42d03cc46b664423": true,
+      "fda3f9fff52d7914ac08fedf": true,
+      "4e015b3cb1f2c105ff3aa50a": true,
+      "33c5174875c3bfd7b464cc42": true
     }
   }
 }
