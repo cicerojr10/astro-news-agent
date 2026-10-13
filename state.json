@@ -12253,6 +12253,32 @@
       "link": "https://www.space.com/astronomy/black-holes/nasa-spacecraft-sees-supermassive-black-hole-gorge-on-a-cosmic-meal-before-burping-radio-jets-300-days-later",
       "score": 2.8,
       "published_utc": "2026-10-12T20:00:00+00:00"
+    },
+    "5919b245d28286593f52af49": {
+      "ts": 1791861819,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
+      "link": "https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/",
+      "score": 0.0,
+      "published_utc": "2026-10-13T01:19:30+00:00",
+      "note": "not_today"
+    },
+    "47b6633a19f54b9b66bc4750": {
+      "ts": 1791861819,
+      "source": "Spaceflight Now",
+      "title": "SpaceX Falcon 9 rocket launches 27 Starlink satellites from California",
+      "link": "https://spaceflightnow.com/2026/10/12/spacex-falcon-9-rocket-to-launch-27-starlink-satellites-into-orbit-from-california/",
+      "score": 0.0,
+      "published_utc": "2026-10-12T22:21:40+00:00",
+      "note": "not_today"
+    },
+    "5a00505d239a152e604d9b18": {
+      "ts": 1791861820,
+      "source": "Space.com",
+      "title": "SpaceX launches Falcon 9 Starlink mission for 1st time in more than 3 weeks (photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-falcon-9-starlink-mission-for-1st-time-in-more-than-3-weeks-photo",
+      "score": 2.8,
+      "published_utc": "2026-10-13T03:15:45+00:00"
     }
   },
   "digest_queue": [
