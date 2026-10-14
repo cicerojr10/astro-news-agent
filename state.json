@@ -12441,6 +12441,30 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-just-turned-10-years-old-when-will-it-go-to-mars",
       "score": 2.8,
       "published_utc": "2026-10-14T18:00:00+00:00"
+    },
+    "be4a4c8f070df81663128957": {
+      "ts": 1792019682,
+      "source": "NASA Breaking News",
+      "title": "NASA Astronauts to Answer Questions from Florida Students",
+      "link": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/",
+      "score": 4.0,
+      "published_utc": "2026-10-14T19:12:51+00:00"
+    },
+    "aaea9e234bebbeb41822584f": {
+      "ts": 1792019682,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
+      "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
+      "score": 4.0,
+      "published_utc": "2026-10-14T16:46:58+00:00"
+    },
+    "b0f5b73208140690f33fcbc2": {
+      "ts": 1792019685,
+      "source": "NASASpaceflight",
+      "title": "Artemis III SLS teams prepare short stack for pad tanking test",
+      "link": "https://www.nasaspaceflight.com/2026/10/artemis-iii-teams-prepare-short-stack-tanking-test/",
+      "score": 3.6,
+      "published_utc": "2026-10-14T22:36:14+00:00"
     }
   },
   "digest_queue": [
@@ -13091,18 +13115,6 @@
       "day_brt": "2026-10-04",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek Mars Science Laboratory Mission Team Members Oct 04, 2026 Article NASA's Mars rover Curiosity acquired this image of the “Basque Lakes” drill site after the pre-load test, using its Mars Hand Lens Imager (MAHLI), a close-up camera located on the turret at the end of the rover's robotic arm.",
       "queued_ts": 1791164546
-    },
-    {
-      "fp": "d9b12fc02d16fc9d7813641b",
-      "title": "NASA’s Space X CRS-35 Launch Jellyfish",
-      "link": "https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-14T15:18:38+00:00",
-      "day_brt": "2026-10-14",
-      "resumo_pt": "Resumo (PT-BR): 1 min read NASA’s Space X CRS-35 Launch Jellyfish HQ Web Team Oct 14, 2026 Image Article NASA/John Kraus Sunlight illuminates the exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft on Oct. This visual phenomenon is known as a “jellyfish”; it happens near sunrise or sunset when the exhaust plume from the rocket becomes brightly illuminated, creating a glowing shape resembling a jellyfish.",
-      "queued_ts": 1791992076
     }
   ],
   "digests_sent": {
@@ -13747,7 +13759,8 @@
       "night": true
     },
     "2026-10-14": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -13794,7 +13807,10 @@
     },
     "2026-10-14": {
       "731f4b3d38c545a6fd48b83b": true,
-      "d9b12fc02d16fc9d7813641b": true
+      "d9b12fc02d16fc9d7813641b": true,
+      "be4a4c8f070df81663128957": true,
+      "aaea9e234bebbeb41822584f": true,
+      "b0f5b73208140690f33fcbc2": true
     }
   }
 }
