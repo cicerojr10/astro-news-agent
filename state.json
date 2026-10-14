@@ -12409,6 +12409,30 @@
       "link": "https://www.space.com/astronomy/stars/scientists-discover-that-some-of-the-universes-biggest-explosions-may-never-have-happened",
       "score": 8.399999999999999,
       "published_utc": "2026-10-14T10:00:00+00:00"
+    },
+    "d9b12fc02d16fc9d7813641b": {
+      "ts": 1791992073,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Space X CRS-35 Launch Jellyfish",
+      "link": "https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/",
+      "score": 4.0,
+      "published_utc": "2026-10-14T15:18:38+00:00"
+    },
+    "4206444b904c29a8ee3ecd23": {
+      "ts": 1791992075,
+      "source": "Space.com",
+      "title": "The 1st SpaceX Starship to survive a launch to space just came home to its launch site",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-1st-spacex-starship-to-survive-a-launch-to-space-just-came-home-to-its-launch-site",
+      "score": 2.8,
+      "published_utc": "2026-10-14T13:00:00+00:00"
+    },
+    "212b24576d9e6cf17f49f266": {
+      "ts": 1791992075,
+      "source": "Space.com",
+      "title": "Four years ago, NASA punched an asteroid. Europe's Hera probe arrives this month to inspect the wreckage",
+      "link": "https://www.space.com/space-exploration/asteroid-comet-missions/four-years-ago-nasa-punched-an-asteroid-europes-hera-probe-arrives-this-month-to-inspect-the-wreckage",
+      "score": 2.8,
+      "published_utc": "2026-10-14T12:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -13059,6 +13083,18 @@
       "day_brt": "2026-10-04",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek Mars Science Laboratory Mission Team Members Oct 04, 2026 Article NASA's Mars rover Curiosity acquired this image of the “Basque Lakes” drill site after the pre-load test, using its Mars Hand Lens Imager (MAHLI), a close-up camera located on the turret at the end of the rover's robotic arm.",
       "queued_ts": 1791164546
+    },
+    {
+      "fp": "d9b12fc02d16fc9d7813641b",
+      "title": "NASA’s Space X CRS-35 Launch Jellyfish",
+      "link": "https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-14T15:18:38+00:00",
+      "day_brt": "2026-10-14",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA’s Space X CRS-35 Launch Jellyfish HQ Web Team Oct 14, 2026 Image Article NASA/John Kraus Sunlight illuminates the exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft on Oct. This visual phenomenon is known as a “jellyfish”; it happens near sunrise or sunset when the exhaust plume from the rocket becomes brightly illuminated, creating a glowing shape resembling a jellyfish.",
+      "queued_ts": 1791992076
     }
   ],
   "digests_sent": {
@@ -13749,7 +13785,8 @@
       "fbddcf974696239db5f78cf9": true
     },
     "2026-10-14": {
-      "731f4b3d38c545a6fd48b83b": true
+      "731f4b3d38c545a6fd48b83b": true,
+      "d9b12fc02d16fc9d7813641b": true
     }
   }
 }
