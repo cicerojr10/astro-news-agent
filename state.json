@@ -12401,6 +12401,14 @@
       "link": "https://www.space.com/astronomy/earth/earths-poles-shifted-surprisingly-fast-during-the-age-of-dinosaurs-ancient-sea-levels-reveal",
       "score": 2.8,
       "published_utc": "2026-10-13T18:00:00+00:00"
+    },
+    "731f4b3d38c545a6fd48b83b": {
+      "ts": 1791979109,
+      "source": "Space.com",
+      "title": "Scientists discover that some of the universe's biggest explosions may have never happened at all",
+      "link": "https://www.space.com/astronomy/stars/scientists-discover-that-some-of-the-universes-biggest-explosions-may-never-have-happened",
+      "score": 8.399999999999999,
+      "published_utc": "2026-10-14T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -13693,39 +13701,12 @@
     "2026-10-13": {
       "morning": true,
       "night": true
+    },
+    "2026-10-14": {
+      "morning": true
     }
   },
   "sent_updates": {
-    "2026-10-04": {
-      "c3c88bb8aaa4aef59bff35f6": true,
-      "aab4e22bd026d83a5ed42255": true,
-      "b4a1a5ee4f4ff311e7d0553e": true
-    },
-    "2026-10-05": {
-      "b2aedd8d4bf70ddef997f1e7": true,
-      "aaa1d1f8c35e14b76b7b18fb": true,
-      "ef6b84e0277652a790da07ed": true,
-      "456135160544d08321d9a656": true,
-      "ba1c13b4eda5081886d75dcc": true
-    },
-    "2026-10-06": {
-      "6eb8e2e13c43c6e62823ed9c": true,
-      "f808270ae8b75e78c24fd778": true,
-      "89ced39aff746355e67f1acb": true,
-      "a07727337882b8c70fe7a3e0": true,
-      "e585644da5a347754036cef7": true,
-      "6a55ba8799883db79ffb649c": true,
-      "f8892c04c17a60918ad1ab26": true,
-      "c46f405031aa278d38e650e5": true
-    },
-    "2026-10-07": {
-      "a7c1f67d03ecdc27278091f8": true,
-      "1510cda08df914ebfbd39d54": true,
-      "da3de812c297ef4a9a851d3e": true,
-      "d8b103a470f52503580581fb": true,
-      "b61336c42fd421a70faf7b34": true,
-      "01602af3453ce35281b4fbbb": true
-    },
     "2026-10-08": {
       "42fb4497138af58dc487c320": true,
       "7b7bbd38a656f6d16aae80fc": true,
@@ -13766,6 +13747,9 @@
       "33c5174875c3bfd7b464cc42": true,
       "d7fafa06d44d5562f48e08a8": true,
       "fbddcf974696239db5f78cf9": true
+    },
+    "2026-10-14": {
+      "731f4b3d38c545a6fd48b83b": true
     }
   }
 }
