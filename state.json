@@ -13051,66 +13051,6 @@
       "day_brt": "2026-10-04",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek Mars Science Laboratory Mission Team Members Oct 04, 2026 Article NASA's Mars rover Curiosity acquired this image of the “Basque Lakes” drill site after the pre-load test, using its Mars Hand Lens Imager (MAHLI), a close-up camera located on the turret at the end of the rover's robotic arm.",
       "queued_ts": 1791164546
-    },
-    {
-      "fp": "fda3f9fff52d7914ac08fedf",
-      "title": "TB 26-08 Complex Modes in Lightly Damped Structural Systems: A Two-Mode Interaction Perspective",
-      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-13T15:02:21+00:00",
-      "day_brt": "2026-10-13",
-      "resumo_pt": "Resumo (PT-BR): 3 min read TB 26-08 Complex Modes in Lightly Damped Structural Systems: A Two-Mode Interaction Perspective Meagan Chappell Oct 13, 2026 Article For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov Download the PDF version Complex mode shapes can emerge in a linear structure even when overall damping is low.",
-      "queued_ts": 1791913793
-    },
-    {
-      "fp": "4e015b3cb1f2c105ff3aa50a",
-      "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
-      "link": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-13T11:12:18+00:00",
-      "day_brt": "2026-10-13",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station Jessica Taveau Oct 13, 2026 RELEASE 26-087 NASA Headquarters A SpaceX Falcon 9 rocket and Dragon spacecraft launched on Tuesday, Oct. 13, 2026, from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida as part of the company’s 35th Commercial Resupply Services mission to the International Space Station for NASA.",
-      "queued_ts": 1791913793
-    },
-    {
-      "fp": "33c5174875c3bfd7b464cc42",
-      "title": "SpaceX launches NASA science and cargo to the International Space Station",
-      "link": "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/",
-      "source": "Spaceflight Now",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-10-13T14:07:50+00:00",
-      "day_brt": "2026-10-13",
-      "resumo_pt": "Resumo (PT-BR): SpaceX launches NASA science and cargo to the International Space Station October 13, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket’s booster and upper stage plume intermingle and are illuminated by the rising Sun during the launch of NASA’s SpaceX CRS-35 mission on Oct. Image: Michael Cain/Spaceflight Now Under the soft glow of sunrise Tuesday morning, SpaceX’s Falcon 9 rocket roared away from pad 40 at Cape Canaveral Space Force Station at 6:33 a.m.",
-      "queued_ts": 1791913793
-    },
-    {
-      "fp": "d7fafa06d44d5562f48e08a8",
-      "title": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer",
-      "link": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-13T20:41:11+00:00",
-      "day_brt": "2026-10-13",
-      "resumo_pt": "Resumo (PT-BR): 4 min read NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer Gerelle Q. Dodson Oct 13, 2026 RELEASE 26-088 NASA Headquarters NASA astronaut Christina Koch stands inside Kennedy Space Center’s Vehicle Assembly Building on July 14, 2021, in front of the agency’s Space Launch System (SLS) rocket that ultimately powered the Orion spacecraft on the Artemis I mission.",
-      "queued_ts": 1791931525
-    },
-    {
-      "fp": "fbddcf974696239db5f78cf9",
-      "title": "NASA’s Record-Setting Perseverance Rover Team",
-      "link": "https://science.nasa.gov/photojournal/nasas-record-setting-perseverance-rover-team/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-13T17:48:46+00:00",
-      "day_brt": "2026-10-13",
-      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NASA’s Record-Setting... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 1 Min Read NASA’s Record-Setting Perseverance Rover Team PIA26813 Credits: NASA/JPL-Caltech Image Addition Date: 10/13/2026 Downloads NASA’s Record-Setting Perseverance Rover Team JPEG (28.30 MB) Description Members of NASA’s Perseverance Mars mission team gather in the Mars Yard at the agency’s Jet Propulsion Laboratory in Southern California with a certificate from Guinness World Records marking the rover distance record on the Red Planet.",
-      "queued_ts": 1791931525
     }
   ],
   "digests_sent": {
@@ -13751,7 +13691,8 @@
       "night": true
     },
     "2026-10-13": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
