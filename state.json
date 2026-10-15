@@ -13139,30 +13139,6 @@
       "day_brt": "2026-10-04",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek Mars Science Laboratory Mission Team Members Oct 04, 2026 Article NASA's Mars rover Curiosity acquired this image of the “Basque Lakes” drill site after the pre-load test, using its Mars Hand Lens Imager (MAHLI), a close-up camera located on the turret at the end of the rover's robotic arm.",
       "queued_ts": 1791164546
-    },
-    {
-      "fp": "b2eddfde741e5ea9b3540246",
-      "title": "APOD: 2026 October 15 – The Milky Way over Manhattan",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-15T04:05:00+00:00",
-      "day_brt": "2026-10-15",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1792044668
-    },
-    {
-      "fp": "c33326d89de8c27f44cedbad",
-      "title": "Fires Arrive in the Amazon Rainforest",
-      "link": "https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-15T04:01:00+00:00",
-      "day_brt": "2026-10-15",
-      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Fires Arrive in the Amazon... Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 6 min read Fires Arrive in the Amazon Rainforest Image of the Day for October 15, 2026 During El Niño, a cascade of fires across the tropics begins in equatorial Asia and continues in the central and eastern Amazon.",
-      "queued_ts": 1792044668
     }
   ],
   "digests_sent": {
@@ -13809,6 +13785,9 @@
     "2026-10-14": {
       "morning": true,
       "night": true
+    },
+    "2026-10-15": {
+      "morning": true
     }
   },
   "sent_updates": {
