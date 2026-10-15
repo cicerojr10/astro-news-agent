@@ -12489,6 +12489,30 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-iss-cargo-mission-docking",
       "score": 2.8,
       "published_utc": "2026-10-15T04:05:00+00:00"
+    },
+    "1f5737e1544ae80fbcdf75a8": {
+      "ts": 1792077729,
+      "source": "NASA Breaking News",
+      "title": "Chandra Finds Possible Origin of ‘Treble Clef’ Waves",
+      "link": "https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves/",
+      "score": 4.0,
+      "published_utc": "2026-10-15T14:19:06+00:00"
+    },
+    "30affb011983269366f2db2f": {
+      "ts": 1792077731,
+      "source": "Space.com",
+      "title": "Scientists discover 'chemical starter kit' for life in planetary birthplaces",
+      "link": "https://www.space.com/space-exploration/search-for-life/scientists-discover-chemical-starter-kit-for-life-in-planetary-birthplaces",
+      "score": 2.8,
+      "published_utc": "2026-10-15T12:00:00+00:00"
+    },
+    "04810fa6459ee33d2009590c": {
+      "ts": 1792077731,
+      "source": "Space.com",
+      "title": "SpaceX Cargo Dragon delivers more than 6,000 pounds of supplies to the ISS",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-iss-cargo-mission-docking",
+      "score": 2.8,
+      "published_utc": "2026-10-15T04:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -13139,6 +13163,18 @@
       "day_brt": "2026-10-04",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek Mars Science Laboratory Mission Team Members Oct 04, 2026 Article NASA's Mars rover Curiosity acquired this image of the “Basque Lakes” drill site after the pre-load test, using its Mars Hand Lens Imager (MAHLI), a close-up camera located on the turret at the end of the rover's robotic arm.",
       "queued_ts": 1791164546
+    },
+    {
+      "fp": "1f5737e1544ae80fbcdf75a8",
+      "title": "Chandra Finds Possible Origin of ‘Treble Clef’ Waves",
+      "link": "https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-15T14:19:06+00:00",
+      "day_brt": "2026-10-15",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Chandra Finds Possible Origin of ‘Treble Clef’ Waves HQ Web Team Oct 15, 2026 Image Article X-ray: NASA/CXC/INAF-IRA/A. Botteon et al.; Infrared: UKIDSS-GPS ; Radio: ASTRON/LOFAR; Image processing: NASA/CXC/SAO/N.",
+      "queued_ts": 1792077731
     }
   ],
   "digests_sent": {
@@ -13841,7 +13877,8 @@
     },
     "2026-10-15": {
       "b2eddfde741e5ea9b3540246": true,
-      "c33326d89de8c27f44cedbad": true
+      "c33326d89de8c27f44cedbad": true,
+      "1f5737e1544ae80fbcdf75a8": true
     }
   }
 }
