@@ -12649,6 +12649,30 @@
       "link": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
       "score": 4.0,
       "published_utc": "2026-10-16T14:24:29+00:00"
+    },
+    "a76a7ff6c6b1ff597954bd98": {
+      "ts": 1792173807,
+      "source": "Space.com",
+      "title": "SpaceX thrusters just made a Tesla Roadster 'fly' (and Elon Musk's car is still out there in space)",
+      "link": "https://www.space.com/technology/spacex-thrusters-just-made-a-tesla-roadster-fly-and-elon-musks-car-is-still-out-there-in-space",
+      "score": 2.8,
+      "published_utc": "2026-10-16T17:38:34+00:00"
+    },
+    "ba051dd525555da5376206d4": {
+      "ts": 1792173807,
+      "source": "Space.com",
+      "title": "On this day in space! Oct. 16, 1975: NASA launches the 1st-ever GOES weather satellite to watch Earth from space",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-16-2026",
+      "score": 2.8,
+      "published_utc": "2026-10-16T17:19:02+00:00"
+    },
+    "61eabf6695a93a1ed5933684": {
+      "ts": 1792173807,
+      "source": "Space.com",
+      "title": "'Mission: 60s' event promises passport back to the Space Age",
+      "link": "https://www.space.com/space-exploration/apollo/rocket-back-to-the-space-age-with-mission-60s-event-in-nyc-next-weekend",
+      "score": 2.8,
+      "published_utc": "2026-10-16T16:00:00+00:00"
     }
   },
   "digest_queue": [
