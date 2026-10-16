@@ -12673,6 +12673,30 @@
       "link": "https://www.space.com/space-exploration/apollo/rocket-back-to-the-space-age-with-mission-60s-event-in-nyc-next-weekend",
       "score": 2.8,
       "published_utc": "2026-10-16T16:00:00+00:00"
+    },
+    "2f0ea86530dd708587a7de65": {
+      "ts": 1792192177,
+      "source": "NASA Breaking News",
+      "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
+      "link": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+      "score": 4.0,
+      "published_utc": "2026-10-16T20:14:39+00:00"
+    },
+    "409afd1a41044c52056af78d": {
+      "ts": 1792192177,
+      "source": "NASA Breaking News",
+      "title": "Artemis II Heat Shield After Splashdown",
+      "link": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/",
+      "score": 4.0,
+      "published_utc": "2026-10-16T16:28:01+00:00"
+    },
+    "a39dfee3ab79871a1e7a9406": {
+      "ts": 1792192179,
+      "source": "Space.com",
+      "title": "'It really does change you': SpaceX Crew-12 commander wishes we could all see our fragile Earth from space",
+      "link": "https://www.space.com/space-exploration/international-space-station/it-really-does-change-you-spacex-crew-12-commander-wishes-we-could-all-see-our-fragile-earth-from-space",
+      "score": 2.8,
+      "published_utc": "2026-10-16T22:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -13335,18 +13359,6 @@
       "day_brt": "2026-10-15",
       "resumo_pt": "Resumo (PT-BR): Space Force October 15, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket lifts off from Space Launch Complex 4 East at Vandenberg Space Force Base on the USSF-481 mission on Oct. As the bugle call and National Anthem sounded across Vandenberg Space Force Base, a SpaceX Falcon 9 rocket launched carrying a classified payload for the United States Space Force on Thursday evening.",
       "queued_ts": 1792112513
-    },
-    {
-      "fp": "d95e90053b075c3229fc7cff",
-      "title": "I Am Artemis: Allison Mjoen",
-      "link": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-16T14:24:29+00:00",
-      "day_brt": "2026-10-16",
-      "resumo_pt": "Resumo (PT-BR): 3 Min Read I Am Artemis: Allison Mjoen Matina Douzenis Communication Strategist Oct 16, 2026 Article As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride. Mjoen, NASA’s operations manager for the agency’s Exploration Ground Systems program, helped shape the systems and ground operations that will one day send humans back to the Moon.",
-      "queued_ts": 1792162961
     }
   ],
   "digests_sent": {
@@ -13999,7 +14011,8 @@
       "night": true
     },
     "2026-10-16": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -14066,7 +14079,9 @@
       "4d30eb42520bd766a8798c4a": true,
       "454de2f79e64722d48411ef4": true,
       "6a16c6d8fe4b4ee9466a16c2": true,
-      "d95e90053b075c3229fc7cff": true
+      "d95e90053b075c3229fc7cff": true,
+      "2f0ea86530dd708587a7de65": true,
+      "409afd1a41044c52056af78d": true
     }
   }
 }
