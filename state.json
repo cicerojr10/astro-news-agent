@@ -12577,6 +12577,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-space-force-launch-ussf-481-vandenberg",
       "score": 2.8,
       "published_utc": "2026-10-15T18:00:00+00:00"
+    },
+    "01ac78a92b1b039ff99111bc": {
+      "ts": 1792112512,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches a classified payload for U.S. Space Force",
+      "link": "https://spaceflightnow.com/2026/10/15/live-coverage-spacex-to-launch-classified-payload-for-u-s-space-force/",
+      "score": 3.6,
+      "published_utc": "2026-10-15T19:11:45+00:00"
+    },
+    "f1736ec115025a0c5f03ae25": {
+      "ts": 1792112513,
+      "source": "Space.com",
+      "title": "SpaceX launches classified mission for the US Space Force (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-space-force-launch-ussf-481-vandenberg",
+      "score": 2.8,
+      "published_utc": "2026-10-15T18:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -13227,6 +13243,18 @@
       "day_brt": "2026-10-04",
       "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek Mars Science Laboratory Mission Team Members Oct 04, 2026 Article NASA's Mars rover Curiosity acquired this image of the “Basque Lakes” drill site after the pre-load test, using its Mars Hand Lens Imager (MAHLI), a close-up camera located on the turret at the end of the rover's robotic arm.",
       "queued_ts": 1791164546
+    },
+    {
+      "fp": "01ac78a92b1b039ff99111bc",
+      "title": "SpaceX launches a classified payload for U.S. Space Force",
+      "link": "https://spaceflightnow.com/2026/10/15/live-coverage-spacex-to-launch-classified-payload-for-u-s-space-force/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-10-15T19:11:45+00:00",
+      "day_brt": "2026-10-15",
+      "resumo_pt": "Resumo (PT-BR): Space Force October 15, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket lifts off from Space Launch Complex 4 East at Vandenberg Space Force Base on the USSF-481 mission on Oct. As the bugle call and National Anthem sounded across Vandenberg Space Force Base, a SpaceX Falcon 9 rocket launched carrying a classified payload for the United States Space Force on Thursday evening.",
+      "queued_ts": 1792112513
     }
   ],
   "digests_sent": {
@@ -13934,7 +13962,8 @@
       "1f5737e1544ae80fbcdf75a8": true,
       "479613685d677e9996028635": true,
       "3efa892c36455721d53157aa": true,
-      "91c2e1a88412ab55566597d9": true
+      "91c2e1a88412ab55566597d9": true,
+      "01ac78a92b1b039ff99111bc": true
     }
   }
 }
