@@ -12641,6 +12641,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-pushes-1st-launch-of-next-gen-neutron-rocket-to-2027",
       "score": 8.399999999999999,
       "published_utc": "2026-10-16T12:00:00+00:00"
+    },
+    "d95e90053b075c3229fc7cff": {
+      "ts": 1792162955,
+      "source": "NASA Breaking News",
+      "title": "I Am Artemis: Allison Mjoen",
+      "link": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
+      "score": 4.0,
+      "published_utc": "2026-10-16T14:24:29+00:00"
     }
   },
   "digest_queue": [
@@ -13303,6 +13311,18 @@
       "day_brt": "2026-10-15",
       "resumo_pt": "Resumo (PT-BR): Space Force October 15, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket lifts off from Space Launch Complex 4 East at Vandenberg Space Force Base on the USSF-481 mission on Oct. As the bugle call and National Anthem sounded across Vandenberg Space Force Base, a SpaceX Falcon 9 rocket launched carrying a classified payload for the United States Space Force on Thursday evening.",
       "queued_ts": 1792112513
+    },
+    {
+      "fp": "d95e90053b075c3229fc7cff",
+      "title": "I Am Artemis: Allison Mjoen",
+      "link": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-16T14:24:29+00:00",
+      "day_brt": "2026-10-16",
+      "resumo_pt": "Resumo (PT-BR): 3 Min Read I Am Artemis: Allison Mjoen Matina Douzenis Communication Strategist Oct 16, 2026 Article As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride. Mjoen, NASA’s operations manager for the agency’s Exploration Ground Systems program, helped shape the systems and ground operations that will one day send humans back to the Moon.",
+      "queued_ts": 1792162961
     }
   ],
   "digests_sent": {
@@ -14021,7 +14041,8 @@
       "672b3dfbddc7bdcea38bb5be": true,
       "4d30eb42520bd766a8798c4a": true,
       "454de2f79e64722d48411ef4": true,
-      "6a16c6d8fe4b4ee9466a16c2": true
+      "6a16c6d8fe4b4ee9466a16c2": true,
+      "d95e90053b075c3229fc7cff": true
     }
   }
 }
