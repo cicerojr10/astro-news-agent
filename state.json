@@ -13367,18 +13367,6 @@
       "day_brt": "2026-10-15",
       "resumo_pt": "Resumo (PT-BR): Space Force October 15, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket lifts off from Space Launch Complex 4 East at Vandenberg Space Force Base on the USSF-481 mission on Oct. As the bugle call and National Anthem sounded across Vandenberg Space Force Base, a SpaceX Falcon 9 rocket launched carrying a classified payload for the United States Space Force on Thursday evening.",
       "queued_ts": 1792112513
-    },
-    {
-      "fp": "b8d47c616dbb15703f85a75e",
-      "title": "APOD: 2026 October 17 – 3D 67P",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-17T04:05:00+00:00",
-      "day_brt": "2026-10-17",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1792229874
     }
   ],
   "digests_sent": {
@@ -14033,6 +14021,9 @@
     "2026-10-16": {
       "morning": true,
       "night": true
+    },
+    "2026-10-17": {
+      "morning": true
     }
   },
   "sent_updates": {
