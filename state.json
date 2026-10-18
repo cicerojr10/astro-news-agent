@@ -12745,6 +12745,14 @@
       "link": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
       "score": 4.680000000000001,
       "published_utc": "2026-10-18T16:32:02+00:00"
+    },
+    "277b9ba30bd93ddabde2ff92": {
+      "ts": 1792364580,
+      "source": "NASASpaceflight",
+      "title": "Falcon 9 set to launch Bandwagon-5 rideshare mission from Florida",
+      "link": "https://www.nasaspaceflight.com/2026/10/bandwagon-5/",
+      "score": 3.6,
+      "published_utc": "2026-10-18T22:29:48+00:00"
     }
   },
   "digest_queue": [
@@ -13407,30 +13415,6 @@
       "day_brt": "2026-10-15",
       "resumo_pt": "Resumo (PT-BR): Space Force October 15, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket lifts off from Space Launch Complex 4 East at Vandenberg Space Force Base on the USSF-481 mission on Oct. As the bugle call and National Anthem sounded across Vandenberg Space Force Base, a SpaceX Falcon 9 rocket launched carrying a classified payload for the United States Space Force on Thursday evening.",
       "queued_ts": 1792112513
-    },
-    {
-      "fp": "823cf24b048829530da48297",
-      "title": "SpaceX working through Starship Flight 15 and 16 milestones",
-      "link": "https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-10-18T16:31:04+00:00",
-      "day_brt": "2026-10-18",
-      "resumo_pt": "Resumo (PT-BR): SpaceX working through Starship Flight 15 and 16 milestones by Chris Bergin and Arran Reid October 18, 2026 written by Chris Bergin and Arran Reid October 18, 2026 1 SpaceX is advancing toward its next two Starship missions as the company looks to close out 2026. Flight 15 is targeting November, with the goal of catching both the booster and the Ship.",
-      "queued_ts": 1792341155
-    },
-    {
-      "fp": "3689ad9493cea926aebcd9ed",
-      "title": "Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission",
-      "link": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-10-18T16:32:02+00:00",
-      "day_brt": "2026-10-18",
-      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission October 18, 2026 Will Robinson-Smith Many of the 32 payloads onboard SpaceX’s Bandwagon-5 rideshare mission are pictured prior to full encapsulation inside a Falcon 9 payload fairing. Image: SpaceX SpaceX will fly its uncrewed reentry Starfall capsule aboard the Bandwagon-5 rideshare mission from Cape Canaveral Space Force Station, scheduled for launch before dawn on Monday.",
-      "queued_ts": 1792349470
     }
   ],
   "digests_sent": {
@@ -14091,7 +14075,8 @@
       "night": true
     },
     "2026-10-18": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -14144,7 +14129,8 @@
     "2026-10-18": {
       "8bda5769fb4907029af6252e": true,
       "823cf24b048829530da48297": true,
-      "3689ad9493cea926aebcd9ed": true
+      "3689ad9493cea926aebcd9ed": true,
+      "277b9ba30bd93ddabde2ff92": true
     }
   }
 }
