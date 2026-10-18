@@ -12729,6 +12729,14 @@
       "link": "https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way",
       "score": 2.8,
       "published_utc": "2026-10-18T12:00:00+00:00"
+    },
+    "823cf24b048829530da48297": {
+      "ts": 1792341154,
+      "source": "NASASpaceflight",
+      "title": "SpaceX working through Starship Flight 15 and 16 milestones",
+      "link": "https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/",
+      "score": 3.6,
+      "published_utc": "2026-10-18T16:31:04+00:00"
     }
   },
   "digest_queue": [
@@ -13391,6 +13399,18 @@
       "day_brt": "2026-10-15",
       "resumo_pt": "Resumo (PT-BR): Space Force October 15, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket lifts off from Space Launch Complex 4 East at Vandenberg Space Force Base on the USSF-481 mission on Oct. As the bugle call and National Anthem sounded across Vandenberg Space Force Base, a SpaceX Falcon 9 rocket launched carrying a classified payload for the United States Space Force on Thursday evening.",
       "queued_ts": 1792112513
+    },
+    {
+      "fp": "823cf24b048829530da48297",
+      "title": "SpaceX working through Starship Flight 15 and 16 milestones",
+      "link": "https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-10-18T16:31:04+00:00",
+      "day_brt": "2026-10-18",
+      "resumo_pt": "Resumo (PT-BR): SpaceX working through Starship Flight 15 and 16 milestones by Chris Bergin and Arran Reid October 18, 2026 written by Chris Bergin and Arran Reid October 18, 2026 1 SpaceX is advancing toward its next two Starship missions as the company looks to close out 2026. Flight 15 is targeting November, with the goal of catching both the booster and the Ship.",
+      "queued_ts": 1792341155
     }
   ],
   "digests_sent": {
@@ -14102,7 +14122,8 @@
       "80f604087f39f47f588c9771": true
     },
     "2026-10-18": {
-      "8bda5769fb4907029af6252e": true
+      "8bda5769fb4907029af6252e": true,
+      "823cf24b048829530da48297": true
     }
   }
 }
