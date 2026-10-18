@@ -12713,6 +12713,22 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-17-2026",
       "score": 11.2,
       "published_utc": "2026-10-17T14:49:01+00:00"
+    },
+    "8bda5769fb4907029af6252e": {
+      "ts": 1792329124,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
+      "score": 4.0,
+      "published_utc": "2026-10-18T04:05:00+00:00"
+    },
+    "5c9f4e25a16c9c07335dbb24": {
+      "ts": 1792329127,
+      "source": "Space.com",
+      "title": "Astronomers want your help finding 'missing' black holes in the Milky Way",
+      "link": "https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way",
+      "score": 2.8,
+      "published_utc": "2026-10-18T12:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -14033,34 +14049,12 @@
     "2026-10-17": {
       "morning": true,
       "night": true
+    },
+    "2026-10-18": {
+      "morning": true
     }
   },
   "sent_updates": {
-    "2026-10-08": {
-      "42fb4497138af58dc487c320": true,
-      "7b7bbd38a656f6d16aae80fc": true,
-      "b3ebf66da4040420148c55c2": true,
-      "54d524f313a7dd375b3f8599": true,
-      "d869254c8bc4b7c672ada050": true,
-      "36706b876e9330d6ff39ed1b": true,
-      "8251877e5cde439962ac3629": true,
-      "5ff51c13f61ab61ef0abd48e": true
-    },
-    "2026-10-09": {
-      "aa9197cf40fefa3fd53de2f3": true,
-      "d278b02269bcbb694aacd0bf": true,
-      "4adab9606b7fd12596dfb92e": true,
-      "0ff301b0659f84625f24cc28": true,
-      "5b5d903c156d722777c3c7b1": true
-    },
-    "2026-10-10": {
-      "d042268a84d8666b5f8be247": true,
-      "2315d24ff2c6a85aee998795": true
-    },
-    "2026-10-11": {
-      "614cc810046e226eacdd6e74": true,
-      "1ef3cb9387b6fd6e2ba6eb6d": true
-    },
     "2026-10-12": {
       "7d20f6e8d96ac9a596646af9": true,
       "2b27714a1c24d92aebc791e6": true,
@@ -14106,6 +14100,9 @@
     "2026-10-17": {
       "b8d47c616dbb15703f85a75e": true,
       "80f604087f39f47f588c9771": true
+    },
+    "2026-10-18": {
+      "8bda5769fb4907029af6252e": true
     }
   }
 }
