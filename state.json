@@ -13375,18 +13375,6 @@
       "day_brt": "2026-10-15",
       "resumo_pt": "Resumo (PT-BR): Space Force October 15, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket lifts off from Space Launch Complex 4 East at Vandenberg Space Force Base on the USSF-481 mission on Oct. As the bugle call and National Anthem sounded across Vandenberg Space Force Base, a SpaceX Falcon 9 rocket launched carrying a classified payload for the United States Space Force on Thursday evening.",
       "queued_ts": 1792112513
-    },
-    {
-      "fp": "80f604087f39f47f588c9771",
-      "title": "On this day in space! Oct. 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-17-2026",
-      "source": "Space.com",
-      "score": 11.2,
-      "is_anomaly": true,
-      "published_utc": "2026-10-17T14:49:01+00:00",
-      "day_brt": "2026-10-17",
-      "resumo_pt": "Resumo (PT-BR): 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion News By Hanneke Weitering Contributions by Robert Z. Pearlman Published 17 October 2026 The successful Antares launch restored U.S.",
-      "queued_ts": 1792254030
     }
   ],
   "digests_sent": {
@@ -14043,7 +14031,8 @@
       "night": true
     },
     "2026-10-17": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
