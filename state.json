@@ -12753,6 +12753,23 @@
       "link": "https://www.nasaspaceflight.com/2026/10/bandwagon-5/",
       "score": 3.6,
       "published_utc": "2026-10-18T22:29:48+00:00"
+    },
+    "c0f3cd5e84b37e8fe29b13a4": {
+      "ts": 1792414546,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/",
+      "score": 4.0,
+      "published_utc": "2026-10-19T04:05:00+00:00"
+    },
+    "248cf4c8350a6f160c109018": {
+      "ts": 1792414547,
+      "source": "Spaceflight Now",
+      "title": "Poor weather forces scrub of Monday launch attempt of Bandwagon-5, SpaceX now targeting Tuesday",
+      "link": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
+      "score": 0.0,
+      "published_utc": "2026-10-18T16:32:02+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -14077,6 +14094,9 @@
     "2026-10-18": {
       "morning": true,
       "night": true
+    },
+    "2026-10-19": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -14131,6 +14151,9 @@
       "823cf24b048829530da48297": true,
       "3689ad9493cea926aebcd9ed": true,
       "277b9ba30bd93ddabde2ff92": true
+    },
+    "2026-10-19": {
+      "c0f3cd5e84b37e8fe29b13a4": true
     }
   }
 }
