@@ -12802,6 +12802,30 @@
       "link": "https://www.space.com/astronomy/stars/theyre-kind-of-goth-nasa-spacecraft-gives-mysterious-brown-dwarfs-a-close-up",
       "score": 2.8,
       "published_utc": "2026-10-19T15:06:38+00:00"
+    },
+    "9f949c1009dca1a5816a7e22": {
+      "ts": 1792435975,
+      "source": "NASA Breaking News",
+      "title": "Software",
+      "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/",
+      "score": 4.0,
+      "published_utc": "2026-10-19T18:11:40+00:00"
+    },
+    "9268fc8994217e96496dcb5e": {
+      "ts": 1792435975,
+      "source": "NASA Breaking News",
+      "title": "Experimental Facilities",
+      "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/",
+      "score": 4.0,
+      "published_utc": "2026-10-19T18:08:52+00:00"
+    },
+    "5f034349e778a0d53939dd6d": {
+      "ts": 1792435975,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Simulated Mars Crew Marks One Year Inside Habitat",
+      "link": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/",
+      "score": 4.0,
+      "published_utc": "2026-10-19T18:01:51+00:00"
     }
   },
   "digest_queue": [
@@ -13500,6 +13524,42 @@
       "day_brt": "2026-10-19",
       "resumo_pt": "Resumo (PT-BR): PLD Space begins system-level testing of Miura 5 as first three vehicles take shape by Chris Bergin October 19, 2026 written by Chris Bergin October 19, 2026 5 PLD Space has entered a new phase ahead of the first demonstration flight of its Miura 5 orbital launcher. The company is beginning system-level test campaigns on a fully integrated second stage while completing subsystem validation, manufacturing the first three vehicles, and expanding its industrial capabilities.",
       "queued_ts": 1792429993
+    },
+    {
+      "fp": "9f949c1009dca1a5816a7e22",
+      "title": "Software",
+      "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-19T18:11:40+00:00",
+      "day_brt": "2026-10-19",
+      "resumo_pt": "Resumo (PT-BR): Danielle Koch Ann Koppitch Oct 19, 2026 Article Contents JeNo MGBK V072 TFaNS Linflux BFANS RSI WOBBLE MPT ADPAC Contact Us Research teams at NASA’s Glenn Research Center are involved in developing theory and software to predict the noise from aircraft engines. This software helps engineers to design and analyze new and improved aircraft propulsion systems.",
+      "queued_ts": 1792435980
+    },
+    {
+      "fp": "9268fc8994217e96496dcb5e",
+      "title": "Experimental Facilities",
+      "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-19T18:08:52+00:00",
+      "day_brt": "2026-10-19",
+      "resumo_pt": "Resumo (PT-BR): Danielle Koch Ann Koppitch Oct 19, 2026 Article Contents 9x15 Low-Speed Wind Tunnel (9x15 LSWT) Aero-Acoustic Propulsion Laboratory (AAPL) Small Hot Jet Acoustic Rig (SHJAR) Nozzle Acoustic Test Rig (NATR) DGEN AeroPropulsion Research Turbofan (DART) Acoustical Testing Laboratory Contact Us Research teams at the NASA Glenn Research Center perform experiments in world-class facilities such as the 9- by 15-Foot Low-Speed Wind Tunnel (9 x15 LSWT), the Aero-Acoustic Propulsion Laboratory (AAPL), the Small Hot Jet Acoustic Rig (SHJAR), the Nozzle Acoustic Test Rig (NATR), the DGEN AeroPropulsion Research Turbofan (DART), and the Acoustical Testing Laboratory (ATL). 9×15 Low-Speed Wind Tunnel (9×15 LSWT) The 9- by 15-Foot Low Speed Wind Tunnel is specially designed to give researchers a controlled environment to study aircraft engine aerodynamics and acoustics at takeoff and landing conditions.",
+      "queued_ts": 1792435980
+    },
+    {
+      "fp": "5f034349e778a0d53939dd6d",
+      "title": "NASA’s Simulated Mars Crew Marks One Year Inside Habitat",
+      "link": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-19T18:01:51+00:00",
+      "day_brt": "2026-10-19",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA’s Simulated Mars Crew Marks One Year Inside Habitat HRP Communications Team HRP Communications Team Oct 19, 2026 Article Members of NASA’s CHAPEA (Crew Health and Performance Exploration Analog) Mission 2 crew stands in their workspace after spending a year in their isolated and confined habitat at NASA’s Johnson Space Center in Houston. (from left: James Spicer, Matthew Montgomery, Ellen Ellis, and Ross Elder).",
+      "queued_ts": 1792435980
     }
   ],
   "digests_sent": {
@@ -14224,7 +14284,10 @@
       "c0f3cd5e84b37e8fe29b13a4": true,
       "66cb9176d3c9dd1fe4cc8ce4": true,
       "99a0b749ddd0820c005f3dcb": true,
-      "a514a343d8f2341f294b7d03": true
+      "a514a343d8f2341f294b7d03": true,
+      "9f949c1009dca1a5816a7e22": true,
+      "9268fc8994217e96496dcb5e": true,
+      "5f034349e778a0d53939dd6d": true
     }
   }
 }
