@@ -12770,6 +12770,38 @@
       "score": 0.0,
       "published_utc": "2026-10-18T16:32:02+00:00",
       "note": "not_today"
+    },
+    "66cb9176d3c9dd1fe4cc8ce4": {
+      "ts": 1792429988,
+      "source": "NASA Breaking News",
+      "title": "Instrumentation",
+      "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/",
+      "score": 4.0,
+      "published_utc": "2026-10-19T16:37:45+00:00"
+    },
+    "99a0b749ddd0820c005f3dcb": {
+      "ts": 1792429988,
+      "source": "NASA Breaking News",
+      "title": "Martian Dawn",
+      "link": "https://www.nasa.gov/image-article/martian-dawn/",
+      "score": 4.0,
+      "published_utc": "2026-10-19T16:03:51+00:00"
+    },
+    "a514a343d8f2341f294b7d03": {
+      "ts": 1792429991,
+      "source": "NASASpaceflight",
+      "title": "PLD Space begins system-level testing of Miura 5 as first three vehicles take shape",
+      "link": "https://www.nasaspaceflight.com/2026/10/pld-system-level-testing-miura-5-three-vehicles/",
+      "score": 3.6,
+      "published_utc": "2026-10-19T13:35:12+00:00"
+    },
+    "d733c4f33e6d24f224ca51fd": {
+      "ts": 1792429991,
+      "source": "Space.com",
+      "title": "'They're kind of goth': NASA spacecraft gives mysterious brown dwarfs a close-up",
+      "link": "https://www.space.com/astronomy/stars/theyre-kind-of-goth-nasa-spacecraft-gives-mysterious-brown-dwarfs-a-close-up",
+      "score": 2.8,
+      "published_utc": "2026-10-19T15:06:38+00:00"
     }
   },
   "digest_queue": [
@@ -13432,6 +13464,42 @@
       "day_brt": "2026-10-15",
       "resumo_pt": "Resumo (PT-BR): Space Force October 15, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket lifts off from Space Launch Complex 4 East at Vandenberg Space Force Base on the USSF-481 mission on Oct. As the bugle call and National Anthem sounded across Vandenberg Space Force Base, a SpaceX Falcon 9 rocket launched carrying a classified payload for the United States Space Force on Thursday evening.",
       "queued_ts": 1792112513
+    },
+    {
+      "fp": "66cb9176d3c9dd1fe4cc8ce4",
+      "title": "Instrumentation",
+      "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-19T16:37:45+00:00",
+      "day_brt": "2026-10-19",
+      "resumo_pt": "Resumo (PT-BR): Danielle Koch Ann Koppitch Oct 19, 2026 Article Contents Rotating Rake Mode Measurement System (RRMS) Microphone Phased Arrays Hotwire, Hotfilm, and Laser Doppler Velocimetry Contact Us To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software.",
+      "queued_ts": 1792429993
+    },
+    {
+      "fp": "99a0b749ddd0820c005f3dcb",
+      "title": "Martian Dawn",
+      "link": "https://www.nasa.gov/image-article/martian-dawn/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-19T16:03:51+00:00",
+      "day_brt": "2026-10-19",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Martian Dawn HQ Web Team Oct 19, 2026 Image Article NASA/JPL-Caltech/MSSS NASA’s Curiosity captures the dawn on Mars – as well as elongated ridges formed by wind erosion, or yardangs – in this close-up from a panorama released on Oct. This is the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to see up close.",
+      "queued_ts": 1792429993
+    },
+    {
+      "fp": "a514a343d8f2341f294b7d03",
+      "title": "PLD Space begins system-level testing of Miura 5 as first three vehicles take shape",
+      "link": "https://www.nasaspaceflight.com/2026/10/pld-system-level-testing-miura-5-three-vehicles/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-10-19T13:35:12+00:00",
+      "day_brt": "2026-10-19",
+      "resumo_pt": "Resumo (PT-BR): PLD Space begins system-level testing of Miura 5 as first three vehicles take shape by Chris Bergin October 19, 2026 written by Chris Bergin October 19, 2026 5 PLD Space has entered a new phase ahead of the first demonstration flight of its Miura 5 orbital launcher. The company is beginning system-level test campaigns on a fully integrated second stage while completing subsystem validation, manufacturing the first three vehicles, and expanding its industrial capabilities.",
+      "queued_ts": 1792429993
     }
   ],
   "digests_sent": {
@@ -14153,7 +14221,10 @@
       "277b9ba30bd93ddabde2ff92": true
     },
     "2026-10-19": {
-      "c0f3cd5e84b37e8fe29b13a4": true
+      "c0f3cd5e84b37e8fe29b13a4": true,
+      "66cb9176d3c9dd1fe4cc8ce4": true,
+      "99a0b749ddd0820c005f3dcb": true,
+      "a514a343d8f2341f294b7d03": true
     }
   }
 }
