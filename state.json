@@ -12915,6 +12915,38 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starfall-return-capsule-launch-bandwagon-5-rideshare-mission",
       "score": 2.8,
       "published_utc": "2026-10-20T11:16:37+00:00"
+    },
+    "850348da6a9c9ebdf65fca8d": {
+      "ts": 1792524980,
+      "source": "NASA Breaking News",
+      "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
+      "link": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/",
+      "score": 4.0,
+      "published_utc": "2026-10-20T18:11:33+00:00"
+    },
+    "2f56b9999de9c2ba03a03515": {
+      "ts": 1792524980,
+      "source": "NASA Breaking News",
+      "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
+      "link": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
+      "score": 4.0,
+      "published_utc": "2026-10-20T16:02:35+00:00"
+    },
+    "889d0d1373e0d5a6007ef448": {
+      "ts": 1792524982,
+      "source": "NASASpaceflight",
+      "title": "Falcon 9 launches Bandwagon-5 rideshare mission from Florida",
+      "link": "https://www.nasaspaceflight.com/2026/10/bandwagon-5/",
+      "score": 3.6,
+      "published_utc": "2026-10-20T05:01:48+00:00"
+    },
+    "876f170ed5e440e5f7bfb1dc": {
+      "ts": 1792524983,
+      "source": "Space.com",
+      "title": "Jeff Bezos is playing the long game with Blue Origin (op-ed)",
+      "link": "https://www.space.com/space-exploration/private-spaceflight/jeff-bezos-is-playing-the-long-game-with-blue-origin-op-ed",
+      "score": 2.8,
+      "published_utc": "2026-10-20T18:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -13601,6 +13633,42 @@
       "day_brt": "2026-10-20",
       "resumo_pt": "Resumo (PT-BR): 3 min read NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory Elizabeth Shaw Oct 20, 2026 Article Credit: NASA The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe, transparent, and responsible civil space exploration. “Uzbekistan joins the Artemis Accords at a pivotal moment,” said NASA Deputy Administrator Matt Anderson.",
       "queued_ts": 1792509874
+    },
+    {
+      "fp": "850348da6a9c9ebdf65fca8d",
+      "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
+      "link": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-20T18:11:33+00:00",
+      "day_brt": "2026-10-20",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module Jacqueline Minerd Public Affairs Specialist Oct 20, 2026 Article Space Reactor-1 Freedom will be the first spacecraft ever to demonstrate fission power beyond Earth’s orbit, traveling to Mars to deliver a science payload called SkyFall. NASA/Alberto Bertolin Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit.",
+      "queued_ts": 1792524985
+    },
+    {
+      "fp": "2f56b9999de9c2ba03a03515",
+      "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
+      "link": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-20T16:02:35+00:00",
+      "day_brt": "2026-10-20",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Experimental Mars Helicopter Blade Designs Target Longer Flights Arezu Sarvestani Public Affairs Officer Oct 20, 2026 Article Ingenuity roamx-0201 Ingenuity roamx-0201 Ingenuity roamx-0201 Curtain Toggle 2-Up Image Details Rotor blade cross-sections highlight the thinner profile of the roamx-0201 design (right) compared to the more traditional, rounded shape used by NASA’s Ingenuity Mars helicopter, which accomplished the first powered flight on Mars. NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet.",
+      "queued_ts": 1792524985
+    },
+    {
+      "fp": "889d0d1373e0d5a6007ef448",
+      "title": "Falcon 9 launches Bandwagon-5 rideshare mission from Florida",
+      "link": "https://www.nasaspaceflight.com/2026/10/bandwagon-5/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-10-20T05:01:48+00:00",
+      "day_brt": "2026-10-20",
+      "resumo_pt": "Resumo (PT-BR): Falcon 9 launches Bandwagon-5 rideshare mission from Florida by Eleanor Day October 20, 2026 written by Eleanor Day October 20, 2026 47 Following on from the successful Transporter 18 mission at the beginning of the month, SpaceX’s Falcon 9 vehicle launched an additional 32 rideshare payloads for the Bandwagon-5 mission on Tuesday, Oct. Falcon 9 lifted off from Space Launch Complex 40 (SLC-40) at the Cape Canaveral Space Force Station in Florida.",
+      "queued_ts": 1792524985
     }
   ],
   "digests_sent": {
@@ -14338,7 +14406,10 @@
     "2026-10-20": {
       "cfda6533cdf306382158655f": true,
       "6ce273119cafeb9f54c8a2fe": true,
-      "bba3a85aa63e506a9c2f811c": true
+      "bba3a85aa63e506a9c2f811c": true,
+      "850348da6a9c9ebdf65fca8d": true,
+      "2f56b9999de9c2ba03a03515": true,
+      "889d0d1373e0d5a6007ef448": true
     }
   }
 }
