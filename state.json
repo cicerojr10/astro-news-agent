@@ -12850,6 +12850,14 @@
       "link": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
       "score": 4.0,
       "published_utc": "2026-10-19T19:28:32+00:00"
+    },
+    "cfda6533cdf306382158655f": {
+      "ts": 1792476079,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/",
+      "score": 4.0,
+      "published_utc": "2026-10-20T04:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -13512,6 +13520,18 @@
       "day_brt": "2026-10-15",
       "resumo_pt": "Resumo (PT-BR): Space Force October 15, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket lifts off from Space Launch Complex 4 East at Vandenberg Space Force Base on the USSF-481 mission on Oct. As the bugle call and National Anthem sounded across Vandenberg Space Force Base, a SpaceX Falcon 9 rocket launched carrying a classified payload for the United States Space Force on Thursday evening.",
       "queued_ts": 1792112513
+    },
+    {
+      "fp": "cfda6533cdf306382158655f",
+      "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-20T04:05:00+00:00",
+      "day_brt": "2026-10-20",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1792476082
     }
   ],
   "digests_sent": {
@@ -14242,6 +14262,9 @@
       "9268fc8994217e96496dcb5e": true,
       "5f034349e778a0d53939dd6d": true,
       "923c73dcc52eb5e2b007a422": true
+    },
+    "2026-10-20": {
+      "cfda6533cdf306382158655f": true
     }
   }
 }
