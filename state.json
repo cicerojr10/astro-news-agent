@@ -12842,6 +12842,14 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-19-2026",
       "score": 2.8,
       "published_utc": "2026-10-19T19:40:28+00:00"
+    },
+    "923c73dcc52eb5e2b007a422": {
+      "ts": 1792458909,
+      "source": "NASA Breaking News",
+      "title": "NASA Improves Shock, Vibration Analysis",
+      "link": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
+      "score": 4.0,
+      "published_utc": "2026-10-19T19:28:32+00:00"
     }
   },
   "digest_queue": [
@@ -13504,78 +13512,6 @@
       "day_brt": "2026-10-15",
       "resumo_pt": "Resumo (PT-BR): Space Force October 15, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket lifts off from Space Launch Complex 4 East at Vandenberg Space Force Base on the USSF-481 mission on Oct. As the bugle call and National Anthem sounded across Vandenberg Space Force Base, a SpaceX Falcon 9 rocket launched carrying a classified payload for the United States Space Force on Thursday evening.",
       "queued_ts": 1792112513
-    },
-    {
-      "fp": "66cb9176d3c9dd1fe4cc8ce4",
-      "title": "Instrumentation",
-      "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-19T16:37:45+00:00",
-      "day_brt": "2026-10-19",
-      "resumo_pt": "Resumo (PT-BR): Danielle Koch Ann Koppitch Oct 19, 2026 Article Contents Rotating Rake Mode Measurement System (RRMS) Microphone Phased Arrays Hotwire, Hotfilm, and Laser Doppler Velocimetry Contact Us To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software.",
-      "queued_ts": 1792429993
-    },
-    {
-      "fp": "99a0b749ddd0820c005f3dcb",
-      "title": "Martian Dawn",
-      "link": "https://www.nasa.gov/image-article/martian-dawn/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-19T16:03:51+00:00",
-      "day_brt": "2026-10-19",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Martian Dawn HQ Web Team Oct 19, 2026 Image Article NASA/JPL-Caltech/MSSS NASA’s Curiosity captures the dawn on Mars – as well as elongated ridges formed by wind erosion, or yardangs – in this close-up from a panorama released on Oct. This is the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to see up close.",
-      "queued_ts": 1792429993
-    },
-    {
-      "fp": "a514a343d8f2341f294b7d03",
-      "title": "PLD Space begins system-level testing of Miura 5 as first three vehicles take shape",
-      "link": "https://www.nasaspaceflight.com/2026/10/pld-system-level-testing-miura-5-three-vehicles/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-10-19T13:35:12+00:00",
-      "day_brt": "2026-10-19",
-      "resumo_pt": "Resumo (PT-BR): PLD Space begins system-level testing of Miura 5 as first three vehicles take shape by Chris Bergin October 19, 2026 written by Chris Bergin October 19, 2026 5 PLD Space has entered a new phase ahead of the first demonstration flight of its Miura 5 orbital launcher. The company is beginning system-level test campaigns on a fully integrated second stage while completing subsystem validation, manufacturing the first three vehicles, and expanding its industrial capabilities.",
-      "queued_ts": 1792429993
-    },
-    {
-      "fp": "9f949c1009dca1a5816a7e22",
-      "title": "Software",
-      "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-19T18:11:40+00:00",
-      "day_brt": "2026-10-19",
-      "resumo_pt": "Resumo (PT-BR): Danielle Koch Ann Koppitch Oct 19, 2026 Article Contents JeNo MGBK V072 TFaNS Linflux BFANS RSI WOBBLE MPT ADPAC Contact Us Research teams at NASA’s Glenn Research Center are involved in developing theory and software to predict the noise from aircraft engines. This software helps engineers to design and analyze new and improved aircraft propulsion systems.",
-      "queued_ts": 1792435980
-    },
-    {
-      "fp": "9268fc8994217e96496dcb5e",
-      "title": "Experimental Facilities",
-      "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-19T18:08:52+00:00",
-      "day_brt": "2026-10-19",
-      "resumo_pt": "Resumo (PT-BR): Danielle Koch Ann Koppitch Oct 19, 2026 Article Contents 9x15 Low-Speed Wind Tunnel (9x15 LSWT) Aero-Acoustic Propulsion Laboratory (AAPL) Small Hot Jet Acoustic Rig (SHJAR) Nozzle Acoustic Test Rig (NATR) DGEN AeroPropulsion Research Turbofan (DART) Acoustical Testing Laboratory Contact Us Research teams at the NASA Glenn Research Center perform experiments in world-class facilities such as the 9- by 15-Foot Low-Speed Wind Tunnel (9 x15 LSWT), the Aero-Acoustic Propulsion Laboratory (AAPL), the Small Hot Jet Acoustic Rig (SHJAR), the Nozzle Acoustic Test Rig (NATR), the DGEN AeroPropulsion Research Turbofan (DART), and the Acoustical Testing Laboratory (ATL). 9×15 Low-Speed Wind Tunnel (9×15 LSWT) The 9- by 15-Foot Low Speed Wind Tunnel is specially designed to give researchers a controlled environment to study aircraft engine aerodynamics and acoustics at takeoff and landing conditions.",
-      "queued_ts": 1792435980
-    },
-    {
-      "fp": "5f034349e778a0d53939dd6d",
-      "title": "NASA’s Simulated Mars Crew Marks One Year Inside Habitat",
-      "link": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-19T18:01:51+00:00",
-      "day_brt": "2026-10-19",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA’s Simulated Mars Crew Marks One Year Inside Habitat HRP Communications Team HRP Communications Team Oct 19, 2026 Article Members of NASA’s CHAPEA (Crew Health and Performance Exploration Analog) Mission 2 crew stands in their workspace after spending a year in their isolated and confined habitat at NASA’s Johnson Space Center in Houston. (from left: James Spicer, Matthew Montgomery, Ellen Ellis, and Ross Elder).",
-      "queued_ts": 1792435980
     }
   ],
   "digests_sent": {
@@ -14240,7 +14176,8 @@
       "night": true
     },
     "2026-10-19": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -14303,7 +14240,8 @@
       "a514a343d8f2341f294b7d03": true,
       "9f949c1009dca1a5816a7e22": true,
       "9268fc8994217e96496dcb5e": true,
-      "5f034349e778a0d53939dd6d": true
+      "5f034349e778a0d53939dd6d": true,
+      "923c73dcc52eb5e2b007a422": true
     }
   }
 }
