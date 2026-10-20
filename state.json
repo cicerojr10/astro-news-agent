@@ -12947,6 +12947,22 @@
       "link": "https://www.space.com/space-exploration/private-spaceflight/jeff-bezos-is-playing-the-long-game-with-blue-origin-op-ed",
       "score": 2.8,
       "published_utc": "2026-10-20T18:00:00+00:00"
+    },
+    "c5ee116e83ae9b15a1a22a76": {
+      "ts": 1792535736,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-10-20T21:18:11+00:00"
+    },
+    "098febfb72a9e82048986b7e": {
+      "ts": 1792535737,
+      "source": "Space.com",
+      "title": "SpaceX will attempt 1st-ever double Starship rocket catch on next test launch, a 'profound technology milestone,' Elon Musk says",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-attempt-1st-ever-double-starship-rocket-catch-on-next-test-launch-a-profound-technology-milestone-elon-musk-says",
+      "score": 2.8,
+      "published_utc": "2026-10-20T22:29:46+00:00"
     }
   },
   "digest_queue": [
@@ -13669,6 +13685,18 @@
       "day_brt": "2026-10-20",
       "resumo_pt": "Resumo (PT-BR): Falcon 9 launches Bandwagon-5 rideshare mission from Florida by Eleanor Day October 20, 2026 written by Eleanor Day October 20, 2026 47 Following on from the successful Transporter 18 mission at the beginning of the month, SpaceX’s Falcon 9 vehicle launched an additional 32 rideshare payloads for the Bandwagon-5 mission on Tuesday, Oct. Falcon 9 lifted off from Space Launch Complex 40 (SLC-40) at the Cape Canaveral Space Force Station in Florida.",
       "queued_ts": 1792524985
+    },
+    {
+      "fp": "c5ee116e83ae9b15a1a22a76",
+      "title": "Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-10-20T21:18:11+00:00",
+      "day_brt": "2026-10-20",
+      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB October 20, 2026 Will Robinson-Smith A Falcon 9 rocket stands ready for launch from Vandenberg in this file photo. SpaceX is set to launch a batch of 27 Starlink satellites from Vandenberg Space Force Base in California Tuesday afternoon.",
+      "queued_ts": 1792535737
     }
   ],
   "digests_sent": {
@@ -14409,7 +14437,8 @@
       "bba3a85aa63e506a9c2f811c": true,
       "850348da6a9c9ebdf65fca8d": true,
       "2f56b9999de9c2ba03a03515": true,
-      "889d0d1373e0d5a6007ef448": true
+      "889d0d1373e0d5a6007ef448": true,
+      "c5ee116e83ae9b15a1a22a76": true
     }
   }
 }
