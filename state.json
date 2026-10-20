@@ -12874,6 +12874,47 @@
       "link": "https://www.space.com/astronomy/asteroids/nasa-closes-the-book-on-epic-osiris-rex-asteroid-sampling-mission-i-am-immensely-proud-of-what-we-did",
       "score": 2.8,
       "published_utc": "2026-10-20T10:00:00+00:00"
+    },
+    "6ce273119cafeb9f54c8a2fe": {
+      "ts": 1792509870,
+      "source": "NASA Breaking News",
+      "title": "Webb Captures Stellar Jets",
+      "link": "https://www.nasa.gov/image-article/webb-captures-stellar-jets/",
+      "score": 4.0,
+      "published_utc": "2026-10-20T14:44:09+00:00"
+    },
+    "bba3a85aa63e506a9c2f811c": {
+      "ts": 1792509870,
+      "source": "NASA Breaking News",
+      "title": "NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory",
+      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/",
+      "score": 4.0,
+      "published_utc": "2026-10-20T14:21:42+00:00"
+    },
+    "29c661bf688ab70c84e41978": {
+      "ts": 1792509872,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission",
+      "link": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
+      "score": 0.0,
+      "published_utc": "2026-10-18T16:32:02+00:00",
+      "note": "not_today"
+    },
+    "cf1f967713272edd5795cfde": {
+      "ts": 1792509873,
+      "source": "Space.com",
+      "title": "Could a $200K bond for satellites paid before launch prevent a space junk disaster in orbit? Here's why some scientists think so",
+      "link": "https://www.space.com/space-exploration/satellites/could-satellite-deorbit-deposits-prevent-a-space-debris-disaster",
+      "score": 2.8,
+      "published_utc": "2026-10-20T12:00:00+00:00"
+    },
+    "bd990a506d27be5fc32be4ba": {
+      "ts": 1792509873,
+      "source": "Space.com",
+      "title": "SpaceX launches its 'Starfall' return capsule for 2nd time ever (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starfall-return-capsule-launch-bandwagon-5-rideshare-mission",
+      "score": 2.8,
+      "published_utc": "2026-10-20T11:16:37+00:00"
     }
   },
   "digest_queue": [
@@ -13536,6 +13577,30 @@
       "day_brt": "2026-10-15",
       "resumo_pt": "Resumo (PT-BR): Space Force October 15, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket lifts off from Space Launch Complex 4 East at Vandenberg Space Force Base on the USSF-481 mission on Oct. As the bugle call and National Anthem sounded across Vandenberg Space Force Base, a SpaceX Falcon 9 rocket launched carrying a classified payload for the United States Space Force on Thursday evening.",
       "queued_ts": 1792112513
+    },
+    {
+      "fp": "6ce273119cafeb9f54c8a2fe",
+      "title": "Webb Captures Stellar Jets",
+      "link": "https://www.nasa.gov/image-article/webb-captures-stellar-jets/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-20T14:44:09+00:00",
+      "day_brt": "2026-10-20",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Webb Captures Stellar Jets HQ Web Team Oct 20, 2026 Image Article NASA’s James Webb Space Telescope has revealed many protostars and stars within the glowing gases of NGC 7129. Hot, atomic hydrogen gas is shown here in the golden region, while cooler, molecular hydrogen gas, shocked by embedded protostars, is represented in red.",
+      "queued_ts": 1792509874
+    },
+    {
+      "fp": "bba3a85aa63e506a9c2f811c",
+      "title": "NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory",
+      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-20T14:21:42+00:00",
+      "day_brt": "2026-10-20",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory Elizabeth Shaw Oct 20, 2026 Article Credit: NASA The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe, transparent, and responsible civil space exploration. “Uzbekistan joins the Artemis Accords at a pivotal moment,” said NASA Deputy Administrator Matt Anderson.",
+      "queued_ts": 1792509874
     }
   ],
   "digests_sent": {
@@ -14271,7 +14336,9 @@
       "923c73dcc52eb5e2b007a422": true
     },
     "2026-10-20": {
-      "cfda6533cdf306382158655f": true
+      "cfda6533cdf306382158655f": true,
+      "6ce273119cafeb9f54c8a2fe": true,
+      "bba3a85aa63e506a9c2f811c": true
     }
   }
 }
