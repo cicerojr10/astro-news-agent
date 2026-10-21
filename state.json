@@ -12979,6 +12979,30 @@
       "link": "https://www.space.com/space-exploration/satellites/russian-satellite-plays-cat-and-mouse-with-a-commercial-us-satellite-likely-used-by-ukraine-but-why-the-risky-close-encounter",
       "score": 2.8,
       "published_utc": "2026-10-21T10:00:00+00:00"
+    },
+    "f16ffbff5defc746c93f5e63": {
+      "ts": 1792596297,
+      "source": "NASA Breaking News",
+      "title": "Science on the Space Station with NASA Astronaut Jessica Watkins",
+      "link": "https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/",
+      "score": 4.0,
+      "published_utc": "2026-10-21T15:05:08+00:00"
+    },
+    "9badb3295ab889f7110b70bf": {
+      "ts": 1792596297,
+      "source": "NASA Breaking News",
+      "title": "NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface",
+      "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/",
+      "score": 4.0,
+      "published_utc": "2026-10-21T12:17:58+00:00"
+    },
+    "4ae36bbb7f72ef0c7c39689a": {
+      "ts": 1792596297,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/",
+      "score": 4.0,
+      "published_utc": "2026-10-21T04:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -13641,6 +13665,42 @@
       "day_brt": "2026-10-15",
       "resumo_pt": "Resumo (PT-BR): Space Force October 15, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket lifts off from Space Launch Complex 4 East at Vandenberg Space Force Base on the USSF-481 mission on Oct. As the bugle call and National Anthem sounded across Vandenberg Space Force Base, a SpaceX Falcon 9 rocket launched carrying a classified payload for the United States Space Force on Thursday evening.",
       "queued_ts": 1792112513
+    },
+    {
+      "fp": "f16ffbff5defc746c93f5e63",
+      "title": "Science on the Space Station with NASA Astronaut Jessica Watkins",
+      "link": "https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-21T15:05:08+00:00",
+      "day_brt": "2026-10-21",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Science on the Space Station with NASA Astronaut Jessica Watkins HQ Web Team Oct 21, 2026 Image Article NASA/Anil Menon NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module’s Life Science Glovebox on Oct. 9, 2026, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture.",
+      "queued_ts": 1792596302
+    },
+    {
+      "fp": "9badb3295ab889f7110b70bf",
+      "title": "NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface",
+      "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-21T12:17:58+00:00",
+      "day_brt": "2026-10-21",
+      "resumo_pt": "Resumo (PT-BR): Explore This Section Overview Technology Programs Technology Highlights Workshops and Events Publications 4 min read NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface NASA Science Editorial Team Oct 21, 2026 Article From orbit, today's space-based laser instruments measure Earth's forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure.",
+      "queued_ts": 1792596302
+    },
+    {
+      "fp": "4ae36bbb7f72ef0c7c39689a",
+      "title": "APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-21T04:05:00+00:00",
+      "day_brt": "2026-10-21",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1792596302
     }
   ],
   "digests_sent": {
@@ -14385,6 +14445,11 @@
       "889d0d1373e0d5a6007ef448": true,
       "c5ee116e83ae9b15a1a22a76": true,
       "fbcb71cd038bceddb070923c": true
+    },
+    "2026-10-21": {
+      "f16ffbff5defc746c93f5e63": true,
+      "9badb3295ab889f7110b70bf": true,
+      "4ae36bbb7f72ef0c7c39689a": true
     }
   }
 }
