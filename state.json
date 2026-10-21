@@ -12963,6 +12963,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-attempt-1st-ever-double-starship-rocket-catch-on-next-test-launch-a-profound-technology-milestone-elon-musk-says",
       "score": 2.8,
       "published_utc": "2026-10-20T22:29:46+00:00"
+    },
+    "fbcb71cd038bceddb070923c": {
+      "ts": 1792543838,
+      "source": "Spaceflight Now",
+      "title": "SpaceX scrubs launch of 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
+      "score": 6.3,
+      "published_utc": "2026-10-20T21:18:11+00:00"
     }
   },
   "digest_queue": [
@@ -13625,78 +13633,6 @@
       "day_brt": "2026-10-15",
       "resumo_pt": "Resumo (PT-BR): Space Force October 15, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket lifts off from Space Launch Complex 4 East at Vandenberg Space Force Base on the USSF-481 mission on Oct. As the bugle call and National Anthem sounded across Vandenberg Space Force Base, a SpaceX Falcon 9 rocket launched carrying a classified payload for the United States Space Force on Thursday evening.",
       "queued_ts": 1792112513
-    },
-    {
-      "fp": "6ce273119cafeb9f54c8a2fe",
-      "title": "Webb Captures Stellar Jets",
-      "link": "https://www.nasa.gov/image-article/webb-captures-stellar-jets/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-20T14:44:09+00:00",
-      "day_brt": "2026-10-20",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Webb Captures Stellar Jets HQ Web Team Oct 20, 2026 Image Article NASA’s James Webb Space Telescope has revealed many protostars and stars within the glowing gases of NGC 7129. Hot, atomic hydrogen gas is shown here in the golden region, while cooler, molecular hydrogen gas, shocked by embedded protostars, is represented in red.",
-      "queued_ts": 1792509874
-    },
-    {
-      "fp": "bba3a85aa63e506a9c2f811c",
-      "title": "NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory",
-      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-20T14:21:42+00:00",
-      "day_brt": "2026-10-20",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory Elizabeth Shaw Oct 20, 2026 Article Credit: NASA The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe, transparent, and responsible civil space exploration. “Uzbekistan joins the Artemis Accords at a pivotal moment,” said NASA Deputy Administrator Matt Anderson.",
-      "queued_ts": 1792509874
-    },
-    {
-      "fp": "850348da6a9c9ebdf65fca8d",
-      "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
-      "link": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-20T18:11:33+00:00",
-      "day_brt": "2026-10-20",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module Jacqueline Minerd Public Affairs Specialist Oct 20, 2026 Article Space Reactor-1 Freedom will be the first spacecraft ever to demonstrate fission power beyond Earth’s orbit, traveling to Mars to deliver a science payload called SkyFall. NASA/Alberto Bertolin Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit.",
-      "queued_ts": 1792524985
-    },
-    {
-      "fp": "2f56b9999de9c2ba03a03515",
-      "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
-      "link": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-20T16:02:35+00:00",
-      "day_brt": "2026-10-20",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Experimental Mars Helicopter Blade Designs Target Longer Flights Arezu Sarvestani Public Affairs Officer Oct 20, 2026 Article Ingenuity roamx-0201 Ingenuity roamx-0201 Ingenuity roamx-0201 Curtain Toggle 2-Up Image Details Rotor blade cross-sections highlight the thinner profile of the roamx-0201 design (right) compared to the more traditional, rounded shape used by NASA’s Ingenuity Mars helicopter, which accomplished the first powered flight on Mars. NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet.",
-      "queued_ts": 1792524985
-    },
-    {
-      "fp": "889d0d1373e0d5a6007ef448",
-      "title": "Falcon 9 launches Bandwagon-5 rideshare mission from Florida",
-      "link": "https://www.nasaspaceflight.com/2026/10/bandwagon-5/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-10-20T05:01:48+00:00",
-      "day_brt": "2026-10-20",
-      "resumo_pt": "Resumo (PT-BR): Falcon 9 launches Bandwagon-5 rideshare mission from Florida by Eleanor Day October 20, 2026 written by Eleanor Day October 20, 2026 47 Following on from the successful Transporter 18 mission at the beginning of the month, SpaceX’s Falcon 9 vehicle launched an additional 32 rideshare payloads for the Bandwagon-5 mission on Tuesday, Oct. Falcon 9 lifted off from Space Launch Complex 40 (SLC-40) at the Cape Canaveral Space Force Station in Florida.",
-      "queued_ts": 1792524985
-    },
-    {
-      "fp": "c5ee116e83ae9b15a1a22a76",
-      "title": "Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
-      "link": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-10-20T21:18:11+00:00",
-      "day_brt": "2026-10-20",
-      "resumo_pt": "Resumo (PT-BR): Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB October 20, 2026 Will Robinson-Smith A Falcon 9 rocket stands ready for launch from Vandenberg in this file photo. SpaceX is set to launch a batch of 27 Starlink satellites from Vandenberg Space Force Base in California Tuesday afternoon.",
-      "queued_ts": 1792535737
     }
   ],
   "digests_sent": {
@@ -14365,7 +14301,8 @@
       "night": true
     },
     "2026-10-20": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -14438,7 +14375,8 @@
       "850348da6a9c9ebdf65fca8d": true,
       "2f56b9999de9c2ba03a03515": true,
       "889d0d1373e0d5a6007ef448": true,
-      "c5ee116e83ae9b15a1a22a76": true
+      "c5ee116e83ae9b15a1a22a76": true,
+      "fbcb71cd038bceddb070923c": true
     }
   }
 }
