@@ -13052,6 +13052,14 @@
       "link": "https://www.nasaspaceflight.com/2026/10/china-roundup-102026/",
       "score": 3.6,
       "published_utc": "2026-10-21T20:25:50+00:00"
+    },
+    "f8128d3f9a774d8d475b156a": {
+      "ts": 1792631977,
+      "source": "NASA Breaking News",
+      "title": "Faster to Science: A Letter to the Science Community",
+      "link": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
+      "score": 4.0,
+      "published_utc": "2026-10-22T00:00:16+00:00"
     }
   },
   "digest_queue": [
@@ -13714,6 +13722,18 @@
       "day_brt": "2026-10-15",
       "resumo_pt": "Resumo (PT-BR): Space Force October 15, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket lifts off from Space Launch Complex 4 East at Vandenberg Space Force Base on the USSF-481 mission on Oct. As the bugle call and National Anthem sounded across Vandenberg Space Force Base, a SpaceX Falcon 9 rocket launched carrying a classified payload for the United States Space Force on Thursday evening.",
       "queued_ts": 1792112513
+    },
+    {
+      "fp": "f8128d3f9a774d8d475b156a",
+      "title": "Faster to Science: A Letter to the Science Community",
+      "link": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-22T00:00:16+00:00",
+      "day_brt": "2026-10-21",
+      "resumo_pt": "Resumo (PT-BR): 7 min read Faster to Science: A Letter to the Science Community Dr. Nicola Fox Oct 21, 2026 Article Contents A Better Way to Compete Flagships (directed missions): Astro-Probes, New Frontiers, and Discovery: MIDEX and Earth Explorer SMEX, Missions of Opportunity, Earth Venture, Hosted Payloads, and Ride Shares The Principles Guiding Us Commercial Capabilities for Every Mission Type Science Merit Opens the Door Cost and Schedule Discipline NASA Centers Strengthen Missions Dear NASA Science Community, NASA Science wants to deliver science faster, so we’re changing how we compete and select missions.",
+      "queued_ts": 1792631981
     }
   ],
   "digests_sent": {
@@ -14470,7 +14490,8 @@
       "a2fa9ab9b28187e4d9c94246": true,
       "bcc2e0214a66999a370e8cc9": true,
       "d6b8b9b6bc789d638e810c2c": true,
-      "52abf26c0fce1822fd12c56a": true
+      "52abf26c0fce1822fd12c56a": true,
+      "f8128d3f9a774d8d475b156a": true
     }
   }
 }
