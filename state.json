@@ -13076,6 +13076,55 @@
       "link": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
       "score": 4.0,
       "published_utc": "2026-10-22T04:01:00+00:00"
+    },
+    "0be52de833f8820fb373bfde": {
+      "ts": 1792708243,
+      "source": "NASA Breaking News",
+      "title": "Spiral’s Edge",
+      "link": "https://www.nasa.gov/image-article/spirals-edge/",
+      "score": 4.0,
+      "published_utc": "2026-10-22T21:35:38+00:00"
+    },
+    "992c9aad300d650b291c2370": {
+      "ts": 1792708244,
+      "source": "Spaceflight Now",
+      "title": "SpaceX tries again to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "link": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
+      "score": 0.0,
+      "published_utc": "2026-10-20T21:18:11+00:00",
+      "note": "not_today"
+    },
+    "60bd9a6e04261f9461ab16a2": {
+      "ts": 1792708245,
+      "source": "NASASpaceflight",
+      "title": "ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13",
+      "link": "https://www.nasaspaceflight.com/2026/10/iss-roundup-102226/",
+      "score": 3.6,
+      "published_utc": "2026-10-22T21:55:02+00:00"
+    },
+    "f6505dc197dfb82e69f4407f": {
+      "ts": 1792708245,
+      "source": "Space.com",
+      "title": "Europe's Space Rider vehicle comes crashing down during drop test",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/europes-space-rider-vehicle-comes-crashing-down-during-drop-test",
+      "score": 2.8,
+      "published_utc": "2026-10-22T22:00:00+00:00"
+    },
+    "a85fcf1a88a2618431ac6db0": {
+      "ts": 1792708246,
+      "source": "Space.com",
+      "title": "On this day in space! Oct. 22, 1992: Ashes of 'Star Trek' creator Gene Roddenberry launch into space on NASA shuttle",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-22-2026",
+      "score": 2.8,
+      "published_utc": "2026-10-22T21:08:26+00:00"
+    },
+    "812a448a327b72a0045fcdd2": {
+      "ts": 1792708246,
+      "source": "Space.com",
+      "title": "After Starshield interruption, Ukraine wants to build its own satellite communication network with ICEYE and Nokia",
+      "link": "https://www.space.com/space-exploration/satellites/after-starshield-interruption-ukraine-wants-to-build-its-own-satellite-communication-network-with-iceye-and-nokia",
+      "score": 2.8,
+      "published_utc": "2026-10-22T20:28:04+00:00"
     }
   },
   "digest_queue": [
@@ -13774,6 +13823,30 @@
       "day_brt": "2026-10-22",
       "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Fires Char New Guinea Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 5 min read Fires Char New Guinea Image of the Day for October 22, 2026 Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought. NASA Earth Observatory Oct 22, 2026 Article View more Images of the Day: Oct 21, 2026 Instruments: NOAA-20 — VIIRS Topics: El Nino Southern Oscillation Wildfires New Guinea, the world's second-largest island, harbors an extraordinary variety of plant life across more than a dozen distinct ecoregions , including seasonally dry savannas, tropical rainforests, and lowland swamp forests.",
       "queued_ts": 1792647147
+    },
+    {
+      "fp": "0be52de833f8820fb373bfde",
+      "title": "Spiral’s Edge",
+      "link": "https://www.nasa.gov/image-article/spirals-edge/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-22T21:35:38+00:00",
+      "day_brt": "2026-10-22",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Spiral’s Edge NASA Hubble Mission Team Goddard Space Flight Center HQ Web Team Oct 22, 2026 Image Article NASA, ESA, Michael Jones (California Institute of Technology); Image Processing: Gladys Kober (NASA/Catholic University of America) This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
+      "queued_ts": 1792708247
+    },
+    {
+      "fp": "60bd9a6e04261f9461ab16a2",
+      "title": "ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13",
+      "link": "https://www.nasaspaceflight.com/2026/10/iss-roundup-102226/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-10-22T21:55:02+00:00",
+      "day_brt": "2026-10-22",
+      "resumo_pt": "Resumo (PT-BR): ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13 by Eleanor Day October 22, 2026 written by Eleanor Day October 22, 2026 3 Expedition 75 aboard the International Space Station gained four new crew members at the beginning of October before Crew-12 left the station. Meanwhile, the Cygnus XL resupply craft left the ISS, and a SpaceX Cargo Dragon delivered new supplies on Oct.",
+      "queued_ts": 1792708247
     }
   ],
   "digests_sent": {
@@ -14503,7 +14576,9 @@
     },
     "2026-10-22": {
       "68f92f2bb093db91feba240b": true,
-      "305c35fa2cd313215dc312cc": true
+      "305c35fa2cd313215dc312cc": true,
+      "0be52de833f8820fb373bfde": true,
+      "60bd9a6e04261f9461ab16a2": true
     }
   }
 }
