@@ -13060,6 +13060,22 @@
       "link": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
       "score": 4.0,
       "published_utc": "2026-10-22T00:00:16+00:00"
+    },
+    "68f92f2bb093db91feba240b": {
+      "ts": 1792647144,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
+      "score": 4.0,
+      "published_utc": "2026-10-22T04:05:00+00:00"
+    },
+    "305c35fa2cd313215dc312cc": {
+      "ts": 1792647144,
+      "source": "NASA Breaking News",
+      "title": "Fires Char New Guinea",
+      "link": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
+      "score": 4.0,
+      "published_utc": "2026-10-22T04:01:00+00:00"
     }
   },
   "digest_queue": [
@@ -13734,6 +13750,30 @@
       "day_brt": "2026-10-21",
       "resumo_pt": "Resumo (PT-BR): 7 min read Faster to Science: A Letter to the Science Community Dr. Nicola Fox Oct 21, 2026 Article Contents A Better Way to Compete Flagships (directed missions): Astro-Probes, New Frontiers, and Discovery: MIDEX and Earth Explorer SMEX, Missions of Opportunity, Earth Venture, Hosted Payloads, and Ride Shares The Principles Guiding Us Commercial Capabilities for Every Mission Type Science Merit Opens the Door Cost and Schedule Discipline NASA Centers Strengthen Missions Dear NASA Science Community, NASA Science wants to deliver science faster, so we’re changing how we compete and select missions.",
       "queued_ts": 1792631981
+    },
+    {
+      "fp": "68f92f2bb093db91feba240b",
+      "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-22T04:05:00+00:00",
+      "day_brt": "2026-10-22",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1792647147
+    },
+    {
+      "fp": "305c35fa2cd313215dc312cc",
+      "title": "Fires Char New Guinea",
+      "link": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-22T04:01:00+00:00",
+      "day_brt": "2026-10-22",
+      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Fires Char New Guinea Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 5 min read Fires Char New Guinea Image of the Day for October 22, 2026 Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought. NASA Earth Observatory Oct 22, 2026 Article View more Images of the Day: Oct 21, 2026 Instruments: NOAA-20 — VIIRS Topics: El Nino Southern Oscillation Wildfires New Guinea, the world's second-largest island, harbors an extraordinary variety of plant life across more than a dozen distinct ecoregions , including seasonally dry savannas, tropical rainforests, and lowland swamp forests.",
+      "queued_ts": 1792647147
     }
   ],
   "digests_sent": {
@@ -14410,38 +14450,6 @@
     }
   },
   "sent_updates": {
-    "2026-10-12": {
-      "7d20f6e8d96ac9a596646af9": true,
-      "2b27714a1c24d92aebc791e6": true,
-      "505aa650f5b1c22bf9b339e6": true,
-      "79d8487b02212f81e9bb6ac3": true,
-      "7b52d7f416181acfb43682d0": true
-    },
-    "2026-10-13": {
-      "ca10276c59ceaf144be91a9e": true,
-      "8bc0643f42d03cc46b664423": true,
-      "fda3f9fff52d7914ac08fedf": true,
-      "4e015b3cb1f2c105ff3aa50a": true,
-      "33c5174875c3bfd7b464cc42": true,
-      "d7fafa06d44d5562f48e08a8": true,
-      "fbddcf974696239db5f78cf9": true
-    },
-    "2026-10-14": {
-      "731f4b3d38c545a6fd48b83b": true,
-      "d9b12fc02d16fc9d7813641b": true,
-      "be4a4c8f070df81663128957": true,
-      "aaea9e234bebbeb41822584f": true,
-      "b0f5b73208140690f33fcbc2": true
-    },
-    "2026-10-15": {
-      "b2eddfde741e5ea9b3540246": true,
-      "c33326d89de8c27f44cedbad": true,
-      "1f5737e1544ae80fbcdf75a8": true,
-      "479613685d677e9996028635": true,
-      "3efa892c36455721d53157aa": true,
-      "91c2e1a88412ab55566597d9": true,
-      "01ac78a92b1b039ff99111bc": true
-    },
     "2026-10-16": {
       "6471177c4b93520b6fb64ab8": true,
       "672b3dfbddc7bdcea38bb5be": true,
@@ -14492,6 +14500,10 @@
       "d6b8b9b6bc789d638e810c2c": true,
       "52abf26c0fce1822fd12c56a": true,
       "f8128d3f9a774d8d475b156a": true
+    },
+    "2026-10-22": {
+      "68f92f2bb093db91feba240b": true,
+      "305c35fa2cd313215dc312cc": true
     }
   }
 }
