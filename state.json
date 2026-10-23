@@ -13134,6 +13134,22 @@
       "score": 0.0,
       "published_utc": "2026-10-20T21:18:11+00:00",
       "note": "not_today"
+    },
+    "21acce691d48d52e5976f666": {
+      "ts": 1792733415,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/",
+      "score": 4.0,
+      "published_utc": "2026-10-23T04:05:00+00:00"
+    },
+    "de601e37a197958b5fc8983a": {
+      "ts": 1792733415,
+      "source": "NASA Breaking News",
+      "title": "El Niño Then and Now",
+      "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/",
+      "score": 4.0,
+      "published_utc": "2026-10-23T04:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -13808,6 +13824,30 @@
       "day_brt": "2026-10-21",
       "resumo_pt": "Resumo (PT-BR): 7 min read Faster to Science: A Letter to the Science Community Dr. Nicola Fox Oct 21, 2026 Article Contents A Better Way to Compete Flagships (directed missions): Astro-Probes, New Frontiers, and Discovery: MIDEX and Earth Explorer SMEX, Missions of Opportunity, Earth Venture, Hosted Payloads, and Ride Shares The Principles Guiding Us Commercial Capabilities for Every Mission Type Science Merit Opens the Door Cost and Schedule Discipline NASA Centers Strengthen Missions Dear NASA Science Community, NASA Science wants to deliver science faster, so we’re changing how we compete and select missions.",
       "queued_ts": 1792631981
+    },
+    {
+      "fp": "21acce691d48d52e5976f666",
+      "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-23T04:05:00+00:00",
+      "day_brt": "2026-10-23",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1792733419
+    },
+    {
+      "fp": "de601e37a197958b5fc8983a",
+      "title": "El Niño Then and Now",
+      "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-23T04:00:00+00:00",
+      "day_brt": "2026-10-23",
+      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory El Niño Then and Now Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 4 min read El Niño Then and Now Image of the Day for October 23, 2026 A 35-year satellite altimetry record lets scientists hold this year's El Niño up against its strongest predecessors. NASA Earth Observatory Oct 23, 2026 Article View more Images of the Day: Oct 22, 2026 Instruments: JASON-2 Sentinel-6 Michael Freilich TOPEX/Poseidon Topics: El Nino Southern Oscillation Sea Surface Topography october 13, 1997 october 12, 2026 Sea levels are higher than normal across the central and eastern equatorial Pacific in October 2026 (right), a hallmark of El Niño.",
+      "queued_ts": 1792733419
     }
   ],
   "digests_sent": {
@@ -14543,6 +14583,10 @@
       "305c35fa2cd313215dc312cc": true,
       "0be52de833f8820fb373bfde": true,
       "60bd9a6e04261f9461ab16a2": true
+    },
+    "2026-10-23": {
+      "21acce691d48d52e5976f666": true,
+      "de601e37a197958b5fc8983a": true
     }
   }
 }
