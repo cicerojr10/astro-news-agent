@@ -13174,6 +13174,31 @@
       "link": "https://www.space.com/entertainment/space-games/never-finishing-the-fight-where-did-xbox-go-wrong-with-halo",
       "score": 2.8,
       "published_utc": "2026-10-23T16:00:00+00:00"
+    },
+    "5997c0a93ca8e119b6f2d22c": {
+      "ts": 1792793530,
+      "source": "NASA Breaking News",
+      "title": "RS-25 Engine Tests at NASA Stennis",
+      "link": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
+      "score": 4.0,
+      "published_utc": "2026-10-23T18:57:04+00:00"
+    },
+    "4a4becceaab725ceb2870fdd": {
+      "ts": 1792793531,
+      "source": "Spaceflight Now",
+      "title": "Another try for Falcon 9 launch of 27 Starlink satellites on Falcon 9 rocket from Vandenberg",
+      "link": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
+      "score": 0.0,
+      "published_utc": "2026-10-20T21:18:11+00:00",
+      "note": "not_today"
+    },
+    "22d73d66553b21013cd41c1f": {
+      "ts": 1792793532,
+      "source": "Space.com",
+      "title": "On this day in space! Oct. 23, 2007: NASA launches Harmony module to ISS on STS-120 space shuttle mission",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-23-2026",
+      "score": 2.8,
+      "published_utc": "2026-10-23T20:47:13+00:00"
     }
   },
   "digest_queue": [
@@ -13872,6 +13897,18 @@
       "day_brt": "2026-10-23",
       "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory El Niño Then and Now Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 4 min read El Niño Then and Now Image of the Day for October 23, 2026 A 35-year satellite altimetry record lets scientists hold this year's El Niño up against its strongest predecessors. NASA Earth Observatory Oct 23, 2026 Article View more Images of the Day: Oct 22, 2026 Instruments: JASON-2 Sentinel-6 Michael Freilich TOPEX/Poseidon Topics: El Nino Southern Oscillation Sea Surface Topography october 13, 1997 october 12, 2026 Sea levels are higher than normal across the central and eastern equatorial Pacific in October 2026 (right), a hallmark of El Niño.",
       "queued_ts": 1792733419
+    },
+    {
+      "fp": "5997c0a93ca8e119b6f2d22c",
+      "title": "RS-25 Engine Tests at NASA Stennis",
+      "link": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-23T18:57:04+00:00",
+      "day_brt": "2026-10-23",
+      "resumo_pt": "Resumo (PT-BR): 1 min read RS-25 Engine Tests at NASA Stennis HQ Web Team Oct 23, 2026 Image Article NASA/Danny Nowlin Teams at NASA’s Stennis Space Center near Bay St. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket, with a 111% power level.",
+      "queued_ts": 1792793533
     }
   ],
   "digests_sent": {
@@ -14610,7 +14647,8 @@
     },
     "2026-10-23": {
       "21acce691d48d52e5976f666": true,
-      "de601e37a197958b5fc8983a": true
+      "de601e37a197958b5fc8983a": true,
+      "5997c0a93ca8e119b6f2d22c": true
     }
   }
 }
