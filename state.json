@@ -14604,7 +14604,8 @@
       "night": true
     },
     "2026-10-24": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
