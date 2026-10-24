@@ -13240,6 +13240,15 @@
       "link": "https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/",
       "score": 3.6,
       "published_utc": "2026-10-24T03:25:36+00:00"
+    },
+    "ed65040dfe4e6b49bfe4dee6": {
+      "ts": 1792848315,
+      "source": "Space.com",
+      "title": "SpaceX launches Starlink satellites from California as Falcon 9 cadence slows (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-15-b1063-ocisly",
+      "score": 0.0,
+      "published_utc": "2026-10-23T23:26:41+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -13914,30 +13923,6 @@
       "day_brt": "2026-10-21",
       "resumo_pt": "Resumo (PT-BR): 7 min read Faster to Science: A Letter to the Science Community Dr. Nicola Fox Oct 21, 2026 Article Contents A Better Way to Compete Flagships (directed missions): Astro-Probes, New Frontiers, and Discovery: MIDEX and Earth Explorer SMEX, Missions of Opportunity, Earth Venture, Hosted Payloads, and Ride Shares The Principles Guiding Us Commercial Capabilities for Every Mission Type Science Merit Opens the Door Cost and Schedule Discipline NASA Centers Strengthen Missions Dear NASA Science Community, NASA Science wants to deliver science faster, so we’re changing how we compete and select missions.",
       "queued_ts": 1792631981
-    },
-    {
-      "fp": "dae1e1be51268714e0040784",
-      "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-24T04:05:00+00:00",
-      "day_brt": "2026-10-24",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1792818188
-    },
-    {
-      "fp": "2740e97f9d865d8a6f96817e",
-      "title": "NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths",
-      "link": "https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-10-24T03:25:36+00:00",
-      "day_brt": "2026-10-24",
-      "resumo_pt": "Resumo (PT-BR): NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths by Ryan Caton and Chris Bergin October 23, 2026 written by Ryan Caton and Chris Bergin October 23, 2026 2 NASA released its October Artemis Update on Friday, covering the near-term status of the Space Launch System (SLS), a lighter “sortie” version of the lunar spacesuit, and two parallel architectures for delivering astronauts to the lunar surface. Many of the elements had been discussed in prior program updates.",
-      "queued_ts": 1792818188
     }
   ],
   "digests_sent": {
@@ -14617,6 +14602,9 @@
     },
     "2026-10-23": {
       "night": true
+    },
+    "2026-10-24": {
+      "morning": true
     }
   },
   "sent_updates": {
