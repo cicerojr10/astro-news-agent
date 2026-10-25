@@ -13249,6 +13249,14 @@
       "score": 0.0,
       "published_utc": "2026-10-23T23:26:41+00:00",
       "note": "not_today"
+    },
+    "53b32f804f5df5f36c212ffc": {
+      "ts": 1792929657,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
+      "score": 4.0,
+      "published_utc": "2026-10-25T08:19:48+00:00"
     }
   },
   "digest_queue": [
@@ -14606,6 +14614,9 @@
     "2026-10-24": {
       "morning": true,
       "night": true
+    },
+    "2026-10-25": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -14675,6 +14686,9 @@
     "2026-10-24": {
       "dae1e1be51268714e0040784": true,
       "2740e97f9d865d8a6f96817e": true
+    },
+    "2026-10-25": {
+      "53b32f804f5df5f36c212ffc": true
     }
   }
 }
