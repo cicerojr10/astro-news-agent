@@ -13257,6 +13257,15 @@
       "link": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
       "score": 4.0,
       "published_utc": "2026-10-25T08:19:48+00:00"
+    },
+    "bfb9a5975d7a6e6ca9db7008": {
+      "ts": 1792939036,
+      "source": "Space.com",
+      "title": "Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-signals-intelligence",
+      "score": 0.0,
+      "published_utc": "2026-10-23T10:57:51+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
