@@ -13948,18 +13948,6 @@
       "day_brt": "2026-10-21",
       "resumo_pt": "Resumo (PT-BR): 7 min read Faster to Science: A Letter to the Science Community Dr. Nicola Fox Oct 21, 2026 Article Contents A Better Way to Compete Flagships (directed missions): Astro-Probes, New Frontiers, and Discovery: MIDEX and Earth Explorer SMEX, Missions of Opportunity, Earth Venture, Hosted Payloads, and Ride Shares The Principles Guiding Us Commercial Capabilities for Every Mission Type Science Merit Opens the Door Cost and Schedule Discipline NASA Centers Strengthen Missions Dear NASA Science Community, NASA Science wants to deliver science faster, so we’re changing how we compete and select missions.",
       "queued_ts": 1792631981
-    },
-    {
-      "fp": "a2e4cea54ee66c193a56bf5f",
-      "title": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
-      "link": "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-10-25T18:21:44+00:00",
-      "day_brt": "2026-10-25",
-      "resumo_pt": "Resumo (PT-BR): Possible Roberts Road Expansion as SpaceX pushes for Flight 16 by Ryan Weber October 25, 2026 written by Ryan Weber October 25, 2026 4 As SpaceX prepares to fly Flight 15 in November, with a successful Static Fire test occurring at Starbase on Sunday, the company is pushing to launch Flight 16 from LC-39A as soon as possible and expand operations at Kennedy Space Center. To do that, the Gigabay and pad must be ready to host Booster 23 and Ship 43, both of which have completed cryo-proof testing.",
-      "queued_ts": 1792954504
     }
   ],
   "digests_sent": {
@@ -14645,7 +14633,8 @@
       "night": true
     },
     "2026-10-25": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
