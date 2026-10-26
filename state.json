@@ -13298,6 +13298,30 @@
       "link": "https://www.space.com/space-exploration/more-missions-more-often-nasa-is-overhauling-how-it-selects-science-missions",
       "score": 2.8,
       "published_utc": "2026-10-26T10:00:00+00:00"
+    },
+    "6f6275f230c7244d2a31c578": {
+      "ts": 1793034136,
+      "source": "NASA Breaking News",
+      "title": "NASA’s X-59 Aircraft and Test Pilot",
+      "link": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/",
+      "score": 4.0,
+      "published_utc": "2026-10-26T15:25:47+00:00"
+    },
+    "acd07fd3320c0291e214dc91": {
+      "ts": 1793034136,
+      "source": "NASA Breaking News",
+      "title": "NASA, USDA Sign Agreement Advancing Earth Science, Agriculture",
+      "link": "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/",
+      "score": 4.0,
+      "published_utc": "2026-10-26T13:54:25+00:00"
+    },
+    "526415f18a41dc0167138edb": {
+      "ts": 1793034139,
+      "source": "Space.com",
+      "title": "SpaceX ignites giant Super Heavy booster engines ahead of daring Starship launch (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-ignites-giant-super-heavy-booster-engines-ahead-of-daring-starship-launch-video",
+      "score": 2.8,
+      "published_utc": "2026-10-26T16:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -13972,6 +13996,30 @@
       "day_brt": "2026-10-21",
       "resumo_pt": "Resumo (PT-BR): 7 min read Faster to Science: A Letter to the Science Community Dr. Nicola Fox Oct 21, 2026 Article Contents A Better Way to Compete Flagships (directed missions): Astro-Probes, New Frontiers, and Discovery: MIDEX and Earth Explorer SMEX, Missions of Opportunity, Earth Venture, Hosted Payloads, and Ride Shares The Principles Guiding Us Commercial Capabilities for Every Mission Type Science Merit Opens the Door Cost and Schedule Discipline NASA Centers Strengthen Missions Dear NASA Science Community, NASA Science wants to deliver science faster, so we’re changing how we compete and select missions.",
       "queued_ts": 1792631981
+    },
+    {
+      "fp": "6f6275f230c7244d2a31c578",
+      "title": "NASA’s X-59 Aircraft and Test Pilot",
+      "link": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-26T15:25:47+00:00",
+      "day_brt": "2026-10-26",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA’s X-59 Aircraft and Test Pilot HQ Web Team Oct 26, 2026 Image Article NASA/Carla Escamilla NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency’s X-59 quiet supersonic research aircraft on Oct. The X-59 has flown numerous times since its inaugural flight in November 2025; its first supersonic flight was on June 5, 2026.",
+      "queued_ts": 1793034140
+    },
+    {
+      "fp": "acd07fd3320c0291e214dc91",
+      "title": "NASA, USDA Sign Agreement Advancing Earth Science, Agriculture",
+      "link": "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-26T13:54:25+00:00",
+      "day_brt": "2026-10-26",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA, USDA Sign Agreement Advancing Earth Science, Agriculture Jennifer M. Secretary of Agriculture Brooke Rollins, left, and NASA Administrator Jared Isaacman signed a Memorandum of Understanding advancing agriculture and Earth science during an event at the University of Alabama in Tuscaloosa on Saturday, Oct.",
+      "queued_ts": 1793034140
     }
   ],
   "digests_sent": {
@@ -14708,7 +14756,9 @@
     },
     "2026-10-26": {
       "1072a7f34f6c0c0b82564af2": true,
-      "1a655cb97de3d7ecd82ba0f7": true
+      "1a655cb97de3d7ecd82ba0f7": true,
+      "6f6275f230c7244d2a31c578": true,
+      "acd07fd3320c0291e214dc91": true
     }
   }
 }
