@@ -13274,6 +13274,30 @@
       "link": "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/",
       "score": 3.6,
       "published_utc": "2026-10-25T18:21:44+00:00"
+    },
+    "1072a7f34f6c0c0b82564af2": {
+      "ts": 1793019832,
+      "source": "NASA Breaking News",
+      "title": "2026 October 26 – M42: The Great Nebula in Orion",
+      "link": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
+      "score": 4.0,
+      "published_utc": "2026-10-26T04:05:00+00:00"
+    },
+    "1a655cb97de3d7ecd82ba0f7": {
+      "ts": 1793019832,
+      "source": "NASA Breaking News",
+      "title": "Hunting Red Leaves with Satellites",
+      "link": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
+      "score": 4.0,
+      "published_utc": "2026-10-26T04:01:00+00:00"
+    },
+    "3f2afad89fb4bebe5c5429bf": {
+      "ts": 1793019835,
+      "source": "Space.com",
+      "title": "'More missions, more often': NASA is overhauling how it selects science missions",
+      "link": "https://www.space.com/space-exploration/more-missions-more-often-nasa-is-overhauling-how-it-selects-science-missions",
+      "score": 2.8,
+      "published_utc": "2026-10-26T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -14635,39 +14659,12 @@
     "2026-10-25": {
       "morning": true,
       "night": true
+    },
+    "2026-10-26": {
+      "morning": true
     }
   },
   "sent_updates": {
-    "2026-10-16": {
-      "6471177c4b93520b6fb64ab8": true,
-      "672b3dfbddc7bdcea38bb5be": true,
-      "4d30eb42520bd766a8798c4a": true,
-      "454de2f79e64722d48411ef4": true,
-      "6a16c6d8fe4b4ee9466a16c2": true,
-      "d95e90053b075c3229fc7cff": true,
-      "2f0ea86530dd708587a7de65": true,
-      "409afd1a41044c52056af78d": true
-    },
-    "2026-10-17": {
-      "b8d47c616dbb15703f85a75e": true,
-      "80f604087f39f47f588c9771": true
-    },
-    "2026-10-18": {
-      "8bda5769fb4907029af6252e": true,
-      "823cf24b048829530da48297": true,
-      "3689ad9493cea926aebcd9ed": true,
-      "277b9ba30bd93ddabde2ff92": true
-    },
-    "2026-10-19": {
-      "c0f3cd5e84b37e8fe29b13a4": true,
-      "66cb9176d3c9dd1fe4cc8ce4": true,
-      "99a0b749ddd0820c005f3dcb": true,
-      "a514a343d8f2341f294b7d03": true,
-      "9f949c1009dca1a5816a7e22": true,
-      "9268fc8994217e96496dcb5e": true,
-      "5f034349e778a0d53939dd6d": true,
-      "923c73dcc52eb5e2b007a422": true
-    },
     "2026-10-20": {
       "cfda6533cdf306382158655f": true,
       "6ce273119cafeb9f54c8a2fe": true,
@@ -14708,6 +14705,10 @@
     "2026-10-25": {
       "53b32f804f5df5f36c212ffc": true,
       "a2e4cea54ee66c193a56bf5f": true
+    },
+    "2026-10-26": {
+      "1072a7f34f6c0c0b82564af2": true,
+      "1a655cb97de3d7ecd82ba0f7": true
     }
   }
 }
