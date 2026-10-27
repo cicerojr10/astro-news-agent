@@ -13346,6 +13346,54 @@
       "link": "https://www.space.com/science/astrophysics/record-breaker-astronomers-spot-powerful-cosmic-explosion-that-lasted-27-days",
       "score": 8.399999999999999,
       "published_utc": "2026-10-26T17:00:00+00:00"
+    },
+    "f99ba3eae14ec3a4596ae584": {
+      "ts": 1793065894,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
+      "link": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
+      "score": 4.0,
+      "published_utc": "2026-10-26T21:07:28+00:00"
+    },
+    "55cb628432c835ad33b3c784": {
+      "ts": 1793065894,
+      "source": "NASA Breaking News",
+      "title": "NEO Surveyor’s Sunshade Gets Inspected",
+      "link": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
+      "score": 4.0,
+      "published_utc": "2026-10-26T20:53:13+00:00"
+    },
+    "724233c97d0019e7e962e923": {
+      "ts": 1793065894,
+      "source": "NASA Breaking News",
+      "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
+      "link": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
+      "score": 4.0,
+      "published_utc": "2026-10-26T20:52:24+00:00"
+    },
+    "b7b283556cba7377972a6a40": {
+      "ts": 1793065894,
+      "source": "NASA Breaking News",
+      "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
+      "link": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/",
+      "score": 4.0,
+      "published_utc": "2026-10-26T19:28:08+00:00"
+    },
+    "205e01f167932912558075b3": {
+      "ts": 1793065895,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 October 26 – M42: The Great Nebula in Orion",
+      "link": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
+      "score": 4.0,
+      "published_utc": "2026-10-26T04:05:00+00:00"
+    },
+    "8f269d9796b405c500907d2b": {
+      "ts": 1793065896,
+      "source": "Spaceflight Now",
+      "title": "West Coast Falcon 9 rocket to launch 27 Starlink satellites",
+      "link": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
+      "score": 3.6,
+      "published_utc": "2026-10-27T00:50:37+00:00"
     }
   },
   "digest_queue": [
@@ -14020,6 +14068,78 @@
       "day_brt": "2026-10-21",
       "resumo_pt": "Resumo (PT-BR): 7 min read Faster to Science: A Letter to the Science Community Dr. Nicola Fox Oct 21, 2026 Article Contents A Better Way to Compete Flagships (directed missions): Astro-Probes, New Frontiers, and Discovery: MIDEX and Earth Explorer SMEX, Missions of Opportunity, Earth Venture, Hosted Payloads, and Ride Shares The Principles Guiding Us Commercial Capabilities for Every Mission Type Science Merit Opens the Door Cost and Schedule Discipline NASA Centers Strengthen Missions Dear NASA Science Community, NASA Science wants to deliver science faster, so we’re changing how we compete and select missions.",
       "queued_ts": 1792631981
+    },
+    {
+      "fp": "f99ba3eae14ec3a4596ae584",
+      "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
+      "link": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-26T21:07:28+00:00",
+      "day_brt": "2026-10-26",
+      "resumo_pt": "Resumo (PT-BR): 6 min read NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust Jet Propulsion Laboratory Oct 26, 2026 Article Contents Fine, ultrafine Protecting crews More about Perseverance This 360-degree panorama from NASA’s Perseverance Mars rover shows Neretva Vallis, the dusty, long-dried river channel that cuts through the western rim of Mars’ Jezero Crater. NASA/JPL-Caltech/ASU/MSSS Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream.",
+      "queued_ts": 1793065899
+    },
+    {
+      "fp": "55cb628432c835ad33b3c784",
+      "title": "NEO Surveyor’s Sunshade Gets Inspected",
+      "link": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-26T20:53:13+00:00",
+      "day_brt": "2026-10-26",
+      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal NEO Surveyor’s Sunshade Gets... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 2 Min Read NEO Surveyor’s Sunshade Gets Inspected PIA26780 Credits: BAE Systems Space & Mission Systems Image Addition Date: 10/26/2026 Downloads NEO Surveyor’s Sunshade Gets Inspected JPEG (1.17 MB) Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space & Mission Systems in Boulder, Colorado, in July 2026.",
+      "queued_ts": 1793065899
+    },
+    {
+      "fp": "724233c97d0019e7e962e923",
+      "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
+      "link": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-26T20:52:24+00:00",
+      "day_brt": "2026-10-26",
+      "resumo_pt": "Resumo (PT-BR): Photojournal Navigation Science Photojournal Solar Cells Inspected on... Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About 1 Min Read Solar Cells Inspected on NASA’s NEO Surveyor PIA26715 Credits: BAE Systems Space & Mission Systems Image Addition Date: 10/26/2026 Downloads Solar Cells Inspected on NASA’s NEO Surveyor JPEG (889.24 KB) Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July.",
+      "queued_ts": 1793065899
+    },
+    {
+      "fp": "b7b283556cba7377972a6a40",
+      "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
+      "link": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-26T19:28:08+00:00",
+      "day_brt": "2026-10-26",
+      "resumo_pt": "Resumo (PT-BR): Explore This Section Science Science Activation NASA SEES Interns Tackle... Overview Resources Opportunities Citizen Science Highlights About Science Activation 4 min read NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration NASA Science Editorial Team Oct 26, 2026 Article The Matrix Team developed a sophisticated interactive dashboard for the IM-3 mission that allows users to vary engine, spacecraft, and orbital parameters to investigate the effect on propellant margins and landing zone availability.",
+      "queued_ts": 1793065899
+    },
+    {
+      "fp": "205e01f167932912558075b3",
+      "title": "APOD: 2026 October 26 – M42: The Great Nebula in Orion",
+      "link": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-26T04:05:00+00:00",
+      "day_brt": "2026-10-26",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1793065899
+    },
+    {
+      "fp": "8f269d9796b405c500907d2b",
+      "title": "West Coast Falcon 9 rocket to launch 27 Starlink satellites",
+      "link": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-10-27T00:50:37+00:00",
+      "day_brt": "2026-10-26",
+      "resumo_pt": "Resumo (PT-BR): West Coast Falcon 9 rocket to launch 27 Starlink satellites October 27, 2026 Steven Young File: A SpaceX Falcon 9 rocket stands in the launch position during sunset at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California. Image: SpaceX SpaceX will deploy another batch of Starlink satellites from a Falcon 9 rocket, set to liftoff from Vandenberg Space Force Base in California late Monday (local time).",
+      "queued_ts": 1793065899
     }
   ],
   "digests_sent": {
@@ -14760,7 +14880,10 @@
       "1a655cb97de3d7ecd82ba0f7": true,
       "6f6275f230c7244d2a31c578": true,
       "acd07fd3320c0291e214dc91": true,
-      "31ef4e2938d782d1dddf61ef": true
+      "31ef4e2938d782d1dddf61ef": true,
+      "f99ba3eae14ec3a4596ae584": true,
+      "55cb628432c835ad33b3c784": true,
+      "724233c97d0019e7e962e923": true
     }
   }
 }
