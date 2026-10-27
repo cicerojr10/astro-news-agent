@@ -13451,6 +13451,22 @@
       "link": "https://www.space.com/entertainment/space-books/dungeon-crawler-carl-is-getting-a-killer-new-comic-book-series",
       "score": 2.8,
       "published_utc": "2026-10-27T16:00:00+00:00"
+    },
+    "18e37fa6296953b33724642f": {
+      "ts": 1793126679,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Neo Surveyor Sunshade",
+      "link": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
+      "score": 4.0,
+      "published_utc": "2026-10-27T17:58:57+00:00"
+    },
+    "d619a36fbd1b859319c1feae": {
+      "ts": 1793126681,
+      "source": "Space.com",
+      "title": "Cowboy Space unveils 'Big Iron' rocket to launch 20,000 AI data centers",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers",
+      "score": 2.8,
+      "published_utc": "2026-10-27T18:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -14197,6 +14213,18 @@
       "day_brt": "2026-10-26",
       "resumo_pt": "Resumo (PT-BR): West Coast Falcon 9 rocket to launch 27 Starlink satellites October 27, 2026 Steven Young File: A SpaceX Falcon 9 rocket stands in the launch position during sunset at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California. Image: SpaceX SpaceX will deploy another batch of Starlink satellites from a Falcon 9 rocket, set to liftoff from Vandenberg Space Force Base in California late Monday (local time).",
       "queued_ts": 1793065899
+    },
+    {
+      "fp": "18e37fa6296953b33724642f",
+      "title": "NASA’s Neo Surveyor Sunshade",
+      "link": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-27T17:58:57+00:00",
+      "day_brt": "2026-10-27",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA’s Neo Surveyor Sunshade HQ Web Team Oct 27, 2026 Image Article BAE Systems Space & Mission Systems A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. The sunshade structure , which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base, will keep the infrared space telescope cool as it searches for near-Earth asteroids and comets while also providing the spacecraft with power.",
+      "queued_ts": 1793126682
     }
   ],
   "digests_sent": {
@@ -14948,7 +14976,8 @@
     "2026-10-27": {
       "3c6ada5cbdd33adcddcf4e32": true,
       "119f931ea8c4ec5ef7c20fc3": true,
-      "04684932cde87cff9d6b071a": true
+      "04684932cde87cff9d6b071a": true,
+      "18e37fa6296953b33724642f": true
     }
   }
 }
