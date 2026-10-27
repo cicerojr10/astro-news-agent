@@ -13394,6 +13394,22 @@
       "link": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
       "score": 3.6,
       "published_utc": "2026-10-27T00:50:37+00:00"
+    },
+    "3c6ada5cbdd33adcddcf4e32": {
+      "ts": 1793085566,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
+      "score": 4.0,
+      "published_utc": "2026-10-27T04:05:00+00:00"
+    },
+    "119f931ea8c4ec5ef7c20fc3": {
+      "ts": 1793085566,
+      "source": "NASA Breaking News",
+      "title": "A-81 Reaches South Georgia",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
+      "score": 4.0,
+      "published_utc": "2026-10-27T04:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -14140,6 +14156,30 @@
       "day_brt": "2026-10-26",
       "resumo_pt": "Resumo (PT-BR): West Coast Falcon 9 rocket to launch 27 Starlink satellites October 27, 2026 Steven Young File: A SpaceX Falcon 9 rocket stands in the launch position during sunset at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California. Image: SpaceX SpaceX will deploy another batch of Starlink satellites from a Falcon 9 rocket, set to liftoff from Vandenberg Space Force Base in California late Monday (local time).",
       "queued_ts": 1793065899
+    },
+    {
+      "fp": "3c6ada5cbdd33adcddcf4e32",
+      "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-27T04:05:00+00:00",
+      "day_brt": "2026-10-27",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1793085569
+    },
+    {
+      "fp": "119f931ea8c4ec5ef7c20fc3",
+      "title": "A-81 Reaches South Georgia",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-27T04:00:00+00:00",
+      "day_brt": "2026-10-27",
+      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory A-81 Reaches South Georgia Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 3 min read A-81 Reaches South Georgia Image of the Day for October 27, 2026 The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf. NASA Earth Observatory Oct 27, 2026 Article View more Images of the Day: Oct 26, 2026 Instruments: Terra — MODIS Topics: Glaciers & Ice Sheets Iceberg A-81 slows its drift near the edge of South Georgia’s shallow underwater shelf in this image, acquired on October 20, 2026, by the MODIS (Moderate Resolution Imaging Spectroradiometer) on NASA’s Terra satellite.",
+      "queued_ts": 1793085569
     }
   ],
   "digests_sent": {
@@ -14884,6 +14924,10 @@
       "f99ba3eae14ec3a4596ae584": true,
       "55cb628432c835ad33b3c784": true,
       "724233c97d0019e7e962e923": true
+    },
+    "2026-10-27": {
+      "3c6ada5cbdd33adcddcf4e32": true,
+      "119f931ea8c4ec5ef7c20fc3": true
     }
   }
 }
