@@ -13467,6 +13467,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers",
       "score": 2.8,
       "published_utc": "2026-10-27T18:00:00+00:00"
+    },
+    "6f4a162719268b30d1fdc6b5": {
+      "ts": 1793140682,
+      "source": "NASA Breaking News",
+      "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
+      "score": 4.0,
+      "published_utc": "2026-10-27T19:27:22+00:00"
+    },
+    "17b8fe1348c6260990ae5d31": {
+      "ts": 1793140684,
+      "source": "Space.com",
+      "title": "How 'spacewalking' underwater made me feel like I was really in space",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/how-spacewalking-underwater-made-me-feel-like-i-was-really-in-space",
+      "score": 2.8,
+      "published_utc": "2026-10-27T21:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -14225,6 +14241,18 @@
       "day_brt": "2026-10-27",
       "resumo_pt": "Resumo (PT-BR): 1 min read NASA’s Neo Surveyor Sunshade HQ Web Team Oct 27, 2026 Image Article BAE Systems Space & Mission Systems A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. The sunshade structure , which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base, will keep the infrared space telescope cool as it searches for near-Earth asteroids and comets while also providing the spacecraft with power.",
       "queued_ts": 1793126682
+    },
+    {
+      "fp": "6f4a162719268b30d1fdc6b5",
+      "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-27T19:27:22+00:00",
+      "day_brt": "2026-10-27",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Invites Media to Crew Completion of Yearlong Mars Simulation Lauren E. Low Oct 27, 2026 MEDIA ADVISORY M26-083 NASA Headquarters Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew members (from left) Ross Elder, Matthew Montgomery, Ellen Ellis, and James Spicer, pose for a photo on Oct.",
+      "queued_ts": 1793140685
     }
   ],
   "digests_sent": {
@@ -14977,7 +15005,8 @@
       "3c6ada5cbdd33adcddcf4e32": true,
       "119f931ea8c4ec5ef7c20fc3": true,
       "04684932cde87cff9d6b071a": true,
-      "18e37fa6296953b33724642f": true
+      "18e37fa6296953b33724642f": true,
+      "6f4a162719268b30d1fdc6b5": true
     }
   }
 }
