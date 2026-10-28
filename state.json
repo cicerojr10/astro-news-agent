@@ -14229,30 +14229,6 @@
       "day_brt": "2026-10-26",
       "resumo_pt": "Resumo (PT-BR): West Coast Falcon 9 rocket to launch 27 Starlink satellites October 27, 2026 Steven Young File: A SpaceX Falcon 9 rocket stands in the launch position during sunset at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California. Image: SpaceX SpaceX will deploy another batch of Starlink satellites from a Falcon 9 rocket, set to liftoff from Vandenberg Space Force Base in California late Monday (local time).",
       "queued_ts": 1793065899
-    },
-    {
-      "fp": "18e37fa6296953b33724642f",
-      "title": "NASA’s Neo Surveyor Sunshade",
-      "link": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-27T17:58:57+00:00",
-      "day_brt": "2026-10-27",
-      "resumo_pt": "Resumo (PT-BR): 1 min read NASA’s Neo Surveyor Sunshade HQ Web Team Oct 27, 2026 Image Article BAE Systems Space & Mission Systems A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. The sunshade structure , which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base, will keep the infrared space telescope cool as it searches for near-Earth asteroids and comets while also providing the spacecraft with power.",
-      "queued_ts": 1793126682
-    },
-    {
-      "fp": "6f4a162719268b30d1fdc6b5",
-      "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-27T19:27:22+00:00",
-      "day_brt": "2026-10-27",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Invites Media to Crew Completion of Yearlong Mars Simulation Lauren E. Low Oct 27, 2026 MEDIA ADVISORY M26-083 NASA Headquarters Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew members (from left) Ross Elder, Matthew Montgomery, Ellen Ellis, and James Spicer, pose for a photo on Oct.",
-      "queued_ts": 1793140685
     }
   ],
   "digests_sent": {
@@ -14946,7 +14922,8 @@
       "night": true
     },
     "2026-10-27": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
