@@ -13499,6 +13499,14 @@
       "link": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
       "score": 4.0,
       "published_utc": "2026-10-28T04:05:00+00:00"
+    },
+    "c2b2610bb4862a755a080e46": {
+      "ts": 1793196617,
+      "source": "Space.com",
+      "title": "Astronomers found a mysterious object beyond Neptune, and it could be a new dwarf planet",
+      "link": "https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet",
+      "score": 2.8,
+      "published_utc": "2026-10-28T12:58:18+00:00"
     }
   },
   "digest_queue": [
@@ -14245,30 +14253,6 @@
       "day_brt": "2026-10-26",
       "resumo_pt": "Resumo (PT-BR): West Coast Falcon 9 rocket to launch 27 Starlink satellites October 27, 2026 Steven Young File: A SpaceX Falcon 9 rocket stands in the launch position during sunset at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California. Image: SpaceX SpaceX will deploy another batch of Starlink satellites from a Falcon 9 rocket, set to liftoff from Vandenberg Space Force Base in California late Monday (local time).",
       "queued_ts": 1793065899
-    },
-    {
-      "fp": "eabe62fc6fa027b8bc78e2a5",
-      "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-28T05:39:46+00:00",
-      "day_brt": "2026-10-28",
-      "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 4 min read Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’ Mars Science Laboratory Mission Team Members Oct 28, 2026 Article NASA’s Mars rover Curiosity acquired this close-up image using its Mars Hand Lens Imager (MAHLI), showing the abundance of roughly disc-shaped potential crystal forms on our next drill target, informally named “Nazca.” The scratches made by the DRT brush are also visible in this image.",
-      "queued_ts": 1793172074
-    },
-    {
-      "fp": "900302dee8e2fff40809e887",
-      "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-28T04:05:00+00:00",
-      "day_brt": "2026-10-28",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1793172074
     }
   ],
   "digests_sent": {
@@ -14964,6 +14948,9 @@
     "2026-10-27": {
       "morning": true,
       "night": true
+    },
+    "2026-10-28": {
+      "morning": true
     }
   },
   "sent_updates": {
