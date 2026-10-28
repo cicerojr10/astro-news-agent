@@ -13523,6 +13523,22 @@
       "link": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/",
       "score": 4.0,
       "published_utc": "2026-10-28T15:33:10+00:00"
+    },
+    "1dfd9709259bdb50d74c4f09": {
+      "ts": 1793216038,
+      "source": "NASA Breaking News",
+      "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
+      "link": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
+      "score": 4.0,
+      "published_utc": "2026-10-28T18:59:44+00:00"
+    },
+    "7236d6ece75c27449c1e743c": {
+      "ts": 1793216038,
+      "source": "NASA Breaking News",
+      "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
+      "link": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/",
+      "score": 4.0,
+      "published_utc": "2026-10-28T18:00:28+00:00"
     }
   },
   "digest_queue": [
@@ -14293,6 +14309,30 @@
       "day_brt": "2026-10-28",
       "resumo_pt": "Resumo (PT-BR): 1 min read Webb Sees Turbulent Star Nursery HQ Web Team Oct 28, 2026 Image Article ESA/Webb, NASA & CSA, E. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas.",
       "queued_ts": 1793206284
+    },
+    {
+      "fp": "1dfd9709259bdb50d74c4f09",
+      "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
+      "link": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-28T18:59:44+00:00",
+      "day_brt": "2026-10-28",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Artemis III SLS Core Stage Joins Boosters at Kennedy Tiffany L. Fairley Oct 28, 2026 Image Article The SLS (Space Launch System) core stage is lifted from the transfer aisle of the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Thursday, Oct.",
+      "queued_ts": 1793216043
+    },
+    {
+      "fp": "7236d6ece75c27449c1e743c",
+      "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
+      "link": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-28T18:00:28+00:00",
+      "day_brt": "2026-10-28",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA University Challenge Ignites Trajectory of Drone Entrepreneur Jim Banke Aeronautics Senior Writer Oct 28, 2026 Article Contents Research path Student challenge paves way for opportunity Four co-founders of AG3 Labs –from left Matt Atkinson, Gavin Gardner, Ryan Atkinson, and Gryson Gardner – show off the military training drones their company builds at a U.S. As a student, Gavin was on a Michigan State team twice selected for participation in NASA’s University Student Research Challenge.",
+      "queued_ts": 1793216043
     }
   ],
   "digests_sent": {
@@ -15056,7 +15096,9 @@
       "eabe62fc6fa027b8bc78e2a5": true,
       "900302dee8e2fff40809e887": true,
       "82ca6641675d8129df9208c4": true,
-      "4907addc25a2cb5d40b15ef0": true
+      "4907addc25a2cb5d40b15ef0": true,
+      "1dfd9709259bdb50d74c4f09": true,
+      "7236d6ece75c27449c1e743c": true
     }
   }
 }
