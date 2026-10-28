@@ -13507,6 +13507,22 @@
       "link": "https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet",
       "score": 2.8,
       "published_utc": "2026-10-28T12:58:18+00:00"
+    },
+    "82ca6641675d8129df9208c4": {
+      "ts": 1793206281,
+      "source": "NASA Breaking News",
+      "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
+      "score": 4.0,
+      "published_utc": "2026-10-28T16:25:29+00:00"
+    },
+    "4907addc25a2cb5d40b15ef0": {
+      "ts": 1793206281,
+      "source": "NASA Breaking News",
+      "title": "Webb Sees Turbulent Star Nursery",
+      "link": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/",
+      "score": 4.0,
+      "published_utc": "2026-10-28T15:33:10+00:00"
     }
   },
   "digest_queue": [
@@ -14253,6 +14269,30 @@
       "day_brt": "2026-10-26",
       "resumo_pt": "Resumo (PT-BR): West Coast Falcon 9 rocket to launch 27 Starlink satellites October 27, 2026 Steven Young File: A SpaceX Falcon 9 rocket stands in the launch position during sunset at Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California. Image: SpaceX SpaceX will deploy another batch of Starlink satellites from a Falcon 9 rocket, set to liftoff from Vandenberg Space Force Base in California late Monday (local time).",
       "queued_ts": 1793065899
+    },
+    {
+      "fp": "82ca6641675d8129df9208c4",
+      "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-28T16:25:29+00:00",
+      "day_brt": "2026-10-28",
+      "resumo_pt": "Resumo (PT-BR): Explore This Section Science Citizen Science NASA Selects 19 New Citizen... Overview Resources Opportunities Citizen Science Highlights About Science Activation 10 min read NASA Selects 19 New Citizen Science Proposals in 2026 NASA Science Editorial Team Oct 28, 2026 Article Contents The Citizen Science Seed Funding Program The Science Activation Program So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative.",
+      "queued_ts": 1793206284
+    },
+    {
+      "fp": "4907addc25a2cb5d40b15ef0",
+      "title": "Webb Sees Turbulent Star Nursery",
+      "link": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-28T15:33:10+00:00",
+      "day_brt": "2026-10-28",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Webb Sees Turbulent Star Nursery HQ Web Team Oct 28, 2026 Image Article ESA/Webb, NASA & CSA, E. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas.",
+      "queued_ts": 1793206284
     }
   ],
   "digests_sent": {
@@ -15014,7 +15054,9 @@
     },
     "2026-10-28": {
       "eabe62fc6fa027b8bc78e2a5": true,
-      "900302dee8e2fff40809e887": true
+      "900302dee8e2fff40809e887": true,
+      "82ca6641675d8129df9208c4": true,
+      "4907addc25a2cb5d40b15ef0": true
     }
   }
 }
