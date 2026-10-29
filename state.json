@@ -13653,6 +13653,30 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starfall-capsule-delivers-cargo-for-us-air-force-in-landmark-point-to-point-space-mission",
       "score": 2.8,
       "published_utc": "2026-10-29T10:00:00+00:00"
+    },
+    "10e9ddf4d752345a126ceede": {
+      "ts": 1793306237,
+      "source": "NASA Breaking News",
+      "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
+      "link": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/",
+      "score": 4.0,
+      "published_utc": "2026-10-29T18:00:35+00:00"
+    },
+    "70c4d71f954f15f238d120af": {
+      "ts": 1793306237,
+      "source": "NASA Breaking News",
+      "title": "NIH–NASA QuSAFE Challenge",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/",
+      "score": 4.0,
+      "published_utc": "2026-10-29T17:44:37+00:00"
+    },
+    "f4d403f02509ae9853370b2e": {
+      "ts": 1793306240,
+      "source": "Space.com",
+      "title": "Astronauts deploy solar array on 100th US spacewalk by International Space Station crew members",
+      "link": "https://www.space.com/space-exploration/international-space-station/100-us-spacewalks-from-the-iss-astronauts-deploy-new-solar-array-on-landmark-eva",
+      "score": 2.8,
+      "published_utc": "2026-10-29T20:01:52+00:00"
     }
   },
   "digest_queue": [
@@ -14555,6 +14579,30 @@
       "day_brt": "2026-10-29",
       "resumo_pt": "Resumo (PT-BR): 4 min read Contractor to Civil Servant: NASA Welcomes Jared Spiers Bo Black Communications Strategist Oct 29, 2026 Article Jared Spiers, electrical engineering technician at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, poses for a photograph with the Thad Cochran Test Stand in the background on Oct.",
       "queued_ts": 1793288445
+    },
+    {
+      "fp": "10e9ddf4d752345a126ceede",
+      "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
+      "link": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-29T18:00:35+00:00",
+      "day_brt": "2026-10-29",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA Names Troy Asher Armstrong Flight Research Center Director Lauren E. Low Oct 29, 2026 RELEASE 26-092 NASA Headquarters Armstrong Flight Research Center Photo of Troy Asher NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California.",
+      "queued_ts": 1793306241
+    },
+    {
+      "fp": "70c4d71f954f15f238d120af",
+      "title": "NIH–NASA QuSAFE Challenge",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-29T17:44:37+00:00",
+      "day_brt": "2026-10-29",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NIH–NASA QuSAFE Challenge Bailey Light Oct 29, 2026 Article The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and microphysiological systems (MPS), to improve drug safety while reducing animal use. In vitro NAMs, such as organoids and microphysiological systems (MPS), can generate human-relevant data for drug development and safety evaluation.",
+      "queued_ts": 1793306241
     }
   ],
   "digests_sent": {
@@ -15329,7 +15377,9 @@
       "109d5b9c2529aa0c44753c37": true,
       "404fa03df716ffba3f852fa4": true,
       "f3e738e94ea493c6b338e1cf": true,
-      "8964f00839717c64daef6812": true
+      "8964f00839717c64daef6812": true,
+      "10e9ddf4d752345a126ceede": true,
+      "70c4d71f954f15f238d120af": true
     }
   }
 }
