@@ -13539,6 +13539,46 @@
       "link": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/",
       "score": 4.0,
       "published_utc": "2026-10-28T18:00:28+00:00"
+    },
+    "225e34d3c00fd89335eb7ddf": {
+      "ts": 1793239946,
+      "source": "NASA Breaking News",
+      "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
+      "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
+      "score": 4.0,
+      "published_utc": "2026-10-28T21:50:01+00:00"
+    },
+    "8073470a0c6d2774a12bf97d": {
+      "ts": 1793239948,
+      "source": "Spaceflight Now",
+      "title": "United Launch Alliance announces mid-November return to flight for Vulcan rocket",
+      "link": "https://spaceflightnow.com/2026/10/28/untied-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/",
+      "score": 13.5,
+      "published_utc": "2026-10-28T22:46:41+00:00"
+    },
+    "1e11499b38eb267e67320385": {
+      "ts": 1793239948,
+      "source": "Spaceflight Now",
+      "title": "NASA nears end of space station solar array upgrade with Oct. 29 and Nov. 5 spacewalks",
+      "link": "https://spaceflightnow.com/2026/10/28/nasa-nears-end-of-space-station-solar-array-upgrade-with-oct-29-and-nov-5-spacewalks/",
+      "score": 3.6,
+      "published_utc": "2026-10-28T21:03:33+00:00"
+    },
+    "04bb84f3183b4141b25df78e": {
+      "ts": 1793239949,
+      "source": "NASASpaceflight",
+      "title": "Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana",
+      "link": "https://www.nasaspaceflight.com/2026/10/construction-timeline-comparisons/",
+      "score": 3.6,
+      "published_utc": "2026-10-28T21:12:08+00:00"
+    },
+    "1fa16dd24a92eae569362a27": {
+      "ts": 1793239949,
+      "source": "Space.com",
+      "title": "On this day in space! Oct. 28, 1971: Britain launches its 1st satellite Prospero into space on a Black Arrow rocket",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-28-2026",
+      "score": 2.8,
+      "published_utc": "2026-10-28T23:02:12+00:00"
     }
   },
   "digest_queue": [
@@ -14333,6 +14373,54 @@
       "day_brt": "2026-10-28",
       "resumo_pt": "Resumo (PT-BR): 4 min read NASA University Challenge Ignites Trajectory of Drone Entrepreneur Jim Banke Aeronautics Senior Writer Oct 28, 2026 Article Contents Research path Student challenge paves way for opportunity Four co-founders of AG3 Labs –from left Matt Atkinson, Gavin Gardner, Ryan Atkinson, and Gryson Gardner – show off the military training drones their company builds at a U.S. As a student, Gavin was on a Michigan State team twice selected for participation in NASA’s University Student Research Challenge.",
       "queued_ts": 1793216043
+    },
+    {
+      "fp": "8073470a0c6d2774a12bf97d",
+      "title": "United Launch Alliance announces mid-November return to flight for Vulcan rocket",
+      "link": "https://spaceflightnow.com/2026/10/28/untied-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/",
+      "source": "Spaceflight Now",
+      "score": 13.5,
+      "is_anomaly": true,
+      "published_utc": "2026-10-28T22:46:41+00:00",
+      "day_brt": "2026-10-28",
+      "resumo_pt": "Resumo (PT-BR): United Launch Alliance announces mid-November return to flight for Vulcan rocket October 28, 2026 Will Robinson-Smith The payload fairing containing 40 Amazon Leo satellites arrives at United Launch Alliance’s new Vertical Integration Facility-A for attachment to a Vulcan rocket. United Launch Alliance said its fledgling Vulcan rocket would return to flight Friday, November 13, after a nine-month grounding due problems with its solid rocket boosters.",
+      "queued_ts": 1793239951
+    },
+    {
+      "fp": "225e34d3c00fd89335eb7ddf",
+      "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
+      "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-28T21:50:01+00:00",
+      "day_brt": "2026-10-28",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Welcomes Vietnam as Newest Artemis Accords Signatory Elizabeth Shaw Oct 28, 2026 Article Credit: NASA The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space. “Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy Administrator Matt Anderson in recorded remarks for the ceremony.",
+      "queued_ts": 1793239951
+    },
+    {
+      "fp": "1e11499b38eb267e67320385",
+      "title": "NASA nears end of space station solar array upgrade with Oct. 29 and Nov. 5 spacewalks",
+      "link": "https://spaceflightnow.com/2026/10/28/nasa-nears-end-of-space-station-solar-array-upgrade-with-oct-29-and-nov-5-spacewalks/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-10-28T21:03:33+00:00",
+      "day_brt": "2026-10-28",
+      "resumo_pt": "Resumo (PT-BR): NASA nears end of space station solar array upgrade with Oct. 5 spacewalks October 28, 2026 Houston Harwood A still from a NASA animation depicts Anil Menon transporting the rolled up, folded IROSA solar array to its install position.",
+      "queued_ts": 1793239951
+    },
+    {
+      "fp": "04bb84f3183b4141b25df78e",
+      "title": "Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana",
+      "link": "https://www.nasaspaceflight.com/2026/10/construction-timeline-comparisons/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-10-28T21:12:08+00:00",
+      "day_brt": "2026-10-28",
+      "resumo_pt": "Resumo (PT-BR): Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana by Joe Kangas October 28, 2026 written by Joe Kangas October 28, 2026 53 In the world of spaceflight, launch infrastructure is critical for rocket launches. For agencies and companies wanting to move quickly from a rocket’s inception to its first flight, everything from launch pads to vehicle integration facilities to support infrastructure has to be constructed.",
+      "queued_ts": 1793239951
     }
   ],
   "digests_sent": {
@@ -15098,7 +15186,10 @@
       "82ca6641675d8129df9208c4": true,
       "4907addc25a2cb5d40b15ef0": true,
       "1dfd9709259bdb50d74c4f09": true,
-      "7236d6ece75c27449c1e743c": true
+      "7236d6ece75c27449c1e743c": true,
+      "8073470a0c6d2774a12bf97d": true,
+      "225e34d3c00fd89335eb7ddf": true,
+      "1e11499b38eb267e67320385": true
     }
   }
 }
