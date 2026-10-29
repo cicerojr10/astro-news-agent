@@ -13579,6 +13579,32 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-28-2026",
       "score": 2.8,
       "published_utc": "2026-10-28T23:02:12+00:00"
+    },
+    "109d5b9c2529aa0c44753c37": {
+      "ts": 1793263906,
+      "source": "NASA Breaking News",
+      "title": "APOD: 29 October 2026 – The Horns of Venus",
+      "link": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
+      "score": 4.0,
+      "published_utc": "2026-10-29T04:05:00+00:00"
+    },
+    "f7bffcdffd1e94056fdcb311": {
+      "ts": 1793263906,
+      "source": "NASA Breaking News",
+      "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+      "link": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
+      "score": 0.0,
+      "published_utc": "2026-10-29T02:49:59+00:00",
+      "note": "not_today"
+    },
+    "62c1cb02345ed35333c996e7": {
+      "ts": 1793263908,
+      "source": "Spaceflight Now",
+      "title": "United Launch Alliance announces mid-November return to flight for Vulcan rocket",
+      "link": "https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/",
+      "score": 0.0,
+      "published_utc": "2026-10-28T22:46:41+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -14421,6 +14447,18 @@
       "day_brt": "2026-10-28",
       "resumo_pt": "Resumo (PT-BR): Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana by Joe Kangas October 28, 2026 written by Joe Kangas October 28, 2026 53 In the world of spaceflight, launch infrastructure is critical for rocket launches. For agencies and companies wanting to move quickly from a rocket’s inception to its first flight, everything from launch pads to vehicle integration facilities to support infrastructure has to be constructed.",
       "queued_ts": 1793239951
+    },
+    {
+      "fp": "109d5b9c2529aa0c44753c37",
+      "title": "APOD: 29 October 2026 – The Horns of Venus",
+      "link": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-29T04:05:00+00:00",
+      "day_brt": "2026-10-29",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1793263909
     }
   ],
   "digests_sent": {
@@ -15190,6 +15228,9 @@
       "8073470a0c6d2774a12bf97d": true,
       "225e34d3c00fd89335eb7ddf": true,
       "1e11499b38eb267e67320385": true
+    },
+    "2026-10-29": {
+      "109d5b9c2529aa0c44753c37": true
     }
   }
 }
