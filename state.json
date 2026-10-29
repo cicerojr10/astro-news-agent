@@ -13605,6 +13605,54 @@
       "score": 0.0,
       "published_utc": "2026-10-28T22:46:41+00:00",
       "note": "not_today"
+    },
+    "404fa03df716ffba3f852fa4": {
+      "ts": 1793288440,
+      "source": "NASA Breaking News",
+      "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
+      "link": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
+      "score": 4.0,
+      "published_utc": "2026-10-29T15:21:23+00:00"
+    },
+    "f3e738e94ea493c6b338e1cf": {
+      "ts": 1793288440,
+      "source": "NASA Breaking News",
+      "title": "NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing",
+      "link": "https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/",
+      "score": 4.0,
+      "published_utc": "2026-10-29T15:06:40+00:00"
+    },
+    "8964f00839717c64daef6812": {
+      "ts": 1793288440,
+      "source": "NASA Breaking News",
+      "title": "Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb",
+      "link": "https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/",
+      "score": 4.0,
+      "published_utc": "2026-10-29T14:01:01+00:00"
+    },
+    "668bbd7ea468f9bf192fc66b": {
+      "ts": 1793288441,
+      "source": "NASA Breaking News",
+      "title": "Contractor to Civil Servant: NASA Welcomes Jared Spiers",
+      "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers/",
+      "score": 4.0,
+      "published_utc": "2026-10-29T13:27:34+00:00"
+    },
+    "a412ebc8dd813e3a0d709de8": {
+      "ts": 1793288443,
+      "source": "Space.com",
+      "title": "SpaceX fires up Starship upper stage ahead of landmark Flight 15 test launch (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-upper-stage-ahead-of-landmark-flight-15-test-launch-video",
+      "score": 2.8,
+      "published_utc": "2026-10-29T13:00:00+00:00"
+    },
+    "404c60d3dcee5f518924e962": {
+      "ts": 1793288443,
+      "source": "Space.com",
+      "title": "SpaceX's Starfall capsule delivers cargo for US Air Force in landmark 'point to point' space mission",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starfall-capsule-delivers-cargo-for-us-air-force-in-landmark-point-to-point-space-mission",
+      "score": 2.8,
+      "published_utc": "2026-10-29T10:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -14459,6 +14507,54 @@
       "day_brt": "2026-10-29",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1793263909
+    },
+    {
+      "fp": "404fa03df716ffba3f852fa4",
+      "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
+      "link": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-29T15:21:23+00:00",
+      "day_brt": "2026-10-29",
+      "resumo_pt": "Resumo (PT-BR): 3 min read Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA María José Viñas Oct 29, 2026 RELEASE 26-091 NASA Headquarters La campaña Viaje a Titán ofrece al público la oportunidad de enviar su nombre en un microchip a bordo de la misión Dragonfly de la NASA. Esta aeronave de ala giratoria explorará desde el aire Titán, la luna de Saturno.",
+      "queued_ts": 1793288445
+    },
+    {
+      "fp": "f3e738e94ea493c6b338e1cf",
+      "title": "NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing",
+      "link": "https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-29T15:06:40+00:00",
+      "day_brt": "2026-10-29",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing Sondra Woodward Oct 29, 2026 Article When companies began approaching NASA’s Langley Research Center, asking to be included in the In-Space Servicing, Assembly, and Manufacturing (ISAM) State of Play for access to competitive intelligence, the team knew they had crossed an inflection point. “We’ve had some unnamed companies ask if we have any proprietary information,” says Dale Arney, senior team lead for the ISAM Technology Portfolio at NASA Langley.",
+      "queued_ts": 1793288445
+    },
+    {
+      "fp": "8964f00839717c64daef6812",
+      "title": "Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb",
+      "link": "https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-29T14:01:01+00:00",
+      "day_brt": "2026-10-29",
+      "resumo_pt": "Resumo (PT-BR): Explore Hubble Science Hubble Space Telescope Ghostly Cat’s Head Nebula... Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space?",
+      "queued_ts": 1793288445
+    },
+    {
+      "fp": "668bbd7ea468f9bf192fc66b",
+      "title": "Contractor to Civil Servant: NASA Welcomes Jared Spiers",
+      "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-29T13:27:34+00:00",
+      "day_brt": "2026-10-29",
+      "resumo_pt": "Resumo (PT-BR): 4 min read Contractor to Civil Servant: NASA Welcomes Jared Spiers Bo Black Communications Strategist Oct 29, 2026 Article Jared Spiers, electrical engineering technician at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, poses for a photograph with the Thad Cochran Test Stand in the background on Oct.",
+      "queued_ts": 1793288445
     }
   ],
   "digests_sent": {
@@ -15230,7 +15326,10 @@
       "1e11499b38eb267e67320385": true
     },
     "2026-10-29": {
-      "109d5b9c2529aa0c44753c37": true
+      "109d5b9c2529aa0c44753c37": true,
+      "404fa03df716ffba3f852fa4": true,
+      "f3e738e94ea493c6b338e1cf": true,
+      "8964f00839717c64daef6812": true
     }
   }
 }
