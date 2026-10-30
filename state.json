@@ -13733,6 +13733,30 @@
       "link": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
       "score": 4.0,
       "published_utc": "2026-10-30T04:01:00+00:00"
+    },
+    "e97cb0f830ee89e1abbbe7fc": {
+      "ts": 1793379023,
+      "source": "NASA Breaking News",
+      "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+      "link": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+      "score": 4.0,
+      "published_utc": "2026-10-30T15:56:26+00:00"
+    },
+    "33ceabe99481a37a6ebe2488": {
+      "ts": 1793379023,
+      "source": "NASA Breaking News",
+      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+      "link": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+      "score": 10.0,
+      "published_utc": "2026-10-30T14:51:21+00:00"
+    },
+    "a69a635939793e27b6ac96a4": {
+      "ts": 1793379026,
+      "source": "Space.com",
+      "title": "'Star Trek's' William Shatner and George Takei honor the death of Walter Koenig",
+      "link": "https://www.space.com/entertainment/star-treks-william-shatner-and-george-takei-honor-the-death-of-walter-koenig",
+      "score": 2.8,
+      "published_utc": "2026-10-30T15:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -14575,6 +14599,30 @@
       "day_brt": "2026-10-28",
       "resumo_pt": "Resumo (PT-BR): Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana by Joe Kangas October 28, 2026 written by Joe Kangas October 28, 2026 53 In the world of spaceflight, launch infrastructure is critical for rocket launches. For agencies and companies wanting to move quickly from a rocket’s inception to its first flight, everything from launch pads to vehicle integration facilities to support infrastructure has to be constructed.",
       "queued_ts": 1793239951
+    },
+    {
+      "fp": "33ceabe99481a37a6ebe2488",
+      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+      "link": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+      "source": "NASA Breaking News",
+      "score": 10.0,
+      "is_anomaly": true,
+      "published_utc": "2026-10-30T14:51:21+00:00",
+      "day_brt": "2026-10-30",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Explores Potential Commercial Servicing for Hubble Telescope Alise Fisher Oct 30, 2026 Article The Hubble Space Telescope returns to orbit as an improved telescope after its second servicing mission in February 1997. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
+      "queued_ts": 1793379027
+    },
+    {
+      "fp": "e97cb0f830ee89e1abbbe7fc",
+      "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+      "link": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-30T15:56:26+00:00",
+      "day_brt": "2026-10-30",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA’s James Webb Space Telescope Captures Eerie Cat’s Head HQ Web Team Oct 30, 2026 Image Article NASA, ESA, CSA, STScI; Image Processing: Joseph DePasquale (STScI) Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula.",
+      "queued_ts": 1793379027
     }
   ],
   "digests_sent": {
@@ -15331,7 +15379,9 @@
     },
     "2026-10-30": {
       "1be5295f13a1c78fd1b59a25": true,
-      "160d86f4f79823210743f155": true
+      "160d86f4f79823210743f155": true,
+      "33ceabe99481a37a6ebe2488": true,
+      "e97cb0f830ee89e1abbbe7fc": true
     }
   }
 }
