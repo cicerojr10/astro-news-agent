@@ -14575,30 +14575,6 @@
       "day_brt": "2026-10-28",
       "resumo_pt": "Resumo (PT-BR): Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana by Joe Kangas October 28, 2026 written by Joe Kangas October 28, 2026 53 In the world of spaceflight, launch infrastructure is critical for rocket launches. For agencies and companies wanting to move quickly from a rocket’s inception to its first flight, everything from launch pads to vehicle integration facilities to support infrastructure has to be constructed.",
       "queued_ts": 1793239951
-    },
-    {
-      "fp": "1be5295f13a1c78fd1b59a25",
-      "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-30T04:05:00+00:00",
-      "day_brt": "2026-10-30",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1793339499
-    },
-    {
-      "fp": "160d86f4f79823210743f155",
-      "title": "Vega Island Frozen in Fright",
-      "link": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-30T04:01:00+00:00",
-      "day_brt": "2026-10-30",
-      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Vega Island Frozen in Fright Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 4 min read Vega Island Frozen in Fright Image of the Day for October 30, 2026 The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold. NASA Earth Observatory Oct 30, 2026 Article View more Images of the Day: Oct 29, 2026 Instruments: Landsat 9 — OLI Topics: Glaciers & Ice Sheets March 22, 2025 October 10, 2026 Part of an ice-covered Antarctic island has the appearance of a grinning skull in profile, with a rock outcrop as an eye socket and lateral moraine as a mouth.",
-      "queued_ts": 1793339499
     }
   ],
   "digests_sent": {
@@ -15300,6 +15276,9 @@
     },
     "2026-10-29": {
       "night": true
+    },
+    "2026-10-30": {
+      "morning": true
     }
   },
   "sent_updates": {
