@@ -13677,6 +13677,46 @@
       "link": "https://www.space.com/space-exploration/international-space-station/100-us-spacewalks-from-the-iss-astronauts-deploy-new-solar-array-on-landmark-eva",
       "score": 2.8,
       "published_utc": "2026-10-29T20:01:52+00:00"
+    },
+    "051095f0bc91d2f82f99e699": {
+      "ts": 1793319362,
+      "source": "NASA Breaking News",
+      "title": "Halloween Aboard the International Space Station",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
+      "score": 4.0,
+      "published_utc": "2026-10-29T21:44:23+00:00"
+    },
+    "f7dd79e340121f978d12a958": {
+      "ts": 1793319363,
+      "source": "Spaceflight Now",
+      "title": "As it happened: spacewalkers install new solar array",
+      "link": "https://spaceflightnow.com/2026/10/29/as-it-happened-spacewalkers-install-new-solar-array/",
+      "score": 3.6,
+      "published_utc": "2026-10-29T23:45:33+00:00"
+    },
+    "70b6eba76c4773a1a6e8d80b": {
+      "ts": 1793319364,
+      "source": "Spaceflight Now",
+      "title": "Spacewalking astronauts unfurl upgraded solar array to boost space station power",
+      "link": "https://spaceflightnow.com/2026/10/29/spacewalking-astronauts-unfurl-upgraded-solar-array-to-boost-space-station-power/",
+      "score": 3.6,
+      "published_utc": "2026-10-29T21:57:22+00:00"
+    },
+    "75e7c5b9b316b6e9dcf291bd": {
+      "ts": 1793319364,
+      "source": "NASASpaceflight",
+      "title": "Blue Origin attempts end of year return and eyes Artemis IV selection",
+      "link": "https://www.nasaspaceflight.com/2026/10/blue-origin-update-2/",
+      "score": 3.6,
+      "published_utc": "2026-10-29T21:02:54+00:00"
+    },
+    "f5130bd15ca6716fa54a8e60": {
+      "ts": 1793319365,
+      "source": "Space.com",
+      "title": "On this day in space! Oct. 29, 1991: NASA's Galileo spacecraft flies by asteroid Gaspra and snaps amazing photos while flying at 18,000 mph",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-29-2026",
+      "score": 2.8,
+      "published_utc": "2026-10-29T21:28:58+00:00"
     }
   },
   "digest_queue": [
@@ -14519,90 +14559,6 @@
       "day_brt": "2026-10-28",
       "resumo_pt": "Resumo (PT-BR): Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana by Joe Kangas October 28, 2026 written by Joe Kangas October 28, 2026 53 In the world of spaceflight, launch infrastructure is critical for rocket launches. For agencies and companies wanting to move quickly from a rocket’s inception to its first flight, everything from launch pads to vehicle integration facilities to support infrastructure has to be constructed.",
       "queued_ts": 1793239951
-    },
-    {
-      "fp": "109d5b9c2529aa0c44753c37",
-      "title": "APOD: 29 October 2026 – The Horns of Venus",
-      "link": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-29T04:05:00+00:00",
-      "day_brt": "2026-10-29",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1793263909
-    },
-    {
-      "fp": "404fa03df716ffba3f852fa4",
-      "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
-      "link": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-29T15:21:23+00:00",
-      "day_brt": "2026-10-29",
-      "resumo_pt": "Resumo (PT-BR): 3 min read Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA María José Viñas Oct 29, 2026 RELEASE 26-091 NASA Headquarters La campaña Viaje a Titán ofrece al público la oportunidad de enviar su nombre en un microchip a bordo de la misión Dragonfly de la NASA. Esta aeronave de ala giratoria explorará desde el aire Titán, la luna de Saturno.",
-      "queued_ts": 1793288445
-    },
-    {
-      "fp": "f3e738e94ea493c6b338e1cf",
-      "title": "NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing",
-      "link": "https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-29T15:06:40+00:00",
-      "day_brt": "2026-10-29",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing Sondra Woodward Oct 29, 2026 Article When companies began approaching NASA’s Langley Research Center, asking to be included in the In-Space Servicing, Assembly, and Manufacturing (ISAM) State of Play for access to competitive intelligence, the team knew they had crossed an inflection point. “We’ve had some unnamed companies ask if we have any proprietary information,” says Dale Arney, senior team lead for the ISAM Technology Portfolio at NASA Langley.",
-      "queued_ts": 1793288445
-    },
-    {
-      "fp": "8964f00839717c64daef6812",
-      "title": "Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb",
-      "link": "https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-29T14:01:01+00:00",
-      "day_brt": "2026-10-29",
-      "resumo_pt": "Resumo (PT-BR): Explore Hubble Science Hubble Space Telescope Ghostly Cat’s Head Nebula... Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space?",
-      "queued_ts": 1793288445
-    },
-    {
-      "fp": "668bbd7ea468f9bf192fc66b",
-      "title": "Contractor to Civil Servant: NASA Welcomes Jared Spiers",
-      "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-29T13:27:34+00:00",
-      "day_brt": "2026-10-29",
-      "resumo_pt": "Resumo (PT-BR): 4 min read Contractor to Civil Servant: NASA Welcomes Jared Spiers Bo Black Communications Strategist Oct 29, 2026 Article Jared Spiers, electrical engineering technician at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, poses for a photograph with the Thad Cochran Test Stand in the background on Oct.",
-      "queued_ts": 1793288445
-    },
-    {
-      "fp": "10e9ddf4d752345a126ceede",
-      "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
-      "link": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-29T18:00:35+00:00",
-      "day_brt": "2026-10-29",
-      "resumo_pt": "Resumo (PT-BR): 4 min read NASA Names Troy Asher Armstrong Flight Research Center Director Lauren E. Low Oct 29, 2026 RELEASE 26-092 NASA Headquarters Armstrong Flight Research Center Photo of Troy Asher NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California.",
-      "queued_ts": 1793306241
-    },
-    {
-      "fp": "70c4d71f954f15f238d120af",
-      "title": "NIH–NASA QuSAFE Challenge",
-      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-29T17:44:37+00:00",
-      "day_brt": "2026-10-29",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NIH–NASA QuSAFE Challenge Bailey Light Oct 29, 2026 Article The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and microphysiological systems (MPS), to improve drug safety while reducing animal use. In vitro NAMs, such as organoids and microphysiological systems (MPS), can generate human-relevant data for drug development and safety evaluation.",
-      "queued_ts": 1793306241
     }
   ],
   "digests_sent": {
@@ -15301,6 +15257,9 @@
     },
     "2026-10-28": {
       "morning": true
+    },
+    "2026-10-29": {
+      "night": true
     }
   },
   "sent_updates": {
@@ -15379,7 +15338,10 @@
       "f3e738e94ea493c6b338e1cf": true,
       "8964f00839717c64daef6812": true,
       "10e9ddf4d752345a126ceede": true,
-      "70c4d71f954f15f238d120af": true
+      "70c4d71f954f15f238d120af": true,
+      "051095f0bc91d2f82f99e699": true,
+      "f7dd79e340121f978d12a958": true,
+      "70b6eba76c4773a1a6e8d80b": true
     }
   }
 }
