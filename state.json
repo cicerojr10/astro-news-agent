@@ -13717,6 +13717,22 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-29-2026",
       "score": 2.8,
       "published_utc": "2026-10-29T21:28:58+00:00"
+    },
+    "1be5295f13a1c78fd1b59a25": {
+      "ts": 1793339495,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
+      "score": 4.0,
+      "published_utc": "2026-10-30T04:05:00+00:00"
+    },
+    "160d86f4f79823210743f155": {
+      "ts": 1793339495,
+      "source": "NASA Breaking News",
+      "title": "Vega Island Frozen in Fright",
+      "link": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
+      "score": 4.0,
+      "published_utc": "2026-10-30T04:01:00+00:00"
     }
   },
   "digest_queue": [
@@ -14559,6 +14575,30 @@
       "day_brt": "2026-10-28",
       "resumo_pt": "Resumo (PT-BR): Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana by Joe Kangas October 28, 2026 written by Joe Kangas October 28, 2026 53 In the world of spaceflight, launch infrastructure is critical for rocket launches. For agencies and companies wanting to move quickly from a rocket’s inception to its first flight, everything from launch pads to vehicle integration facilities to support infrastructure has to be constructed.",
       "queued_ts": 1793239951
+    },
+    {
+      "fp": "1be5295f13a1c78fd1b59a25",
+      "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-30T04:05:00+00:00",
+      "day_brt": "2026-10-30",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1793339499
+    },
+    {
+      "fp": "160d86f4f79823210743f155",
+      "title": "Vega Island Frozen in Fright",
+      "link": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-10-30T04:01:00+00:00",
+      "day_brt": "2026-10-30",
+      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Vega Island Frozen in Fright Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 4 min read Vega Island Frozen in Fright Image of the Day for October 30, 2026 The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold. NASA Earth Observatory Oct 30, 2026 Article View more Images of the Day: Oct 29, 2026 Instruments: Landsat 9 — OLI Topics: Glaciers & Ice Sheets March 22, 2025 October 10, 2026 Part of an ice-covered Antarctic island has the appearance of a grinning skull in profile, with a rock outcrop as an eye socket and lateral moraine as a mouth.",
+      "queued_ts": 1793339499
     }
   ],
   "digests_sent": {
@@ -15263,39 +15303,6 @@
     }
   },
   "sent_updates": {
-    "2026-10-20": {
-      "cfda6533cdf306382158655f": true,
-      "6ce273119cafeb9f54c8a2fe": true,
-      "bba3a85aa63e506a9c2f811c": true,
-      "850348da6a9c9ebdf65fca8d": true,
-      "2f56b9999de9c2ba03a03515": true,
-      "889d0d1373e0d5a6007ef448": true,
-      "c5ee116e83ae9b15a1a22a76": true,
-      "fbcb71cd038bceddb070923c": true
-    },
-    "2026-10-21": {
-      "f16ffbff5defc746c93f5e63": true,
-      "9badb3295ab889f7110b70bf": true,
-      "4ae36bbb7f72ef0c7c39689a": true,
-      "1f40af856bf8c26255e74474": true,
-      "a2fa9ab9b28187e4d9c94246": true,
-      "bcc2e0214a66999a370e8cc9": true,
-      "d6b8b9b6bc789d638e810c2c": true,
-      "52abf26c0fce1822fd12c56a": true,
-      "f8128d3f9a774d8d475b156a": true
-    },
-    "2026-10-22": {
-      "68f92f2bb093db91feba240b": true,
-      "305c35fa2cd313215dc312cc": true,
-      "0be52de833f8820fb373bfde": true,
-      "60bd9a6e04261f9461ab16a2": true
-    },
-    "2026-10-23": {
-      "21acce691d48d52e5976f666": true,
-      "de601e37a197958b5fc8983a": true,
-      "5997c0a93ca8e119b6f2d22c": true,
-      "48a6982df812016d632d88fa": true
-    },
     "2026-10-24": {
       "dae1e1be51268714e0040784": true,
       "2740e97f9d865d8a6f96817e": true
@@ -15342,6 +15349,10 @@
       "051095f0bc91d2f82f99e699": true,
       "f7dd79e340121f978d12a958": true,
       "70b6eba76c4773a1a6e8d80b": true
+    },
+    "2026-10-30": {
+      "1be5295f13a1c78fd1b59a25": true,
+      "160d86f4f79823210743f155": true
     }
   }
 }
