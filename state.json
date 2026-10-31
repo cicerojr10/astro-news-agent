@@ -13765,6 +13765,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/india-launches-nvs-03-navigation-satellite-gslv-rocket",
       "score": 2.8,
       "published_utc": "2026-10-30T20:29:58+00:00"
+    },
+    "d9cfae482f478ce935125d4d": {
+      "ts": 1793408237,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch",
+      "link": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-10-30T22:46:02+00:00"
+    },
+    "4c8e23a399596c02b121a4bb": {
+      "ts": 1793408238,
+      "source": "NASASpaceflight",
+      "title": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
+      "link": "https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/",
+      "score": 3.6,
+      "published_utc": "2026-10-30T21:53:38+00:00"
     }
   },
   "digest_queue": [
@@ -14607,30 +14623,6 @@
       "day_brt": "2026-10-28",
       "resumo_pt": "Resumo (PT-BR): Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana by Joe Kangas October 28, 2026 written by Joe Kangas October 28, 2026 53 In the world of spaceflight, launch infrastructure is critical for rocket launches. For agencies and companies wanting to move quickly from a rocket’s inception to its first flight, everything from launch pads to vehicle integration facilities to support infrastructure has to be constructed.",
       "queued_ts": 1793239951
-    },
-    {
-      "fp": "33ceabe99481a37a6ebe2488",
-      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-      "link": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-      "source": "NASA Breaking News",
-      "score": 10.0,
-      "is_anomaly": true,
-      "published_utc": "2026-10-30T14:51:21+00:00",
-      "day_brt": "2026-10-30",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Explores Potential Commercial Servicing for Hubble Telescope Alise Fisher Oct 30, 2026 Article The Hubble Space Telescope returns to orbit as an improved telescope after its second servicing mission in February 1997. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
-      "queued_ts": 1793379027
-    },
-    {
-      "fp": "e97cb0f830ee89e1abbbe7fc",
-      "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-      "link": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-30T15:56:26+00:00",
-      "day_brt": "2026-10-30",
-      "resumo_pt": "Resumo (PT-BR): 1 min read NASA’s James Webb Space Telescope Captures Eerie Cat’s Head HQ Web Team Oct 30, 2026 Image Article NASA, ESA, CSA, STScI; Image Processing: Joseph DePasquale (STScI) Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula.",
-      "queued_ts": 1793379027
     }
   ],
   "digests_sent": {
@@ -15334,7 +15326,8 @@
       "night": true
     },
     "2026-10-30": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -15389,7 +15382,9 @@
       "1be5295f13a1c78fd1b59a25": true,
       "160d86f4f79823210743f155": true,
       "33ceabe99481a37a6ebe2488": true,
-      "e97cb0f830ee89e1abbbe7fc": true
+      "e97cb0f830ee89e1abbbe7fc": true,
+      "d9cfae482f478ce935125d4d": true,
+      "4c8e23a399596c02b121a4bb": true
     }
   }
 }
