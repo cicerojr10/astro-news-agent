@@ -13822,6 +13822,23 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly",
       "score": 2.8,
       "published_utc": "2026-10-31T05:24:11+00:00"
+    },
+    "bb51f4edc0ab34a7af63dccc": {
+      "ts": 1793462029,
+      "source": "Spaceflight Now",
+      "title": "SpaceX closes out October with 700th Falcon 9 launch to date",
+      "link": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
+      "score": 0.0,
+      "published_utc": "2026-10-30T22:46:02+00:00",
+      "note": "not_today"
+    },
+    "986c64538ee6f841f295b056": {
+      "ts": 1793462030,
+      "source": "Space.com",
+      "title": "On this day in space! Oct. 31, 2015: Creepy skull-shaped Halloween asteroid flies by Earth, NASA names it the 'Great Pumpkin'",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-31-2026",
+      "score": 2.8,
+      "published_utc": "2026-10-31T13:26:33+00:00"
     }
   },
   "digest_queue": [
