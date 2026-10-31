@@ -13806,6 +13806,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly",
       "score": 2.8,
       "published_utc": "2026-10-31T05:24:11+00:00"
+    },
+    "f95ecbd303d61de9f9438099": {
+      "ts": 1793451553,
+      "source": "Space.com",
+      "title": "Halloween night sky 2026 — Saturn, shooting stars and a space station await US stargazers",
+      "link": "https://www.space.com/stargazing/halloween-night-sky-2026-saturn-shooting-stars-and-a-space-station-await-us-stargazers",
+      "score": 2.8,
+      "published_utc": "2026-10-31T10:00:00+00:00"
+    },
+    "b0cf0072d2e33f433e305561": {
+      "ts": 1793451553,
+      "source": "Space.com",
+      "title": "Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly",
+      "score": 2.8,
+      "published_utc": "2026-10-31T05:24:11+00:00"
     }
   },
   "digest_queue": [
@@ -14648,18 +14664,6 @@
       "day_brt": "2026-10-28",
       "resumo_pt": "Resumo (PT-BR): Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana by Joe Kangas October 28, 2026 written by Joe Kangas October 28, 2026 53 In the world of spaceflight, launch infrastructure is critical for rocket launches. For agencies and companies wanting to move quickly from a rocket’s inception to its first flight, everything from launch pads to vehicle integration facilities to support infrastructure has to be constructed.",
       "queued_ts": 1793239951
-    },
-    {
-      "fp": "83ba0fdd66a5da6f4668ff42",
-      "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-10-31T04:05:00+00:00",
-      "day_brt": "2026-10-31",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1793428286
     }
   ],
   "digests_sent": {
@@ -15365,6 +15369,9 @@
     "2026-10-30": {
       "morning": true,
       "night": true
+    },
+    "2026-10-31": {
+      "morning": true
     }
   },
   "sent_updates": {
