@@ -13839,6 +13839,14 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-31-2026",
       "score": 2.8,
       "published_utc": "2026-10-31T13:26:33+00:00"
+    },
+    "fd7ad6811281099e0e513860": {
+      "ts": 1793525897,
+      "source": "NASASpaceflight",
+      "title": "Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority",
+      "link": "https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/",
+      "score": 3.6,
+      "published_utc": "2026-11-01T03:36:55+00:00"
     }
   },
   "digest_queue": [
@@ -14681,6 +14689,18 @@
       "day_brt": "2026-10-28",
       "resumo_pt": "Resumo (PT-BR): Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana by Joe Kangas October 28, 2026 written by Joe Kangas October 28, 2026 53 In the world of spaceflight, launch infrastructure is critical for rocket launches. For agencies and companies wanting to move quickly from a rocket’s inception to its first flight, everything from launch pads to vehicle integration facilities to support infrastructure has to be constructed.",
       "queued_ts": 1793239951
+    },
+    {
+      "fp": "fd7ad6811281099e0e513860",
+      "title": "Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority",
+      "link": "https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-11-01T03:36:55+00:00",
+      "day_brt": "2026-11-01",
+      "resumo_pt": "Resumo (PT-BR): Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority by Chris Bergin October 31, 2026 written by Chris Bergin October 31, 2026 1 NASA Administrator Jared Isaacman has spoken on the planned architecture and contingencies for the Artemis III multi-vehicle campaign. He emphasized that the mission will require a sequenced series of launches involving three different vehicles and providers, and that NASA will only commit the Space Launch System (SLS) if Blue Origin’s lander is already in orbit.",
+      "queued_ts": 1793525898
     }
   ],
   "digests_sent": {
@@ -15450,6 +15470,9 @@
     },
     "2026-10-31": {
       "83ba0fdd66a5da6f4668ff42": true
+    },
+    "2026-11-01": {
+      "fd7ad6811281099e0e513860": true
     }
   }
 }
