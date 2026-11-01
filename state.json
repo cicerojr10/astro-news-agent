@@ -13847,6 +13847,30 @@
       "link": "https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/",
       "score": 3.6,
       "published_utc": "2026-11-01T03:36:55+00:00"
+    },
+    "a5b1462a75396303d9a86a4b": {
+      "ts": 1793549917,
+      "source": "Space.com",
+      "title": "Planetary defense: How military and civil satellites are watching fireballs to help keep Earth safe from space rocks",
+      "link": "https://www.space.com/stargazing/meteor-showers/planetary-defense-how-military-and-civil-satellites-are-watching-fireballs-to-help-keep-earth-safe-from-space-rocks",
+      "score": 2.8,
+      "published_utc": "2026-11-01T15:00:00+00:00"
+    },
+    "27744d7072f6d8018f50a93e": {
+      "ts": 1793549917,
+      "source": "Space.com",
+      "title": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-1-2026",
+      "score": 2.8,
+      "published_utc": "2026-11-01T14:50:15+00:00"
+    },
+    "74934a1433736e385ae435fc": {
+      "ts": 1793549917,
+      "source": "Space.com",
+      "title": "NASA's Swift space telescope is about to crash to Earth. Where will it fall?",
+      "link": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall",
+      "score": 2.8,
+      "published_utc": "2026-11-01T13:00:00+00:00"
     }
   },
   "digest_queue": [
