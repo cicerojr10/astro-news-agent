@@ -13871,6 +13871,22 @@
       "link": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall",
       "score": 2.8,
       "published_utc": "2026-11-01T13:00:00+00:00"
+    },
+    "4fa91e22a3a47fc73030f137": {
+      "ts": 1793615096,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
+      "score": 4.0,
+      "published_utc": "2026-11-02T05:05:00+00:00"
+    },
+    "c2ead7519a6aaa47dd29d393": {
+      "ts": 1793615098,
+      "source": "Space.com",
+      "title": "'The Sea God Surveys': Watch Rocket Lab launch Japanese Earth-observing satellite today",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-sea-god-surveys-iqps-radar-satellite",
+      "score": 2.8,
+      "published_utc": "2026-11-02T06:20:05+00:00"
     }
   },
   "digest_queue": [
@@ -14713,6 +14729,18 @@
       "day_brt": "2026-10-28",
       "resumo_pt": "Resumo (PT-BR): Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana by Joe Kangas October 28, 2026 written by Joe Kangas October 28, 2026 53 In the world of spaceflight, launch infrastructure is critical for rocket launches. For agencies and companies wanting to move quickly from a rocket’s inception to its first flight, everything from launch pads to vehicle integration facilities to support infrastructure has to be constructed.",
       "queued_ts": 1793239951
+    },
+    {
+      "fp": "4fa91e22a3a47fc73030f137",
+      "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-02T05:05:00+00:00",
+      "day_brt": "2026-11-02",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1793615098
     }
   ],
   "digests_sent": {
@@ -15488,6 +15516,9 @@
     },
     "2026-11-01": {
       "fd7ad6811281099e0e513860": true
+    },
+    "2026-11-02": {
+      "4fa91e22a3a47fc73030f137": true
     }
   }
 }
