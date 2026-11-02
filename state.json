@@ -13887,6 +13887,46 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-sea-god-surveys-iqps-radar-satellite",
       "score": 2.8,
       "published_utc": "2026-11-02T06:20:05+00:00"
+    },
+    "5038c51e05e50e5e0b55f2ec": {
+      "ts": 1793651120,
+      "source": "NASA Breaking News",
+      "title": "NASA’s CHAPEA Crew “Returns” to Earth",
+      "link": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/",
+      "score": 4.0,
+      "published_utc": "2026-11-02T18:50:42+00:00"
+    },
+    "ea44ea0d756a4d667289ec6c": {
+      "ts": 1793651120,
+      "source": "NASA Breaking News",
+      "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
+      "score": 4.0,
+      "published_utc": "2026-11-02T17:33:22+00:00"
+    },
+    "092fefaf7fbe94f3e4116332": {
+      "ts": 1793651120,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
+      "score": 4.0,
+      "published_utc": "2026-11-02T15:00:39+00:00"
+    },
+    "7ff88dc7edaa38a79d2075f1": {
+      "ts": 1793651122,
+      "source": "Space.com",
+      "title": "What is Starshield? A look at SpaceX's military satellite network",
+      "link": "https://www.space.com/space-exploration/satellites/what-is-starshield-a-look-at-spacexs-military-satellite-network",
+      "score": 2.8,
+      "published_utc": "2026-11-02T11:00:00+00:00"
+    },
+    "10bb6d6ebc232ac5284715f6": {
+      "ts": 1793651122,
+      "source": "Space.com",
+      "title": "Rocket Lab launches Japanese Earth-observing satellite on 99th mission to date (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-sea-god-surveys-iqps-radar-satellite",
+      "score": 2.8,
+      "published_utc": "2026-11-02T06:20:05+00:00"
     }
   },
   "digest_queue": [
@@ -14741,6 +14781,42 @@
       "day_brt": "2026-11-02",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1793615098
+    },
+    {
+      "fp": "5038c51e05e50e5e0b55f2ec",
+      "title": "NASA’s CHAPEA Crew “Returns” to Earth",
+      "link": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-02T18:50:42+00:00",
+      "day_brt": "2026-11-02",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA’s CHAPEA Crew “Returns” to Earth HQ Web Team Abby Graf Nov 02, 2026 Image Article NASA/James Blair The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. Crew members Matthew Montgomery (left), James Spicer (middle left), Ross Elder (middle right), and Ellen Ellis (right) spent more than a year testing systems, maintaining crops, managing limited resources and communication delays, conducting extravehicular activities and more in efforts to help NASA better understand how crews adapt to long-duration stays.",
+      "queued_ts": 1793651124
+    },
+    {
+      "fp": "ea44ea0d756a4d667289ec6c",
+      "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-02T17:33:22+00:00",
+      "day_brt": "2026-11-02",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch Jessica Taveau Nov 02, 2026 MEDIA ADVISORY M26-085 NASA Headquarters Northrop Grumman’s Cygnus XL cargo spacecraft is pictured on Oct. 9, 2026, in the grip of the Canadarm2 robotic arm moments before its release into Earth orbit after a nearly six‑month stay attached to the International Space Station’s Unity module.",
+      "queued_ts": 1793651124
+    },
+    {
+      "fp": "092fefaf7fbe94f3e4116332",
+      "title": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-02T15:00:39+00:00",
+      "day_brt": "2026-11-02",
+      "resumo_pt": "Resumo (PT-BR): Explore Hubble Science Hubble Space Telescope NASA’s Hubble Uncovers Case... Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space?",
+      "queued_ts": 1793651124
     }
   ],
   "digests_sent": {
@@ -15518,7 +15594,10 @@
       "fd7ad6811281099e0e513860": true
     },
     "2026-11-02": {
-      "4fa91e22a3a47fc73030f137": true
+      "4fa91e22a3a47fc73030f137": true,
+      "5038c51e05e50e5e0b55f2ec": true,
+      "ea44ea0d756a4d667289ec6c": true,
+      "092fefaf7fbe94f3e4116332": true
     }
   }
 }
