@@ -13943,6 +13943,54 @@
       "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
       "score": 4.0,
       "published_utc": "2026-11-02T20:47:41+00:00"
+    },
+    "277d5d311605d359b99d4d3e": {
+      "ts": 1793726528,
+      "source": "NASA Breaking News",
+      "title": "Astronaut and Earth",
+      "link": "https://www.nasa.gov/image-article/astronaut-and-earth/",
+      "score": 4.0,
+      "published_utc": "2026-11-03T16:37:42+00:00"
+    },
+    "b3d140859cfae97c81388239": {
+      "ts": 1793726528,
+      "source": "NASA Breaking News",
+      "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
+      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
+      "score": 4.0,
+      "published_utc": "2026-11-03T15:35:14+00:00"
+    },
+    "3ca9f21bf61d0a329b120cb1": {
+      "ts": 1793726528,
+      "source": "NASA Breaking News",
+      "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
+      "link": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
+      "score": 4.0,
+      "published_utc": "2026-11-03T15:15:50+00:00"
+    },
+    "c4eb79609441899770c905a5": {
+      "ts": 1793726529,
+      "source": "Spaceflight Now",
+      "title": "NASA’s Neil Gehrels Swift Observatory to burn up this week after more than two decades in space",
+      "link": "https://spaceflightnow.com/2026/11/03/nasas-neil-gehrels-swift-observatory-to-burn-up-this-week-after-two-decades-in-space/",
+      "score": 3.6,
+      "published_utc": "2026-11-03T13:35:33+00:00"
+    },
+    "55becb4e0202fc0792ceee18": {
+      "ts": 1793726530,
+      "source": "NASASpaceflight",
+      "title": "Avoiding an uncontrolled reentry; boost Hubble and keep the science – Isaacman",
+      "link": "https://www.nasaspaceflight.com/2026/11/uncontrolled-reentry-boost-hubble-science-isaacman/",
+      "score": 3.6,
+      "published_utc": "2026-11-03T13:05:40+00:00"
+    },
+    "c05eddd41160fa0115f434ef": {
+      "ts": 1793726531,
+      "source": "Space.com",
+      "title": "On this day in space! Nov. 3, 1957: Laika the dog launches with Sputnik 2",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-3-2026",
+      "score": 2.8,
+      "published_utc": "2026-11-03T15:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -14857,6 +14905,66 @@
       "day_brt": "2026-11-02",
       "resumo_pt": "Resumo (PT-BR): 3 min read TB 26-09 Measured Hammer-Tap Inputs Meagan Chappell Nov 02, 2026 Article For more information, contact Joel W. Download the PDF version An instrumented hammer test does not require an idealized single half-sine waveform.",
       "queued_ts": 1793672932
+    },
+    {
+      "fp": "277d5d311605d359b99d4d3e",
+      "title": "Astronaut and Earth",
+      "link": "https://www.nasa.gov/image-article/astronaut-and-earth/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-03T16:37:42+00:00",
+      "day_brt": "2026-11-03",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Astronaut and Earth HQ Web Team Nov 03, 2026 Image Article CSA CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph.",
+      "queued_ts": 1793726532
+    },
+    {
+      "fp": "b3d140859cfae97c81388239",
+      "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
+      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-03T15:35:14+00:00",
+      "day_brt": "2026-11-03",
+      "resumo_pt": "Resumo (PT-BR): 4 min read TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking Meagan Chappell Nov 03, 2026 Article For more information, contact Joel W. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare.",
+      "queued_ts": 1793726532
+    },
+    {
+      "fp": "3ca9f21bf61d0a329b120cb1",
+      "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
+      "link": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-03T15:15:50+00:00",
+      "day_brt": "2026-11-03",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Astronaut, STEM Creator Connect with Students for STEM Day Gerelle Q. Dodson Nov 03, 2026 Article NASA astronaut and Expedition 74 flight engineer Anil Menon is photographed on July 17, 2026, servicing a spacesuit and its components inside the International Space Station’s Quest airlock.",
+      "queued_ts": 1793726532
+    },
+    {
+      "fp": "c4eb79609441899770c905a5",
+      "title": "NASA’s Neil Gehrels Swift Observatory to burn up this week after more than two decades in space",
+      "link": "https://spaceflightnow.com/2026/11/03/nasas-neil-gehrels-swift-observatory-to-burn-up-this-week-after-two-decades-in-space/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-11-03T13:35:33+00:00",
+      "day_brt": "2026-11-03",
+      "resumo_pt": "Resumo (PT-BR): NASA’s Neil Gehrels Swift Observatory to burn up this week after more than two decades in space Houston Harwood November 3, 2026 1:35 p.m. NASA's Neil Gehrels Swift Observatory A satellite designed to live two years and named for its speed is ending its life slowly and then with a blistering pace.",
+      "queued_ts": 1793726532
+    },
+    {
+      "fp": "55becb4e0202fc0792ceee18",
+      "title": "Avoiding an uncontrolled reentry; boost Hubble and keep the science – Isaacman",
+      "link": "https://www.nasaspaceflight.com/2026/11/uncontrolled-reentry-boost-hubble-science-isaacman/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-11-03T13:05:40+00:00",
+      "day_brt": "2026-11-03",
+      "resumo_pt": "Resumo (PT-BR): Avoiding an uncontrolled reentry; boost Hubble and keep the science – Isaacman by Chris Bergin November 3, 2026 written by Chris Bergin November 3, 2026 1 NASA Administrator Jared Isaacman has addressed the ongoing debate about the Hubble Space Telescope’s long-term future after the agency issued a Request for Information seeking commercial options for a reboost, servicing, or controlled deorbit. The RFI, open through the end of November, comes as Hubble continues to operate on a reduced set of gyroscopes more than 16 years after its final Space Shuttle servicing mission.",
+      "queued_ts": 1793726532
     }
   ],
   "digests_sent": {
@@ -15572,31 +15680,6 @@
     }
   },
   "sent_updates": {
-    "2026-10-24": {
-      "dae1e1be51268714e0040784": true,
-      "2740e97f9d865d8a6f96817e": true
-    },
-    "2026-10-25": {
-      "53b32f804f5df5f36c212ffc": true,
-      "a2e4cea54ee66c193a56bf5f": true
-    },
-    "2026-10-26": {
-      "1072a7f34f6c0c0b82564af2": true,
-      "1a655cb97de3d7ecd82ba0f7": true,
-      "6f6275f230c7244d2a31c578": true,
-      "acd07fd3320c0291e214dc91": true,
-      "31ef4e2938d782d1dddf61ef": true,
-      "f99ba3eae14ec3a4596ae584": true,
-      "55cb628432c835ad33b3c784": true,
-      "724233c97d0019e7e962e923": true
-    },
-    "2026-10-27": {
-      "3c6ada5cbdd33adcddcf4e32": true,
-      "119f931ea8c4ec5ef7c20fc3": true,
-      "04684932cde87cff9d6b071a": true,
-      "18e37fa6296953b33724642f": true,
-      "6f4a162719268b30d1fdc6b5": true
-    },
     "2026-10-28": {
       "eabe62fc6fa027b8bc78e2a5": true,
       "900302dee8e2fff40809e887": true,
@@ -15640,6 +15723,11 @@
       "092fefaf7fbe94f3e4116332": true,
       "c531adf264de91a4b6f7b90f": true,
       "18e62329cead2d959157a06e": true
+    },
+    "2026-11-03": {
+      "277d5d311605d359b99d4d3e": true,
+      "b3d140859cfae97c81388239": true,
+      "3ca9f21bf61d0a329b120cb1": true
     }
   }
 }
