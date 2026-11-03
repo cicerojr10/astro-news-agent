@@ -13927,6 +13927,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-sea-god-surveys-iqps-radar-satellite",
       "score": 2.8,
       "published_utc": "2026-11-02T06:20:05+00:00"
+    },
+    "c531adf264de91a4b6f7b90f": {
+      "ts": 1793672928,
+      "source": "NASA Breaking News",
+      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
+      "score": 4.0,
+      "published_utc": "2026-11-02T21:35:59+00:00"
+    },
+    "18e62329cead2d959157a06e": {
+      "ts": 1793672929,
+      "source": "NASA Breaking News",
+      "title": "TB 26-09 Measured Hammer-Tap Inputs",
+      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
+      "score": 4.0,
+      "published_utc": "2026-11-02T20:47:41+00:00"
     }
   },
   "digest_queue": [
@@ -14817,6 +14833,30 @@
       "day_brt": "2026-11-02",
       "resumo_pt": "Resumo (PT-BR): Explore Hubble Science Hubble Space Telescope NASA’s Hubble Uncovers Case... Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space?",
       "queued_ts": 1793651124
+    },
+    {
+      "fp": "c531adf264de91a4b6f7b90f",
+      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-02T21:35:59+00:00",
+      "day_brt": "2026-11-02",
+      "resumo_pt": "Resumo (PT-BR): 6 Min Read Happy 65 Years: NASA’s Johnson Space Center Then and Now View of the Manned Spacecraft Center during construction in 1963. John Uri Johnson Space Center Sumer Loggins Nov 02, 2026 Article Contents Manned Spacecraft Center to Johnson Space Center Project Management Building Neutral buoyancy spacewalk training Lunar Receiving Laboratory (Building 37) Spacecraft mockup training facilities (Building 9) Mission Simulation and Training Facility (Building 5) Mission Control Center Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight.",
+      "queued_ts": 1793672932
+    },
+    {
+      "fp": "18e62329cead2d959157a06e",
+      "title": "TB 26-09 Measured Hammer-Tap Inputs",
+      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-02T20:47:41+00:00",
+      "day_brt": "2026-11-02",
+      "resumo_pt": "Resumo (PT-BR): 3 min read TB 26-09 Measured Hammer-Tap Inputs Meagan Chappell Nov 02, 2026 Article For more information, contact Joel W. Download the PDF version An instrumented hammer test does not require an idealized single half-sine waveform.",
+      "queued_ts": 1793672932
     }
   ],
   "digests_sent": {
@@ -15597,7 +15637,9 @@
       "4fa91e22a3a47fc73030f137": true,
       "5038c51e05e50e5e0b55f2ec": true,
       "ea44ea0d756a4d667289ec6c": true,
-      "092fefaf7fbe94f3e4116332": true
+      "092fefaf7fbe94f3e4116332": true,
+      "c531adf264de91a4b6f7b90f": true,
+      "18e62329cead2d959157a06e": true
     }
   }
 }
