@@ -13991,6 +13991,30 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-3-2026",
       "score": 2.8,
       "published_utc": "2026-11-03T15:00:00+00:00"
+    },
+    "7bdc78d53ad8803f5cb18674": {
+      "ts": 1793744631,
+      "source": "Space.com",
+      "title": "NASA asks industry for ideas about saving Hubble Space Telescope",
+      "link": "https://www.space.com/astronomy/hubble-space-telescope/nasa-asks-industry-for-ideas-about-saving-hubble-space-telescope",
+      "score": 2.8,
+      "published_utc": "2026-11-03T22:00:00+00:00"
+    },
+    "c91642f37825ce2809a87552": {
+      "ts": 1793744631,
+      "source": "Space.com",
+      "title": "Voting in space: NASA astronauts cast ballots from International Space Station",
+      "link": "https://www.space.com/space-exploration/international-space-station/voting-in-space-nasa-astronauts-cast-ballots-from-international-space-station",
+      "score": 2.8,
+      "published_utc": "2026-11-03T20:46:36+00:00"
+    },
+    "0683fc472f98348cb22b97c7": {
+      "ts": 1793744631,
+      "source": "Space.com",
+      "title": "Dimorphos in sight: Europe's Hera probe gets its 1st look at battered space rock (photo)",
+      "link": "https://www.space.com/space-exploration/asteroid-comet-missions/dimorphos-in-sight-europes-hera-probe-gets-its-1st-look-at-battered-space-rock-photo",
+      "score": 2.8,
+      "published_utc": "2026-11-03T19:00:00+00:00"
     }
   },
   "digest_queue": [
