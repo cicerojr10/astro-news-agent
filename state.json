@@ -14015,6 +14015,14 @@
       "link": "https://www.space.com/space-exploration/asteroid-comet-missions/dimorphos-in-sight-europes-hera-probe-gets-its-1st-look-at-battered-space-rock-photo",
       "score": 2.8,
       "published_utc": "2026-11-03T19:00:00+00:00"
+    },
+    "af30323c79de82ff6c02b4f0": {
+      "ts": 1793785088,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
+      "score": 4.0,
+      "published_utc": "2026-11-04T05:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -14989,6 +14997,18 @@
       "day_brt": "2026-11-03",
       "resumo_pt": "Resumo (PT-BR): Avoiding an uncontrolled reentry; boost Hubble and keep the science – Isaacman by Chris Bergin November 3, 2026 written by Chris Bergin November 3, 2026 1 NASA Administrator Jared Isaacman has addressed the ongoing debate about the Hubble Space Telescope’s long-term future after the agency issued a Request for Information seeking commercial options for a reboost, servicing, or controlled deorbit. The RFI, open through the end of November, comes as Hubble continues to operate on a reduced set of gyroscopes more than 16 years after its final Space Shuttle servicing mission.",
       "queued_ts": 1793726532
+    },
+    {
+      "fp": "af30323c79de82ff6c02b4f0",
+      "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-04T05:05:00+00:00",
+      "day_brt": "2026-11-04",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1793785091
     }
   ],
   "digests_sent": {
@@ -15752,6 +15772,9 @@
       "277d5d311605d359b99d4d3e": true,
       "b3d140859cfae97c81388239": true,
       "3ca9f21bf61d0a329b120cb1": true
+    },
+    "2026-11-04": {
+      "af30323c79de82ff6c02b4f0": true
     }
   }
 }
