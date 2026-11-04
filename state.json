@@ -14023,6 +14023,30 @@
       "link": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
       "score": 4.0,
       "published_utc": "2026-11-04T05:05:00+00:00"
+    },
+    "bef0a3e4d749e30ae1d4def6": {
+      "ts": 1793813308,
+      "source": "NASA Breaking News",
+      "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
+      "link": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
+      "score": 4.0,
+      "published_utc": "2026-11-04T16:16:41+00:00"
+    },
+    "897f466362a76255246185f8": {
+      "ts": 1793813308,
+      "source": "NASA Breaking News",
+      "title": "NASA, NOAA Track 2026 Antarctic Ozone Hole",
+      "link": "https://science.nasa.gov/earth/2026-ozone-hole/",
+      "score": 4.0,
+      "published_utc": "2026-11-04T15:00:14+00:00"
+    },
+    "c123906b32b5f91fcb7d642c": {
+      "ts": 1793813310,
+      "source": "Space.com",
+      "title": "Drone warfare in space: Swarms of autonomous, laser-shooting cubesats could defend Western satellites in orbit",
+      "link": "https://www.space.com/space-exploration/satellites/drone-warfare-in-space-swarms-of-autonomous-laser-shooting-cubesats-could-defend-western-satellites-in-orbit",
+      "score": 2.8,
+      "published_utc": "2026-11-04T13:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -15009,6 +15033,30 @@
       "day_brt": "2026-11-04",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1793785091
+    },
+    {
+      "fp": "bef0a3e4d749e30ae1d4def6",
+      "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
+      "link": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-04T16:16:41+00:00",
+      "day_brt": "2026-11-04",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA Space Grant Students Fuel Agency’s Inspiration Tour NASA STEM Team Nov 04, 2026 Article NASA Administrator Jared Isaacman addresses a standing-room-only crowd during an Inspiration Tour stop at Iowa State University. Credit: NASA NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space.",
+      "queued_ts": 1793813311
+    },
+    {
+      "fp": "897f466362a76255246185f8",
+      "title": "NASA, NOAA Track 2026 Antarctic Ozone Hole",
+      "link": "https://science.nasa.gov/earth/2026-ozone-hole/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-04T15:00:14+00:00",
+      "day_brt": "2026-11-04",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA, NOAA Track 2026 Antarctic Ozone Hole Sally Younger Nov 04, 2026 Article Earth’s protective ozone layer remains on track for long-term recovery, despite atmospheric conditions that contributed to a larger Antarctic ozone hole in 2026, NASA and the National Oceanic and Atmospheric Administration (NOAA) reported. The ozone hole ranked seventh largest by area in 48 years of monitoring, but was not as deep as other large holes on record.",
+      "queued_ts": 1793813311
     }
   ],
   "digests_sent": {
@@ -15774,7 +15822,9 @@
       "3ca9f21bf61d0a329b120cb1": true
     },
     "2026-11-04": {
-      "af30323c79de82ff6c02b4f0": true
+      "af30323c79de82ff6c02b4f0": true,
+      "bef0a3e4d749e30ae1d4def6": true,
+      "897f466362a76255246185f8": true
     }
   }
 }
