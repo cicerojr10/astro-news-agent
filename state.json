@@ -14047,6 +14047,46 @@
       "link": "https://www.space.com/space-exploration/satellites/drone-warfare-in-space-swarms-of-autonomous-laser-shooting-cubesats-could-defend-western-satellites-in-orbit",
       "score": 2.8,
       "published_utc": "2026-11-04T13:00:00+00:00"
+    },
+    "3b0153968670f417be84a6f3": {
+      "ts": 1793832259,
+      "source": "NASA Breaking News",
+      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+      "link": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
+      "score": 4.0,
+      "published_utc": "2026-11-04T18:00:02+00:00"
+    },
+    "e27812d6659ac3eb5d9b4c55": {
+      "ts": 1793832261,
+      "source": "Spaceflight Now",
+      "title": "NASA’s Neil Gehrels Swift Observatory reenters over Western Indonesia",
+      "link": "https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/",
+      "score": 3.6,
+      "published_utc": "2026-11-04T20:14:59+00:00"
+    },
+    "4901e70d326474a995b29cd9": {
+      "ts": 1793832262,
+      "source": "NASASpaceflight",
+      "title": "Trace Gas Orbiter discovers potential evidence of volcanic activity on Mars via atmospheric observations",
+      "link": "https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/",
+      "score": 3.6,
+      "published_utc": "2026-11-04T19:06:36+00:00"
+    },
+    "d70c5f68dad599d41fcb2546": {
+      "ts": 1793832262,
+      "source": "Space.com",
+      "title": "NASA's Swift space telescope crashes back to Earth after failed rescue attempt",
+      "link": "https://www.space.com/space-exploration/missions/nasa-swift-space-telescope-crashes-to-earth",
+      "score": 2.8,
+      "published_utc": "2026-11-04T19:06:08+00:00"
+    },
+    "cec2f3ec0ad8332f675f004f": {
+      "ts": 1793832263,
+      "source": "Space.com",
+      "title": "Mars isn't dead — recent volcanic activity reveals it's just sleeping",
+      "link": "https://www.space.com/astronomy/mars/mars-isnt-dead-recent-volcanic-activity-reveals-its-just-sleeping",
+      "score": 2.8,
+      "published_utc": "2026-11-04T19:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -15057,6 +15097,42 @@
       "day_brt": "2026-11-04",
       "resumo_pt": "Resumo (PT-BR): 4 min read NASA, NOAA Track 2026 Antarctic Ozone Hole Sally Younger Nov 04, 2026 Article Earth’s protective ozone layer remains on track for long-term recovery, despite atmospheric conditions that contributed to a larger Antarctic ozone hole in 2026, NASA and the National Oceanic and Atmospheric Administration (NOAA) reported. The ozone hole ranked seventh largest by area in 48 years of monitoring, but was not as deep as other large holes on record.",
       "queued_ts": 1793813311
+    },
+    {
+      "fp": "3b0153968670f417be84a6f3",
+      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+      "link": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-04T18:00:02+00:00",
+      "day_brt": "2026-11-04",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Announces Ka-Band Satellite Relay Awards for Space Communications Jessica Taveau Nov 04, 2026 CONTRACT RELEASE C26-016 NASA Headquarters Credit: NASA NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will aim to acquire end-to-end solutions that include space, ground, launch, operations, and integration elements, as one of many customers in the commercial marketplace.",
+      "queued_ts": 1793832264
+    },
+    {
+      "fp": "e27812d6659ac3eb5d9b4c55",
+      "title": "NASA’s Neil Gehrels Swift Observatory reenters over Western Indonesia",
+      "link": "https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-11-04T20:14:59+00:00",
+      "day_brt": "2026-11-04",
+      "resumo_pt": "Resumo (PT-BR): NASA’s Neil Gehrels Swift Observatory reenters over Western Indonesia Houston Harwood November 4, 2026 8:14 p.m. Graphic based on tracking data shows where ’s Neil Gehrels Swift Observatory is believed to have reentered the atmosphere.",
+      "queued_ts": 1793832264
+    },
+    {
+      "fp": "4901e70d326474a995b29cd9",
+      "title": "Trace Gas Orbiter discovers potential evidence of volcanic activity on Mars via atmospheric observations",
+      "link": "https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-11-04T19:06:36+00:00",
+      "day_brt": "2026-11-04",
+      "resumo_pt": "Resumo (PT-BR): Trace Gas Orbiter discovers potential evidence of volcanic activity on Mars via atmospheric observations by Haygen Warren November 4, 2026 written by Haygen Warren November 4, 2026 2 Using data from the joint European and Russian ExoMars Trace Gas Orbiter at Mars, an international team of scientists has discovered new evidence of volcanic activity on the red planet’s surface. Newly formed fissures in the surface seemingly allow gases from subsurface volcanic hotspots to rise to the Martian surface.",
+      "queued_ts": 1793832264
     }
   ],
   "digests_sent": {
@@ -15824,7 +15900,10 @@
     "2026-11-04": {
       "af30323c79de82ff6c02b4f0": true,
       "bef0a3e4d749e30ae1d4def6": true,
-      "897f466362a76255246185f8": true
+      "897f466362a76255246185f8": true,
+      "3b0153968670f417be84a6f3": true,
+      "e27812d6659ac3eb5d9b4c55": true,
+      "4901e70d326474a995b29cd9": true
     }
   }
 }
