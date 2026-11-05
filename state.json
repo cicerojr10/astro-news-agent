@@ -14104,6 +14104,22 @@
       "score": 0.0,
       "published_utc": "2026-11-05T01:43:21+00:00",
       "note": "not_today"
+    },
+    "0c5daa59c953663265e87ec9": {
+      "ts": 1793872393,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
+      "score": 4.0,
+      "published_utc": "2026-11-05T05:05:00+00:00"
+    },
+    "41af15e2900cd57eb5629884": {
+      "ts": 1793872396,
+      "source": "Space.com",
+      "title": "2 astronauts will finish upgrading ISS solar arrays during spacewalk today: Watch it live",
+      "link": "https://www.space.com/space-exploration/international-space-station/2-astronauts-will-finish-upgrading-iss-solar-arrays-during-spacewalk-today-watch-it-live",
+      "score": 2.8,
+      "published_utc": "2026-11-05T08:08:36+00:00"
     }
   },
   "digest_queue": [
@@ -15150,6 +15166,18 @@
       "day_brt": "2026-11-04",
       "resumo_pt": "Resumo (PT-BR): Trace Gas Orbiter discovers potential evidence of volcanic activity on Mars via atmospheric observations by Haygen Warren November 4, 2026 written by Haygen Warren November 4, 2026 2 Using data from the joint European and Russian ExoMars Trace Gas Orbiter at Mars, an international team of scientists has discovered new evidence of volcanic activity on the red planet’s surface. Newly formed fissures in the surface seemingly allow gases from subsurface volcanic hotspots to rise to the Martian surface.",
       "queued_ts": 1793832264
+    },
+    {
+      "fp": "0c5daa59c953663265e87ec9",
+      "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-05T05:05:00+00:00",
+      "day_brt": "2026-11-05",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1793872396
     }
   ],
   "digests_sent": {
@@ -15921,6 +15949,9 @@
       "3b0153968670f417be84a6f3": true,
       "e27812d6659ac3eb5d9b4c55": true,
       "4901e70d326474a995b29cd9": true
+    },
+    "2026-11-05": {
+      "0c5daa59c953663265e87ec9": true
     }
   }
 }
