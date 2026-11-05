@@ -14160,6 +14160,30 @@
       "link": "https://www.space.com/technology/aerospace/nasa-announces-experimental-x-70-fractal-aircraft-a-new-beginning-for-aeronautics",
       "score": 2.8,
       "published_utc": "2026-11-05T13:33:52+00:00"
+    },
+    "df46c0368661917b50dda088": {
+      "ts": 1793919195,
+      "source": "Spaceflight Now",
+      "title": "Spacewalkers complete five-year effort to upgrade space station power supply",
+      "link": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/",
+      "score": 3.6,
+      "published_utc": "2026-11-05T22:28:40+00:00"
+    },
+    "d49adbb8b8e5632685760784": {
+      "ts": 1793919196,
+      "source": "NASASpaceflight",
+      "title": "Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine",
+      "link": "https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/",
+      "score": 3.6,
+      "published_utc": "2026-11-05T20:51:14+00:00"
+    },
+    "b08c651b66fc26fed1d840ae": {
+      "ts": 1793919196,
+      "source": "Space.com",
+      "title": "Blue Origin announces 3rd stage for its powerful New Glenn rocket —and a new engine",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-announces-3rd-stage-for-its-powerful-new-glenn-rocket-and-a-new-engine",
+      "score": 2.8,
+      "published_utc": "2026-11-05T20:55:15+00:00"
     }
   },
   "digest_queue": [
@@ -15242,6 +15266,30 @@
       "day_brt": "2026-11-05",
       "resumo_pt": "Resumo (PT-BR): 1 min read NASA Astronauts to Answer Questions from Florida Students Gerelle Q. Dodson Nov 05, 2026 Article From left, SpaceX Crew-13 pilot Luke Delaney and commander Jessica Watkins, both NASA astronauts, are pictured in their pressure suits during a training session at SpaceX headquarters in Hawthorne, California.",
       "queued_ts": 1793900578
+    },
+    {
+      "fp": "df46c0368661917b50dda088",
+      "title": "Spacewalkers complete five-year effort to upgrade space station power supply",
+      "link": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-11-05T22:28:40+00:00",
+      "day_brt": "2026-11-05",
+      "resumo_pt": "Resumo (PT-BR): Space Station Spacewalkers complete five-year effort to upgrade space station power supply Houston Harwood November 5, 2026 10:28 p.m. Anil Menon, riding the space station robot arm, moves the folded, rolled-up IROSA assembly to its installation point at the Starboard end of the space station truss.",
+      "queued_ts": 1793919198
+    },
+    {
+      "fp": "d49adbb8b8e5632685760784",
+      "title": "Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine",
+      "link": "https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-11-05T20:51:14+00:00",
+      "day_brt": "2026-11-05",
+      "resumo_pt": "Resumo (PT-BR): Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine by Chris Bergin November 5, 2026 written by Chris Bergin November 5, 2026 1 Blue Origin chief executive Dave Limp has unveiled a third stage for New Glenn and a new booster engine, expanding the rocket’s reach into high-energy orbits and deepening the company’s American-made propulsion line-up. The third stage, GS3, is aimed at direct injection to geostationary orbit (GEO) and Earth-escape trajectories.",
+      "queued_ts": 1793919198
     }
   ],
   "digests_sent": {
@@ -16017,7 +16065,9 @@
     "2026-11-05": {
       "0c5daa59c953663265e87ec9": true,
       "97b3e8fb923f56dfd6517f96": true,
-      "e97e3a8bbac14ad174d3fed0": true
+      "e97e3a8bbac14ad174d3fed0": true,
+      "df46c0368661917b50dda088": true,
+      "d49adbb8b8e5632685760784": true
     }
   }
 }
