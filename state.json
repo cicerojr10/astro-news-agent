@@ -14120,6 +14120,46 @@
       "link": "https://www.space.com/space-exploration/international-space-station/2-astronauts-will-finish-upgrading-iss-solar-arrays-during-spacewalk-today-watch-it-live",
       "score": 2.8,
       "published_utc": "2026-11-05T08:08:36+00:00"
+    },
+    "97b3e8fb923f56dfd6517f96": {
+      "ts": 1793900574,
+      "source": "NASA Breaking News",
+      "title": "Midwestern City Lights",
+      "link": "https://www.nasa.gov/image-article/midwestern-city-lights/",
+      "score": 4.0,
+      "published_utc": "2026-11-05T15:17:19+00:00"
+    },
+    "e97e3a8bbac14ad174d3fed0": {
+      "ts": 1793900574,
+      "source": "NASA Breaking News",
+      "title": "NASA Astronauts to Answer Questions from Florida Students",
+      "link": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/",
+      "score": 4.0,
+      "published_utc": "2026-11-05T15:11:25+00:00"
+    },
+    "6044b2fcb3f639226726175f": {
+      "ts": 1793900577,
+      "source": "Space.com",
+      "title": "NASA's Voyager 1 probe bounces back from communications glitch in interstellar space",
+      "link": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space",
+      "score": 2.8,
+      "published_utc": "2026-11-05T15:18:15+00:00"
+    },
+    "7fcb7a82111dbca3231477ee": {
+      "ts": 1793900577,
+      "source": "Space.com",
+      "title": "NASA astronaut Jessica Watkins is the 1st Black woman to command a space mission. Will we see more diversity in the future on the final frontier?",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-jessica-watkins-is-the-1st-black-woman-to-command-a-space-mission-will-we-see-more-diversity-in-the-future-on-the-final-frontier",
+      "score": 2.8,
+      "published_utc": "2026-11-05T14:00:00+00:00"
+    },
+    "7f08e0d9850fca1f6b4834e5": {
+      "ts": 1793900577,
+      "source": "Space.com",
+      "title": "NASA announces experimental X-70 Fractal aircraft: A 'new beginning for aeronautics'",
+      "link": "https://www.space.com/technology/aerospace/nasa-announces-experimental-x-70-fractal-aircraft-a-new-beginning-for-aeronautics",
+      "score": 2.8,
+      "published_utc": "2026-11-05T13:33:52+00:00"
     }
   },
   "digest_queue": [
@@ -15178,6 +15218,30 @@
       "day_brt": "2026-11-05",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1793872396
+    },
+    {
+      "fp": "97b3e8fb923f56dfd6517f96",
+      "title": "Midwestern City Lights",
+      "link": "https://www.nasa.gov/image-article/midwestern-city-lights/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-05T15:17:19+00:00",
+      "day_brt": "2026-11-05",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Midwestern City Lights HQ Web Team Nov 05, 2026 Image Article CSA/Joshua Kutryk City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region.",
+      "queued_ts": 1793900578
+    },
+    {
+      "fp": "e97e3a8bbac14ad174d3fed0",
+      "title": "NASA Astronauts to Answer Questions from Florida Students",
+      "link": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-05T15:11:25+00:00",
+      "day_brt": "2026-11-05",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA Astronauts to Answer Questions from Florida Students Gerelle Q. Dodson Nov 05, 2026 Article From left, SpaceX Crew-13 pilot Luke Delaney and commander Jessica Watkins, both NASA astronauts, are pictured in their pressure suits during a training session at SpaceX headquarters in Hawthorne, California.",
+      "queued_ts": 1793900578
     }
   ],
   "digests_sent": {
@@ -15951,7 +16015,9 @@
       "4901e70d326474a995b29cd9": true
     },
     "2026-11-05": {
-      "0c5daa59c953663265e87ec9": true
+      "0c5daa59c953663265e87ec9": true,
+      "97b3e8fb923f56dfd6517f96": true,
+      "e97e3a8bbac14ad174d3fed0": true
     }
   }
 }
