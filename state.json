@@ -14095,6 +14095,15 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-4-2026",
       "score": 2.8,
       "published_utc": "2026-11-04T23:00:36+00:00"
+    },
+    "281f8d7df212d17e1827c9c9": {
+      "ts": 1793848633,
+      "source": "NASA Breaking News",
+      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+      "link": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
+      "score": 0.0,
+      "published_utc": "2026-11-05T01:43:21+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
