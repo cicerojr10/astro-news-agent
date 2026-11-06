@@ -14240,6 +14240,54 @@
       "link": "https://www.space.com/stargazing/skywatching-kit/realistic-star-projections-at-home-this-early-black-friday-deal-takes-our-favorite-star-projector-to-one-of-its-cheapest-ever-prices",
       "score": 2.8,
       "published_utc": "2026-11-06T12:10:00+00:00"
+    },
+    "05b8b9ab9ab17552f94a1a11": {
+      "ts": 1794003111,
+      "source": "Spaceflight Now",
+      "title": "Falcon 9 to launch from California on classified mission for U.S. Space Force",
+      "link": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
+      "score": 3.6,
+      "published_utc": "2026-11-06T22:00:39+00:00"
+    },
+    "cae512a0836e0fceccf0e36f": {
+      "ts": 1794003112,
+      "source": "NASASpaceflight",
+      "title": "Stoke Space evaluating expansion of Cape site for second Nova pad",
+      "link": "https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/",
+      "score": 3.6,
+      "published_utc": "2026-11-06T21:19:28+00:00"
+    },
+    "ef6e0866fccf7bb8b072b94a": {
+      "ts": 1794003112,
+      "source": "Space.com",
+      "title": "On this day in space! Nov. 6, 1572: A German astronomer discovers the Tycho supernova with the naked eye, but everyone thought the cosmic explosion was a 'new star'",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-6-2026",
+      "score": 8.399999999999999,
+      "published_utc": "2026-11-06T22:05:58+00:00"
+    },
+    "7f30610e445b57412f78ab3f": {
+      "ts": 1794003113,
+      "source": "Space.com",
+      "title": "AST SpaceMobile announces new 'Blacklift' rocket, targets 2028 launch debut",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ast-spacemobile-announces-new-blacklift-rocket-targets-2028-launch-debut",
+      "score": 2.8,
+      "published_utc": "2026-11-06T22:00:00+00:00"
+    },
+    "86458b428bd5984818afac2b": {
+      "ts": 1794003113,
+      "source": "Space.com",
+      "title": "What's that bright 'star' in the early morning sky? It's not a star at all!",
+      "link": "https://www.space.com/stargazing/whats-that-bright-star-in-the-early-morning-sky-its-not-a-star-at-all",
+      "score": 2.8,
+      "published_utc": "2026-11-06T21:00:00+00:00"
+    },
+    "10b26b2e6945909057f2c98c": {
+      "ts": 1794003113,
+      "source": "Space.com",
+      "title": "I finally got my hands on the Unistellar Envision smart binoculars with augmented reality and I can’t wait to stargaze with them",
+      "link": "https://www.space.com/stargazing/skywatching-kit/i-finally-got-my-hands-on-the-unistellar-envision-smart-binoculars-with-augmented-reality-for-the-night-sky-heres-what-theyre-like",
+      "score": 2.8,
+      "published_utc": "2026-11-06T20:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -15406,6 +15454,42 @@
       "day_brt": "2026-11-06",
       "resumo_pt": "Resumo (PT-BR): Starship Flight 15, a dual catch attempt, awaits FAA green light by Chris Bergin and Eleanor Day November 6, 2026 written by Chris Bergin and Eleanor Day November 6, 2026 2 Booster 22 and Ship 42 are in final checkouts for a no-earlier-than 13 November launch that would attempt to catch both stages at Starbase Pad 2. The date has slipped by only one day, with the ship-catch licence from the FAA still the deciding factor.",
       "queued_ts": 1793985842
+    },
+    {
+      "fp": "ef6e0866fccf7bb8b072b94a",
+      "title": "On this day in space! Nov. 6, 1572: A German astronomer discovers the Tycho supernova with the naked eye, but everyone thought the cosmic explosion was a 'new star'",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-6-2026",
+      "source": "Space.com",
+      "score": 8.399999999999999,
+      "is_anomaly": true,
+      "published_utc": "2026-11-06T22:05:58+00:00",
+      "day_brt": "2026-11-06",
+      "resumo_pt": "Resumo (PT-BR): 6, 1572: A German astronomer discovers the Tycho supernova with the naked eye, but everyone thought the cosmic explosion was a 'new star' News By Elizabeth Howell , Hanneke Weitering Contributions by Tariq Malik Published 6 November 2026 \"These observations were an important piece of evidence that the heavens were not immutable.\" When you purchase through links on our site, we may earn an affiliate commission. Click for next article Copy link Facebook X Reddit Pinterest Flipboard Email Share this article 0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter On Nov.",
+      "queued_ts": 1794003115
+    },
+    {
+      "fp": "05b8b9ab9ab17552f94a1a11",
+      "title": "Falcon 9 to launch from California on classified mission for U.S. Space Force",
+      "link": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-11-06T22:00:39+00:00",
+      "day_brt": "2026-11-06",
+      "resumo_pt": "Resumo (PT-BR): Falcon 9 Falcon 9 to launch from California on classified mission for U.S. File photo of a Falcon 9 fueled for launch at pad 4E at Vandenberg Space Force Base, California.",
+      "queued_ts": 1794003115
+    },
+    {
+      "fp": "cae512a0836e0fceccf0e36f",
+      "title": "Stoke Space evaluating expansion of Cape site for second Nova pad",
+      "link": "https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-11-06T21:19:28+00:00",
+      "day_brt": "2026-11-06",
+      "resumo_pt": "Resumo (PT-BR): Stoke Space evaluating expansion of Cape site for second Nova pad by Chris Bergin November 6, 2026 written by Chris Bergin November 6, 2026 2 Stoke Space has been granted Right of Entry by Space Launch Delta 45 to property north of its existing Space Launch Complex 14 (SLC-14) at Cape Canaveral Space Force Station. The authorisation allows engineering studies, environmental assessments and site surveys needed to develop a second launch site for its Nova rocket, and is intended to support high-cadence launch and re-entry operations as Stoke works toward the larger Nova Block 2 vehicle.",
+      "queued_ts": 1794003115
     }
   ],
   "digests_sent": {
@@ -16190,7 +16274,10 @@
       "a3e3ac67c3e533088d4eeac6": true,
       "482365588ec8bb2fe7c3e9fb": true,
       "8d3ce568472a6a17edbf71ea": true,
-      "5adad21cd19346365ec0a68c": true
+      "5adad21cd19346365ec0a68c": true,
+      "ef6e0866fccf7bb8b072b94a": true,
+      "05b8b9ab9ab17552f94a1a11": true,
+      "cae512a0836e0fceccf0e36f": true
     }
   }
 }
