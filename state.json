@@ -14184,6 +14184,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-announces-3rd-stage-for-its-powerful-new-glenn-rocket-and-a-new-engine",
       "score": 2.8,
       "published_utc": "2026-11-05T20:55:15+00:00"
+    },
+    "92ce3c11280fe9334f5cbb58": {
+      "ts": 1793933736,
+      "source": "NASASpaceflight",
+      "title": "ISS astronauts install final iROSA solar panel to augment aging ISS power systems",
+      "link": "https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/",
+      "score": 3.6,
+      "published_utc": "2026-11-06T01:15:08+00:00"
     }
   },
   "digest_queue": [
@@ -15290,6 +15298,18 @@
       "day_brt": "2026-11-05",
       "resumo_pt": "Resumo (PT-BR): Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine by Chris Bergin November 5, 2026 written by Chris Bergin November 5, 2026 1 Blue Origin chief executive Dave Limp has unveiled a third stage for New Glenn and a new booster engine, expanding the rocket’s reach into high-energy orbits and deepening the company’s American-made propulsion line-up. The third stage, GS3, is aimed at direct injection to geostationary orbit (GEO) and Earth-escape trajectories.",
       "queued_ts": 1793919198
+    },
+    {
+      "fp": "92ce3c11280fe9334f5cbb58",
+      "title": "ISS astronauts install final iROSA solar panel to augment aging ISS power systems",
+      "link": "https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-11-06T01:15:08+00:00",
+      "day_brt": "2026-11-05",
+      "resumo_pt": "Resumo (PT-BR): ISS astronauts install final iROSA solar panel to augment aging ISS power systems by Justin Davenport November 5, 2026 written by Justin Davenport November 5, 2026 3 The International Space Station program completed a critical power upgrade that had been ongoing for over five years, as astronauts Anil Menon of NASA and Joshua Kutryk of the Canadian Space Agency embarked on a successful US EVA-101 to install the final set of iROSA solar panels on the Station’s truss on Thursday. This upgrade, started in June 2021, was approved by NASA due to the degradation of the Station’s original solar panels, launched aboard Space Shuttle flights from 2000 to 2009.",
+      "queued_ts": 1793933737
     }
   ],
   "digests_sent": {
@@ -16067,7 +16087,8 @@
       "97b3e8fb923f56dfd6517f96": true,
       "e97e3a8bbac14ad174d3fed0": true,
       "df46c0368661917b50dda088": true,
-      "d49adbb8b8e5632685760784": true
+      "d49adbb8b8e5632685760784": true,
+      "92ce3c11280fe9334f5cbb58": true
     }
   }
 }
