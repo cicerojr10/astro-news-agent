@@ -14200,6 +14200,46 @@
       "link": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
       "score": 4.0,
       "published_utc": "2026-11-06T05:05:00+00:00"
+    },
+    "482365588ec8bb2fe7c3e9fb": {
+      "ts": 1793985837,
+      "source": "NASA Breaking News",
+      "title": "M30’s Sparkling Stars",
+      "link": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
+      "score": 4.0,
+      "published_utc": "2026-11-06T16:23:41+00:00"
+    },
+    "8d3ce568472a6a17edbf71ea": {
+      "ts": 1793985837,
+      "source": "NASA Breaking News",
+      "title": "Supercomputing Tech Demo Schedule",
+      "link": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
+      "score": 4.0,
+      "published_utc": "2026-11-06T16:03:52+00:00"
+    },
+    "5adad21cd19346365ec0a68c": {
+      "ts": 1793985840,
+      "source": "NASASpaceflight",
+      "title": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
+      "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
+      "score": 3.6,
+      "published_utc": "2026-11-06T15:31:51+00:00"
+    },
+    "63249ba70f2c265289482c6f": {
+      "ts": 1793985841,
+      "source": "Space.com",
+      "title": "How to watch 'Musk' online — stream the SpaceX billionaire biography from anywhere",
+      "link": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-musk-online-stream-the-spacex-billionaire-biography-from-anywhere",
+      "score": 2.8,
+      "published_utc": "2026-11-06T14:00:00+00:00"
+    },
+    "e83279d05bb657a32c636ae4": {
+      "ts": 1793985841,
+      "source": "Space.com",
+      "title": "Realistic star projections at home — this early Black Friday deal takes our favorite star projector to one of its cheapest-ever prices",
+      "link": "https://www.space.com/stargazing/skywatching-kit/realistic-star-projections-at-home-this-early-black-friday-deal-takes-our-favorite-star-projector-to-one-of-its-cheapest-ever-prices",
+      "score": 2.8,
+      "published_utc": "2026-11-06T12:10:00+00:00"
     }
   },
   "digest_queue": [
@@ -15330,6 +15370,42 @@
       "day_brt": "2026-11-06",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1793959308
+    },
+    {
+      "fp": "482365588ec8bb2fe7c3e9fb",
+      "title": "M30’s Sparkling Stars",
+      "link": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-06T16:23:41+00:00",
+      "day_brt": "2026-11-06",
+      "resumo_pt": "Resumo (PT-BR): 1 min read M30’s Sparkling Stars HQ Web Team Nov 06, 2026 Image Article ESA/Hubble & NASA, M. Sarajedini This NASA/ESA Hubble Space Telescope image released Nov.",
+      "queued_ts": 1793985842
+    },
+    {
+      "fp": "8d3ce568472a6a17edbf71ea",
+      "title": "Supercomputing Tech Demo Schedule",
+      "link": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-06T16:03:52+00:00",
+      "day_brt": "2026-11-06",
+      "resumo_pt": "Resumo (PT-BR): Explore This Section Earth Earth Observer Editor's Corner Feature Articles Meeting Summaries News Science in the News In Memoriam Announcements Archives 2 min read Supercomputing Tech Demo Schedule NASA Nov 06, 2026 Article Contents TUESDAY, NOVEMBER 17 WEDNESDAY, NOVEMBER 18 THURSDAY, NOVEMBER 19 Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. TUESDAY, NOVEMBER 17 10:00 AM Type-safe Templates in Fortran 2028 Tom Clune 10:30 AM Type-safe Templates in Fortran 2028 Tom Clune 11:00 AM Type-safe Templates in Fortran 2028 Tom Clune 1:00PM Mixing and Matching and Multiple Versions, Oh My!",
+      "queued_ts": 1793985842
+    },
+    {
+      "fp": "5adad21cd19346365ec0a68c",
+      "title": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
+      "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-11-06T15:31:51+00:00",
+      "day_brt": "2026-11-06",
+      "resumo_pt": "Resumo (PT-BR): Starship Flight 15, a dual catch attempt, awaits FAA green light by Chris Bergin and Eleanor Day November 6, 2026 written by Chris Bergin and Eleanor Day November 6, 2026 2 Booster 22 and Ship 42 are in final checkouts for a no-earlier-than 13 November launch that would attempt to catch both stages at Starbase Pad 2. The date has slipped by only one day, with the ship-catch licence from the FAA still the deciding factor.",
+      "queued_ts": 1793985842
     }
   ],
   "digests_sent": {
@@ -16111,7 +16187,10 @@
       "92ce3c11280fe9334f5cbb58": true
     },
     "2026-11-06": {
-      "a3e3ac67c3e533088d4eeac6": true
+      "a3e3ac67c3e533088d4eeac6": true,
+      "482365588ec8bb2fe7c3e9fb": true,
+      "8d3ce568472a6a17edbf71ea": true,
+      "5adad21cd19346365ec0a68c": true
     }
   }
 }
