@@ -14192,6 +14192,14 @@
       "link": "https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/",
       "score": 3.6,
       "published_utc": "2026-11-06T01:15:08+00:00"
+    },
+    "a3e3ac67c3e533088d4eeac6": {
+      "ts": 1793959305,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 November 6 – A Farewell to Swift",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
+      "score": 4.0,
+      "published_utc": "2026-11-06T05:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -15310,6 +15318,18 @@
       "day_brt": "2026-11-05",
       "resumo_pt": "Resumo (PT-BR): ISS astronauts install final iROSA solar panel to augment aging ISS power systems by Justin Davenport November 5, 2026 written by Justin Davenport November 5, 2026 3 The International Space Station program completed a critical power upgrade that had been ongoing for over five years, as astronauts Anil Menon of NASA and Joshua Kutryk of the Canadian Space Agency embarked on a successful US EVA-101 to install the final set of iROSA solar panels on the Station’s truss on Thursday. This upgrade, started in June 2021, was approved by NASA due to the degradation of the Station’s original solar panels, launched aboard Space Shuttle flights from 2000 to 2009.",
       "queued_ts": 1793933737
+    },
+    {
+      "fp": "a3e3ac67c3e533088d4eeac6",
+      "title": "APOD: 2026 November 6 – A Farewell to Swift",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-06T05:05:00+00:00",
+      "day_brt": "2026-11-06",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1793959308
     }
   ],
   "digests_sent": {
@@ -16089,6 +16109,9 @@
       "df46c0368661917b50dda088": true,
       "d49adbb8b8e5632685760784": true,
       "92ce3c11280fe9334f5cbb58": true
+    },
+    "2026-11-06": {
+      "a3e3ac67c3e533088d4eeac6": true
     }
   }
 }
