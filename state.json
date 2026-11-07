@@ -14337,6 +14337,14 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-7-2026",
       "score": 2.8,
       "published_utc": "2026-11-07T16:31:11+00:00"
+    },
+    "34e4632450d81161a4e4cc79": {
+      "ts": 1794078047,
+      "source": "NASASpaceflight",
+      "title": "NASA announces search for new astronauts",
+      "link": "https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/",
+      "score": 3.6,
+      "published_utc": "2026-11-07T18:00:32+00:00"
     }
   },
   "digest_queue": [
@@ -15479,6 +15487,18 @@
       "day_brt": "2026-11-07",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1794069597
+    },
+    {
+      "fp": "34e4632450d81161a4e4cc79",
+      "title": "NASA announces search for new astronauts",
+      "link": "https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-11-07T18:00:32+00:00",
+      "day_brt": "2026-11-07",
+      "resumo_pt": "Resumo (PT-BR): NASA announces search for new astronauts by Sawyer Rosenstein November 7, 2026 written by Sawyer Rosenstein November 7, 2026 2 For the first time in two years, NASA is opening applications for its next astronaut class. Announcing the call at the Max Power event at the Kennedy Space Center (KSC), NASA said this will be one of its most important classes yet, with the new astronauts training for low Earth orbit (LEO), lunar surface operations and future Artemis missions.",
+      "queued_ts": 1794078048
     }
   ],
   "digests_sent": {
@@ -16244,7 +16264,8 @@
       "0d9b095ddc4130198b2d2c59": true
     },
     "2026-11-07": {
-      "97c6613e3a91c6da145746aa": true
+      "97c6613e3a91c6da145746aa": true,
+      "34e4632450d81161a4e4cc79": true
     }
   }
 }
