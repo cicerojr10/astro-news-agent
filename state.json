@@ -14321,6 +14321,22 @@
       "score": 0.0,
       "published_utc": "2026-11-07T01:41:58+00:00",
       "note": "not_today"
+    },
+    "97c6613e3a91c6da145746aa": {
+      "ts": 1794069594,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+      "score": 4.0,
+      "published_utc": "2026-11-07T05:05:00+00:00"
+    },
+    "4c56bed61e4a0e87e8f1eef4": {
+      "ts": 1794069596,
+      "source": "Space.com",
+      "title": "On this day in space! Nov. 7, 1992: NASA launches Mars Global Surveyor, its 1st Mars mission in 20 years at the time, to map the Red Planet like never before",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-7-2026",
+      "score": 2.8,
+      "published_utc": "2026-11-07T16:31:11+00:00"
     }
   },
   "digest_queue": [
@@ -15451,6 +15467,18 @@
       "day_brt": "2026-11-06",
       "resumo_pt": "Resumo (PT-BR): AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket Will Robinson-Smith November 7, 2026 2:18 a.m. An artist's rendering of AST SpaceMobile's proposed new rocket, Blacklift.",
       "queued_ts": 1794018895
+    },
+    {
+      "fp": "97c6613e3a91c6da145746aa",
+      "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-07T05:05:00+00:00",
+      "day_brt": "2026-11-07",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1794069597
     }
   ],
   "digests_sent": {
@@ -16172,39 +16200,6 @@
     }
   },
   "sent_updates": {
-    "2026-10-28": {
-      "eabe62fc6fa027b8bc78e2a5": true,
-      "900302dee8e2fff40809e887": true,
-      "82ca6641675d8129df9208c4": true,
-      "4907addc25a2cb5d40b15ef0": true,
-      "1dfd9709259bdb50d74c4f09": true,
-      "7236d6ece75c27449c1e743c": true,
-      "8073470a0c6d2774a12bf97d": true,
-      "225e34d3c00fd89335eb7ddf": true,
-      "1e11499b38eb267e67320385": true
-    },
-    "2026-10-29": {
-      "109d5b9c2529aa0c44753c37": true,
-      "404fa03df716ffba3f852fa4": true,
-      "f3e738e94ea493c6b338e1cf": true,
-      "8964f00839717c64daef6812": true,
-      "10e9ddf4d752345a126ceede": true,
-      "70c4d71f954f15f238d120af": true,
-      "051095f0bc91d2f82f99e699": true,
-      "f7dd79e340121f978d12a958": true,
-      "70b6eba76c4773a1a6e8d80b": true
-    },
-    "2026-10-30": {
-      "1be5295f13a1c78fd1b59a25": true,
-      "160d86f4f79823210743f155": true,
-      "33ceabe99481a37a6ebe2488": true,
-      "e97cb0f830ee89e1abbbe7fc": true,
-      "d9cfae482f478ce935125d4d": true,
-      "4c8e23a399596c02b121a4bb": true
-    },
-    "2026-10-31": {
-      "83ba0fdd66a5da6f4668ff42": true
-    },
     "2026-11-01": {
       "fd7ad6811281099e0e513860": true
     },
@@ -16247,6 +16242,9 @@
       "cae512a0836e0fceccf0e36f": true,
       "5cbf47a7eb5365159c8dd928": true,
       "0d9b095ddc4130198b2d2c59": true
+    },
+    "2026-11-07": {
+      "97c6613e3a91c6da145746aa": true
     }
   }
 }
