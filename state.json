@@ -14345,6 +14345,14 @@
       "link": "https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/",
       "score": 3.6,
       "published_utc": "2026-11-07T18:00:32+00:00"
+    },
+    "448ef9bde779c57230344b14": {
+      "ts": 1794149208,
+      "source": "Space.com",
+      "title": "Scientists simulate an Earth without life to help hunt for aliens and inhabited worlds",
+      "link": "https://www.space.com/space-exploration/search-for-life/scientists-simulate-an-earth-without-life-to-help-hunt-for-aliens-and-inhabited-worlds",
+      "score": 2.8,
+      "published_utc": "2026-11-08T11:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -16194,6 +16202,9 @@
     "2026-11-07": {
       "morning": true,
       "night": true
+    },
+    "2026-11-08": {
+      "morning": true
     }
   },
   "sent_updates": {
