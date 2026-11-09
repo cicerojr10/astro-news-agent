@@ -14361,6 +14361,14 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-8-2026",
       "score": 2.8,
       "published_utc": "2026-11-08T15:25:42+00:00"
+    },
+    "b8170d397e332f654c5cbc2a": {
+      "ts": 1794217212,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 November 9 – Rigel and the Witch Head Nebula",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/",
+      "score": 4.0,
+      "published_utc": "2026-11-09T05:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -15491,6 +15499,18 @@
       "day_brt": "2026-11-06",
       "resumo_pt": "Resumo (PT-BR): AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket Will Robinson-Smith November 7, 2026 2:18 a.m. An artist's rendering of AST SpaceMobile's proposed new rocket, Blacklift.",
       "queued_ts": 1794018895
+    },
+    {
+      "fp": "b8170d397e332f654c5cbc2a",
+      "title": "APOD: 2026 November 9 – Rigel and the Witch Head Nebula",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-09T05:05:00+00:00",
+      "day_brt": "2026-11-09",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1794217216
     }
   ],
   "digests_sent": {
@@ -16262,6 +16282,9 @@
     "2026-11-07": {
       "97c6613e3a91c6da145746aa": true,
       "34e4632450d81161a4e4cc79": true
+    },
+    "2026-11-09": {
+      "b8170d397e332f654c5cbc2a": true
     }
   }
 }
