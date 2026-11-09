@@ -14369,6 +14369,86 @@
       "link": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/",
       "score": 4.0,
       "published_utc": "2026-11-09T05:05:00+00:00"
+    },
+    "226b08cd947c3bbac656dcb0": {
+      "ts": 1794254863,
+      "source": "NASA Breaking News",
+      "title": "La NASA busca a la próxima generación de astronautas",
+      "link": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/",
+      "score": 4.0,
+      "published_utc": "2026-11-09T19:27:20+00:00"
+    },
+    "def208451ebc9bf6d6055153": {
+      "ts": 1794254863,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
+      "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
+      "score": 10.0,
+      "published_utc": "2026-11-09T18:55:50+00:00"
+    },
+    "ea16501467cdbe7c7fad5a18": {
+      "ts": 1794254863,
+      "source": "NASA Breaking News",
+      "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/",
+      "score": 4.0,
+      "published_utc": "2026-11-09T17:42:42+00:00"
+    },
+    "641223eb3a9d13af372cbfe5": {
+      "ts": 1794254863,
+      "source": "NASA Breaking News",
+      "title": "La NASA destina un millón de dólares al reto estudiantil Base Lunar",
+      "link": "https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar/",
+      "score": 4.0,
+      "published_utc": "2026-11-09T17:36:33+00:00"
+    },
+    "29647782cd89719999273491": {
+      "ts": 1794254864,
+      "source": "NASA Breaking News",
+      "title": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
+      "link": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/",
+      "score": 4.0,
+      "published_utc": "2026-11-09T16:07:10+00:00"
+    },
+    "35bfdf9e34924cdd2cd6a5d1": {
+      "ts": 1794254864,
+      "source": "NASA Breaking News",
+      "title": "NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars",
+      "link": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/",
+      "score": 4.0,
+      "published_utc": "2026-11-09T16:01:47+00:00"
+    },
+    "4ea68af4b990115bf37307a5": {
+      "ts": 1794254864,
+      "source": "NASA Breaking News",
+      "title": "CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/",
+      "score": 4.0,
+      "published_utc": "2026-11-09T11:00:00+00:00"
+    },
+    "17e16c08d83cca11b744eed8": {
+      "ts": 1794254866,
+      "source": "Space.com",
+      "title": "Starfish Space loses contact with 1st 'Otter' servicing spacecraft, ending NASA tech-demo mission",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/starfish-space-loses-contact-with-1st-otter-servicing-spacecraft-ending-nasa-tech-demo-mission",
+      "score": 2.8,
+      "published_utc": "2026-11-09T18:00:00+00:00"
+    },
+    "77f2374ef4c2e3e3f9b1d3b0": {
+      "ts": 1794254867,
+      "source": "Space.com",
+      "title": "SpaceX will launch epic double-catch Starship Flight 15 test mission on Nov. 13",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-epic-double-catch-starship-flight-15-test-mission-on-nov-13",
+      "score": 2.8,
+      "published_utc": "2026-11-09T14:30:00+00:00"
+    },
+    "f58a0d7143e4dd4a3331d9d4": {
+      "ts": 1794254867,
+      "source": "Space.com",
+      "title": "Yes, it runs 'Doom': Satellite plays iconic game in world's 1st demonstration of orbital voice control",
+      "link": "https://www.space.com/space-exploration/satellites/yes-it-runs-doom-satellite-plays-iconic-game-in-worlds-1st-demonstration-of-orbital-voice-control",
+      "score": 2.8,
+      "published_utc": "2026-11-09T11:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -15511,6 +15591,90 @@
       "day_brt": "2026-11-09",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1794217216
+    },
+    {
+      "fp": "def208451ebc9bf6d6055153",
+      "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
+      "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
+      "source": "NASA Breaking News",
+      "score": 10.0,
+      "is_anomaly": true,
+      "published_utc": "2026-11-09T18:55:50+00:00",
+      "day_brt": "2026-11-09",
+      "resumo_pt": "Resumo (PT-BR): 6 min read NASA’s Chandra Finds Source of Star’s Mysterious Outbursts Megan Watzke Nov 09, 2026 Article A composite NASA Chandra X-ray and Sloan Digital Sky Survey (SDSS) optical image of the galaxy NGC 4559 located about 30 million light-years from Earth. The Chandra data shows X-ray point sources represented in purple, and the SDSS data shows the galaxy and foreground and background objects in red and blue.",
+      "queued_ts": 1794254869
+    },
+    {
+      "fp": "226b08cd947c3bbac656dcb0",
+      "title": "La NASA busca a la próxima generación de astronautas",
+      "link": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-09T19:27:20+00:00",
+      "day_brt": "2026-11-09",
+      "resumo_pt": "Resumo (PT-BR): 6 min read La NASA busca a la próxima generación de astronautas María José Viñas Nov 09, 2026 RELEASE 26-093 La NASA anunció su promoción de candidatos a astronautas de 2025 el 22 de septiembre de 2025 en el Centro Espacial Johnson de la agencia, en Houston. Crédito: NASA/Helen Arase Vargas Read this release in English here .",
+      "queued_ts": 1794254869
+    },
+    {
+      "fp": "ea16501467cdbe7c7fad5a18",
+      "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-09T17:42:42+00:00",
+      "day_brt": "2026-11-09",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA Advanced Mid-Power Electric Rocket Challenge Bailey Light Nov 09, 2026 Article This Hall-effect thruster, shown being tested at Glenn Research Center, turns electricity and inert gas into force that could propel a spacecraft. Orbion Space Technology was founded to bring the high efficiency of these thrusters to small commercial satellites, and the company sought the center’s help to make that a reality.",
+      "queued_ts": 1794254869
+    },
+    {
+      "fp": "641223eb3a9d13af372cbfe5",
+      "title": "La NASA destina un millón de dólares al reto estudiantil Base Lunar",
+      "link": "https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-09T17:36:33+00:00",
+      "day_brt": "2026-11-09",
+      "resumo_pt": "Resumo (PT-BR): 4 min read La NASA destina un millón de dólares al reto estudiantil Base Lunar María José Viñas Nov 09, 2026 RELEASE 26-096 NASA Headquarters Representación artística en la que se muestran astronautas, hábitats, rovers, sistemas de energía y operaciones de carga que permiten mantener actividades humanas continuadas en la Base Lunar, situada cerca del Polo Sur lunar. El domingo 8 de noviembre de 2026, la NASA anunció la convocatoria del reto estudiantil Base Lunar, dotado con un millón de dólares, durante un acto de MAX POWER celebrado en el Complejo de Visitantes del Centro Espacial Kennedy, en Florida.",
+      "queued_ts": 1794254869
+    },
+    {
+      "fp": "29647782cd89719999273491",
+      "title": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
+      "link": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-09T16:07:10+00:00",
+      "day_brt": "2026-11-09",
+      "resumo_pt": "Resumo (PT-BR): 4 min read MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future Jessica Taveau Nov 09, 2026 Article NASA Administrator Jared Isaacman skydives into the agency’s MAX POWER expo and air show on Saturday, Nov. The agency’s inaugural MAX POWER is an aerospace festival celebrating the past, present, and future of flight and space exploration in honor of America’s 250th anniversary.",
+      "queued_ts": 1794254869
+    },
+    {
+      "fp": "35bfdf9e34924cdd2cd6a5d1",
+      "title": "NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars",
+      "link": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-09T16:01:47+00:00",
+      "day_brt": "2026-11-09",
+      "resumo_pt": "Resumo (PT-BR): 5 min read NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars Vanessa Thomas Nov 09, 2026 Article NASA’s two ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft have each successfully completed a powered Earth flyby, using Earth’s gravity in combination with a sustained engine burn to slingshot themselves toward Mars. With these successful maneuvers complete, the twin spacecraft are on target to reach the Red Planet in September 2027.",
+      "queued_ts": 1794254869
+    },
+    {
+      "fp": "4ea68af4b990115bf37307a5",
+      "title": "CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-09T11:00:00+00:00",
+      "day_brt": "2026-11-09",
+      "resumo_pt": "Resumo (PT-BR): 6 Min Read CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars The CHAPEA (Crew Health and Performance Exploration Analog) Mission 2 crew egress from their simulated Mars habitat, completing their mission on Oct. Credits: NASA/James Blair Sumer Loggins Nov 09, 2026 Article Contents Ross Elder: Commander and Test Pilot Ellen Ellis: Medical Officer and Tactical Thinker James Spicer: Flight Engineer and Systems Specialist Matthew Montgomery: Science Officer and Versatile Engineer After 378 days without windows, the sounds of the outside world, or real-time calls with family and friends, four research volunteers stepped out of NASA’s Mars Dune Alpha habitat on Oct.",
+      "queued_ts": 1794254869
     }
   ],
   "digests_sent": {
@@ -16284,7 +16448,10 @@
       "34e4632450d81161a4e4cc79": true
     },
     "2026-11-09": {
-      "b8170d397e332f654c5cbc2a": true
+      "b8170d397e332f654c5cbc2a": true,
+      "def208451ebc9bf6d6055153": true,
+      "226b08cd947c3bbac656dcb0": true,
+      "ea16501467cdbe7c7fad5a18": true
     }
   }
 }
