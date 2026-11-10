@@ -14505,6 +14505,14 @@
       "link": "https://www.space.com/astronomy/mars/nasas-escapade-twin-mars-probes-execute-a-1st-of-its-kind-gravity-slingshot-around-earth",
       "score": 2.8,
       "published_utc": "2026-11-10T11:00:00+00:00"
+    },
+    "dab65abd919dc7c0986d050a": {
+      "ts": 1794334799,
+      "source": "NASA Breaking News",
+      "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+      "link": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
+      "score": 4.0,
+      "published_utc": "2026-11-10T18:06:33+00:00"
     }
   },
   "digest_queue": [
@@ -15779,6 +15787,18 @@
       "day_brt": "2026-11-10",
       "resumo_pt": "Resumo (PT-BR): 1 min read CHAPEA Crew Leaves a Mark HQ Web Team Nov 10, 2026 Image Article NASA The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston.",
       "queued_ts": 1794333709
+    },
+    {
+      "fp": "dab65abd919dc7c0986d050a",
+      "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+      "link": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-10T18:06:33+00:00",
+      "day_brt": "2026-11-10",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston Johnson Space Center Office of Communications Nov 10, 2026 RELEASE J26-002 Johnson Space Center (March 15, 2026) — The International Space Station orbits 267 miles above a cloudy Atlantic Ocean southwest of Cape Town, South Africa. The Kibo laboratory module’s External Platform and the Canadarm2 robotic arm highlight the top foreground above Earth’s terminator—the line between night and day—in this photograph taken at approximately 6:36 a.m.",
+      "queued_ts": 1794334803
     }
   ],
   "digests_sent": {
@@ -16561,7 +16581,8 @@
       "55f67d66eb8703d368eeecc6": true
     },
     "2026-11-10": {
-      "c275d462ec123893c61a0a80": true
+      "c275d462ec123893c61a0a80": true,
+      "dab65abd919dc7c0986d050a": true
     }
   }
 }
