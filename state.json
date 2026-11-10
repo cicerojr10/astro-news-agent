@@ -14449,6 +14449,38 @@
       "link": "https://www.space.com/space-exploration/satellites/yes-it-runs-doom-satellite-plays-iconic-game-in-worlds-1st-demonstration-of-orbital-voice-control",
       "score": 2.8,
       "published_utc": "2026-11-09T11:00:00+00:00"
+    },
+    "08e8c1de3d2ea76f6425423c": {
+      "ts": 1794278425,
+      "source": "NASA Breaking News",
+      "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/",
+      "score": 4.0,
+      "published_utc": "2026-11-10T01:07:45+00:00"
+    },
+    "706e2f2642d1bc29f76b0d97": {
+      "ts": 1794278425,
+      "source": "NASA Breaking News",
+      "title": "Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/",
+      "score": 4.0,
+      "published_utc": "2026-11-10T01:05:48+00:00"
+    },
+    "55f67d66eb8703d368eeecc6": {
+      "ts": 1794278425,
+      "source": "NASA Breaking News",
+      "title": "Rubies on Mars?",
+      "link": "https://science.nasa.gov/blog/rubies-on-mars/",
+      "score": 4.0,
+      "published_utc": "2026-11-09T22:27:12+00:00"
+    },
+    "184c47467696f329106e9555": {
+      "ts": 1794278428,
+      "source": "Space.com",
+      "title": "Jupiter and Mars are set for a breathtaking close approach later this week: Here's how to see it",
+      "link": "https://www.space.com/stargazing/jupiter-and-mars-are-set-for-a-breathtaking-close-approach-later-this-week-heres-how-to-see-it",
+      "score": 2.8,
+      "published_utc": "2026-11-09T22:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -15675,6 +15707,42 @@
       "day_brt": "2026-11-09",
       "resumo_pt": "Resumo (PT-BR): 6 Min Read CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars The CHAPEA (Crew Health and Performance Exploration Analog) Mission 2 crew egress from their simulated Mars habitat, completing their mission on Oct. Credits: NASA/James Blair Sumer Loggins Nov 09, 2026 Article Contents Ross Elder: Commander and Test Pilot Ellen Ellis: Medical Officer and Tactical Thinker James Spicer: Flight Engineer and Systems Specialist Matthew Montgomery: Science Officer and Versatile Engineer After 378 days without windows, the sounds of the outside world, or real-time calls with family and friends, four research volunteers stepped out of NASA’s Mars Dune Alpha habitat on Oct.",
       "queued_ts": 1794254869
+    },
+    {
+      "fp": "08e8c1de3d2ea76f6425423c",
+      "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-10T01:07:45+00:00",
+      "day_brt": "2026-11-09",
+      "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Curiosity Blog, Sols 5056-5062: Charging Back Up!",
+      "queued_ts": 1794278430
+    },
+    {
+      "fp": "706e2f2642d1bc29f76b0d97",
+      "title": "Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-10T01:05:48+00:00",
+      "day_brt": "2026-11-09",
+      "resumo_pt": "Resumo (PT-BR): Curiosity Navigation Curiosity Home Mission Overview Where is Curiosity? Mission Updates Science Overview Instruments Highlights Exploration Goals News and Features Multimedia Curiosity Raw Images Images Videos Audio Mosaics More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 3 min read Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole Mars Science Laboratory Mission Team Members Nov 09, 2026 Article This image of the Nazca drill hole was taken by Mast Camera (Mastcam) onboard NASA's Mars rover Curiosity on Sol 5050 (2026-10-20 23:56:20 UTC).",
+      "queued_ts": 1794278430
+    },
+    {
+      "fp": "55f67d66eb8703d368eeecc6",
+      "title": "Rubies on Mars?",
+      "link": "https://science.nasa.gov/blog/rubies-on-mars/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-09T22:27:12+00:00",
+      "day_brt": "2026-11-09",
+      "resumo_pt": "Resumo (PT-BR): Explore This Section Perseverance Home Mission Overview Rover Components Mars Rock Samples Where is Perseverance? Ingenuity Mars Helicopter Mission Updates Science Overview Objectives Instruments Highlights Exploration Goals News and Features Multimedia Perseverance Raw Images Images Videos Audio More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 2 min read Rubies on Mars?",
+      "queued_ts": 1794278430
     }
   ],
   "digests_sent": {
@@ -16451,7 +16519,10 @@
       "b8170d397e332f654c5cbc2a": true,
       "def208451ebc9bf6d6055153": true,
       "226b08cd947c3bbac656dcb0": true,
-      "ea16501467cdbe7c7fad5a18": true
+      "ea16501467cdbe7c7fad5a18": true,
+      "08e8c1de3d2ea76f6425423c": true,
+      "706e2f2642d1bc29f76b0d97": true,
+      "55f67d66eb8703d368eeecc6": true
     }
   }
 }
