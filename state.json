@@ -14481,6 +14481,30 @@
       "link": "https://www.space.com/stargazing/jupiter-and-mars-are-set-for-a-breathtaking-close-approach-later-this-week-heres-how-to-see-it",
       "score": 2.8,
       "published_utc": "2026-11-09T22:00:00+00:00"
+    },
+    "c275d462ec123893c61a0a80": {
+      "ts": 1794333706,
+      "source": "NASA Breaking News",
+      "title": "CHAPEA Crew Leaves a Mark",
+      "link": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/",
+      "score": 4.0,
+      "published_utc": "2026-11-10T14:57:55+00:00"
+    },
+    "2e0e9a3dcb30b1c0e6e719d6": {
+      "ts": 1794333709,
+      "source": "Space.com",
+      "title": "Were there 'lost cosmonauts' in the early Soviet space program?",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/were-there-lost-cosmonauts-in-the-early-soviet-space-program",
+      "score": 2.8,
+      "published_utc": "2026-11-10T17:00:00+00:00"
+    },
+    "00cf1764f61678383a3a65bd": {
+      "ts": 1794333709,
+      "source": "Space.com",
+      "title": "NASA's twin ESCAPADE Mars probes slingshot around Earth in unprecedented double 'gravity assist'",
+      "link": "https://www.space.com/astronomy/mars/nasas-escapade-twin-mars-probes-execute-a-1st-of-its-kind-gravity-slingshot-around-earth",
+      "score": 2.8,
+      "published_utc": "2026-11-10T11:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -15743,6 +15767,18 @@
       "day_brt": "2026-11-09",
       "resumo_pt": "Resumo (PT-BR): Explore This Section Perseverance Home Mission Overview Rover Components Mars Rock Samples Where is Perseverance? Ingenuity Mars Helicopter Mission Updates Science Overview Objectives Instruments Highlights Exploration Goals News and Features Multimedia Perseverance Raw Images Images Videos Audio More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 2 min read Rubies on Mars?",
       "queued_ts": 1794278430
+    },
+    {
+      "fp": "c275d462ec123893c61a0a80",
+      "title": "CHAPEA Crew Leaves a Mark",
+      "link": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-10T14:57:55+00:00",
+      "day_brt": "2026-11-10",
+      "resumo_pt": "Resumo (PT-BR): 1 min read CHAPEA Crew Leaves a Mark HQ Web Team Nov 10, 2026 Image Article NASA The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston.",
+      "queued_ts": 1794333709
     }
   ],
   "digests_sent": {
@@ -16523,6 +16559,9 @@
       "08e8c1de3d2ea76f6425423c": true,
       "706e2f2642d1bc29f76b0d97": true,
       "55f67d66eb8703d368eeecc6": true
+    },
+    "2026-11-10": {
+      "c275d462ec123893c61a0a80": true
     }
   }
 }
