@@ -14513,6 +14513,38 @@
       "link": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
       "score": 4.0,
       "published_utc": "2026-11-10T18:06:33+00:00"
+    },
+    "a11c5f5a5324e91a7c0d20c3": {
+      "ts": 1794352162,
+      "source": "NASA Breaking News",
+      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+      "score": 4.0,
+      "published_utc": "2026-11-10T19:22:45+00:00"
+    },
+    "d7e76868fed334c9c49f3d0a": {
+      "ts": 1794352165,
+      "source": "Space.com",
+      "title": "SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic double-catch attempt (photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-flight-15-booster-to-launch-pad-for-squeeze-test-ahead-of-epic-double-catch-attempt-photos",
+      "score": 2.8,
+      "published_utc": "2026-11-10T22:09:39+00:00"
+    },
+    "ad70c84092f1437d1bcb1189": {
+      "ts": 1794352165,
+      "source": "Space.com",
+      "title": "On this day in space! Nov. 10, 2013: Europe's GOCE satellite, the 'Ferrari of space,' fell out of orbit after mapping Earth's gravity field",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-10-2026",
+      "score": 2.8,
+      "published_utc": "2026-11-10T21:51:24+00:00"
+    },
+    "a4a1569f9fd7aafb164971b9": {
+      "ts": 1794352166,
+      "source": "Space.com",
+      "title": "SpaceX Starship Flight 15 live updates: Super Heavy rocket moved to launch pad for 1st Starship double landing test",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-10-2026-starship-first-double-landing-attempt",
+      "score": 2.8,
+      "published_utc": "2026-11-10T19:46:21+00:00"
     }
   },
   "digest_queue": [
@@ -15775,30 +15807,6 @@
       "day_brt": "2026-11-09",
       "resumo_pt": "Resumo (PT-BR): Explore This Section Perseverance Home Mission Overview Rover Components Mars Rock Samples Where is Perseverance? Ingenuity Mars Helicopter Mission Updates Science Overview Objectives Instruments Highlights Exploration Goals News and Features Multimedia Perseverance Raw Images Images Videos Audio More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 2 min read Rubies on Mars?",
       "queued_ts": 1794278430
-    },
-    {
-      "fp": "c275d462ec123893c61a0a80",
-      "title": "CHAPEA Crew Leaves a Mark",
-      "link": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-11-10T14:57:55+00:00",
-      "day_brt": "2026-11-10",
-      "resumo_pt": "Resumo (PT-BR): 1 min read CHAPEA Crew Leaves a Mark HQ Web Team Nov 10, 2026 Image Article NASA The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston.",
-      "queued_ts": 1794333709
-    },
-    {
-      "fp": "dab65abd919dc7c0986d050a",
-      "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
-      "link": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-11-10T18:06:33+00:00",
-      "day_brt": "2026-11-10",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston Johnson Space Center Office of Communications Nov 10, 2026 RELEASE J26-002 Johnson Space Center (March 15, 2026) — The International Space Station orbits 267 miles above a cloudy Atlantic Ocean southwest of Cape Town, South Africa. The Kibo laboratory module’s External Platform and the Canadarm2 robotic arm highlight the top foreground above Earth’s terminator—the line between night and day—in this photograph taken at approximately 6:36 a.m.",
-      "queued_ts": 1794334803
     }
   ],
   "digests_sent": {
@@ -16521,6 +16529,9 @@
     },
     "2026-11-08": {
       "morning": true
+    },
+    "2026-11-10": {
+      "night": true
     }
   },
   "sent_updates": {
@@ -16582,7 +16593,8 @@
     },
     "2026-11-10": {
       "c275d462ec123893c61a0a80": true,
-      "dab65abd919dc7c0986d050a": true
+      "dab65abd919dc7c0986d050a": true,
+      "a11c5f5a5324e91a7c0d20c3": true
     }
   }
 }
