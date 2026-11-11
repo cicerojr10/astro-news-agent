@@ -14561,6 +14561,39 @@
       "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
       "score": 3.6,
       "published_utc": "2026-11-11T04:02:42+00:00"
+    },
+    "29b858f3a4446eb656823446": {
+      "ts": 1794418249,
+      "source": "Space.com",
+      "title": "'There's tremendous demand': Rocket Lab raises price of Neutron launch from $55 million to $70 million",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/theres-tremendous-demand-rocket-lab-raises-price-of-neutron-launch-from-usd55-million-to-usd70-million",
+      "score": 2.8,
+      "published_utc": "2026-11-11T16:00:00+00:00"
+    },
+    "60aec552b823a6fc8eed981c": {
+      "ts": 1794418249,
+      "source": "Space.com",
+      "title": "NASA's new UVEX space telescope will peer deep into the universe's most violent events",
+      "link": "https://www.space.com/science/astrophysics/nasas-new-uvex-space-telescope-will-peer-deep-into-the-universes-most-violent-events",
+      "score": 2.8,
+      "published_utc": "2026-11-11T13:00:00+00:00"
+    },
+    "a0eee16e8edeea286b6a67d6": {
+      "ts": 1794418249,
+      "source": "Space.com",
+      "title": "What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-1st-booster-ship-double-catch-full-recovery-what-time",
+      "score": 2.8,
+      "published_utc": "2026-11-11T11:00:00+00:00"
+    },
+    "d9b2adab609234d94de819d8": {
+      "ts": 1794418249,
+      "source": "Space.com",
+      "title": "SpaceX Starship Flight 15 live updates: T-2 days to SpaceX's 1st-ever double Starship landing attempt",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-11-2026-starship-first-double-landing-attempt",
+      "score": 0.0,
+      "published_utc": "2026-11-10T19:46:21+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
