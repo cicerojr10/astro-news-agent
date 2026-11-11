@@ -14545,6 +14545,22 @@
       "link": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-10-2026-starship-first-double-landing-attempt",
       "score": 2.8,
       "published_utc": "2026-11-10T19:46:21+00:00"
+    },
+    "7ae93a5fd386c203d741788d": {
+      "ts": 1794390679,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
+      "score": 4.0,
+      "published_utc": "2026-11-11T05:05:00+00:00"
+    },
+    "1bcde2e49de36b40b9bd9aac": {
+      "ts": 1794390681,
+      "source": "NASASpaceflight",
+      "title": "Isaacman lays out SLS path to the 2030s",
+      "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+      "score": 3.6,
+      "published_utc": "2026-11-11T04:02:42+00:00"
     }
   },
   "digest_queue": [
@@ -15807,6 +15823,30 @@
       "day_brt": "2026-11-09",
       "resumo_pt": "Resumo (PT-BR): Explore This Section Perseverance Home Mission Overview Rover Components Mars Rock Samples Where is Perseverance? Ingenuity Mars Helicopter Mission Updates Science Overview Objectives Instruments Highlights Exploration Goals News and Features Multimedia Perseverance Raw Images Images Videos Audio More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 2 min read Rubies on Mars?",
       "queued_ts": 1794278430
+    },
+    {
+      "fp": "7ae93a5fd386c203d741788d",
+      "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-11T05:05:00+00:00",
+      "day_brt": "2026-11-11",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1794390683
+    },
+    {
+      "fp": "1bcde2e49de36b40b9bd9aac",
+      "title": "Isaacman lays out SLS path to the 2030s",
+      "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-11-11T04:02:42+00:00",
+      "day_brt": "2026-11-11",
+      "resumo_pt": "Resumo (PT-BR): Isaacman lays out SLS path to the 2030s by Chris Bergin November 10, 2026 written by Chris Bergin November 10, 2026 1 NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System (SLS), move toward a stretched Centaur V upper stage, and stop work on Mobile Launcher 2 (ML-2), linking those choices to higher flight rates and lower costs. Speaking on NSF’s The Flame Trench show, Isaacman said industry’s responses to NASA’s search for future commercial lunar transportation pointed to the 2030s, rather than an immediate replacement for the existing system.",
+      "queued_ts": 1794390683
     }
   ],
   "digests_sent": {
@@ -16595,6 +16635,10 @@
       "c275d462ec123893c61a0a80": true,
       "dab65abd919dc7c0986d050a": true,
       "a11c5f5a5324e91a7c0d20c3": true
+    },
+    "2026-11-11": {
+      "7ae93a5fd386c203d741788d": true,
+      "1bcde2e49de36b40b9bd9aac": true
     }
   }
 }
