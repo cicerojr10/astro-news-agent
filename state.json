@@ -14618,6 +14618,38 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-2nd-mystery-mission-for-us-space-force-in-6-day-span-photos",
       "score": 2.8,
       "published_utc": "2026-11-12T05:24:54+00:00"
+    },
+    "f303e0e6984f26b6f6c8af8f": {
+      "ts": 1794508674,
+      "source": "NASA Breaking News",
+      "title": "NASA Ames Stars of the Month: November 2026",
+      "link": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/",
+      "score": 4.0,
+      "published_utc": "2026-11-12T17:54:32+00:00"
+    },
+    "ffa9e1214f4fb85cd2d138ad": {
+      "ts": 1794508676,
+      "source": "NASASpaceflight",
+      "title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
+      "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+      "score": 3.6,
+      "published_utc": "2026-11-12T17:44:44+00:00"
+    },
+    "3a0a00e34a0380afd6755f57": {
+      "ts": 1794508677,
+      "source": "Space.com",
+      "title": "Pakistani astronaut set to become 1st international visitor to China's Tiangong space station this month",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/pakistani-astronaut-set-to-become-1st-international-visitor-to-chinas-tiangong-space-station-this-month",
+      "score": 2.8,
+      "published_utc": "2026-11-12T17:00:00+00:00"
+    },
+    "adaa9d3dab2fd5eabd4bf9b1": {
+      "ts": 1794508677,
+      "source": "Space.com",
+      "title": "SpaceX launches 2nd mystery mission for US Space Force in 6-day span (video, photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-2nd-mystery-mission-for-us-space-force-in-6-day-span-photos",
+      "score": 2.8,
+      "published_utc": "2026-11-12T05:24:54+00:00"
     }
   },
   "digest_queue": [
@@ -15880,6 +15912,30 @@
       "day_brt": "2026-11-09",
       "resumo_pt": "Resumo (PT-BR): Explore This Section Perseverance Home Mission Overview Rover Components Mars Rock Samples Where is Perseverance? Ingenuity Mars Helicopter Mission Updates Science Overview Objectives Instruments Highlights Exploration Goals News and Features Multimedia Perseverance Raw Images Images Videos Audio More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 2 min read Rubies on Mars?",
       "queued_ts": 1794278430
+    },
+    {
+      "fp": "f303e0e6984f26b6f6c8af8f",
+      "title": "NASA Ames Stars of the Month: November 2026",
+      "link": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-12T17:54:32+00:00",
+      "day_brt": "2026-11-12",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Ames Stars of the Month: November 2026 Aaron McKinnon Nov 12, 2026 Article Contents Space Biosciences Star: Alyssa Villanueva Astrophysics Star: Steve Howell Earth Science Star: Samuel LeBlanc The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
+      "queued_ts": 1794508678
+    },
+    {
+      "fp": "ffa9e1214f4fb85cd2d138ad",
+      "title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
+      "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-11-12T17:44:44+00:00",
+      "day_brt": "2026-11-12",
+      "resumo_pt": "Resumo (PT-BR): ULA’s Vulcan set to return to flight with first Amazon Leo payload by Justin Davenport November 12, 2026 written by Justin Davenport November 12, 2026 1 United Launch Alliance’s current flagship launch vehicle, Vulcan, is scheduled to return to flight after being grounded since February due to recurring nozzle issues with the GEM-63XL solid rocket boosters. The first nozzle issue occurred in October 2024 during the rocket’s second flight, before a similar issue occurred on the USSF-87 mission in February of this year.",
+      "queued_ts": 1794508678
     }
   ],
   "digests_sent": {
@@ -16614,30 +16670,6 @@
     }
   },
   "sent_updates": {
-    "2026-11-01": {
-      "fd7ad6811281099e0e513860": true
-    },
-    "2026-11-02": {
-      "4fa91e22a3a47fc73030f137": true,
-      "5038c51e05e50e5e0b55f2ec": true,
-      "ea44ea0d756a4d667289ec6c": true,
-      "092fefaf7fbe94f3e4116332": true,
-      "c531adf264de91a4b6f7b90f": true,
-      "18e62329cead2d959157a06e": true
-    },
-    "2026-11-03": {
-      "277d5d311605d359b99d4d3e": true,
-      "b3d140859cfae97c81388239": true,
-      "3ca9f21bf61d0a329b120cb1": true
-    },
-    "2026-11-04": {
-      "af30323c79de82ff6c02b4f0": true,
-      "bef0a3e4d749e30ae1d4def6": true,
-      "897f466362a76255246185f8": true,
-      "3b0153968670f417be84a6f3": true,
-      "e27812d6659ac3eb5d9b4c55": true,
-      "4901e70d326474a995b29cd9": true
-    },
     "2026-11-05": {
       "0c5daa59c953663265e87ec9": true,
       "97b3e8fb923f56dfd6517f96": true,
@@ -16678,6 +16710,10 @@
     "2026-11-11": {
       "7ae93a5fd386c203d741788d": true,
       "1bcde2e49de36b40b9bd9aac": true
+    },
+    "2026-11-12": {
+      "f303e0e6984f26b6f6c8af8f": true,
+      "ffa9e1214f4fb85cd2d138ad": true
     }
   }
 }
