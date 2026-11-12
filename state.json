@@ -14610,6 +14610,14 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-11-2026",
       "score": 2.8,
       "published_utc": "2026-11-11T20:50:18+00:00"
+    },
+    "a9bf451820ced0a2344b7097": {
+      "ts": 1794486947,
+      "source": "Space.com",
+      "title": "SpaceX launches 2nd mystery mission for US Space Force in 6-day span (photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-2nd-mystery-mission-for-us-space-force-in-6-day-span-photos",
+      "score": 2.8,
+      "published_utc": "2026-11-12T05:24:54+00:00"
     }
   },
   "digest_queue": [
@@ -16600,6 +16608,9 @@
     },
     "2026-11-11": {
       "night": true
+    },
+    "2026-11-12": {
+      "morning": true
     }
   },
   "sent_updates": {
