@@ -14658,6 +14658,23 @@
       "link": "https://www.space.com/stargazing/spacexs-starship-megarocket-will-launch-to-orbit-on-nov-13-will-you-be-able-to-spot-it-in-the-night-sky",
       "score": 2.8,
       "published_utc": "2026-11-12T20:00:00+00:00"
+    },
+    "f2da5adafa6a688330ea994c": {
+      "ts": 1794532479,
+      "source": "Space.com",
+      "title": "This supernova impostor baffled astronomers for 15 years — until they found a hidden black hole feeding on an unstable star",
+      "link": "https://www.space.com/astronomy/black-holes/this-supernova-impostor-baffled-astronomers-for-15-years-until-they-found-a-hidden-black-hole-feeding-on-an-unstable-star",
+      "score": 11.2,
+      "published_utc": "2026-11-12T21:00:00+00:00"
+    },
+    "3fc155f7d3cf0339abe51f27": {
+      "ts": 1794532479,
+      "source": "Space.com",
+      "title": "SpaceX Starship Flight 15 live updates: T-1 day to SpaceX's 1st-ever double Starship landing attempt",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-11-2026-starship-first-double-landing-attempt",
+      "score": 0.0,
+      "published_utc": "2026-11-10T19:46:21+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -15920,30 +15937,6 @@
       "day_brt": "2026-11-09",
       "resumo_pt": "Resumo (PT-BR): Explore This Section Perseverance Home Mission Overview Rover Components Mars Rock Samples Where is Perseverance? Ingenuity Mars Helicopter Mission Updates Science Overview Objectives Instruments Highlights Exploration Goals News and Features Multimedia Perseverance Raw Images Images Videos Audio More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 2 min read Rubies on Mars?",
       "queued_ts": 1794278430
-    },
-    {
-      "fp": "f303e0e6984f26b6f6c8af8f",
-      "title": "NASA Ames Stars of the Month: November 2026",
-      "link": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-11-12T17:54:32+00:00",
-      "day_brt": "2026-11-12",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Ames Stars of the Month: November 2026 Aaron McKinnon Nov 12, 2026 Article Contents Space Biosciences Star: Alyssa Villanueva Astrophysics Star: Steve Howell Earth Science Star: Samuel LeBlanc The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
-      "queued_ts": 1794508678
-    },
-    {
-      "fp": "ffa9e1214f4fb85cd2d138ad",
-      "title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
-      "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-11-12T17:44:44+00:00",
-      "day_brt": "2026-11-12",
-      "resumo_pt": "Resumo (PT-BR): ULA’s Vulcan set to return to flight with first Amazon Leo payload by Justin Davenport November 12, 2026 written by Justin Davenport November 12, 2026 1 United Launch Alliance’s current flagship launch vehicle, Vulcan, is scheduled to return to flight after being grounded since February due to recurring nozzle issues with the GEM-63XL solid rocket boosters. The first nozzle issue occurred in October 2024 during the rocket’s second flight, before a similar issue occurred on the USSF-87 mission in February of this year.",
-      "queued_ts": 1794508678
     }
   ],
   "digests_sent": {
@@ -16674,7 +16667,8 @@
       "night": true
     },
     "2026-11-12": {
-      "morning": true
+      "morning": true,
+      "night": true
     }
   },
   "sent_updates": {
@@ -16721,7 +16715,8 @@
     },
     "2026-11-12": {
       "f303e0e6984f26b6f6c8af8f": true,
-      "ffa9e1214f4fb85cd2d138ad": true
+      "ffa9e1214f4fb85cd2d138ad": true,
+      "f2da5adafa6a688330ea994c": true
     }
   }
 }
