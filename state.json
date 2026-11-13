@@ -14699,6 +14699,47 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live",
       "score": 2.8,
       "published_utc": "2026-11-13T05:05:00+00:00"
+    },
+    "a56747fab52e7db1f5c624bf": {
+      "ts": 1794585200,
+      "source": "Spaceflight Now",
+      "title": "ULA delays Vulcan rocket launch of 40 Leo satellites for Amazon",
+      "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
+      "score": 3.6,
+      "published_utc": "2026-11-13T12:25:06+00:00"
+    },
+    "54181ab01cad49432d3dd6df": {
+      "ts": 1794585201,
+      "source": "Space.com",
+      "title": "Double-catch drama: Why Starship's Flight 15 is so important to SpaceX",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/double-catch-drama-why-starships-flight-15-is-so-important-to-spacex",
+      "score": 2.8,
+      "published_utc": "2026-11-13T13:00:00+00:00"
+    },
+    "315f143d9e8c165b94a86c71": {
+      "ts": 1794585201,
+      "source": "Space.com",
+      "title": "Powerful Vulcan Centaur rocket launching for 1st time in 9 months Nov. 14: Watch it live",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+      "score": 2.8,
+      "published_utc": "2026-11-13T11:00:00+00:00"
+    },
+    "89136295b5e346182cfb25dd": {
+      "ts": 1794585202,
+      "source": "Space.com",
+      "title": "'Don't panic': SpaceX pens familiar message on Starship ahead of historic double-catch test flight",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/dont-panic-spacex-pens-familiar-message-on-starship-ahead-of-historic-double-catch-test-flight",
+      "score": 2.8,
+      "published_utc": "2026-11-13T08:03:59+00:00"
+    },
+    "d800cf91a36a80bc9c8f366c": {
+      "ts": 1794585202,
+      "source": "Space.com",
+      "title": "SpaceX Starship Flight 15 live updates: Giant Starship stacked for launch and 1st-ever double catch landing",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-13-2026-starship-first-double-landing-attempt",
+      "score": 0.0,
+      "published_utc": "2026-11-10T19:46:21+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -15985,6 +16026,18 @@
       "day_brt": "2026-11-13",
       "resumo_pt": "Resumo (PT-BR): Starship Flight 15 to attempt first catch of both stages by Ryan Weber November 12, 2026 written by Ryan Weber November 12, 2026 3 After 14 full-stack flights, SpaceX is set to attempt something no one in spaceflight history has done: catch both stages of an orbital-class rocket. On Flight 15/Starlink Group 31-2, SpaceX will try to catch Booster 22 back at Pad 2 minutes after launch.",
       "queued_ts": 1794556716
+    },
+    {
+      "fp": "a56747fab52e7db1f5c624bf",
+      "title": "ULA delays Vulcan rocket launch of 40 Leo satellites for Amazon",
+      "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-11-13T12:25:06+00:00",
+      "day_brt": "2026-11-13",
+      "resumo_pt": "Resumo (PT-BR): Vulcan ULA delays Vulcan rocket launch of 40 Leo satellites for Amazon Houston Harwood November 13, 2026 12:25 p.m. A United Launch Alliance Vulcan, equipped with six solid rocket boosters, stands ready for launch at Cape Canaveral's pad 41.",
+      "queued_ts": 1794585202
     }
   ],
   "digests_sent": {
@@ -16768,7 +16821,8 @@
     },
     "2026-11-13": {
       "33f5668860dbb10ce9f4ce67": true,
-      "692ac98aeeb8dccf553a48eb": true
+      "692ac98aeeb8dccf553a48eb": true,
+      "a56747fab52e7db1f5c624bf": true
     }
   }
 }
