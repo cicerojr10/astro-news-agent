@@ -14849,6 +14849,48 @@
       "score": 0.0,
       "published_utc": "2026-11-13T11:00:00+00:00",
       "note": "not_today"
+    },
+    "9cb5a6578c09ccad10d4f303": {
+      "ts": 1794668254,
+      "source": "Space.com",
+      "title": "SpaceX says Starship Flight 15 booster aborted 'chopsticks' landing catch after launch due to guidance issue (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
+      "score": 9.1,
+      "published_utc": "2026-11-14T14:53:00+00:00"
+    },
+    "7adc118aa0e2ac7a927c3d80": {
+      "ts": 1794668255,
+      "source": "Space.com",
+      "title": "Watch SpaceX will attempt its 1st-ever 'chopsticks' Starship landing catch of a rocket from orbit today (livestream)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
+      "score": 2.8,
+      "published_utc": "2026-11-14T13:00:00+00:00"
+    },
+    "410ef1f15058fe1970f1f829": {
+      "ts": 1794668255,
+      "source": "Space.com",
+      "title": "See Jupiter and Mars make a spectacular close approach overnight Nov. 15-16",
+      "link": "https://www.space.com/stargazing/see-jupiter-and-mars-make-a-spectacular-close-approach-overnight-nov-15-16",
+      "score": 2.8,
+      "published_utc": "2026-11-14T11:00:00+00:00"
+    },
+    "4b0b4b4a2c6194ac500c33a0": {
+      "ts": 1794668255,
+      "source": "Space.com",
+      "title": "Powerful Vulcan Centaur rocket launching for 1st time in 9 months on Nov. 15: Watch it live",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+      "score": 0.0,
+      "published_utc": "2026-11-13T11:00:00+00:00",
+      "note": "not_today"
+    },
+    "e47dbafa21c0d0a3d352944b": {
+      "ts": 1794668255,
+      "source": "Space.com",
+      "title": "SpaceX Starship Flight 15 live updates: Starship heat shield looks good for landing attempt today",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-14-2026-starship-first-double-landing-attempt",
+      "score": 0.0,
+      "published_utc": "2026-11-10T19:46:21+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -16858,6 +16900,9 @@
     },
     "2026-11-13": {
       "night": true
+    },
+    "2026-11-14": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -16916,6 +16961,9 @@
       "664e49da257a05d3f57c1dcb": true,
       "a3c8faffa4898f1dc5d681c2": true,
       "87d7ee5779ec67e042fb40d7": true
+    },
+    "2026-11-14": {
+      "9cb5a6578c09ccad10d4f303": true
     }
   }
 }
