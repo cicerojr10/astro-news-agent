@@ -14891,6 +14891,15 @@
       "score": 0.0,
       "published_utc": "2026-11-10T19:46:21+00:00",
       "note": "not_today"
+    },
+    "1389dd1e04700db57a5e905b": {
+      "ts": 1794674747,
+      "source": "Spaceflight Now",
+      "title": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon",
+      "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
+      "score": 0.0,
+      "published_utc": "2026-11-13T12:25:06+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
