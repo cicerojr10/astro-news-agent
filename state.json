@@ -14823,6 +14823,14 @@
       "score": 0.0,
       "published_utc": "2026-11-10T19:46:21+00:00",
       "note": "not_today"
+    },
+    "87d7ee5779ec67e042fb40d7": {
+      "ts": 1794624957,
+      "source": "Spaceflight Now",
+      "title": "Starship in orbit ahead of catch attempt, booster diverts to explosive splashdown",
+      "link": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
+      "score": 3.6,
+      "published_utc": "2026-11-13T19:15:11+00:00"
     }
   },
   "digest_queue": [
@@ -16085,6 +16093,18 @@
       "day_brt": "2026-11-09",
       "resumo_pt": "Resumo (PT-BR): Explore This Section Perseverance Home Mission Overview Rover Components Mars Rock Samples Where is Perseverance? Ingenuity Mars Helicopter Mission Updates Science Overview Objectives Instruments Highlights Exploration Goals News and Features Multimedia Perseverance Raw Images Images Videos Audio More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 2 min read Rubies on Mars?",
       "queued_ts": 1794278430
+    },
+    {
+      "fp": "87d7ee5779ec67e042fb40d7",
+      "title": "Starship in orbit ahead of catch attempt, booster diverts to explosive splashdown",
+      "link": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-11-13T19:15:11+00:00",
+      "day_brt": "2026-11-13",
+      "resumo_pt": "Resumo (PT-BR): Starship Starship in orbit ahead of catch attempt, booster diverts to explosive splashdown Spaceflight Now November 13, 2026 7:15 p.m. Starship lifts off on its 15th flight from Starbase, Texas at 5:48 p.m.",
+      "queued_ts": 1794624958
     }
   ],
   "digests_sent": {
@@ -16876,7 +16896,8 @@
       "63b1567c8dc804c593dc4f11": true,
       "92d765635f8d892018863562": true,
       "664e49da257a05d3f57c1dcb": true,
-      "a3c8faffa4898f1dc5d681c2": true
+      "a3c8faffa4898f1dc5d681c2": true,
+      "87d7ee5779ec67e042fb40d7": true
     }
   }
 }
