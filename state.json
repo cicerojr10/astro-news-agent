@@ -14900,6 +14900,14 @@
       "score": 0.0,
       "published_utc": "2026-11-13T12:25:06+00:00",
       "note": "not_today"
+    },
+    "6f5c6099cbc69490307cc44d": {
+      "ts": 1794685132,
+      "source": "Space.com",
+      "title": "Why did Starship Flight 15 booster abort 'chopsticks' landing catch? SpaceX still investigating (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
+      "score": 9.1,
+      "published_utc": "2026-11-14T14:53:00+00:00"
     }
   },
   "digest_queue": [
@@ -16174,6 +16182,18 @@
       "day_brt": "2026-11-13",
       "resumo_pt": "Resumo (PT-BR): Starship Starship in orbit ahead of catch attempt, booster diverts to explosive splashdown Spaceflight Now November 13, 2026 7:15 p.m. Starship lifts off on its 15th flight from Starbase, Texas at 5:48 p.m.",
       "queued_ts": 1794624958
+    },
+    {
+      "fp": "6f5c6099cbc69490307cc44d",
+      "title": "Why did Starship Flight 15 booster abort 'chopsticks' landing catch? SpaceX still investigating (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
+      "source": "Space.com",
+      "score": 9.1,
+      "is_anomaly": true,
+      "published_utc": "2026-11-14T14:53:00+00:00",
+      "day_brt": "2026-11-14",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft Why did Starship Flight 15 booster abort 'chopsticks' landing catch? SpaceX still investigating (video) News By Tariq Malik Published 14 November 2026 5 min read SpaceX had hoped for a historic double-catch landing for the Starship Flight 15 booster and Ship.",
+      "queued_ts": 1794685133
     }
   ],
   "digests_sent": {
@@ -16972,7 +16992,8 @@
       "87d7ee5779ec67e042fb40d7": true
     },
     "2026-11-14": {
-      "9cb5a6578c09ccad10d4f303": true
+      "9cb5a6578c09ccad10d4f303": true,
+      "6f5c6099cbc69490307cc44d": true
     }
   }
 }
