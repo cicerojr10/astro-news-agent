@@ -14798,6 +14798,31 @@
       "score": 0.0,
       "published_utc": "2026-11-11T11:00:00+00:00",
       "note": "not_today"
+    },
+    "a3c8faffa4898f1dc5d681c2": {
+      "ts": 1794620961,
+      "source": "NASASpaceflight",
+      "title": "Starship Flight 15: Ship 42 orbital, Booster diverts to ocean",
+      "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+      "score": 3.6,
+      "published_utc": "2026-11-13T04:24:28+00:00"
+    },
+    "664e49da257a05d3f57c1dcb": {
+      "ts": 1794620962,
+      "source": "Space.com",
+      "title": "SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship",
+      "score": 9.1,
+      "published_utc": "2026-11-13T23:20:03+00:00"
+    },
+    "0e5ee74f643b13df0010adfa": {
+      "ts": 1794620962,
+      "source": "Space.com",
+      "title": "SpaceX Starship Flight 15 live updates: How to spot Starship in the night sky as it coasts in orbit",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-13-2026-starship-first-double-landing-attempt",
+      "score": 0.0,
+      "published_utc": "2026-11-10T19:46:21+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -16060,66 +16085,6 @@
       "day_brt": "2026-11-09",
       "resumo_pt": "Resumo (PT-BR): Explore This Section Perseverance Home Mission Overview Rover Components Mars Rock Samples Where is Perseverance? Ingenuity Mars Helicopter Mission Updates Science Overview Objectives Instruments Highlights Exploration Goals News and Features Multimedia Perseverance Raw Images Images Videos Audio More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 2 min read Rubies on Mars?",
       "queued_ts": 1794278430
-    },
-    {
-      "fp": "33f5668860dbb10ce9f4ce67",
-      "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-11-13T05:05:00+00:00",
-      "day_brt": "2026-11-13",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1794556716
-    },
-    {
-      "fp": "692ac98aeeb8dccf553a48eb",
-      "title": "Starship Flight 15 to attempt first catch of both stages",
-      "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-      "source": "NASASpaceflight",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-11-13T04:24:28+00:00",
-      "day_brt": "2026-11-13",
-      "resumo_pt": "Resumo (PT-BR): Starship Flight 15 to attempt first catch of both stages by Ryan Weber November 12, 2026 written by Ryan Weber November 12, 2026 3 After 14 full-stack flights, SpaceX is set to attempt something no one in spaceflight history has done: catch both stages of an orbital-class rocket. On Flight 15/Starlink Group 31-2, SpaceX will try to catch Booster 22 back at Pad 2 minutes after launch.",
-      "queued_ts": 1794556716
-    },
-    {
-      "fp": "a56747fab52e7db1f5c624bf",
-      "title": "ULA delays Vulcan rocket launch of 40 Leo satellites for Amazon",
-      "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
-      "source": "Spaceflight Now",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-11-13T12:25:06+00:00",
-      "day_brt": "2026-11-13",
-      "resumo_pt": "Resumo (PT-BR): Vulcan ULA delays Vulcan rocket launch of 40 Leo satellites for Amazon Houston Harwood November 13, 2026 12:25 p.m. A United Launch Alliance Vulcan, equipped with six solid rocket boosters, stands ready for launch at Cape Canaveral's pad 41.",
-      "queued_ts": 1794585202
-    },
-    {
-      "fp": "63b1567c8dc804c593dc4f11",
-      "title": "Live Coverage: Starship Flight 15 attempts to recover full vehicle in double launch pad catch",
-      "link": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
-      "source": "Spaceflight Now",
-      "score": 4.680000000000001,
-      "is_anomaly": false,
-      "published_utc": "2026-11-13T19:15:11+00:00",
-      "day_brt": "2026-11-13",
-      "resumo_pt": "Resumo (PT-BR): Starship Live Coverage: Starship Flight 15 attempts to recover full vehicle in double launch pad catch Spaceflight Now November 13, 2026 7:15 p.m. The fully stacked Starship Flight 15 vehicle stands ready for launch from Starbase, Texas.",
-      "queued_ts": 1794606138
-    },
-    {
-      "fp": "92d765635f8d892018863562",
-      "title": "ULA delays to Saturday Vulcan rocket launch of 40 Leo satellites for Amazon",
-      "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
-      "source": "Spaceflight Now",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-11-13T12:25:06+00:00",
-      "day_brt": "2026-11-13",
-      "resumo_pt": "Resumo (PT-BR): Vulcan ULA delays to Saturday Vulcan rocket launch of 40 Leo satellites for Amazon Houston Harwood November 13, 2026 12:25 p.m. A United Launch Alliance Vulcan, equipped with six solid rocket boosters, stands ready for launch at Cape Canaveral's pad 41.",
-      "queued_ts": 1794606138
     }
   ],
   "digests_sent": {
@@ -16852,6 +16817,9 @@
     "2026-11-12": {
       "morning": true,
       "night": true
+    },
+    "2026-11-13": {
+      "night": true
     }
   },
   "sent_updates": {
@@ -16906,7 +16874,9 @@
       "692ac98aeeb8dccf553a48eb": true,
       "a56747fab52e7db1f5c624bf": true,
       "63b1567c8dc804c593dc4f11": true,
-      "92d765635f8d892018863562": true
+      "92d765635f8d892018863562": true,
+      "664e49da257a05d3f57c1dcb": true,
+      "a3c8faffa4898f1dc5d681c2": true
     }
   }
 }
