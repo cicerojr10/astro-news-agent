@@ -14916,6 +14916,23 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
       "score": 2.8,
       "published_utc": "2026-11-14T13:00:00+00:00"
+    },
+    "f2b66e326b9932ea5e8234aa": {
+      "ts": 1794709589,
+      "source": "NASASpaceflight",
+      "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
+      "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+      "score": 0.0,
+      "published_utc": "2026-11-13T04:24:28+00:00",
+      "note": "not_today"
+    },
+    "debcf28e079da754a326fc42": {
+      "ts": 1794709589,
+      "source": "Space.com",
+      "title": "'Now everything changes': SpaceX catches Starship upper stage for 1st time ever (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
+      "score": 2.8,
+      "published_utc": "2026-11-14T13:00:00+00:00"
     }
   },
   "digest_queue": [
