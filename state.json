@@ -14959,6 +14959,32 @@
       "score": 0.0,
       "published_utc": "2026-11-13T20:00:00+00:00",
       "note": "not_today"
+    },
+    "96aea98aab924aad34dd81e0": {
+      "ts": 1794777969,
+      "source": "Spaceflight Now",
+      "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+      "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+      "score": 13.5,
+      "published_utc": "2026-11-15T19:16:59+00:00"
+    },
+    "2713fcf5f07dffe6aed4822c": {
+      "ts": 1794777970,
+      "source": "NASASpaceflight",
+      "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
+      "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+      "score": 0.0,
+      "published_utc": "2026-11-12T17:44:44+00:00",
+      "note": "not_today"
+    },
+    "00d98dec74155300c7770297": {
+      "ts": 1794777971,
+      "source": "Space.com",
+      "title": "Vulcan Centaur rocket fails during return-to-flight launch, 40 Amazon satellites lost (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+      "score": 0.0,
+      "published_utc": "2026-11-13T11:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -16233,6 +16259,18 @@
       "day_brt": "2026-11-13",
       "resumo_pt": "Resumo (PT-BR): Starship Starship in orbit ahead of catch attempt, booster diverts to explosive splashdown Spaceflight Now November 13, 2026 7:15 p.m. Starship lifts off on its 15th flight from Starbase, Texas at 5:48 p.m.",
       "queued_ts": 1794624958
+    },
+    {
+      "fp": "96aea98aab924aad34dd81e0",
+      "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+      "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+      "source": "Spaceflight Now",
+      "score": 13.5,
+      "is_anomaly": true,
+      "published_utc": "2026-11-15T19:16:59+00:00",
+      "day_brt": "2026-11-15",
+      "resumo_pt": "Resumo (PT-BR): Vulcan ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites William Harwood November 15, 2026 7:16 p.m. A United Launch Alliance Vulcan, equipped with six solid rocket boosters, lifts off from Cape Canaveral's pad 41.",
+      "queued_ts": 1794777972
     }
   ],
   "digests_sent": {
@@ -17034,6 +17072,9 @@
     "2026-11-14": {
       "9cb5a6578c09ccad10d4f303": true,
       "6f5c6099cbc69490307cc44d": true
+    },
+    "2026-11-15": {
+      "96aea98aab924aad34dd81e0": true
     }
   }
 }
