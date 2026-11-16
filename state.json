@@ -14985,6 +14985,14 @@
       "score": 0.0,
       "published_utc": "2026-11-13T11:00:00+00:00",
       "note": "not_today"
+    },
+    "fe081e809e88b7b1413e27eb": {
+      "ts": 1794815945,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/",
+      "score": 4.0,
+      "published_utc": "2026-11-16T05:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -16259,6 +16267,18 @@
       "day_brt": "2026-11-13",
       "resumo_pt": "Resumo (PT-BR): Starship Starship in orbit ahead of catch attempt, booster diverts to explosive splashdown Spaceflight Now November 13, 2026 7:15 p.m. Starship lifts off on its 15th flight from Starbase, Texas at 5:48 p.m.",
       "queued_ts": 1794624958
+    },
+    {
+      "fp": "fe081e809e88b7b1413e27eb",
+      "title": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-16T05:05:00+00:00",
+      "day_brt": "2026-11-16",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1794815948
     }
   ],
   "digests_sent": {
@@ -17004,38 +17024,6 @@
     }
   },
   "sent_updates": {
-    "2026-11-05": {
-      "0c5daa59c953663265e87ec9": true,
-      "97b3e8fb923f56dfd6517f96": true,
-      "e97e3a8bbac14ad174d3fed0": true,
-      "df46c0368661917b50dda088": true,
-      "d49adbb8b8e5632685760784": true,
-      "92ce3c11280fe9334f5cbb58": true
-    },
-    "2026-11-06": {
-      "a3e3ac67c3e533088d4eeac6": true,
-      "482365588ec8bb2fe7c3e9fb": true,
-      "8d3ce568472a6a17edbf71ea": true,
-      "5adad21cd19346365ec0a68c": true,
-      "ef6e0866fccf7bb8b072b94a": true,
-      "05b8b9ab9ab17552f94a1a11": true,
-      "cae512a0836e0fceccf0e36f": true,
-      "5cbf47a7eb5365159c8dd928": true,
-      "0d9b095ddc4130198b2d2c59": true
-    },
-    "2026-11-07": {
-      "97c6613e3a91c6da145746aa": true,
-      "34e4632450d81161a4e4cc79": true
-    },
-    "2026-11-09": {
-      "b8170d397e332f654c5cbc2a": true,
-      "def208451ebc9bf6d6055153": true,
-      "226b08cd947c3bbac656dcb0": true,
-      "ea16501467cdbe7c7fad5a18": true,
-      "08e8c1de3d2ea76f6425423c": true,
-      "706e2f2642d1bc29f76b0d97": true,
-      "55f67d66eb8703d368eeecc6": true
-    },
     "2026-11-10": {
       "c275d462ec123893c61a0a80": true,
       "dab65abd919dc7c0986d050a": true,
@@ -17066,6 +17054,9 @@
     },
     "2026-11-15": {
       "96aea98aab924aad34dd81e0": true
+    },
+    "2026-11-16": {
+      "fe081e809e88b7b1413e27eb": true
     }
   }
 }
