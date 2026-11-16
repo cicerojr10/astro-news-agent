@@ -16259,18 +16259,6 @@
       "day_brt": "2026-11-13",
       "resumo_pt": "Resumo (PT-BR): Starship Starship in orbit ahead of catch attempt, booster diverts to explosive splashdown Spaceflight Now November 13, 2026 7:15 p.m. Starship lifts off on its 15th flight from Starbase, Texas at 5:48 p.m.",
       "queued_ts": 1794624958
-    },
-    {
-      "fp": "96aea98aab924aad34dd81e0",
-      "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
-      "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
-      "source": "Spaceflight Now",
-      "score": 13.5,
-      "is_anomaly": true,
-      "published_utc": "2026-11-15T19:16:59+00:00",
-      "day_brt": "2026-11-15",
-      "resumo_pt": "Resumo (PT-BR): Vulcan ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites William Harwood November 15, 2026 7:16 p.m. A United Launch Alliance Vulcan, equipped with six solid rocket boosters, lifts off from Cape Canaveral's pad 41.",
-      "queued_ts": 1794777972
     }
   ],
   "digests_sent": {
@@ -17009,6 +16997,9 @@
     },
     "2026-11-14": {
       "morning": true,
+      "night": true
+    },
+    "2026-11-15": {
       "night": true
     }
   },
