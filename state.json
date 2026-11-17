@@ -15058,6 +15058,46 @@
       "link": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/",
       "score": 4.0,
       "published_utc": "2026-11-17T05:01:00+00:00"
+    },
+    "17530e6fb5ed5341fd64bbb7": {
+      "ts": 1794940494,
+      "source": "NASA Breaking News",
+      "title": "NICER Status Updates",
+      "link": "https://www.nasa.gov/missions/station/nicer-status-updates/",
+      "score": 4.0,
+      "published_utc": "2026-11-17T18:18:16+00:00"
+    },
+    "9d7f34e637e9dbd85330e62c": {
+      "ts": 1794940494,
+      "source": "NASA Breaking News",
+      "title": "Space Selfie",
+      "link": "https://www.nasa.gov/image-article/space-selfie-2/",
+      "score": 4.0,
+      "published_utc": "2026-11-17T16:51:14+00:00"
+    },
+    "cbc28987b43c69b4c590676f": {
+      "ts": 1794940497,
+      "source": "Space.com",
+      "title": "NASA wants you to 'shine bright' today for Voyager 1's light-day milestone. Here's how",
+      "link": "https://www.space.com/space-exploration/voyager/nasa-wants-you-to-shine-bright-today-for-voyager-1s-light-day-milestone-heres-how",
+      "score": 2.8,
+      "published_utc": "2026-11-17T17:00:00+00:00"
+    },
+    "de714a221d55514ae7e664b0": {
+      "ts": 1794940497,
+      "source": "Space.com",
+      "title": "Reflect Orbital wants to launch thousands of sunlight-beaming mirrors to space — and the 1st will go up next year",
+      "link": "https://www.space.com/space-exploration/satellites/reflect-orbital-wants-to-launch-thousands-of-sunlight-beaming-mirrors-to-space-and-the-1st-will-go-up-next-year",
+      "score": 2.8,
+      "published_utc": "2026-11-17T13:00:00+00:00"
+    },
+    "6b87e5679d34f351d2ed3e4c": {
+      "ts": 1794940497,
+      "source": "Space.com",
+      "title": "Satellites now outnumber the visible stars above most towns",
+      "link": "https://www.space.com/space-exploration/satellites/satellites-now-outnumber-the-visible-stars-above-most-towns",
+      "score": 2.8,
+      "published_utc": "2026-11-17T11:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -16356,6 +16396,30 @@
       "day_brt": "2026-11-17",
       "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Tossing Fireworks from Cloud... Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 4 min read Tossing Fireworks from Cloud to Cloud Image of the Day for November 17, 2026 For many astronauts, the spectacular sight of lightning stands out when looking back at Earth from the International Space Station.",
       "queued_ts": 1794906940
+    },
+    {
+      "fp": "17530e6fb5ed5341fd64bbb7",
+      "title": "NICER Status Updates",
+      "link": "https://www.nasa.gov/missions/station/nicer-status-updates/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-17T18:18:16+00:00",
+      "day_brt": "2026-11-17",
+      "resumo_pt": "Resumo (PT-BR): 8 min read NICER Status Updates Jeanette Kazmierczak Francis Reddy Nov 17, 2026 Article Contents November 17, 2026 August 5, 2025 June 24, 2025 April 17, 2025 Jan. 24, 2025 June 8, 2023 Media contacts November 17, 2026 NASA’s NICER Telescope Ends Science Operations After studying the universe for six and a half years beyond its initial mission, NASA’s NICER (Neutron star Interior Composition Explorer) telescope on the International Space Station has ended science operations.",
+      "queued_ts": 1794940498
+    },
+    {
+      "fp": "9d7f34e637e9dbd85330e62c",
+      "title": "Space Selfie",
+      "link": "https://www.nasa.gov/image-article/space-selfie-2/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-17T16:51:14+00:00",
+      "day_brt": "2026-11-17",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Space Selfie HQ Web Team Nov 17, 2026 Image Article NASA/Anil Menon NASA astronaut Anil Menon took this selfie during a spacewalk on Oct. He and CSA (Canadian Space Agency) astronaut Joshua Kutryk installed a new roll-out solar array on the International Space Station.",
+      "queued_ts": 1794940498
     }
   ],
   "digests_sent": {
@@ -17141,7 +17205,9 @@
     },
     "2026-11-17": {
       "4d1c8e5a62017f92097598b4": true,
-      "bc17325e48cb72396e090bf5": true
+      "bc17325e48cb72396e090bf5": true,
+      "17530e6fb5ed5341fd64bbb7": true,
+      "9d7f34e637e9dbd85330e62c": true
     }
   }
 }
