@@ -15098,6 +15098,30 @@
       "link": "https://www.space.com/space-exploration/satellites/satellites-now-outnumber-the-visible-stars-above-most-towns",
       "score": 2.8,
       "published_utc": "2026-11-17T11:00:00+00:00"
+    },
+    "8df0537c2b8d8572d0d4f47e": {
+      "ts": 1794943631,
+      "source": "NASA Breaking News",
+      "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
+      "link": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/",
+      "score": 4.0,
+      "published_utc": "2026-11-17T19:16:22+00:00"
+    },
+    "6b86302ff61d6913e08735c1": {
+      "ts": 1794943633,
+      "source": "Space.com",
+      "title": "Astronomers discover rare black holes that formed when stars failed to go supernova",
+      "link": "https://www.space.com/astronomy/black-holes/astronomers-discover-rare-black-holes-that-formed-when-stars-failed-to-go-supernova",
+      "score": 2.8,
+      "published_utc": "2026-11-17T19:00:00+00:00"
+    },
+    "a922593ad168a0b6147ed1a1": {
+      "ts": 1794943633,
+      "source": "Space.com",
+      "title": "ULA lost a Vulcan Centaur rocket carrying 40 Amazon satellites 10 minutes after launch — but the failure began just after liftoff",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-lost-a-vulcan-centaur-rocket-carrying-40-amazon-satellites-10-minutes-after-launch-but-the-failure-began-just-after-liftoff",
+      "score": 10.5,
+      "published_utc": "2026-11-17T18:48:18+00:00"
     }
   },
   "digest_queue": [
@@ -16420,6 +16444,30 @@
       "day_brt": "2026-11-17",
       "resumo_pt": "Resumo (PT-BR): 1 min read Space Selfie HQ Web Team Nov 17, 2026 Image Article NASA/Anil Menon NASA astronaut Anil Menon took this selfie during a spacewalk on Oct. He and CSA (Canadian Space Agency) astronaut Joshua Kutryk installed a new roll-out solar array on the International Space Station.",
       "queued_ts": 1794940498
+    },
+    {
+      "fp": "a922593ad168a0b6147ed1a1",
+      "title": "ULA lost a Vulcan Centaur rocket carrying 40 Amazon satellites 10 minutes after launch — but the failure began just after liftoff",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-lost-a-vulcan-centaur-rocket-carrying-40-amazon-satellites-10-minutes-after-launch-but-the-failure-began-just-after-liftoff",
+      "source": "Space.com",
+      "score": 10.5,
+      "is_anomaly": true,
+      "published_utc": "2026-11-17T18:48:18+00:00",
+      "day_brt": "2026-11-17",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft ULA lost a Vulcan Centaur rocket carrying 40 Amazon satellites 10 minutes after launch — but the failure began just after liftoff News By Mike Wall Published 17 November 2026 \"Early indications are that just after liftoff the launch vehicle experienced low booster performance.\" When you purchase through links on our site, we may earn an affiliate commission. Click for next article A United Launch Alliance Vulcan Centaur launches 40 Amazon internet satellites from Florida on Nov.",
+      "queued_ts": 1794943635
+    },
+    {
+      "fp": "8df0537c2b8d8572d0d4f47e",
+      "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
+      "link": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-17T19:16:22+00:00",
+      "day_brt": "2026-11-17",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA to Cover 35th SpaceX Resupply Mission Space Station Departure Lauren E. Low Nov 17, 2026 MEDIA ADVISORY M26-087 NASA Headquarters Johnson Space Center A SpaceX Dragon spacecraft supporting the company’s 34th commercial resupply services mission for NASA departs the International Space Station following its undocking from the Harmony module’s forward port.",
+      "queued_ts": 1794943635
     }
   ],
   "digests_sent": {
@@ -17207,7 +17255,9 @@
       "4d1c8e5a62017f92097598b4": true,
       "bc17325e48cb72396e090bf5": true,
       "17530e6fb5ed5341fd64bbb7": true,
-      "9d7f34e637e9dbd85330e62c": true
+      "9d7f34e637e9dbd85330e62c": true,
+      "a922593ad168a0b6147ed1a1": true,
+      "8df0537c2b8d8572d0d4f47e": true
     }
   }
 }
