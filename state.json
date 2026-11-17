@@ -15042,6 +15042,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model",
       "score": 2.8,
       "published_utc": "2026-11-16T20:04:22+00:00"
+    },
+    "4d1c8e5a62017f92097598b4": {
+      "ts": 1794906939,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 November 17 – Milky Way versus Aurora",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/",
+      "score": 4.0,
+      "published_utc": "2026-11-17T05:05:00+00:00"
+    },
+    "bc17325e48cb72396e090bf5": {
+      "ts": 1794906939,
+      "source": "NASA Breaking News",
+      "title": "Tossing Fireworks from Cloud to Cloud",
+      "link": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/",
+      "score": 4.0,
+      "published_utc": "2026-11-17T05:01:00+00:00"
     }
   },
   "digest_queue": [
@@ -16316,6 +16332,30 @@
       "day_brt": "2026-11-13",
       "resumo_pt": "Resumo (PT-BR): Starship Starship in orbit ahead of catch attempt, booster diverts to explosive splashdown Spaceflight Now November 13, 2026 7:15 p.m. Starship lifts off on its 15th flight from Starbase, Texas at 5:48 p.m.",
       "queued_ts": 1794624958
+    },
+    {
+      "fp": "4d1c8e5a62017f92097598b4",
+      "title": "APOD: 2026 November 17 – Milky Way versus Aurora",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-17T05:05:00+00:00",
+      "day_brt": "2026-11-17",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1794906940
+    },
+    {
+      "fp": "bc17325e48cb72396e090bf5",
+      "title": "Tossing Fireworks from Cloud to Cloud",
+      "link": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-17T05:01:00+00:00",
+      "day_brt": "2026-11-17",
+      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Tossing Fireworks from Cloud... Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 4 min read Tossing Fireworks from Cloud to Cloud Image of the Day for November 17, 2026 For many astronauts, the spectacular sight of lightning stands out when looking back at Earth from the International Space Station.",
+      "queued_ts": 1794906940
     }
   ],
   "digests_sent": {
@@ -17098,6 +17138,10 @@
     "2026-11-16": {
       "fe081e809e88b7b1413e27eb": true,
       "326436ef3ad300d0d55d88e1": true
+    },
+    "2026-11-17": {
+      "4d1c8e5a62017f92097598b4": true,
+      "bc17325e48cb72396e090bf5": true
     }
   }
 }
