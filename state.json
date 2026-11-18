@@ -15122,6 +15122,62 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-lost-a-vulcan-centaur-rocket-carrying-40-amazon-satellites-10-minutes-after-launch-but-the-failure-began-just-after-liftoff",
       "score": 10.5,
       "published_utc": "2026-11-17T18:48:18+00:00"
+    },
+    "8eda4cec9646f3d298f526cb": {
+      "ts": 1794964430,
+      "source": "NASA Breaking News",
+      "title": "NASA Launches Nuclear Power Systems Student Contest",
+      "link": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
+      "score": 4.0,
+      "published_utc": "2026-11-17T22:02:48+00:00"
+    },
+    "bee5118a180f17094ea76ba6": {
+      "ts": 1794964430,
+      "source": "NASA Breaking News",
+      "title": "NASA Space Apps Challenge Breaks Global Hackathon Records",
+      "link": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/",
+      "score": 4.0,
+      "published_utc": "2026-11-17T21:50:34+00:00"
+    },
+    "c7d2b6d0478de2238af7c3a2": {
+      "ts": 1794964430,
+      "source": "NASA Breaking News",
+      "title": "BPS Digital AVATAR Challenge",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/",
+      "score": 4.0,
+      "published_utc": "2026-11-17T20:39:38+00:00"
+    },
+    "36e1bc7a20d228e23609ecb4": {
+      "ts": 1794964430,
+      "source": "NASA Breaking News",
+      "title": "New Album of Baby Star Sounds Shared by NASA’s Chandra",
+      "link": "https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/",
+      "score": 4.0,
+      "published_utc": "2026-11-17T20:26:17+00:00"
+    },
+    "f594aa0a9de657b2f5fef18e": {
+      "ts": 1794964432,
+      "source": "NASASpaceflight",
+      "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+      "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+      "score": 3.6,
+      "published_utc": "2026-11-17T22:24:58+00:00"
+    },
+    "ba3f92720d51077f76edc169": {
+      "ts": 1794964433,
+      "source": "Space.com",
+      "title": "NASA's Voyager 1 launched second, so how did it beat Voyager 2 to a light-day by nearly a decade?",
+      "link": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-launched-second-so-how-did-it-beat-voyager-2-to-a-light-day-by-nearly-a-decade",
+      "score": 2.8,
+      "published_utc": "2026-11-17T22:00:00+00:00"
+    },
+    "8c45c121c719187cd8ec75ba": {
+      "ts": 1794964433,
+      "source": "Space.com",
+      "title": "Space is filling up with junk. Could laser-reflecting mirrors help humanity clean things up?",
+      "link": "https://www.space.com/space-exploration/satellites/space-is-filling-up-with-junk-could-laser-reflecting-mirrors-help-humanity-clean-things-up",
+      "score": 2.8,
+      "published_utc": "2026-11-17T21:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -16396,78 +16452,6 @@
       "day_brt": "2026-11-13",
       "resumo_pt": "Resumo (PT-BR): Starship Starship in orbit ahead of catch attempt, booster diverts to explosive splashdown Spaceflight Now November 13, 2026 7:15 p.m. Starship lifts off on its 15th flight from Starbase, Texas at 5:48 p.m.",
       "queued_ts": 1794624958
-    },
-    {
-      "fp": "4d1c8e5a62017f92097598b4",
-      "title": "APOD: 2026 November 17 – Milky Way versus Aurora",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-11-17T05:05:00+00:00",
-      "day_brt": "2026-11-17",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1794906940
-    },
-    {
-      "fp": "bc17325e48cb72396e090bf5",
-      "title": "Tossing Fireworks from Cloud to Cloud",
-      "link": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-11-17T05:01:00+00:00",
-      "day_brt": "2026-11-17",
-      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Tossing Fireworks from Cloud... Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 4 min read Tossing Fireworks from Cloud to Cloud Image of the Day for November 17, 2026 For many astronauts, the spectacular sight of lightning stands out when looking back at Earth from the International Space Station.",
-      "queued_ts": 1794906940
-    },
-    {
-      "fp": "17530e6fb5ed5341fd64bbb7",
-      "title": "NICER Status Updates",
-      "link": "https://www.nasa.gov/missions/station/nicer-status-updates/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-11-17T18:18:16+00:00",
-      "day_brt": "2026-11-17",
-      "resumo_pt": "Resumo (PT-BR): 8 min read NICER Status Updates Jeanette Kazmierczak Francis Reddy Nov 17, 2026 Article Contents November 17, 2026 August 5, 2025 June 24, 2025 April 17, 2025 Jan. 24, 2025 June 8, 2023 Media contacts November 17, 2026 NASA’s NICER Telescope Ends Science Operations After studying the universe for six and a half years beyond its initial mission, NASA’s NICER (Neutron star Interior Composition Explorer) telescope on the International Space Station has ended science operations.",
-      "queued_ts": 1794940498
-    },
-    {
-      "fp": "9d7f34e637e9dbd85330e62c",
-      "title": "Space Selfie",
-      "link": "https://www.nasa.gov/image-article/space-selfie-2/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-11-17T16:51:14+00:00",
-      "day_brt": "2026-11-17",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Space Selfie HQ Web Team Nov 17, 2026 Image Article NASA/Anil Menon NASA astronaut Anil Menon took this selfie during a spacewalk on Oct. He and CSA (Canadian Space Agency) astronaut Joshua Kutryk installed a new roll-out solar array on the International Space Station.",
-      "queued_ts": 1794940498
-    },
-    {
-      "fp": "a922593ad168a0b6147ed1a1",
-      "title": "ULA lost a Vulcan Centaur rocket carrying 40 Amazon satellites 10 minutes after launch — but the failure began just after liftoff",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-lost-a-vulcan-centaur-rocket-carrying-40-amazon-satellites-10-minutes-after-launch-but-the-failure-began-just-after-liftoff",
-      "source": "Space.com",
-      "score": 10.5,
-      "is_anomaly": true,
-      "published_utc": "2026-11-17T18:48:18+00:00",
-      "day_brt": "2026-11-17",
-      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft ULA lost a Vulcan Centaur rocket carrying 40 Amazon satellites 10 minutes after launch — but the failure began just after liftoff News By Mike Wall Published 17 November 2026 \"Early indications are that just after liftoff the launch vehicle experienced low booster performance.\" When you purchase through links on our site, we may earn an affiliate commission. Click for next article A United Launch Alliance Vulcan Centaur launches 40 Amazon internet satellites from Florida on Nov.",
-      "queued_ts": 1794943635
-    },
-    {
-      "fp": "8df0537c2b8d8572d0d4f47e",
-      "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
-      "link": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-11-17T19:16:22+00:00",
-      "day_brt": "2026-11-17",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA to Cover 35th SpaceX Resupply Mission Space Station Departure Lauren E. Low Nov 17, 2026 MEDIA ADVISORY M26-087 NASA Headquarters Johnson Space Center A SpaceX Dragon spacecraft supporting the company’s 34th commercial resupply services mission for NASA departs the International Space Station following its undocking from the Harmony module’s forward port.",
-      "queued_ts": 1794943635
     }
   ],
   "digests_sent": {
@@ -17213,6 +17197,9 @@
     },
     "2026-11-16": {
       "night": true
+    },
+    "2026-11-17": {
+      "night": true
     }
   },
   "sent_updates": {
@@ -17257,7 +17244,10 @@
       "17530e6fb5ed5341fd64bbb7": true,
       "9d7f34e637e9dbd85330e62c": true,
       "a922593ad168a0b6147ed1a1": true,
-      "8df0537c2b8d8572d0d4f47e": true
+      "8df0537c2b8d8572d0d4f47e": true,
+      "8eda4cec9646f3d298f526cb": true,
+      "bee5118a180f17094ea76ba6": true,
+      "c7d2b6d0478de2238af7c3a2": true
     }
   }
 }
