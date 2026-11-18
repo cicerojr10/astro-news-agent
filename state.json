@@ -15274,6 +15274,38 @@
       "link": "https://www.space.com/astronomy/mars/a-shotgun-marriage-why-are-nasas-skyfall-mars-helicopters-riding-on-a-nuclear-rocket",
       "score": 2.8,
       "published_utc": "2026-11-18T17:00:00+00:00"
+    },
+    "771b0b139eb4e7eb6863f0ce": {
+      "ts": 1795044540,
+      "source": "NASA Breaking News",
+      "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
+      "score": 4.0,
+      "published_utc": "2026-11-18T22:19:17+00:00"
+    },
+    "7146a0d625276cbf5193dd1e": {
+      "ts": 1795044543,
+      "source": "NASASpaceflight",
+      "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+      "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+      "score": 3.6,
+      "published_utc": "2026-11-18T21:48:55+00:00"
+    },
+    "8ed111e40438f27a747573a6": {
+      "ts": 1795044543,
+      "source": "Space.com",
+      "title": "On this day in space! Nov. 18, 2013: NASA launches MAVEN spacecraft to Mars to find out how the Red Planet lost its water",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-18-2026",
+      "score": 2.8,
+      "published_utc": "2026-11-18T21:10:52+00:00"
+    },
+    "c8b28b53bf12f2d891e604fe": {
+      "ts": 1795044543,
+      "source": "Space.com",
+      "title": "Earth is missing over a billion years of geological history. Scientists may have discovered why",
+      "link": "https://www.space.com/astronomy/earth/earth-is-missing-over-a-billion-years-of-geological-history-scientists-may-have-discovered-why",
+      "score": 2.8,
+      "published_utc": "2026-11-18T20:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -16548,102 +16580,6 @@
       "day_brt": "2026-11-13",
       "resumo_pt": "Resumo (PT-BR): Starship Starship in orbit ahead of catch attempt, booster diverts to explosive splashdown Spaceflight Now November 13, 2026 7:15 p.m. Starship lifts off on its 15th flight from Starbase, Texas at 5:48 p.m.",
       "queued_ts": 1794624958
-    },
-    {
-      "fp": "1a94454aab6eb1e5575299ff",
-      "title": "APOD: 2026 November 18 – An M-class Solar Flare",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-11-18T05:05:00+00:00",
-      "day_brt": "2026-11-18",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1794990769
-    },
-    {
-      "fp": "28c04cac24f023386931afc3",
-      "title": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
-      "link": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-11-18T16:00:00+00:00",
-      "day_brt": "2026-11-18",
-      "resumo_pt": "Resumo (PT-BR): Explore Webb Science James Webb Space Telescope (JWST) NASA Data Clinches... Webb News Latest News Latest Images Webb's Blog Awards X (offsite - login reqd) Instagram (offsite - login reqd) Facebook (offsite- login reqd) Youtube (offsite) Overview About Who is James Webb?",
-      "queued_ts": 1795022969
-    },
-    {
-      "fp": "5aa730f5959c06e8fff193cd",
-      "title": "APOD: 2026 November 18 – A Medium-Sized Solar Flare",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-11-18T05:05:00+00:00",
-      "day_brt": "2026-11-18",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1795022969
-    },
-    {
-      "fp": "dc7bdc975a56d44efe5a113e",
-      "title": "ULA traces Vulcan Centaur rocket failure to 'inadequate fuel supply' to 1st-stage engines",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-traces-vulcan-centaur-rocket-failure-to-inadequate-fuel-supply-to-1st-stage-engines",
-      "source": "Space.com",
-      "score": 10.5,
-      "is_anomaly": true,
-      "published_utc": "2026-11-18T18:00:00+00:00",
-      "day_brt": "2026-11-18",
-      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft ULA traces Vulcan Centaur rocket failure to 'inadequate fuel supply' to 1st-stage engines News By Mike Wall Published 18 November 2026 The root cause of the anomaly is still under investigation. When you purchase through links on our site, we may earn an affiliate commission.",
-      "queued_ts": 1795028965
-    },
-    {
-      "fp": "4fb5e4a8abcdb01baf56a69b",
-      "title": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
-      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-11-18T18:12:32+00:00",
-      "day_brt": "2026-11-18",
-      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Announces Mid-Power Electric Rocket Challenge for US Companies Bailey Light Nov 18, 2026 Article The Hall thruster is part of an Solar Electric Propulsion (SEP) system that uses 10 times less propellant than equivalent chemical rockets. Murphy (Wyle Information Systems, LLC) NASA launched a new competition inviting U.S.",
-      "queued_ts": 1795028965
-    },
-    {
-      "fp": "ff407cbb87ed8f1e9d63e754",
-      "title": "Empire State Building Goes Gold for Voyager",
-      "link": "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-11-18T17:50:26+00:00",
-      "day_brt": "2026-11-18",
-      "resumo_pt": "Resumo (PT-BR): 1 min read Empire State Building Goes Gold for Voyager HQ Web Team Nov 18, 2026 Image Article NASA/Bill Ingalls The Empire State Building is seen illuminated in gold to celebrate NASA’s Voyager 1 spacecraft as it was about to pass one light-day away from Earth, a distance reached by no other human-made object, Nov. The color gold represents the gold-plated copper phonograph record that is flying on Voyager; the Golden Record contains sounds and images selected to portray the diversity of life and culture on Earth.",
-      "queued_ts": 1795028965
-    },
-    {
-      "fp": "41951b6a1a466374dbc55542",
-      "title": "Thank You for Doing NASA Science!",
-      "link": "https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-11-18T17:32:52+00:00",
-      "day_brt": "2026-11-18",
-      "resumo_pt": "Resumo (PT-BR): NASA Science Editorial Team Nov 18, 2026 Article It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Science with us! You and NASA’s other volunteers have enabled an incredible banquet of discoveries—by taking data, analyzing data, writing code, writing papers, and even inventing your own science projects.",
-      "queued_ts": 1795028965
-    },
-    {
-      "fp": "90fd999bea9670c6cae231da",
-      "title": "NASA’s Voyager 1 is one light-day from Earth",
-      "link": "https://spaceflightnow.com/2026/11/18/nasas-voyager-1-is-one-light-day-from-earth/",
-      "source": "Spaceflight Now",
-      "score": 3.6,
-      "is_anomaly": false,
-      "published_utc": "2026-11-18T17:46:40+00:00",
-      "day_brt": "2026-11-18",
-      "resumo_pt": "Resumo (PT-BR): NASA’s Voyager 1 is one light-day from Earth Houston Harwood November 18, 2026 5:46 p.m. NASA’s Voyager 1 spacecraft became the first human-made object to reach a distance of one light-day from Earth early Wednesday, crossing the threshold at 5:16:07 a.m.",
-      "queued_ts": 1795028965
     }
   ],
   "digests_sent": {
@@ -17392,6 +17328,9 @@
     },
     "2026-11-17": {
       "night": true
+    },
+    "2026-11-18": {
+      "night": true
     }
   },
   "sent_updates": {
@@ -17447,7 +17386,9 @@
       "5aa730f5959c06e8fff193cd": true,
       "dc7bdc975a56d44efe5a113e": true,
       "4fb5e4a8abcdb01baf56a69b": true,
-      "ff407cbb87ed8f1e9d63e754": true
+      "ff407cbb87ed8f1e9d63e754": true,
+      "771b0b139eb4e7eb6863f0ce": true,
+      "7146a0d625276cbf5193dd1e": true
     }
   }
 }
