@@ -15178,6 +15178,14 @@
       "link": "https://www.space.com/space-exploration/satellites/space-is-filling-up-with-junk-could-laser-reflecting-mirrors-help-humanity-clean-things-up",
       "score": 2.8,
       "published_utc": "2026-11-17T21:00:00+00:00"
+    },
+    "1a94454aab6eb1e5575299ff": {
+      "ts": 1794990768,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 November 18 – An M-class Solar Flare",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
+      "score": 4.0,
+      "published_utc": "2026-11-18T05:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -16452,6 +16460,18 @@
       "day_brt": "2026-11-13",
       "resumo_pt": "Resumo (PT-BR): Starship Starship in orbit ahead of catch attempt, booster diverts to explosive splashdown Spaceflight Now November 13, 2026 7:15 p.m. Starship lifts off on its 15th flight from Starbase, Texas at 5:48 p.m.",
       "queued_ts": 1794624958
+    },
+    {
+      "fp": "1a94454aab6eb1e5575299ff",
+      "title": "APOD: 2026 November 18 – An M-class Solar Flare",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-18T05:05:00+00:00",
+      "day_brt": "2026-11-18",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1794990769
     }
   ],
   "digests_sent": {
@@ -17248,6 +17268,9 @@
       "8eda4cec9646f3d298f526cb": true,
       "bee5118a180f17094ea76ba6": true,
       "c7d2b6d0478de2238af7c3a2": true
+    },
+    "2026-11-18": {
+      "1a94454aab6eb1e5575299ff": true
     }
   }
 }
