@@ -15226,6 +15226,54 @@
       "link": "https://www.space.com/space-exploration/voyager/1-light-day-from-earth-nasas-voyager-1-probe-hits-huge-milestone-in-interstellar-space",
       "score": 2.8,
       "published_utc": "2026-11-18T11:35:47+00:00"
+    },
+    "4fb5e4a8abcdb01baf56a69b": {
+      "ts": 1795028959,
+      "source": "NASA Breaking News",
+      "title": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/",
+      "score": 4.0,
+      "published_utc": "2026-11-18T18:12:32+00:00"
+    },
+    "ff407cbb87ed8f1e9d63e754": {
+      "ts": 1795028959,
+      "source": "NASA Breaking News",
+      "title": "Empire State Building Goes Gold for Voyager",
+      "link": "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/",
+      "score": 4.0,
+      "published_utc": "2026-11-18T17:50:26+00:00"
+    },
+    "41951b6a1a466374dbc55542": {
+      "ts": 1795028959,
+      "source": "NASA Breaking News",
+      "title": "Thank You for Doing NASA Science!",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science/",
+      "score": 4.0,
+      "published_utc": "2026-11-18T17:32:52+00:00"
+    },
+    "90fd999bea9670c6cae231da": {
+      "ts": 1795028961,
+      "source": "Spaceflight Now",
+      "title": "NASA’s Voyager 1 is one light-day from Earth",
+      "link": "https://spaceflightnow.com/2026/11/18/nasas-voyager-1-is-one-light-day-from-earth/",
+      "score": 3.6,
+      "published_utc": "2026-11-18T17:46:40+00:00"
+    },
+    "dc7bdc975a56d44efe5a113e": {
+      "ts": 1795028962,
+      "source": "Space.com",
+      "title": "ULA traces Vulcan Centaur rocket failure to 'inadequate fuel supply' to 1st-stage engines",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-traces-vulcan-centaur-rocket-failure-to-inadequate-fuel-supply-to-1st-stage-engines",
+      "score": 10.5,
+      "published_utc": "2026-11-18T18:00:00+00:00"
+    },
+    "6c5dede7adaf3ac4b4fa3232": {
+      "ts": 1795028962,
+      "source": "Space.com",
+      "title": "'A shotgun marriage': Why are NASA's SkyFall Mars helicopters riding on a nuclear rocket?",
+      "link": "https://www.space.com/astronomy/mars/a-shotgun-marriage-why-are-nasas-skyfall-mars-helicopters-riding-on-a-nuclear-rocket",
+      "score": 2.8,
+      "published_utc": "2026-11-18T17:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -16536,6 +16584,66 @@
       "day_brt": "2026-11-18",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1795022969
+    },
+    {
+      "fp": "dc7bdc975a56d44efe5a113e",
+      "title": "ULA traces Vulcan Centaur rocket failure to 'inadequate fuel supply' to 1st-stage engines",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-traces-vulcan-centaur-rocket-failure-to-inadequate-fuel-supply-to-1st-stage-engines",
+      "source": "Space.com",
+      "score": 10.5,
+      "is_anomaly": true,
+      "published_utc": "2026-11-18T18:00:00+00:00",
+      "day_brt": "2026-11-18",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Launches & Spacecraft ULA traces Vulcan Centaur rocket failure to 'inadequate fuel supply' to 1st-stage engines News By Mike Wall Published 18 November 2026 The root cause of the anomaly is still under investigation. When you purchase through links on our site, we may earn an affiliate commission.",
+      "queued_ts": 1795028965
+    },
+    {
+      "fp": "4fb5e4a8abcdb01baf56a69b",
+      "title": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-18T18:12:32+00:00",
+      "day_brt": "2026-11-18",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Announces Mid-Power Electric Rocket Challenge for US Companies Bailey Light Nov 18, 2026 Article The Hall thruster is part of an Solar Electric Propulsion (SEP) system that uses 10 times less propellant than equivalent chemical rockets. Murphy (Wyle Information Systems, LLC) NASA launched a new competition inviting U.S.",
+      "queued_ts": 1795028965
+    },
+    {
+      "fp": "ff407cbb87ed8f1e9d63e754",
+      "title": "Empire State Building Goes Gold for Voyager",
+      "link": "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-18T17:50:26+00:00",
+      "day_brt": "2026-11-18",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Empire State Building Goes Gold for Voyager HQ Web Team Nov 18, 2026 Image Article NASA/Bill Ingalls The Empire State Building is seen illuminated in gold to celebrate NASA’s Voyager 1 spacecraft as it was about to pass one light-day away from Earth, a distance reached by no other human-made object, Nov. The color gold represents the gold-plated copper phonograph record that is flying on Voyager; the Golden Record contains sounds and images selected to portray the diversity of life and culture on Earth.",
+      "queued_ts": 1795028965
+    },
+    {
+      "fp": "41951b6a1a466374dbc55542",
+      "title": "Thank You for Doing NASA Science!",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-18T17:32:52+00:00",
+      "day_brt": "2026-11-18",
+      "resumo_pt": "Resumo (PT-BR): NASA Science Editorial Team Nov 18, 2026 Article It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Science with us! You and NASA’s other volunteers have enabled an incredible banquet of discoveries—by taking data, analyzing data, writing code, writing papers, and even inventing your own science projects.",
+      "queued_ts": 1795028965
+    },
+    {
+      "fp": "90fd999bea9670c6cae231da",
+      "title": "NASA’s Voyager 1 is one light-day from Earth",
+      "link": "https://spaceflightnow.com/2026/11/18/nasas-voyager-1-is-one-light-day-from-earth/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-11-18T17:46:40+00:00",
+      "day_brt": "2026-11-18",
+      "resumo_pt": "Resumo (PT-BR): NASA’s Voyager 1 is one light-day from Earth Houston Harwood November 18, 2026 5:46 p.m. NASA’s Voyager 1 spacecraft became the first human-made object to reach a distance of one light-day from Earth early Wednesday, crossing the threshold at 5:16:07 a.m.",
+      "queued_ts": 1795028965
     }
   ],
   "digests_sent": {
@@ -17336,7 +17444,10 @@
     "2026-11-18": {
       "1a94454aab6eb1e5575299ff": true,
       "28c04cac24f023386931afc3": true,
-      "5aa730f5959c06e8fff193cd": true
+      "5aa730f5959c06e8fff193cd": true,
+      "dc7bdc975a56d44efe5a113e": true,
+      "4fb5e4a8abcdb01baf56a69b": true,
+      "ff407cbb87ed8f1e9d63e754": true
     }
   }
 }
