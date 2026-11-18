@@ -15186,6 +15186,46 @@
       "link": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
       "score": 4.0,
       "published_utc": "2026-11-18T05:05:00+00:00"
+    },
+    "28c04cac24f023386931afc3": {
+      "ts": 1795022965,
+      "source": "NASA Breaking News",
+      "title": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
+      "link": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/",
+      "score": 4.0,
+      "published_utc": "2026-11-18T16:00:00+00:00"
+    },
+    "5aa730f5959c06e8fff193cd": {
+      "ts": 1795022965,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 November 18 – A Medium-Sized Solar Flare",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
+      "score": 4.0,
+      "published_utc": "2026-11-18T05:05:00+00:00"
+    },
+    "24fae20cee90ad264a1cbe3c": {
+      "ts": 1795022968,
+      "source": "Space.com",
+      "title": "'A shotgun marriage': Why are NASA’s SkyFall Mars helicopters riding on a nuclear rocket?",
+      "link": "https://www.space.com/astronomy/mars/a-shotgun-marriage-why-are-nasas-skyfall-mars-helicopters-riding-on-a-nuclear-rocket",
+      "score": 2.8,
+      "published_utc": "2026-11-18T17:00:00+00:00"
+    },
+    "03c2653b976cb617ec0aac7b": {
+      "ts": 1795022968,
+      "source": "Space.com",
+      "title": "India's SatLeo Labs wants to build a 'thermometer for Earth' in space",
+      "link": "https://www.space.com/space-exploration/satellites/indias-satleo-labs-wants-to-build-a-thermometer-for-earth-in-space",
+      "score": 2.8,
+      "published_utc": "2026-11-18T13:00:00+00:00"
+    },
+    "39967cbe40bf461774af4c7d": {
+      "ts": 1795022968,
+      "source": "Space.com",
+      "title": "1 light-day from Earth! NASA's Voyager 1 probe hits huge milestone in interstellar space",
+      "link": "https://www.space.com/space-exploration/voyager/1-light-day-from-earth-nasas-voyager-1-probe-hits-huge-milestone-in-interstellar-space",
+      "score": 2.8,
+      "published_utc": "2026-11-18T11:35:47+00:00"
     }
   },
   "digest_queue": [
@@ -16472,6 +16512,30 @@
       "day_brt": "2026-11-18",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1794990769
+    },
+    {
+      "fp": "28c04cac24f023386931afc3",
+      "title": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
+      "link": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-18T16:00:00+00:00",
+      "day_brt": "2026-11-18",
+      "resumo_pt": "Resumo (PT-BR): Explore Webb Science James Webb Space Telescope (JWST) NASA Data Clinches... Webb News Latest News Latest Images Webb's Blog Awards X (offsite - login reqd) Instagram (offsite - login reqd) Facebook (offsite- login reqd) Youtube (offsite) Overview About Who is James Webb?",
+      "queued_ts": 1795022969
+    },
+    {
+      "fp": "5aa730f5959c06e8fff193cd",
+      "title": "APOD: 2026 November 18 – A Medium-Sized Solar Flare",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-18T05:05:00+00:00",
+      "day_brt": "2026-11-18",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1795022969
     }
   ],
   "digests_sent": {
@@ -17270,7 +17334,9 @@
       "c7d2b6d0478de2238af7c3a2": true
     },
     "2026-11-18": {
-      "1a94454aab6eb1e5575299ff": true
+      "1a94454aab6eb1e5575299ff": true,
+      "28c04cac24f023386931afc3": true,
+      "5aa730f5959c06e8fff193cd": true
     }
   }
 }
