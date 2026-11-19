@@ -15338,6 +15338,38 @@
       "link": "https://www.space.com/space-exploration/voyager/whats-next-for-nasa-interstellar-voyager-1-probe-after-passing-1-light-day-from-earth",
       "score": 2.8,
       "published_utc": "2026-11-19T11:02:37+00:00"
+    },
+    "1d49112f0f4f582dae26e425": {
+      "ts": 1795115576,
+      "source": "NASA Breaking News",
+      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
+      "link": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
+      "score": 4.0,
+      "published_utc": "2026-11-19T15:33:55+00:00"
+    },
+    "69cddafa46753ad59140700d": {
+      "ts": 1795115576,
+      "source": "NASA Breaking News",
+      "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+      "link": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
+      "score": 4.0,
+      "published_utc": "2026-11-19T14:44:39+00:00"
+    },
+    "c2dfed68b144de088634983e": {
+      "ts": 1795115576,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+      "link": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+      "score": 4.0,
+      "published_utc": "2026-11-19T14:31:15+00:00"
+    },
+    "5185d3b1652fdc46188293ee": {
+      "ts": 1795115579,
+      "source": "Space.com",
+      "title": "China rolls out rocket for launch of 1st international astronaut to Tiangong space station (video)",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/china-rolls-out-rocket-for-launch-of-1st-international-astronaut-to-tiangong-space-station-video",
+      "score": 2.8,
+      "published_utc": "2026-11-19T19:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -16612,6 +16644,42 @@
       "day_brt": "2026-11-13",
       "resumo_pt": "Resumo (PT-BR): Starship Starship in orbit ahead of catch attempt, booster diverts to explosive splashdown Spaceflight Now November 13, 2026 7:15 p.m. Starship lifts off on its 15th flight from Starbase, Texas at 5:48 p.m.",
       "queued_ts": 1794624958
+    },
+    {
+      "fp": "1d49112f0f4f582dae26e425",
+      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
+      "link": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-19T15:33:55+00:00",
+      "day_brt": "2026-11-19",
+      "resumo_pt": "Resumo (PT-BR): 5 min read NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars Amanda Moon Adams Communications Lead for the Office of the Chief Science Data Officer Nov 19, 2026 Article NASA’s Fermi Gamma-ray Space Telescope, illustrated here, scans the entire sky every three hours as it orbits Earth. Its publicly available data helps scientists find the rapidly spinning cores of dead stars, known as pulsars.",
+      "queued_ts": 1795115581
+    },
+    {
+      "fp": "69cddafa46753ad59140700d",
+      "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+      "link": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-19T14:44:39+00:00",
+      "day_brt": "2026-11-19",
+      "resumo_pt": "Resumo (PT-BR): 1 min read NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions Bo Black Communications Strategist Nov 19, 2026 Image Article NASA conducts a hot fire test of RS-25 engine No. 10001 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St.",
+      "queued_ts": 1795115581
+    },
+    {
+      "fp": "c2dfed68b144de088634983e",
+      "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+      "link": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-19T14:31:15+00:00",
+      "day_brt": "2026-11-19",
+      "resumo_pt": "Resumo (PT-BR): 6 min read NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth Jessica Taveau Nov 19, 2026 RELEASE 26-098 NASA Headquarters Voyager 1, depicted in this artist’s concept, reached one light-day from Earth on Nov. Credit: NASA/JPL-Caltech NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel.",
+      "queued_ts": 1795115581
     }
   ],
   "digests_sent": {
@@ -17427,7 +17495,10 @@
     },
     "2026-11-19": {
       "fda5797397b95894b8783cf9": true,
-      "3db30435fe7a1d488b6d0b64": true
+      "3db30435fe7a1d488b6d0b64": true,
+      "1d49112f0f4f582dae26e425": true,
+      "69cddafa46753ad59140700d": true,
+      "c2dfed68b144de088634983e": true
     }
   }
 }
