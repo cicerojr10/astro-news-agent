@@ -15370,6 +15370,62 @@
       "link": "https://www.space.com/space-exploration/human-spaceflight/china-rolls-out-rocket-for-launch-of-1st-international-astronaut-to-tiangong-space-station-video",
       "score": 2.8,
       "published_utc": "2026-11-19T19:00:00+00:00"
+    },
+    "f8a75f169bf035958070a774": {
+      "ts": 1795142261,
+      "source": "NASA Breaking News",
+      "title": "Challenge: Public Input on Life and the World in 2075",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
+      "score": 4.0,
+      "published_utc": "2026-11-19T19:34:20+00:00"
+    },
+    "dee0d4a3e87666ddadf338d4": {
+      "ts": 1795142262,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+      "link": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-11-19T23:51:47+00:00"
+    },
+    "40d2b99735cf7fc9530c3fa3": {
+      "ts": 1795142263,
+      "source": "NASASpaceflight",
+      "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+      "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+      "score": 3.6,
+      "published_utc": "2026-11-19T22:08:32+00:00"
+    },
+    "80e73f69579c002cfa5b7284": {
+      "ts": 1795142264,
+      "source": "Space.com",
+      "title": "Voyager 1 team, unbowed by communications glitch, celebrates epic 1-light-day distance milestone",
+      "link": "https://www.space.com/space-exploration/voyager/voyager-1-team-unbowed-by-communications-glitch-celebrates-epic-1-light-day-distance-milestone",
+      "score": 4.199999999999999,
+      "published_utc": "2026-11-19T23:42:03+00:00"
+    },
+    "cb065b48b7c867f74c3c4ad0": {
+      "ts": 1795142264,
+      "source": "Space.com",
+      "title": "On this day in space! Nov. 19, 2005: Japan's Hayabusa spacecraft makes 1st-ever liftoff from surface of an asteroid",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-19-2005",
+      "score": 2.8,
+      "published_utc": "2026-11-19T22:53:16+00:00"
+    },
+    "3717bfe70808088bb5bf63b5": {
+      "ts": 1795142264,
+      "source": "Space.com",
+      "title": "The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-view-from-the-tower-watch-starship-come-in-for-chopsticks-catch-in-epic-slo-mo-video",
+      "score": 2.8,
+      "published_utc": "2026-11-19T22:00:00+00:00"
+    },
+    "a81e86b140c36aeb6a63d994": {
+      "ts": 1795142265,
+      "source": "Space.com",
+      "title": "No more asteroid landing: Engine trouble forces Japan's Hayabusa2 probe to change plans",
+      "link": "https://www.space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans",
+      "score": 2.8,
+      "published_utc": "2026-11-19T20:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -16680,6 +16736,54 @@
       "day_brt": "2026-11-19",
       "resumo_pt": "Resumo (PT-BR): 6 min read NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth Jessica Taveau Nov 19, 2026 RELEASE 26-098 NASA Headquarters Voyager 1, depicted in this artist’s concept, reached one light-day from Earth on Nov. Credit: NASA/JPL-Caltech NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel.",
       "queued_ts": 1795115581
+    },
+    {
+      "fp": "dee0d4a3e87666ddadf338d4",
+      "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+      "link": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-11-19T23:51:47+00:00",
+      "day_brt": "2026-11-19",
+      "resumo_pt": "Resumo (PT-BR): Falcon 9 Live coverage: SpaceX to launch classified payload for the U.S. Space Force Will Robinson-Smith November 19, 2026 11:51 p.m.",
+      "queued_ts": 1795142267
+    },
+    {
+      "fp": "80e73f69579c002cfa5b7284",
+      "title": "Voyager 1 team, unbowed by communications glitch, celebrates epic 1-light-day distance milestone",
+      "link": "https://www.space.com/space-exploration/voyager/voyager-1-team-unbowed-by-communications-glitch-celebrates-epic-1-light-day-distance-milestone",
+      "source": "Space.com",
+      "score": 4.199999999999999,
+      "is_anomaly": true,
+      "published_utc": "2026-11-19T23:42:03+00:00",
+      "day_brt": "2026-11-19",
+      "resumo_pt": "Resumo (PT-BR): Space Exploration Missions Voyager Voyager 1 team, unbowed by communications glitch, celebrates epic 1-light-day distance milestone News By Chelsea Gohd Published 19 November 2026 \"I'm confident that it won't be too long, and it will send us data back.\" When you purchase through links on our site, we may earn an affiliate commission. Click for next article Voyager 1 got one light-day from Earth on Nov.",
+      "queued_ts": 1795142267
+    },
+    {
+      "fp": "f8a75f169bf035958070a774",
+      "title": "Challenge: Public Input on Life and the World in 2075",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-19T19:34:20+00:00",
+      "day_brt": "2026-11-19",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Challenge: Public Input on Life and the World in 2075 Bailey Light Nov 19, 2026 Article Image credit: CrowdPlat NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics.",
+      "queued_ts": 1795142267
+    },
+    {
+      "fp": "40d2b99735cf7fc9530c3fa3",
+      "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+      "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-11-19T22:08:32+00:00",
+      "day_brt": "2026-11-19",
+      "resumo_pt": "Resumo (PT-BR): Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch by Eleanor Day November 19, 2026 written by Eleanor Day November 19, 2026 5 Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis Space Center, Long Beach, and Cape Canaveral Space Force Station as the company works toward the rocket’s inaugural launch. Recent work includes a milestone second-stage hot-fire campaign in Mississippi, major structural and engine integration in California, and steady pad outfitting at Florida’s Launch Complex 16.",
+      "queued_ts": 1795142267
     }
   ],
   "digests_sent": {
@@ -17498,7 +17602,10 @@
       "3db30435fe7a1d488b6d0b64": true,
       "1d49112f0f4f582dae26e425": true,
       "69cddafa46753ad59140700d": true,
-      "c2dfed68b144de088634983e": true
+      "c2dfed68b144de088634983e": true,
+      "dee0d4a3e87666ddadf338d4": true,
+      "80e73f69579c002cfa5b7284": true,
+      "f8a75f169bf035958070a774": true
     }
   }
 }
