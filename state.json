@@ -15451,6 +15451,55 @@
       "link": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
       "score": 4.0,
       "published_utc": "2026-11-20T05:01:00+00:00"
+    },
+    "7e781eed5c5a7af997c3b90c": {
+      "ts": 1795200028,
+      "source": "NASA Breaking News",
+      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
+      "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
+      "score": 4.0,
+      "published_utc": "2026-11-20T16:27:46+00:00"
+    },
+    "7b90149f50b409f82ef96fb8": {
+      "ts": 1795200029,
+      "source": "Space.com",
+      "title": "Russia is developing a nuclear space weapon, US intelligence report finds",
+      "link": "https://www.space.com/space-exploration/satellites/russia-is-developing-a-nuclear-space-weapon-us-intelligence-report-finds",
+      "score": 2.8,
+      "published_utc": "2026-11-20T17:00:00+00:00"
+    },
+    "be4aaebb884a32fe7e8039f7": {
+      "ts": 1795200029,
+      "source": "Space.com",
+      "title": "I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my mind",
+      "link": "https://www.space.com/space-exploration/private-spaceflight/i-got-to-tour-spacexs-starfactory-facility-in-starbase-texas-and-what-i-saw-blew-my-mind",
+      "score": 2.8,
+      "published_utc": "2026-11-20T13:00:00+00:00"
+    },
+    "e21e00294e2687be7010814a": {
+      "ts": 1795200029,
+      "source": "Space.com",
+      "title": "I handpicked every Star Trek Blu-ray discounted on Amazon for Black Friday 2026 that I think is worth buying right now",
+      "link": "https://www.space.com/entertainment/space-movies-shows/i-handpicked-every-star-trek-blu-ray-discounted-on-amazon-for-black-friday-2026-that-i-think-is-worth-buying-right-now",
+      "score": 2.8,
+      "published_utc": "2026-11-20T11:00:32+00:00"
+    },
+    "b437b2fe17b1e0677215b05b": {
+      "ts": 1795200030,
+      "source": "Space.com",
+      "title": "SpaceX Dragon cargo capsule heads home to Earth from the ISS",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-dragon-iss-cargo-mission-return-to-earth",
+      "score": 2.8,
+      "published_utc": "2026-11-20T11:00:00+00:00"
+    },
+    "d6ef8dce96faaadf68d203d0": {
+      "ts": 1795200030,
+      "source": "Space.com",
+      "title": "On this day in space! Nov. 19, 2005: Japan's Hayabusa spacecraft makes 1st-ever liftoff from surface of an asteroid",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-19-2026",
+      "score": 0.0,
+      "published_utc": "2026-11-19T22:53:16+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -16833,6 +16882,18 @@
       "day_brt": "2026-11-20",
       "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory The Stormy Southwest Pacific Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 4 min read The Stormy Southwest Pacific Image of the Day for November 20, 2026 Tropical Cyclone Xavier launched the basin’s storm season with a bang. NASA Earth Observatory Nov 20, 2026 Article View more Images of the Day: Nov 19, 2026 Instruments: Aqua — MODIS Topics: Cyclones Even as the unusually quiet 2026 storm season winds down in the North Atlantic, seas have begun to stir on the other side of the world in the Southwest Pacific.",
       "queued_ts": 1795170325
+    },
+    {
+      "fp": "7e781eed5c5a7af997c3b90c",
+      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
+      "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-20T16:27:46+00:00",
+      "day_brt": "2026-11-20",
+      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center NASA Stennis Communications Nov 20, 2026 Article Stephen Rawls, second from right with guest, receives the Center Director’s Excellence Award during the Honor Awards ceremony on Nov. Presenting the awards were Jeremy Parsons, NASA’s Artemis program manager, left, and Christine Powell, NASA Stennis center director, right.",
+      "queued_ts": 1795200030
     }
   ],
   "digests_sent": {
@@ -17634,7 +17695,8 @@
     },
     "2026-11-20": {
       "49dc1e06ccb059e523f5b129": true,
-      "585ab00253e3ef1fe6458c07": true
+      "585ab00253e3ef1fe6458c07": true,
+      "7e781eed5c5a7af997c3b90c": true
     }
   }
 }
