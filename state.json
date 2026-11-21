@@ -15500,6 +15500,30 @@
       "score": 0.0,
       "published_utc": "2026-11-19T22:53:16+00:00",
       "note": "not_today"
+    },
+    "8977767d32384f7bb9feacfb": {
+      "ts": 1795220209,
+      "source": "NASA Breaking News",
+      "title": "Curiosity Spots Drifting Twilight Clouds",
+      "link": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
+      "score": 4.0,
+      "published_utc": "2026-11-20T22:27:05+00:00"
+    },
+    "4bdb99fb829e8a63ec86a89f": {
+      "ts": 1795220210,
+      "source": "Space.com",
+      "title": "On this day in space! Nov. 20, 1998:  Russia launches 1st module of International Space Station as construction begins on the largest human-built structure in orbit",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-20-2026",
+      "score": 2.8,
+      "published_utc": "2026-11-20T21:19:33+00:00"
+    },
+    "38c4ed5f43e90745fdfc46e6": {
+      "ts": 1795220210,
+      "source": "Space.com",
+      "title": "Trouble at Mars: NASA's Perseverance rover, Odyssey orbiter halt science work due to glitches",
+      "link": "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches",
+      "score": 7.0,
+      "published_utc": "2026-11-20T19:50:15+00:00"
     }
   },
   "digest_queue": [
@@ -16858,42 +16882,6 @@
       "day_brt": "2026-11-19",
       "resumo_pt": "Resumo (PT-BR): Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch by Eleanor Day November 19, 2026 written by Eleanor Day November 19, 2026 5 Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis Space Center, Long Beach, and Cape Canaveral Space Force Station as the company works toward the rocket’s inaugural launch. Recent work includes a milestone second-stage hot-fire campaign in Mississippi, major structural and engine integration in California, and steady pad outfitting at Florida’s Launch Complex 16.",
       "queued_ts": 1795142267
-    },
-    {
-      "fp": "49dc1e06ccb059e523f5b129",
-      "title": "APOD: 2026 November 20 – V-G-R",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-11-20T05:05:00+00:00",
-      "day_brt": "2026-11-20",
-      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "queued_ts": 1795170325
-    },
-    {
-      "fp": "585ab00253e3ef1fe6458c07",
-      "title": "The Stormy Southwest Pacific",
-      "link": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-11-20T05:01:00+00:00",
-      "day_brt": "2026-11-20",
-      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory The Stormy Southwest Pacific Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 4 min read The Stormy Southwest Pacific Image of the Day for November 20, 2026 Tropical Cyclone Xavier launched the basin’s storm season with a bang. NASA Earth Observatory Nov 20, 2026 Article View more Images of the Day: Nov 19, 2026 Instruments: Aqua — MODIS Topics: Cyclones Even as the unusually quiet 2026 storm season winds down in the North Atlantic, seas have begun to stir on the other side of the world in the Southwest Pacific.",
-      "queued_ts": 1795170325
-    },
-    {
-      "fp": "7e781eed5c5a7af997c3b90c",
-      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
-      "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
-      "source": "NASA Breaking News",
-      "score": 4.0,
-      "is_anomaly": false,
-      "published_utc": "2026-11-20T16:27:46+00:00",
-      "day_brt": "2026-11-20",
-      "resumo_pt": "Resumo (PT-BR): 3 min read NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center NASA Stennis Communications Nov 20, 2026 Article Stephen Rawls, second from right with guest, receives the Center Director’s Excellence Award during the Honor Awards ceremony on Nov. Presenting the awards were Jeremy Parsons, NASA’s Artemis program manager, left, and Christine Powell, NASA Stennis center director, right.",
-      "queued_ts": 1795200030
     }
   ],
   "digests_sent": {
@@ -17648,6 +17636,9 @@
     },
     "2026-11-19": {
       "morning": true
+    },
+    "2026-11-20": {
+      "night": true
     }
   },
   "sent_updates": {
@@ -17696,7 +17687,9 @@
     "2026-11-20": {
       "49dc1e06ccb059e523f5b129": true,
       "585ab00253e3ef1fe6458c07": true,
-      "7e781eed5c5a7af997c3b90c": true
+      "7e781eed5c5a7af997c3b90c": true,
+      "38c4ed5f43e90745fdfc46e6": true,
+      "8977767d32384f7bb9feacfb": true
     }
   }
 }
