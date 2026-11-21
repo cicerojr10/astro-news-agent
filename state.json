@@ -15524,6 +15524,24 @@
       "link": "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches",
       "score": 7.0,
       "published_utc": "2026-11-20T19:50:15+00:00"
+    },
+    "0abf124c0db46a8c6b733f8c": {
+      "ts": 1795232935,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch of classified payload for the U.S. Space Force",
+      "link": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
+      "score": 0.0,
+      "published_utc": "2026-11-19T23:51:47+00:00",
+      "note": "not_today"
+    },
+    "da4e039b86a59a5a1470ea12": {
+      "ts": 1795232935,
+      "source": "NASASpaceflight",
+      "title": "Following Ship 42’s catch, SpaceX looks to the future",
+      "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+      "score": 0.0,
+      "published_utc": "2026-11-20T19:49:06+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
