@@ -15567,6 +15567,22 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
       "score": 2.8,
       "published_utc": "2026-11-21T05:28:14+00:00"
+    },
+    "0e784b1a4abe74dc8d4ac948": {
+      "ts": 1795274561,
+      "source": "Space.com",
+      "title": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-retire-1st-starship-upper-stage-ever-caught-by-chopsticks-elon-musk-says",
+      "score": 2.8,
+      "published_utc": "2026-11-21T13:00:00+00:00"
+    },
+    "510f4bdeee5d2b6dcfb61700": {
+      "ts": 1795274561,
+      "source": "Space.com",
+      "title": "European-Japanese BepiColombo probe arrives in orbit around Mercury today",
+      "link": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
+      "score": 2.8,
+      "published_utc": "2026-11-21T11:00:00+00:00"
     }
   },
   "digest_queue": [
