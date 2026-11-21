@@ -15583,6 +15583,22 @@
       "link": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
       "score": 2.8,
       "published_utc": "2026-11-21T11:00:00+00:00"
+    },
+    "aabe201f696ab46a6c2b4495": {
+      "ts": 1795283308,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
+      "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-11-21T16:50:51+00:00"
+    },
+    "ee79a415b9341ed9808c0722": {
+      "ts": 1795283309,
+      "source": "Space.com",
+      "title": "SpaceX launches classified mission for US Space Force from California (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
+      "score": 2.8,
+      "published_utc": "2026-11-21T05:28:14+00:00"
     }
   },
   "digest_queue": [
@@ -16953,6 +16969,18 @@
       "day_brt": "2026-11-21",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1795245179
+    },
+    {
+      "fp": "aabe201f696ab46a6c2b4495",
+      "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
+      "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-11-21T16:50:51+00:00",
+      "day_brt": "2026-11-21",
+      "resumo_pt": "Resumo (PT-BR): Falcon 9 Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office Will Robinson-Smith November 21, 2026 4:50 p.m. A Falcon 9 rocket stands poised to launch from the Space Launch Complex 4E at Vandenberg Space Force Base in California.",
+      "queued_ts": 1795283310
     }
   ],
   "digests_sent": {
@@ -17763,7 +17791,8 @@
       "8977767d32384f7bb9feacfb": true
     },
     "2026-11-21": {
-      "a89356b6f2e9b000df1cab41": true
+      "a89356b6f2e9b000df1cab41": true,
+      "aabe201f696ab46a6c2b4495": true
     }
   }
 }
