@@ -15599,6 +15599,15 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
       "score": 2.8,
       "published_utc": "2026-11-21T05:28:14+00:00"
+    },
+    "f173e260f0311ab2446e875b": {
+      "ts": 1795315951,
+      "source": "Space.com",
+      "title": "SpaceX Dragon cargo capsule returns to Earth from the ISS",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-dragon-iss-cargo-mission-return-to-earth",
+      "score": 0.0,
+      "published_utc": "2026-11-20T11:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
