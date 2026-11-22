@@ -15659,6 +15659,14 @@
       "score": 0.0,
       "published_utc": "2026-11-21T11:00:00+00:00",
       "note": "not_today"
+    },
+    "068c795780ec2477d1b5564d": {
+      "ts": 1795381935,
+      "source": "NASA Breaking News",
+      "title": "65 Years of Human Spaceflight at NASA Johnson",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
+      "score": 4.0,
+      "published_utc": "2026-11-22T19:13:25+00:00"
     }
   },
   "digest_queue": [
@@ -17029,6 +17037,18 @@
       "day_brt": "2026-11-22",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1795361792
+    },
+    {
+      "fp": "068c795780ec2477d1b5564d",
+      "title": "65 Years of Human Spaceflight at NASA Johnson",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-22T19:13:25+00:00",
+      "day_brt": "2026-11-22",
+      "resumo_pt": "Resumo (PT-BR): 7 Min Read 65 Years of Human Spaceflight at NASA Johnson NASA astronaut Randy Bresnik, ESA (European Space Agency) astronaut Luca Parmitano, former NASA astronaut Russell “Rusty” Schweickart, and NASA astronauts Frank Rubio and Bob Hines appear onstage at the Artemis Celebration Gala at the Kennedy Space Center Visitor Complex in Merritt Island, Florida, on Nov. Credits: Purpose Entertainment/Shanna Lockwood John Uri Johnson Space Center Sumer Loggins Nov 22, 2026 Article Contents Mercury and Gemini: Preparing for Apollo Skylab and Apollo-Soyuz: Learning to Live and Work in Space The Space Shuttle: Setting the Stage for Long-Duration Spaceflight The Space Station: 26 Years of Continuous Human Presence Artemis and Moon Base: Building a Sustained Lunar Presence Employees and guests of NASA’s Johnson Space Center celebrate the center’s 65th anniversary at the Lunar Receiving Park in Houston on Nov.",
+      "queued_ts": 1795381938
     }
   ],
   "digests_sent": {
@@ -17846,7 +17866,8 @@
       "aabe201f696ab46a6c2b4495": true
     },
     "2026-11-22": {
-      "d7271f0494e43a4b276f45cc": true
+      "d7271f0494e43a4b276f45cc": true,
+      "068c795780ec2477d1b5564d": true
     }
   }
 }
