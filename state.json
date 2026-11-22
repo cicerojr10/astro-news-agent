@@ -15608,6 +15608,40 @@
       "score": 0.0,
       "published_utc": "2026-11-20T11:00:00+00:00",
       "note": "not_today"
+    },
+    "d7271f0494e43a4b276f45cc": {
+      "ts": 1795361789,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
+      "score": 4.0,
+      "published_utc": "2026-11-22T05:05:00+00:00"
+    },
+    "302c3cc2f150956f931a1aa3": {
+      "ts": 1795361790,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
+      "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+      "score": 0.0,
+      "published_utc": "2026-11-21T16:50:51+00:00",
+      "note": "not_today"
+    },
+    "d0620c6d5a9791e757f450b9": {
+      "ts": 1795361790,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches satellites for the U.S. Space Force’s data network constellation",
+      "link": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
+      "score": 0.0,
+      "published_utc": "2026-11-19T23:51:47+00:00",
+      "note": "not_today"
+    },
+    "a245b76dcf79d8a6eca0bf9b": {
+      "ts": 1795361791,
+      "source": "Space.com",
+      "title": "On this day in space! Nov.22, 1989: NASA launches space shuttle Discovery on classified STS-33 mission for the US military",
+      "link": "https://www.space.com/on-this-day-in-space-november-22-2026",
+      "score": 2.8,
+      "published_utc": "2026-11-22T14:18:35+00:00"
     }
   },
   "digest_queue": [
@@ -16966,6 +17000,18 @@
       "day_brt": "2026-11-19",
       "resumo_pt": "Resumo (PT-BR): Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch by Eleanor Day November 19, 2026 written by Eleanor Day November 19, 2026 5 Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis Space Center, Long Beach, and Cape Canaveral Space Force Station as the company works toward the rocket’s inaugural launch. Recent work includes a milestone second-stage hot-fire campaign in Mississippi, major structural and engine integration in California, and steady pad outfitting at Florida’s Launch Complex 16.",
       "queued_ts": 1795142267
+    },
+    {
+      "fp": "d7271f0494e43a4b276f45cc",
+      "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-22T05:05:00+00:00",
+      "day_brt": "2026-11-22",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1795361792
     }
   ],
   "digests_sent": {
@@ -17781,6 +17827,9 @@
     "2026-11-21": {
       "a89356b6f2e9b000df1cab41": true,
       "aabe201f696ab46a6c2b4495": true
+    },
+    "2026-11-22": {
+      "d7271f0494e43a4b276f45cc": true
     }
   }
 }
