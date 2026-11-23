@@ -15775,6 +15775,14 @@
       "score": 0.0,
       "published_utc": "2026-11-22T14:18:35+00:00",
       "note": "not_today"
+    },
+    "a4a1f29c0b7ee6a3fa6d1908": {
+      "ts": 1795472197,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: Arianespace to launch Amazon Leo sats amid rocket crunch",
+      "link": "https://spaceflightnow.com/2026/11/23/live-coverage-arianespaces-launches-amazon-leo-sats-amid-rocket-crunch/",
+      "score": 4.680000000000001,
+      "published_utc": "2026-11-23T22:14:49+00:00"
     }
   },
   "digest_queue": [
@@ -17193,6 +17201,18 @@
       "day_brt": "2026-11-23",
       "resumo_pt": "Resumo (PT-BR): Progress MS-36 set to launch to ISS from Baikonur by Justin Davenport November 23, 2026 written by Justin Davenport November 23, 2026 3 The fourth and final Progress cargo ship resupply mission to the International Space Station of 2026 is set to launch from the Baikonur Cosmodrome in Kazakhstan. The Soyuz 2.1b will place Progress MS-36 into the same orbital plane as ISS, and the Progress spacecraft will dock with the Poisk module on the Russian segment roughly 48 hours after launch.",
       "queued_ts": 1795470170
+    },
+    {
+      "fp": "a4a1f29c0b7ee6a3fa6d1908",
+      "title": "Live coverage: Arianespace to launch Amazon Leo sats amid rocket crunch",
+      "link": "https://spaceflightnow.com/2026/11/23/live-coverage-arianespaces-launches-amazon-leo-sats-amid-rocket-crunch/",
+      "source": "Spaceflight Now",
+      "score": 4.680000000000001,
+      "is_anomaly": false,
+      "published_utc": "2026-11-23T22:14:49+00:00",
+      "day_brt": "2026-11-23",
+      "resumo_pt": "Resumo (PT-BR): Ariane 6 Live coverage: Arianespace to launch Amazon Leo sats amid rocket crunch Will Robinson-Smith November 23, 2026 10:14 p.m. A batch of 36 Amazon Leo satellites encapsulated inside an Ariane 6 payload fairing are hoisted for integration ahead of the VA271/LE-04 mission launch.",
+      "queued_ts": 1795472199
     }
   ],
   "digests_sent": {
@@ -18022,7 +18042,8 @@
       "5f93af81bafde8693807b332": true,
       "9a1694f56b4a61fefb91c0ec": true,
       "640f9e4d01433db8802935a0": true,
-      "833665bb79fe6c80b4b7142e": true
+      "833665bb79fe6c80b4b7142e": true,
+      "a4a1f29c0b7ee6a3fa6d1908": true
     }
   }
 }
