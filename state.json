@@ -15709,6 +15709,72 @@
       "score": 0.0,
       "published_utc": "2026-11-22T16:05:33+00:00",
       "note": "not_today"
+    },
+    "9a1694f56b4a61fefb91c0ec": {
+      "ts": 1795470165,
+      "source": "NASA Breaking News",
+      "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
+      "link": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/",
+      "score": 4.0,
+      "published_utc": "2026-11-23T21:10:03+00:00"
+    },
+    "640f9e4d01433db8802935a0": {
+      "ts": 1795470165,
+      "source": "NASA Breaking News",
+      "title": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
+      "link": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/",
+      "score": 4.0,
+      "published_utc": "2026-11-23T16:08:23+00:00"
+    },
+    "833665bb79fe6c80b4b7142e": {
+      "ts": 1795470168,
+      "source": "NASASpaceflight",
+      "title": "Progress MS-36 set to launch to ISS from Baikonur",
+      "link": "https://www.nasaspaceflight.com/2026/11/progress-ms-36/",
+      "score": 3.6,
+      "published_utc": "2026-11-23T21:32:11+00:00"
+    },
+    "37ee07fed6c46075890c5f61": {
+      "ts": 1795470168,
+      "source": "Space.com",
+      "title": "Join our free Space.com membership giveaway for a chance to win this Dwarflab mini smart telescope worth $419!",
+      "link": "https://www.space.com/stargazing/skywatching-kit/join-our-free-space-com-membership-giveaway-for-a-chance-to-win-this-dwarflab-mini-smart-telescope-worth-usd419",
+      "score": 2.8,
+      "published_utc": "2026-11-23T21:21:13+00:00"
+    },
+    "1a85c544133c16355dbe5197": {
+      "ts": 1795470168,
+      "source": "Space.com",
+      "title": "On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space with its suborbital New Shepard rocket",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-23-2026",
+      "score": 2.8,
+      "published_utc": "2026-11-23T18:10:48+00:00"
+    },
+    "470a058cfb8a44647d4fbf3d": {
+      "ts": 1795470168,
+      "source": "Space.com",
+      "title": "Weird 'potato chips' and 'ghostly rocks' on Mars spotted by NASA rovers Curiosity and Perseverance",
+      "link": "https://www.space.com/astronomy/mars/weird-potato-chips-and-ghostly-rocks-on-mars-spotted-by-nasa-rovers-curiosity-and-perseverance",
+      "score": 2.8,
+      "published_utc": "2026-11-23T17:00:00+00:00"
+    },
+    "550fba85ed8c590112522621": {
+      "ts": 1795470168,
+      "source": "Space.com",
+      "title": "Ariane 6 rocket launching 36 Amazon Leo satellites to orbit on Nov. 24 after delay: Watch it live",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
+      "score": 0.0,
+      "published_utc": "2026-11-22T22:00:00+00:00",
+      "note": "not_today"
+    },
+    "d287f54c11a6074d1b105b28": {
+      "ts": 1795470168,
+      "source": "Space.com",
+      "title": "On this day in space! Nov.22, 1989: NASA launches space shuttle Discovery on classified STS-33 mission for the US military",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-22-2026",
+      "score": 0.0,
+      "published_utc": "2026-11-22T14:18:35+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -17091,6 +17157,42 @@
       "day_brt": "2026-11-23",
       "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Laser Focus at the Top of the... Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 4 min read Laser Focus at the Top of the World Image of the Day for November 23, 2026 A next-generation geodetic instrument developed by NASA, part of a network that helps measure satellites’ orbits and the planet’s shape, has debuted in Svalbard, Norway.",
       "queued_ts": 1795427347
+    },
+    {
+      "fp": "9a1694f56b4a61fefb91c0ec",
+      "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
+      "link": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-23T21:10:03+00:00",
+      "day_brt": "2026-11-23",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA Awards Contract for NOAA’s Near Earth Orbit Network Program Jessica Taveau Nov 23, 2026 CONTRACT RELEASE C26-017 NASA Headquarters Credit: NASA NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has awarded a contract to Northrop Grumman Systems Corporation for the Sounder for Microwave-Based Applications (SMBA) instruments on NOAA’s Near Earth Orbit Network (NEON) satellites. The cost-plus-fixed-fee, firm-fixed-price, and time-and-materials hybrid contract has a value of $290.6 million.",
+      "queued_ts": 1795470170
+    },
+    {
+      "fp": "640f9e4d01433db8802935a0",
+      "title": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
+      "link": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-23T16:08:23+00:00",
+      "day_brt": "2026-11-23",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space Jet Propulsion Laboratory Nov 23, 2026 Article The NASA+ original documentary “The Europa Concept” takes audiences along on the journey to send a spacecraft to Jupiter’s moon Europa to determine whether the ocean beneath the moon’s icy shell has the ingredients for life. Credit: NASA/JPL-Caltech NASA invites the world behind the scenes to witness the story of Europa Clipper’s journey from a far-off vision to a cutting-edge deep space exploration mission with the release of the agency’s newest documentary, “The Europa Concept.” The documentary will air on NASA+ , the NASA app, and the agency’s website starting Monday, Nov.",
+      "queued_ts": 1795470170
+    },
+    {
+      "fp": "833665bb79fe6c80b4b7142e",
+      "title": "Progress MS-36 set to launch to ISS from Baikonur",
+      "link": "https://www.nasaspaceflight.com/2026/11/progress-ms-36/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-11-23T21:32:11+00:00",
+      "day_brt": "2026-11-23",
+      "resumo_pt": "Resumo (PT-BR): Progress MS-36 set to launch to ISS from Baikonur by Justin Davenport November 23, 2026 written by Justin Davenport November 23, 2026 3 The fourth and final Progress cargo ship resupply mission to the International Space Station of 2026 is set to launch from the Baikonur Cosmodrome in Kazakhstan. The Soyuz 2.1b will place Progress MS-36 into the same orbital plane as ISS, and the Progress spacecraft will dock with the Poisk module on the Russian segment roughly 48 hours after launch.",
+      "queued_ts": 1795470170
     }
   ],
   "digests_sent": {
@@ -17917,7 +18019,10 @@
     },
     "2026-11-23": {
       "6a25e6f49e53c818208e4e90": true,
-      "5f93af81bafde8693807b332": true
+      "5f93af81bafde8693807b332": true,
+      "9a1694f56b4a61fefb91c0ec": true,
+      "640f9e4d01433db8802935a0": true,
+      "833665bb79fe6c80b4b7142e": true
     }
   }
 }
