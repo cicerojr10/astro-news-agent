@@ -15783,6 +15783,24 @@
       "link": "https://spaceflightnow.com/2026/11/23/live-coverage-arianespaces-launches-amazon-leo-sats-amid-rocket-crunch/",
       "score": 4.680000000000001,
       "published_utc": "2026-11-23T22:14:49+00:00"
+    },
+    "0da28bf7672e24a179fc8c67": {
+      "ts": 1795498337,
+      "source": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+      "link": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
+      "score": 0.0,
+      "published_utc": "2026-11-23T22:21:32+00:00",
+      "note": "not_today"
+    },
+    "3e4e854b4252d0f778c4dac5": {
+      "ts": 1795498338,
+      "source": "NASASpaceflight",
+      "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
+      "link": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
+      "score": 0.0,
+      "published_utc": "2026-11-23T23:28:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
