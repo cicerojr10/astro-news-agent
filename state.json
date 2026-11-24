@@ -15835,6 +15835,88 @@
       "score": 0.0,
       "published_utc": "2026-11-23T21:32:11+00:00",
       "note": "not_today"
+    },
+    "f246a22ddc159ff6b8ac1d16": {
+      "ts": 1795553667,
+      "source": "NASA Breaking News",
+      "title": "Amateur Astronomer? Be a Kilonova Catcher!",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/",
+      "score": 4.0,
+      "published_utc": "2026-11-24T19:19:52+00:00"
+    },
+    "a3adacc20f30d7c52447419f": {
+      "ts": 1795553667,
+      "source": "NASA Breaking News",
+      "title": "NASA’s Northrop Grumman CRS-25 Mission Overview",
+      "link": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/",
+      "score": 4.0,
+      "published_utc": "2026-11-24T19:09:16+00:00"
+    },
+    "285d7d4a50a1a8146988a762": {
+      "ts": 1795553667,
+      "source": "NASA Breaking News",
+      "title": "AGU Hyperwall Schedule",
+      "link": "https://science.nasa.gov/earth/agu-hyperwall-schedule/",
+      "score": 4.0,
+      "published_utc": "2026-11-24T18:55:42+00:00"
+    },
+    "8620062e69af439e9eb14ad3": {
+      "ts": 1795553667,
+      "source": "NASA Breaking News",
+      "title": "Webb Reveals New Details in Supernova Remnant",
+      "link": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/",
+      "score": 16.0,
+      "published_utc": "2026-11-24T16:51:27+00:00"
+    },
+    "13966d700dfcfb961ecb6521": {
+      "ts": 1795553669,
+      "source": "Spaceflight Now",
+      "title": "SpaceX launches classified payload for the U.S. Space Force",
+      "link": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
+      "score": 0.0,
+      "published_utc": "2026-11-23T22:21:32+00:00",
+      "note": "not_today"
+    },
+    "273383de41bd6c9ebb343bb2": {
+      "ts": 1795553670,
+      "source": "NASASpaceflight",
+      "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
+      "link": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
+      "score": 3.6,
+      "published_utc": "2026-11-24T20:38:54+00:00"
+    },
+    "c1f29a636c85b6337992cd0a": {
+      "ts": 1795553670,
+      "source": "NASASpaceflight",
+      "title": "Tiangong Space Station to welcome first international visitor",
+      "link": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
+      "score": 3.6,
+      "published_utc": "2026-11-24T16:26:52+00:00"
+    },
+    "39f7e8824c754f30142b15e6": {
+      "ts": 1795553670,
+      "source": "Space.com",
+      "title": "China launching 1st international astronaut to Tiangong space station today: Watch it live",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-24-first-international-astronaut-launch-tiangong-space-station",
+      "score": 2.8,
+      "published_utc": "2026-11-24T13:59:17+00:00"
+    },
+    "86cf12b09e9ebe9a5ea52d44": {
+      "ts": 1795553671,
+      "source": "Space.com",
+      "title": "Russia launches Progress 97 cargo ship to the International Space Station (video)",
+      "link": "https://www.space.com/space-exploration/international-space-station/russia-progress-97-cargo-launch-international-space-station",
+      "score": 2.8,
+      "published_utc": "2026-11-24T13:16:26+00:00"
+    },
+    "def7df32bb7059c6cefeb666": {
+      "ts": 1795553671,
+      "source": "Space.com",
+      "title": "Ariane 6 rocket successfully launches 36 Amazon Leo satellites into orbit after delay (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
+      "score": 0.0,
+      "published_utc": "2026-11-22T22:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -17289,6 +17371,78 @@
       "day_brt": "2026-11-24",
       "resumo_pt": "Resumo (PT-BR): Explore Hubble Hubble Home Overview About Hubble The History of Hubble Hubble Timeline Why Have a Telescope in Space? Hubble by the Numbers At the Museum FAQs Impact & Benefits Hubble's Impact & Benefits Science Impacts Cultural Impact Technology Benefits Impact on Human Spaceflight Astro Community Impacts Science Hubble Science Science Themes Science Highlights Science Behind Discoveries Universe Uncovered Hubble's Partners in Science Hubble & Citizen Science SI & Hubble Science Explore the Night Sky Observatory Hubble Observatory Hubble Design Mission Operations Science Operations Astronaut Missions to Hubble Hubble vs.",
       "queued_ts": 1795536968
+    },
+    {
+      "fp": "8620062e69af439e9eb14ad3",
+      "title": "Webb Reveals New Details in Supernova Remnant",
+      "link": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/",
+      "source": "NASA Breaking News",
+      "score": 16.0,
+      "is_anomaly": true,
+      "published_utc": "2026-11-24T16:51:27+00:00",
+      "day_brt": "2026-11-24",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Webb Reveals New Details in Supernova Remnant HQ Web Team Nov 24, 2026 Image Article NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A. The composition of its dust provides clues to the structure of Cassiopeia A’s original star.",
+      "queued_ts": 1795553672
+    },
+    {
+      "fp": "f246a22ddc159ff6b8ac1d16",
+      "title": "Amateur Astronomer? Be a Kilonova Catcher!",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-24T19:19:52+00:00",
+      "day_brt": "2026-11-24",
+      "resumo_pt": "Resumo (PT-BR): Explore This Section Science Citizen Science Amateur Astronomer? Overview Resources Opportunities Citizen Science Highlights About Science Activation 3 min read Amateur Astronomer?",
+      "queued_ts": 1795553672
+    },
+    {
+      "fp": "a3adacc20f30d7c52447419f",
+      "title": "NASA’s Northrop Grumman CRS-25 Mission Overview",
+      "link": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-24T19:09:16+00:00",
+      "day_brt": "2026-11-24",
+      "resumo_pt": "Resumo (PT-BR): 4 min read NASA’s Northrop Grumman CRS-25 Mission Overview Joseph Zakrzewski Nov 24, 2026 Article Contents Science highlights Cardinal Muscle 2.0 DNA NANO B ARES ENCAPSULATE-1 OHALO III Technology demonstration Mission hardware NASA’s Northrop Grumman Commercial Resupply Services 25 mission, or Northrop Grumman CRS-25, will deliver about 11,000 pounds of science and supplies to the International Space Station. The mission will be the third flight of the company’s Cygnus XL, the larger, more cargo-capable version of the company’s solar-powered spacecraft.",
+      "queued_ts": 1795553672
+    },
+    {
+      "fp": "285d7d4a50a1a8146988a762",
+      "title": "AGU Hyperwall Schedule",
+      "link": "https://science.nasa.gov/earth/agu-hyperwall-schedule/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-24T18:55:42+00:00",
+      "day_brt": "2026-11-24",
+      "resumo_pt": "Resumo (PT-BR): 1 min read AGU Hyperwall Schedule NASA Nov 24, 2026 Article American Geophysical Union (AGU) 2026 Join NASA in the Exhibit Hall (Booth # 525 ) for Hyperwall Storytelling by NASA experts. TUESDAY, NOVEMBER 17 10:30 AM High Resolution Hydrology Simulations and Agentic Super Intelligence Interfaces for Mapping Water Availability and Extremes Sujay Kumar 11:00 AM Scale-Resolving CFD Methods for Predicting Aircraft \"Edge of the Flight Envelope\" Performance Jared Duensing 11:30 PM Inside the 2025–26 Record El Niño: An Interactive Global Journey Bill Putman 1:00PM X-59 Simulations and Dragonfly Marian Nemec 1:30 PM Surya and SuryaV2 (Beyond 3 Million Tokens: A Multi-Model Foundation Model for Full-Resolution Heliophysics) Rohit Lal 2:00 PM Unsteady Aerodynamic and Acoustics Characterizations of Launch Vehicles Using LAVA Nguyen Ly 2:30 PM HPC‑Enabled Pathways to Certification for Next‑Generation Missions Aaron Brandis 3:00 PM NASA’s High-End Computing: Making the Impossible Possible Kevin Murphy 3:30 PM Modular Supercomputing Data Centers at NASA Chris Tanner 4:00 PM Supporting Human Spaceflight with the Flight Sciences Lab Jeff Triplett 4:30 PM A Wider State, Not Wider Arithmetic FP32 Speed with FP64 Accuracy for Scale-Resolving CFD on GPUs, with LAVA Cartesian Michael Barad 5:00 PM CFD Simulations and Aerodynamic Database Generation Supporting NASA's Artemis Program Aaron Burkhead 5:30 PM Super Intelligence for Science Matt McClure",
+      "queued_ts": 1795553672
+    },
+    {
+      "fp": "273383de41bd6c9ebb343bb2",
+      "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
+      "link": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-11-24T20:38:54+00:00",
+      "day_brt": "2026-11-24",
+      "resumo_pt": "Resumo (PT-BR): BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch by Haygen Warren November 24, 2026 written by Haygen Warren November 24, 2026 5 At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese Aerospace Exploration Agency’s (JAXA) BepiColombo mission, comprising a stack of two spacecraft built by the two agencies, fired its thrusters to insert itself into orbit around Mercury.",
+      "queued_ts": 1795553672
+    },
+    {
+      "fp": "c1f29a636c85b6337992cd0a",
+      "title": "Tiangong Space Station to welcome first international visitor",
+      "link": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-11-24T16:26:52+00:00",
+      "day_brt": "2026-11-24",
+      "resumo_pt": "Resumo (PT-BR): Tiangong Space Station to welcome first international visitor by Martin Smith November 24, 2026 written by Martin Smith November 24, 2026 29 China is preparing to launch the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space station. The mission is set to lift off from the Jiuquan Satellite Launch Center atop a Chang Zheng 2F/G no earlier than Nov.",
+      "queued_ts": 1795553672
     }
   ],
   "digests_sent": {
@@ -18101,7 +18255,10 @@
     },
     "2026-11-24": {
       "23ab6daebc50581932276e57": true,
-      "4798c5c30f71f4a94e2c31e1": true
+      "4798c5c30f71f4a94e2c31e1": true,
+      "8620062e69af439e9eb14ad3": true,
+      "f246a22ddc159ff6b8ac1d16": true,
+      "a3adacc20f30d7c52447419f": true
     }
   }
 }
