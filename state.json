@@ -15950,6 +15950,31 @@
       "score": 0.0,
       "published_utc": "2026-11-24T13:59:17+00:00",
       "note": "not_today"
+    },
+    "470add483f690caf990e4fca": {
+      "ts": 1795597913,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/",
+      "score": 4.0,
+      "published_utc": "2026-11-25T05:05:00+00:00"
+    },
+    "20c561ba532bd86ae9b100dd": {
+      "ts": 1795597913,
+      "source": "NASA Breaking News",
+      "title": "Georgia’s Pecan Belt",
+      "link": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/",
+      "score": 4.0,
+      "published_utc": "2026-11-25T05:00:00+00:00"
+    },
+    "931fb66f45e3213c855ad67b": {
+      "ts": 1795597915,
+      "source": "NASASpaceflight",
+      "title": "Tiangong Space Station welcomes first international visitor",
+      "link": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
+      "score": 0.0,
+      "published_utc": "2026-11-24T16:26:52+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -17380,6 +17405,30 @@
       "day_brt": "2026-11-23",
       "resumo_pt": "Resumo (PT-BR): Ariane 6 Live coverage: Arianespace to launch Amazon Leo sats amid rocket crunch Will Robinson-Smith November 23, 2026 10:14 p.m. A batch of 36 Amazon Leo satellites encapsulated inside an Ariane 6 payload fairing are hoisted for integration ahead of the VA271/LE-04 mission launch.",
       "queued_ts": 1795472199
+    },
+    {
+      "fp": "470add483f690caf990e4fca",
+      "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-25T05:05:00+00:00",
+      "day_brt": "2026-11-25",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1795597916
+    },
+    {
+      "fp": "20c561ba532bd86ae9b100dd",
+      "title": "Georgia’s Pecan Belt",
+      "link": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-25T05:00:00+00:00",
+      "day_brt": "2026-11-25",
+      "resumo_pt": "Resumo (PT-BR): Earth Observatory Science Earth Observatory Georgia’s Pecan Belt Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat & Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow & Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search 3 min read Georgia’s Pecan Belt Image of the Day for November 25, 2026 Since an early-1900s planting boom, orchards along the Flint River in southwest Georgia have become a center of U.S. NASA Earth Observatory Nov 25, 2026 Article View more Images of the Day: Nov 24, 2026 Instruments: Landsat 8 — OLI Topics: Agriculture Land Cover Land Use Pecan orchards share the landscape of southwest Georgia with fields of peanuts, cotton, and corn.",
+      "queued_ts": 1795597916
     }
   ],
   "digests_sent": {
@@ -18200,6 +18249,10 @@
       "f246a22ddc159ff6b8ac1d16": true,
       "a3adacc20f30d7c52447419f": true,
       "999cba1a8e5bea95d83cfbd4": true
+    },
+    "2026-11-25": {
+      "470add483f690caf990e4fca": true,
+      "20c561ba532bd86ae9b100dd": true
     }
   }
 }
