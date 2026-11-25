@@ -15941,6 +15941,15 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-24-2026",
       "score": 2.8,
       "published_utc": "2026-11-24T21:47:34+00:00"
+    },
+    "a5955296920b616a50e36da7": {
+      "ts": 1795583753,
+      "source": "Space.com",
+      "title": "China's Shenzhou-24 mission launches 1st international astronaut to Tiangong space station",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-24-first-international-astronaut-launch-tiangong-space-station",
+      "score": 0.0,
+      "published_utc": "2026-11-24T13:59:17+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
