@@ -16048,6 +16048,22 @@
       "link": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/",
       "score": 4.0,
       "published_utc": "2026-11-25T19:06:56+00:00"
+    },
+    "7f23fa3d428e22bc055325bf": {
+      "ts": 1795659207,
+      "source": "Spaceflight Now",
+      "title": "FCC green lights SpaceX’s plan to launch 1 million ‘Starmind’ data center satellites",
+      "link": "https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/",
+      "score": 3.6,
+      "published_utc": "2026-11-26T01:27:58+00:00"
+    },
+    "c970201854902410a1e84a12": {
+      "ts": 1795659208,
+      "source": "Space.com",
+      "title": "On this day in space! Nov. 25, 1970: NASA's 'wingless' M2-F3 'lifting body' aircraft makes its 1st powered flight ahead of supersonic tests",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-25-2026",
+      "score": 2.8,
+      "published_utc": "2026-11-25T21:22:27+00:00"
     }
   },
   "digest_queue": [
@@ -17550,6 +17566,18 @@
       "day_brt": "2026-11-25",
       "resumo_pt": "Resumo (PT-BR): 2 min read NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement Jennifer M. Dooren Nov 25, 2026 Article NASA’s Office of Small Business Programs (OSBP) hosted a ceremonial Mentor-Protégé Agreement signing between The Boeing Company and GRACE Aerospace on Oct.",
       "queued_ts": 1795637728
+    },
+    {
+      "fp": "7f23fa3d428e22bc055325bf",
+      "title": "FCC green lights SpaceX’s plan to launch 1 million ‘Starmind’ data center satellites",
+      "link": "https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/",
+      "source": "Spaceflight Now",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-11-26T01:27:58+00:00",
+      "day_brt": "2026-11-25",
+      "resumo_pt": "Resumo (PT-BR): FCC green lights SpaceX’s plan to launch 1 million ‘Starmind’ data center satellites Will Robinson-Smith November 26, 2026 1:27 a.m. An artist's rendering of SpaceX's Starmind spacecraft in orbit around the Earth.",
+      "queued_ts": 1795659209
     }
   ],
   "digests_sent": {
@@ -18377,7 +18405,8 @@
       "e128a1df3860b90784b41687": true,
       "ddb687614a74a984c519a788": true,
       "226fcbd60c766d7b07b2b37a": true,
-      "5a933c5bad029c60efe2d574": true
+      "5a933c5bad029c60efe2d574": true,
+      "7f23fa3d428e22bc055325bf": true
     }
   }
 }
