@@ -16064,6 +16064,14 @@
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-25-2026",
       "score": 2.8,
       "published_utc": "2026-11-25T21:22:27+00:00"
+    },
+    "a923dd9abec857a688c1d627": {
+      "ts": 1795690464,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/",
+      "score": 4.0,
+      "published_utc": "2026-11-26T05:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -17578,6 +17586,18 @@
       "day_brt": "2026-11-25",
       "resumo_pt": "Resumo (PT-BR): FCC green lights SpaceX’s plan to launch 1 million ‘Starmind’ data center satellites Will Robinson-Smith November 26, 2026 1:27 a.m. An artist's rendering of SpaceX's Starmind spacecraft in orbit around the Earth.",
       "queued_ts": 1795659209
+    },
+    {
+      "fp": "a923dd9abec857a688c1d627",
+      "title": "APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-26T05:05:00+00:00",
+      "day_brt": "2026-11-26",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1795690468
     }
   ],
   "digests_sent": {
@@ -18407,6 +18427,9 @@
       "226fcbd60c766d7b07b2b37a": true,
       "5a933c5bad029c60efe2d574": true,
       "7f23fa3d428e22bc055325bf": true
+    },
+    "2026-11-26": {
+      "a923dd9abec857a688c1d627": true
     }
   }
 }
