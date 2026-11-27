@@ -16088,6 +16088,14 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-sending-japanese-satellite-to-orbit-on-thanksgiving-day-launch-watch-it-live",
       "score": 2.8,
       "published_utc": "2026-11-26T16:00:00+00:00"
+    },
+    "39f26d8fd5f251c273b3a7fb": {
+      "ts": 1795746562,
+      "source": "NASASpaceflight",
+      "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
+      "link": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/",
+      "score": 3.6,
+      "published_utc": "2026-11-26T22:40:55+00:00"
     }
   },
   "digest_queue": [
@@ -17614,6 +17622,18 @@
       "day_brt": "2026-11-26",
       "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
       "queued_ts": 1795690468
+    },
+    {
+      "fp": "39f26d8fd5f251c273b3a7fb",
+      "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
+      "link": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-11-26T22:40:55+00:00",
+      "day_brt": "2026-11-26",
+      "resumo_pt": "Resumo (PT-BR): FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040 by Ryan Caton and Chris Bergin November 26, 2026 written by Ryan Caton and Chris Bergin November 26, 2026 1 The Federal Communications Commission has authorized SpaceX to deploy a constellation of up to 1 million Starmind satellites designed as orbital data centers for artificial intelligence computing. The order, released by the FCC’s Space Bureau on November 25, marks the first U.S.",
+      "queued_ts": 1795746563
     }
   ],
   "digests_sent": {
@@ -18445,7 +18465,8 @@
       "7f23fa3d428e22bc055325bf": true
     },
     "2026-11-26": {
-      "a923dd9abec857a688c1d627": true
+      "a923dd9abec857a688c1d627": true,
+      "39f26d8fd5f251c273b3a7fb": true
     }
   }
 }
