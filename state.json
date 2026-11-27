@@ -16096,6 +16096,22 @@
       "link": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/",
       "score": 3.6,
       "published_utc": "2026-11-26T22:40:55+00:00"
+    },
+    "c3d5e335dc08e14de4f4a72d": {
+      "ts": 1795777879,
+      "source": "NASA Breaking News",
+      "title": "Shivelyuch Socked In",
+      "link": "https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/",
+      "score": 4.0,
+      "published_utc": "2026-11-27T05:01:00+00:00"
+    },
+    "f1ee307e3e67dbe529e6d85c": {
+      "ts": 1795777882,
+      "source": "Space.com",
+      "title": "Astronomers watch a red giant star greedily devour a stellar 'Bao bun' before erupting: 'We couldn't quite believe our luck'",
+      "link": "https://www.space.com/astronomy/stars/astronomers-watch-a-red-giant-star-greedily-devour-a-stellar-bao-bun-before-erupting-we-couldnt-quite-believe-our-luck",
+      "score": 2.8,
+      "published_utc": "2026-11-27T11:00:00+00:00"
     }
   },
   "digest_queue": [
@@ -18400,6 +18416,9 @@
     },
     "2026-11-24": {
       "night": true
+    },
+    "2026-11-27": {
+      "morning": true
     }
   },
   "sent_updates": {
@@ -18467,6 +18486,9 @@
     "2026-11-26": {
       "a923dd9abec857a688c1d627": true,
       "39f26d8fd5f251c273b3a7fb": true
+    },
+    "2026-11-27": {
+      "c3d5e335dc08e14de4f4a72d": true
     }
   }
 }
