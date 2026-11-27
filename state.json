@@ -16112,6 +16112,47 @@
       "link": "https://www.space.com/astronomy/stars/astronomers-watch-a-red-giant-star-greedily-devour-a-stellar-bao-bun-before-erupting-we-couldnt-quite-believe-our-luck",
       "score": 2.8,
       "published_utc": "2026-11-27T11:00:00+00:00"
+    },
+    "4edce793dd252ae0eef94872": {
+      "ts": 1795808555,
+      "source": "NASA Breaking News",
+      "title": "Artemis III Astronaut Andre Douglas Visits VAB",
+      "link": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/",
+      "score": 4.0,
+      "published_utc": "2026-11-27T15:01:00+00:00"
+    },
+    "e9936fcfc0c17f34b1c71308": {
+      "ts": 1795808555,
+      "source": "NASA Breaking News",
+      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
+      "link": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
+      "score": 4.0,
+      "published_utc": "2026-11-27T14:22:00+00:00"
+    },
+    "1b9e202ab0a9098186c8f384": {
+      "ts": 1795808557,
+      "source": "NASASpaceflight",
+      "title": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut",
+      "link": "https://www.nasaspaceflight.com/2026/11/stoke-nova-booster-slc-14-2027-debut/",
+      "score": 3.6,
+      "published_utc": "2026-11-27T14:52:40+00:00"
+    },
+    "ae6035df9ed4e1ea3fa6f05d": {
+      "ts": 1795808557,
+      "source": "Space.com",
+      "title": "Dropping missiles from orbit? 2 European companies sign agreement to study the idea",
+      "link": "https://www.space.com/technology/dropping-missiles-from-orbit-2-european-companies-sign-agreement-to-study-the-idea",
+      "score": 2.8,
+      "published_utc": "2026-11-27T19:00:00+00:00"
+    },
+    "007a492c90ed7bea00589c05": {
+      "ts": 1795808557,
+      "source": "Space.com",
+      "title": "Rocket Lab launches Japanese satellite into orbit in record-setting Thanksgiving Day liftoff (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-sending-japanese-satellite-to-orbit-on-thanksgiving-day-launch-watch-it-live",
+      "score": 0.0,
+      "published_utc": "2026-11-26T16:00:00+00:00",
+      "note": "not_today"
     }
   },
   "digest_queue": [
@@ -17650,6 +17691,42 @@
       "day_brt": "2026-11-26",
       "resumo_pt": "Resumo (PT-BR): FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040 by Ryan Caton and Chris Bergin November 26, 2026 written by Ryan Caton and Chris Bergin November 26, 2026 1 The Federal Communications Commission has authorized SpaceX to deploy a constellation of up to 1 million Starmind satellites designed as orbital data centers for artificial intelligence computing. The order, released by the FCC’s Space Bureau on November 25, marks the first U.S.",
       "queued_ts": 1795746563
+    },
+    {
+      "fp": "4edce793dd252ae0eef94872",
+      "title": "Artemis III Astronaut Andre Douglas Visits VAB",
+      "link": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-27T15:01:00+00:00",
+      "day_brt": "2026-11-27",
+      "resumo_pt": "Resumo (PT-BR): 1 min read Artemis III Astronaut Andre Douglas Visits VAB HQ Web Team Nov 27, 2026 Image Article NASA/Kim Shiflett NASA astronaut Andre Douglas, Artemis III mission specialist, stands inside an RS-25 engine test article during a visit to the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Tuesday, Nov. During Artemis III, four RS-25 engines will power the SLS (Space Launch System) rocket core stage to send the Orion spacecraft to conduct critical rendezvous and docking tests with lunar lander systems in low Earth orbit, advancing the capabilities needed before astronauts return to the lunar surface on Artemis IV.",
+      "queued_ts": 1795808559
+    },
+    {
+      "fp": "e9936fcfc0c17f34b1c71308",
+      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
+      "link": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-27T14:22:00+00:00",
+      "day_brt": "2026-11-27",
+      "resumo_pt": "Resumo (PT-BR): 2 min read NASA’s NG-25 Mission to Launch Pioneering Space Crops Research NASA Science Editorial Team Nov 27, 2026 Article Contents Groundbreaking space crops Tiny brain models aboard station Experiments in the Ohalo III facility (pictured above) aim to validate plant-water delivery, optimize volume, and advance crop-production research. These insights could inform the design of plant production systems for future deep-space missions.",
+      "queued_ts": 1795808559
+    },
+    {
+      "fp": "1b9e202ab0a9098186c8f384",
+      "title": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut",
+      "link": "https://www.nasaspaceflight.com/2026/11/stoke-nova-booster-slc-14-2027-debut/",
+      "source": "NASASpaceflight",
+      "score": 3.6,
+      "is_anomaly": false,
+      "published_utc": "2026-11-27T14:52:40+00:00",
+      "day_brt": "2026-11-27",
+      "resumo_pt": "Resumo (PT-BR): Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut by Eleanor Day November 27, 2026 written by Eleanor Day November 27, 2026 1 Stoke Space’s Nova Pathfinder is moving toward an early 2027 inaugural launch following the arrival of its first stage at Space Launch Complex 14 (SLC-14) at Cape Canaveral Space Force Station on Nov. Following a 17-day cross-country road trip from Washington, the booster has entered SLC-14’s Horizontal Integration Facility (HIF) ahead of a pad-in-the-loop wet dress rehearsal campaign.",
+      "queued_ts": 1795808559
     }
   ],
   "digests_sent": {
@@ -18488,7 +18565,10 @@
       "39f26d8fd5f251c273b3a7fb": true
     },
     "2026-11-27": {
-      "c3d5e335dc08e14de4f4a72d": true
+      "c3d5e335dc08e14de4f4a72d": true,
+      "4edce793dd252ae0eef94872": true,
+      "e9936fcfc0c17f34b1c71308": true,
+      "1b9e202ab0a9098186c8f384": true
     }
   }
 }
