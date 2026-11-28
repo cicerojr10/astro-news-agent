@@ -16153,6 +16153,14 @@
       "score": 0.0,
       "published_utc": "2026-11-26T16:00:00+00:00",
       "note": "not_today"
+    },
+    "7505bd73abe11b290135850d": {
+      "ts": 1795862366,
+      "source": "NASA Breaking News",
+      "title": "APOD: 2026 November 28 – Apollo 17 VIP Site Anaglyph",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-28-apollo-17-vip-site-anaglyph/",
+      "score": 4.0,
+      "published_utc": "2026-11-28T05:05:00+00:00"
     }
   },
   "digest_queue": [
@@ -17727,6 +17735,18 @@
       "day_brt": "2026-11-27",
       "resumo_pt": "Resumo (PT-BR): Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut by Eleanor Day November 27, 2026 written by Eleanor Day November 27, 2026 1 Stoke Space’s Nova Pathfinder is moving toward an early 2027 inaugural launch following the arrival of its first stage at Space Launch Complex 14 (SLC-14) at Cape Canaveral Space Force Station on Nov. Following a 17-day cross-country road trip from Washington, the booster has entered SLC-14’s Horizontal Integration Facility (HIF) ahead of a pad-in-the-loop wet dress rehearsal campaign.",
       "queued_ts": 1795808559
+    },
+    {
+      "fp": "7505bd73abe11b290135850d",
+      "title": "APOD: 2026 November 28 – Apollo 17 VIP Site Anaglyph",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-28-apollo-17-vip-site-anaglyph/",
+      "source": "NASA Breaking News",
+      "score": 4.0,
+      "is_anomaly": false,
+      "published_utc": "2026-11-28T05:05:00+00:00",
+      "day_brt": "2026-11-28",
+      "resumo_pt": "Resumo (PT-BR): Today's APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "queued_ts": 1795862369
     }
   ],
   "digests_sent": {
@@ -18499,37 +18519,6 @@
     }
   },
   "sent_updates": {
-    "2026-11-18": {
-      "1a94454aab6eb1e5575299ff": true,
-      "28c04cac24f023386931afc3": true,
-      "5aa730f5959c06e8fff193cd": true,
-      "dc7bdc975a56d44efe5a113e": true,
-      "4fb5e4a8abcdb01baf56a69b": true,
-      "ff407cbb87ed8f1e9d63e754": true,
-      "771b0b139eb4e7eb6863f0ce": true,
-      "7146a0d625276cbf5193dd1e": true
-    },
-    "2026-11-19": {
-      "fda5797397b95894b8783cf9": true,
-      "3db30435fe7a1d488b6d0b64": true,
-      "1d49112f0f4f582dae26e425": true,
-      "69cddafa46753ad59140700d": true,
-      "c2dfed68b144de088634983e": true,
-      "dee0d4a3e87666ddadf338d4": true,
-      "80e73f69579c002cfa5b7284": true,
-      "f8a75f169bf035958070a774": true
-    },
-    "2026-11-20": {
-      "49dc1e06ccb059e523f5b129": true,
-      "585ab00253e3ef1fe6458c07": true,
-      "7e781eed5c5a7af997c3b90c": true,
-      "38c4ed5f43e90745fdfc46e6": true,
-      "8977767d32384f7bb9feacfb": true
-    },
-    "2026-11-21": {
-      "a89356b6f2e9b000df1cab41": true,
-      "aabe201f696ab46a6c2b4495": true
-    },
     "2026-11-22": {
       "d7271f0494e43a4b276f45cc": true,
       "068c795780ec2477d1b5564d": true,
@@ -18569,6 +18558,9 @@
       "4edce793dd252ae0eef94872": true,
       "e9936fcfc0c17f34b1c71308": true,
       "1b9e202ab0a9098186c8f384": true
+    },
+    "2026-11-28": {
+      "7505bd73abe11b290135850d": true
     }
   }
 }
